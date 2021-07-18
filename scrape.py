@@ -87,14 +87,11 @@ def create_episode(api_episode):
 def main():
     api_data = requests.get(BASE_URL + "/json").json()
 
-    episodes = []
-
     # Remove any outputs from a previous run
     try:
         shutil.rmtree(OUTPUT_DIR)
     except:
         pass
-
     os.mkdir(OUTPUT_DIR)
 
     # Run over multiple threads
