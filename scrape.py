@@ -32,6 +32,7 @@ def create_episode(api_episode):
     # RANT: What kind of API doesn't give the episode number?!
     episode_number = int(api_episode["url"].split("/")[-1])
     episode_number_padded = f"{episode_number:03}"
+    output_file = f"{OUTPUT_DIR}/episode-{episode_number_padded}.md"
 
     api_soup = BeautifulSoup(api_episode["content_html"], "html.parser")
 
@@ -81,7 +82,7 @@ def create_episode(api_episode):
         }
     )
 
-    with open(f"{OUTPUT_DIR}/episode-{episode_number}.md", "w") as f:
+    with open(output_file, "w") as f:
         f.write(output)
 
 
