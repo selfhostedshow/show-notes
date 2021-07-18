@@ -1,6 +1,7 @@
 import concurrent.futures
 import os
 import shutil
+import re
 
 import requests
 from bs4 import BeautifulSoup
@@ -35,7 +36,7 @@ def fix_potential_links(entry):
         return f"{entry}"
 
 def format_list_of_potential_links(list):
-    return ["- " + "".join([fix_potential_links(l) for l in r.contents]) for r in list]
+    return ["- " + re.sub(r'[\r\n]+', '', "".join([fix_potential_links(l) for l in r.contents])) for r in list]
 
 def create_episode(api_episode, base_url, output_dir):
     # RANT: What kind of API doesn't give the episode number?!
