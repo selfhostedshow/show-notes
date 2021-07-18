@@ -19,8 +19,10 @@ theme:
     code: Jet Brains Mono
   features:
     - navigation.instant
+    - navigation.top
     #- navigation.sections # prevents collapsible sections
     - navigation.expand #expands sections by default
+    - toc.integrate
   # insiders only
   #   - search.suggest
 
