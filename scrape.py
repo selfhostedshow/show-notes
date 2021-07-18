@@ -31,6 +31,7 @@ def get_duration(seconds):
 def create_episode(api_episode):
     # RANT: What kind of API doesn't give the episode number?!
     episode_number = int(api_episode["url"].split("/")[-1])
+    episode_number_padded = f"{episode_number:03}"
 
     api_soup = BeautifulSoup(api_episode["content_html"], "html.parser")
 
@@ -66,7 +67,7 @@ def create_episode(api_episode):
             "title": api_episode["title"],
             "title_plain": api_episode["title"].split(":", 1)[-1].strip(),
             "episode_number": episode_number,
-            "episode_number_padded": f"{episode_number:03}",
+            "episode_number_padded": episode_number_padded,
             "url": api_episode["url"],
             "audio": show_attachment["url"],
             "duration": get_duration(int(show_attachment['duration_in_seconds'])),
