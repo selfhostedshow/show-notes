@@ -1,3 +1,4 @@
+import concurrent.futures
 import os
 import shutil
 
@@ -27,24 +28,9 @@ def get_duration(seconds):
     return f"{minutes} mins {seconds} secs"
 
 
-api_data = requests.get(BASE_URL + "/json").json()
-
-episodes = []
-
-# Remove any outputs from a previous run
-try:
-    shutil.rmtree(OUTPUT_DIR)
-except:
-    pass
-
-os.mkdir(OUTPUT_DIR)
-
-# Do the stuff
-for api_episode in api_data["items"]:
+def create_episode(api_episode):
     # RANT: What kind of API doesn't give the episode number?!
     episode_number = int(api_episode["url"].split("/")[-1])
-
-    print(episode_number, end="\r")
 
     api_soup = BeautifulSoup(api_episode["content_html"], "html.parser")
 
@@ -96,3 +82,26 @@ for api_episode in api_data["items"]:
 
     with open(f"{OUTPUT_DIR}/episode-{episode_number}.md", "w") as f:
         f.write(output)
+
+
+def main():
+    api_data = requests.get(BASE_URL + "/json").json()
+
+    episodes = []
+
+    # Remove any outputs from a previous run
+    try:
+        shutil.rmtree(OUTPUT_DIR)
+    except:
+        pass
+
+    os.mkdir(OUTPUT_DIR)
+
+    # Run over multiple threads
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        for api_episode in api_data["items"]:
+            executor.submit(create_episode, api_episode)
+
+
+if __name__ == "__main__":
+    main()
