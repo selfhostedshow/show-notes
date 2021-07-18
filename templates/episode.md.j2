@@ -18,15 +18,17 @@ blurb
 
 ## Episode links
 
-* link1
-* link2
+{% for link in desc_links %}
+* {{ link }}
+{%- endfor %}
 
 ## Your hosts
-
-* Host1
-* Host2
+{% for host in hosts %}
+* [{{ host.title }}](https://selfhosted.show/{{ host.link }})
+{%- endfor %}
 
 ## Tags
 
-* tag1
-* tag2
+{% for tag in tags %}
+* [{{ tag.text }}]({{ tag.link }}) 
+{%- endfor %}
