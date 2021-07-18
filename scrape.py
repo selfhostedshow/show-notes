@@ -83,7 +83,7 @@ for api_episode in api_data["items"]:
             "hosts": hosts,
             "tags": tags,
             "player_embed": player_embed,
-            "date_published": api_episode["date_published"],
+            "date_published": api_episode["date_published"].split("T", 1)[0],  # Date parsing? What's that?
         }
     )
 
