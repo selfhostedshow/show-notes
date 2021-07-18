@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from jinja2 import Template
 
 episode_numbers = list(range(0, 1))
 hosts = {"Title":[],"Link":[]}
