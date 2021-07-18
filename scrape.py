@@ -28,6 +28,14 @@ def get_duration(seconds):
     minutes, seconds = divmod(seconds, 60)
     return f"{minutes} mins {seconds} secs"
 
+def fix_potential_links(entry):
+    try:
+        return f"[{entry.next_element}]({entry.get('href')})" if entry.has_attr('href') else f"{entry}"
+    except:
+        return f"{entry}"
+
+def format_list_of_potential_links(list):
+    return ["- " + "".join([fix_potential_links(l) for l in r.contents]) for r in list]
 
 def create_episode(api_episode, base_url, output_dir):
     # RANT: What kind of API doesn't give the episode number?!
@@ -43,8 +51,9 @@ def create_episode(api_episode, base_url, output_dir):
 
     blurb = api_episode["summary"]
 
-    sponsors = get_list(api_soup, "Sponsored By:")
-    links = get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:")
+    sponsors = format_list_of_potential_links(get_list(api_soup, "Sponsored By:"))
+
+    links = format_list_of_potential_links(get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:"))
 
     page_soup = BeautifulSoup(requests.get(api_episode["url"]).content, "html.parser")
 
@@ -78,8 +87,8 @@ def create_episode(api_episode, base_url, output_dir):
             "audio": show_attachment["url"],
             "duration": get_duration(int(show_attachment['duration_in_seconds'])),
             "blurb": blurb,
-            "sponsors": sponsors,
-            "links": links,
+            "sponsors": "\n".join(sponsors),
+            "links": "\n".join(links),
             "hosts": hosts,
             "tags": tags,
             "player_embed": player_embed,
