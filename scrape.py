@@ -103,15 +103,24 @@ def main():
     with concurrent.futures.ThreadPoolExecutor() as executor:
         for show in shows:
             output_dir = f"{OUTPUT_DIR}/{show['show_name']}"
+
+            try:
+                os.mkdir(output_dir)
+            except FileNotFoundError:
+                pass
+
             docs_dir = f"shows/{show['show_name']}"
             mkdocs_config = f"shows/{show['show_name']}.yml"
             docs_output_dir = output_dir + "/docs"
 
+            try:
+                os.mkdir(docs_output_dir)
+            except FileNotFoundError:
+                pass
+
             api_data = requests.get(show['fireside_url'] + "/json").json()
             for api_episode in api_data["items"]:
-                executor.submit(create_episode, api_episode, docs_output_dir, output_dir)
-
-            shutil.copytree(docs_dir, output_dir + "/docs", dirs_exist_ok=True)
+                executor.submit(create_episode, api_episode, show['fireside_url'], docs_output_dir)
 
             try:
                 os.remove(output_dir + "/mkdocs.yml")
