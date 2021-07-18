@@ -91,15 +91,6 @@ def create_episode(api_episode, base_url, output_dir):
         f.write(output)
 
 
-def scrape_show(base_url, output_dir):
-    api_data = requests.get(base_url + "/json").json()
-
-    # Run over multiple threads
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        for api_episode in api_data["items"]:
-            executor.submit(create_episode, api_episode, base_url, output_dir)
-
-
 def main():
     with open("shows.yml") as f:
         shows = YAML().load(f)
@@ -109,20 +100,24 @@ def main():
     except:
         pass
 
-    for show in shows:
-        print("Scraping", show['show_name'])
-        output_dir = f"{OUTPUT_DIR}/{show['show_name']}"
-        docs_dir = f"shows/{show['show_name']}"
-        mkdocs_config = f"shows/{show['show_name']}.yml"
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        for show in shows:
+            output_dir = f"{OUTPUT_DIR}/{show['show_name']}"
+            docs_dir = f"shows/{show['show_name']}"
+            mkdocs_config = f"shows/{show['show_name']}.yml"
+            docs_output_dir = output_dir + "/docs"
 
-        scrape_show(show['fireside_url'], output_dir + "/docs")
-        shutil.copytree(docs_dir, output_dir + "/docs", dirs_exist_ok=True)
+            api_data = requests.get(show['fireside_url'] + "/json").json()
+            for api_episode in api_data["items"]:
+                executor.submit(create_episode, api_episode, docs_output_dir, output_dir)
 
-        try:
-            os.remove(output_dir + "/mkdocs.yml")
-        except FileNotFoundError:
-            pass
-        shutil.copy2(mkdocs_config, output_dir + "/mkdocs.yml")
+            shutil.copytree(docs_dir, output_dir + "/docs", dirs_exist_ok=True)
+
+            try:
+                os.remove(output_dir + "/mkdocs.yml")
+            except FileNotFoundError:
+                pass
+            shutil.copy2(mkdocs_config, output_dir + "/mkdocs.yml")
 
 
 if __name__ == "__main__":
