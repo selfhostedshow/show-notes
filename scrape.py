@@ -80,7 +80,7 @@ for api_episode in api_data["items"]:
             "title": api_episode["title"],
             "title_plain": api_episode["title"].split(":", 1)[-1].strip(),
             "episode_number": episode_number,
-            "episode_number_padded": f"{episode_number:04}",
+            "episode_number_padded": f"{episode_number:03}",
             "url": api_episode["url"],
             "audio": show_attachment["url"],
             "duration": get_duration(int(show_attachment['duration_in_seconds'])),
