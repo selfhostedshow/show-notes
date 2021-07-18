@@ -50,8 +50,8 @@ for api_episode in api_data["items"]:
 
     blurb = api_episode["summary"]
 
-    sponsors = get_list(api_soup, "Sponsored By")
-    links = get_list(api_soup, "Links") or get_list(api_soup, "Episode Links")
+    sponsors = get_list(api_soup, "Sponsored By:")
+    links = get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:")
 
     page_soup = BeautifulSoup(requests.get(api_episode["url"]).content, "html.parser")
 
