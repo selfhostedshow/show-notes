@@ -31,6 +31,12 @@ def get_duration(seconds):
 def create_episode(api_episode):
     # RANT: What kind of API doesn't give the episode number?!
     episode_number = int(api_episode["url"].split("/")[-1])
+    episode_number_padded = f"{episode_number:03}"
+    output_file = f"{OUTPUT_DIR}/episode-{episode_number_padded}.md"
+
+    if os.path.isfile(output_file):
+        print(f"Skipping {episode_number}", end="\n")
+        return
 
     api_soup = BeautifulSoup(api_episode["content_html"], "html.parser")
 
@@ -66,7 +72,7 @@ def create_episode(api_episode):
             "title": api_episode["title"],
             "title_plain": api_episode["title"].split(":", 1)[-1].strip(),
             "episode_number": episode_number,
-            "episode_number_padded": f"{episode_number:03}",
+            "episode_number_padded": episode_number_padded,
             "url": api_episode["url"],
             "audio": show_attachment["url"],
             "duration": get_duration(int(show_attachment['duration_in_seconds'])),
@@ -80,19 +86,17 @@ def create_episode(api_episode):
         }
     )
 
-    with open(f"{OUTPUT_DIR}/episode-{episode_number}.md", "w") as f:
+    with open(output_file, "w") as f:
         f.write(output)
 
 
 def main():
     api_data = requests.get(BASE_URL + "/json").json()
 
-    # Remove any outputs from a previous run
     try:
-        shutil.rmtree(OUTPUT_DIR)
+        os.mkdir(OUTPUT_DIR)
     except:
         pass
-    os.mkdir(OUTPUT_DIR)
 
     # Run over multiple threads
     with concurrent.futures.ThreadPoolExecutor() as executor:
