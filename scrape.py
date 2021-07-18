@@ -22,6 +22,11 @@ def get_list(soup, pre_title):
     return pre_element.find_next_sibling("ul")
 
 
+def get_duration(seconds):
+    minutes, seconds = divmod(seconds, 60)
+    return f"{minutes} mins {seconds} secs"
+
+
 api_data = requests.get(BASE_URL + "/json").json()
 
 episodes = []
@@ -76,7 +81,7 @@ for api_episode in api_data["items"]:
             "episode_number": episode_number,
             "url": api_episode["url"],
             "audio": show_attachment["url"],
-            "duration": show_attachment["duration_in_seconds"],
+            "duration": get_duration(int(show_attachment['duration_in_seconds'])),
             "blurb": blurb,
             "sponsors": sponsors,
             "links": links,
