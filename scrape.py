@@ -16,7 +16,7 @@ def get_list(soup, pre_title):
     """
     Blocks of links are preceded by a `p` saying what it is.
     """
-    pre_element = soup.find("p", string="Sponsored By:")
+    pre_element = soup.find("p", string=pre_title)
     if pre_element is None:
         return None
     return pre_element.find_next_sibling("ul")
