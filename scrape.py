@@ -34,6 +34,10 @@ def create_episode(api_episode):
     episode_number_padded = f"{episode_number:03}"
     output_file = f"{OUTPUT_DIR}/episode-{episode_number_padded}.md"
 
+    if os.path.isfile(output_file):
+        print(f"Skipping {episode_number}", end="\n")
+        return
+
     api_soup = BeautifulSoup(api_episode["content_html"], "html.parser")
 
     blurb = api_episode["summary"]
