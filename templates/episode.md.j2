@@ -1,33 +1,30 @@
-# Episode {{ episode_number }}
+# {{ title }}
 
-Embedded episode player
+{{ player_embed }}
 
-* Air Date
-* Duration
+* Air Date: {{ date_published }}
+* Duration: {{ duration }} seconds
 
 ## About this episode
 
-blurb
+{{ blurb }}
 
 ## Sponsored by
 
-* selfhosted.show/sre
-* sponsor1
-* sponsor2
+{{ sponsors }}
 
 ## Episode links
 
-{% for link in desc_links %}
-* {{ link }}
-{%- endfor %}
+{{ links }}
 
 ## Your hosts
+
 {% for host in hosts %}
-* [{{ host.title }}]({{ host.link }})
+* [{{ host.name }}]({{ host.link }})
 {%- endfor %}
 
 ## Tags
 
 {% for tag in tags %}
-* [{{ tag.text }}]({{ tag.link }}) 
+* [{{ tag.text }}]({{ tag.link }})
 {%- endfor %}

@@ -1,82 +1,91 @@
+import os
+import shutil
+
 import requests
 from bs4 import BeautifulSoup
 from jinja2 import Template
-import shutil
-import os
-
-episode_numbers = list(range(0, 1))
-hosts = []
-tags = []
-desc_links = []
 
 BASE_URL = "https://selfhosted.show"
+OUTPUT_DIR = "output"
+
+with open("templates/episode.md.j2") as f:
+    TEMPLATE = Template(f.read())
+
+
+def get_list(soup, pre_title):
+    """
+    Blocks of links are preceded by a `p` saying what it is.
+    """
+    pre_element = soup.find("p", string="Sponsored By:")
+    if pre_element is None:
+        return None
+    return pre_element.find_next_sibling("ul")
+
 
 api_data = requests.get(BASE_URL + "/json").json()
 
-for episode in api_data['items']:
-    episode_number = api_data['']
+episodes = []
 
-for episode in episode_numbers:
-    realepnumber = episode+1
+# Remove any outputs from a previous run
+try:
+    shutil.rmtree(OUTPUT_DIR)
+except:
+    pass
 
-    # read in show notes for each episode
-    page = requests.get(f"{BASE_URL}/{realepnumber}")
-    soup = BeautifulSoup(page.content, 'html.parser')
+os.mkdir(OUTPUT_DIR)
 
-    # scrape episode tags
-    for link in soup.find_all("a", class_="tag"):
-        tags.append({
-            "link": BASE_URL + link.get('href'),
-            "text": link.get_text().strip()
-        })
-        
+# Do the stuff
+for api_episode in api_data["items"]:
+    # RANT: What kind of API doesn't give the episode number?!
+    episode_number = int(api_episode["url"].split("/")[-1])
 
-    # scrape hosts
-    for host in soup.find_all("ul", class_="episode-hosts"):
+    print(episode_number, end="\r")
+
+    api_soup = BeautifulSoup(api_episode["content_html"], "html.parser")
+
+    blurb = api_episode["summary"]
+
+    sponsors = get_list(api_soup, "Sponsored By")
+    links = get_list(api_soup, "Links") or get_list(api_soup, "Episode Links")
+
+    page_soup = BeautifulSoup(requests.get(api_episode["url"]).content, "html.parser")
+
+    tags = []
+    for link in page_soup.find_all("a", class_="tag"):
+        tags.append(
+            {"link": BASE_URL + link.get("href"), "text": link.get_text().strip()}
+        )
+
+    hosts = []
+    for host in page_soup.find_all("ul", class_="episode-hosts"):
         for link in host.find_all("a"):
-            hosts.append({
-                "title": link.get('title'),
-                "link": BASE_URL + link.get('href')
-            })
+            hosts.append(
+                {"name": link.get("title"), "link": BASE_URL + link.get("href")}
+            )
 
-    # scrape about this episode description
-    for item in soup.find_all("div", class_="split-primary prose"):
-        # grab episode description blurb
-        for p in item.p:
-            #print(p)
-            description = p
-        # grab episode links
-        for linkblock in item.find_all("ul"):
-            for link in item.find_all("li"):
-                desc_links.append(link)
-
-    # grab episode stats
-    #for stat in soup.find_all("div", class_="column"):
-        #print(stat.p)
-
-    # scrape episode metadata (air date, runtime, etc)
-
-
-    template = Template(open('templates/episode.md.j2').read())
-    output = template.render({
-        "episode_number": realepnumber,
-        "desc_links": desc_links, 
-        "tags": tags, 
-        "hosts": hosts
-        })
-
-    # Remove any outputs from a previous run
     try:
-        shutil.rmtree("output")
-        os.mkdir("output")
+        player_embed = page_soup.find("input", class_="copy-share-embed").get("value")
     except:
-        pass
+        player_embed = None
 
-    with open('output/episode%s.md' % realepnumber, 'w') as f:
+    show_attachment = api_episode["attachments"][0]
+
+    output = TEMPLATE.render(
+        {
+            "title": api_episode["title"],
+            "episode_number": episode_number,
+            "url": api_episode["url"],
+            "audio": show_attachment["url"],
+            "duration": show_attachment["duration_in_seconds"],
+            "blurb": blurb,
+            "sponsors": sponsors,
+            "links": links,
+            "hosts": hosts,
+            "tags": tags,
+            "player_embed": player_embed,
+            "date_published": api_episode["date_published"],
+        }
+    )
+
+    with open(f"{OUTPUT_DIR}/episode-{episode_number}.md", "w") as f:
         f.write(output)
-
-#print(tags)
-#print(hosts)
-#print(description)
-#print(desc_links)
-
