@@ -1,8 +1,7 @@
-# Episode Title
+# Episode {{ episode_number }}
 
 Embedded episode player
 
-* Episode Number
 * Air Date
 * Duration
 
@@ -24,7 +23,7 @@ blurb
 
 ## Your hosts
 {% for host in hosts %}
-* [{{ host.title }}](https://selfhosted.show/{{ host.link }})
+* [{{ host.title }}]({{ host.link }})
 {%- endfor %}
 
 ## Tags

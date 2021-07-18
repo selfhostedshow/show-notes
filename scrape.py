@@ -58,7 +58,12 @@ for episode in episode_numbers:
 
 
     template = Template(open('templates/episode.md.j2').read())
-    output = template.render({"desc_links": desc_links, "tags": tags, "hosts": hosts})
+    output = template.render({
+        "episode_number": realepnumber,
+        "desc_links": desc_links, 
+        "tags": tags, 
+        "hosts": hosts
+        })
 
     # Remove any outputs from a previous run
     try:
