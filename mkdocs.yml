@@ -12,7 +12,7 @@ theme:
     repo: fontawesome/brands/github
     logo: fontawesome/regular/folder-open
   palette:
-    primary: blue
+    primary: orange
     accent: teal
     scheme: default
   font:
@@ -20,7 +20,7 @@ theme:
   features:
     - navigation.instant
     #- navigation.sections # prevents collapsible sections
-    #- navigation.expand #expands sections by default
+    - navigation.expand #expands sections by default
   # insiders only
   #   - search.suggest
 
