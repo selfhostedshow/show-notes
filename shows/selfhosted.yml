@@ -1,4 +1,5 @@
 site_name: Self-Hosted - Show Notes
+site_url: https://notes.selfhosted.show
 repo_url: https://github.com/selfhostedshow/show-notes
 repo_name: selfhostedshow/show-notes
 edit_uri: edit/main/docs/
