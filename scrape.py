@@ -2,6 +2,7 @@ import concurrent.futures
 import os
 import shutil
 import re
+import html2text
 
 import requests
 from bs4 import BeautifulSoup
@@ -29,14 +30,8 @@ def get_duration(seconds):
     minutes, seconds = divmod(seconds, 60)
     return f"{minutes} mins {seconds} secs"
 
-def fix_potential_links(entry):
-    try:
-        return f"[{entry.next_element}]({entry.get('href')})" if entry.has_attr('href') else f"{entry}"
-    except:
-        return f"{entry}"
-
-def format_list_of_potential_links(list):
-    return ["- " + re.sub(r'[\r\n]+', '', "".join([fix_potential_links(l) for l in r.contents])) for r in list]
+def format_list(list):
+    return [html2text.html2text(f"{r}") for r in list.contents]
 
 def create_episode(api_episode, base_url, output_dir):
     # RANT: What kind of API doesn't give the episode number?!
@@ -52,9 +47,9 @@ def create_episode(api_episode, base_url, output_dir):
 
     blurb = api_episode["summary"]
 
-    sponsors = format_list_of_potential_links(get_list(api_soup, "Sponsored By:"))
+    sponsors = format_list(get_list(api_soup, "Sponsored By:"))
 
-    links = format_list_of_potential_links(get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:"))
+    links = format_list(get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:"))
 
     page_soup = BeautifulSoup(requests.get(api_episode["url"]).content, "html.parser")
 
