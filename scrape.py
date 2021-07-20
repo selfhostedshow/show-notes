@@ -42,7 +42,7 @@ def create_episode(api_episode, base_url, output_dir):
     publish_date = date_parse(api_episode['date_published'])
     output_file = f"{output_dir}/{publish_date.year}/episode-{episode_number_padded}.md"
 
-    mkdir_safe(f"{output_dir}/{release_year}")
+    mkdir_safe(f"{output_dir}/{publish_date.year}")
 
     if os.path.isfile(output_file):
         print("Skipping", api_episode['url'], "as it already exists")
