@@ -101,18 +101,19 @@ def create_episode(api_episode, base_url, output_dir):
 
 
 def main():
-    with open("shows.yml") as f:
-        shows = YAML().load(f)
+    # Grab the config embedded in the mkdocs config
+    with open("mkdocs.yml") as f:
+        shows = YAML().load(f)['extra']['shows']
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        for show in shows:
-            output_dir = f"docs/{show['slug']}"
+        for show_slug, show_config in shows.items():
+            output_dir = f"docs/{show_slug}"
 
             mkdir_safe(output_dir)
 
-            api_data = requests.get(show['fireside_url'] + "/json").json()
+            api_data = requests.get(show_config['fireside_url'] + "/json").json()
             for api_episode in api_data["items"]:
-                executor.submit(create_episode, api_episode, show['fireside_url'], output_dir)
+                executor.submit(create_episode, api_episode, show_config['fireside_url'], output_dir)
 
 
 if __name__ == "__main__":

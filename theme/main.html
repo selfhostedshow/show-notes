@@ -1,8 +1,8 @@
 {% extends "base.html" %}
 
 {% block scripts %}
-    <script id="__theme" type="application/json">
-        {{- config.extra.show_themes | tojson -}}
+    <script id="__shows" type="application/json">
+        {{- config.extra.shows | tojson -}}
     </script>
 
     <!-- Switcher must go before the other scripts -->
