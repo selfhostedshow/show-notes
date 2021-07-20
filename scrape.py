@@ -1,7 +1,6 @@
 import concurrent.futures
 import os
 import shutil
-import re
 import html2text
 
 import requests
