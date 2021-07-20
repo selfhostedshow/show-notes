@@ -106,7 +106,7 @@ def main():
 
             try:
                 os.mkdir(output_dir)
-            except FileNotFoundError:
+            except FileExistsError:
                 pass
 
             docs_dir = f"shows/{show['show_name']}"
@@ -115,7 +115,7 @@ def main():
 
             try:
                 os.mkdir(docs_output_dir)
-            except FileNotFoundError:
+            except FileExistsError:
                 pass
 
             api_data = requests.get(show['fireside_url'] + "/json").json()
