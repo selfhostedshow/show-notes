@@ -6,6 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 from jinja2 import Template
 from ruamel.yaml import YAML
+from dateutil.parser import parse as date_parse
 
 
 with open("templates/episode.md.j2") as f:
@@ -38,8 +39,8 @@ def create_episode(api_episode, base_url, output_dir):
     # RANT: What kind of API doesn't give the episode number?!
     episode_number = int(api_episode["url"].split("/")[-1])
     episode_number_padded = f"{episode_number:03}"
-    release_year = int(api_episode['date_published'][:4])
-    output_file = f"{output_dir}/{release_year}/episode-{episode_number_padded}.md"
+    publish_date = date_parse(api_episode['date_published'])
+    output_file = f"{output_dir}/{publish_date.year}/episode-{episode_number_padded}.md"
 
     mkdir_safe(f"{output_dir}/{release_year}")
 
@@ -91,7 +92,7 @@ def create_episode(api_episode, base_url, output_dir):
             "hosts": hosts,
             "tags": tags,
             "player_embed": player_embed,
-            "date_published": api_episode["date_published"].split("T", 1)[0],  # Date parsing? What's that?
+            "date_published": publish_date.date().isoformat(),
         }
     )
 
