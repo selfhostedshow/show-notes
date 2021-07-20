@@ -1,6 +1,5 @@
 import concurrent.futures
 import os
-import shutil
 import html2text
 
 import requests
@@ -34,6 +33,7 @@ def get_list(soup, pre_title):
 def get_duration(seconds):
     minutes, seconds = divmod(seconds, 60)
     return f"{minutes} mins {seconds} secs"
+
 
 def create_episode(api_episode, base_url, output_dir):
     # RANT: What kind of API doesn't give the episode number?!
@@ -71,10 +71,7 @@ def create_episode(api_episode, base_url, output_dir):
                 {"name": link.get("title"), "link": base_url + link.get("href")}
             )
 
-    try:
-        player_embed = page_soup.find("input", class_="copy-share-embed").get("value")
-    except:
-        player_embed = None
+    player_embed = page_soup.find("input", class_="copy-share-embed").get("value")
 
     show_attachment = api_episode["attachments"][0]
 
@@ -121,6 +118,7 @@ def main():
         # Drain to get exceptions. Still have to mash CTRL-C, though.
         for future in concurrent.futures.as_completed(futures):
             future.result()
+
 
 if __name__ == "__main__":
     main()

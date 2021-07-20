@@ -12,7 +12,9 @@ jobs:
       with:
         python-version: 3.9
     - name: Install dependencies
-      run: pip install -r requirements.txt
+      run: pip install -r dev-requirements.txt
+    - name: Lint scraper
+      run: flake8 scrape.py
     - name: Scrape data
       run: python3 scrape.py
     - name: Build site
