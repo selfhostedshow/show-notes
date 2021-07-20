@@ -13,10 +13,7 @@ NOTE: Not compatible with `navigation.instant`.
   for (var showSlug in SHOWS) {
     if (PATH_PREFIX == showSlug) {
       console.log("Setting custom theme for", showSlug);
-      var theme = SHOWS[showSlug].theme;
-      for (var key in theme) {
-        document.body.setAttribute("data-md-color-" + key, theme[key])
-      }
+      document.body.setAttribute("data-show", showSlug);
     }
   }
 }())

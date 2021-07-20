@@ -55,25 +55,16 @@ markdown_extensions:
 
 copyright: 2020 - 2021 &copy; Alex Kretzschmar - Licensed under GPLv3
 
+extra_css:
+  - /show-themes.css
+
 extra:
   shows:
     self-hosted:
       fireside_url: https://selfhosted.show
-      theme:
-        primary: orange
-        accent: amber
     coder-radio:
       fireside_url: https://coder.show
-      theme:
-        primary: blue
-        accent: red
     linux-action-news:
       fireside_url: https://linuxactionnews.com
-      theme:
-        primary: red
-        accent: white
     linux-unplugged:
       fireside_url: https://linuxunplugged.com
-      theme:
-        primary: blue
-        accent: cyan

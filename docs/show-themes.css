@@ -1,0 +1,44 @@
+/*
+Custom themes for shows
+
+See also https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/?h=accen#custom-colors
+*/
+
+[data-show="self-hosted"] {
+  --md-primary-fg-color: #eb6f23;
+  --md-primary-fg-color--light: #eb6f23;
+  --md-primary-fg-color--dark: #eb6f23;
+
+  --md-accent-fg-color: #f3a922;
+  --md-accent-bg-color: #f3a922;
+}
+
+[data-show="coder-radio"] {
+  --md-primary-fg-color: #0070ba;
+  --md-primary-fg-color--light: #0070ba;
+  --md-primary-fg-color--dark: #0070ba;
+
+  --md-accent-fg-color: #d60018;
+  --md-accent-bg-color: #d60018;
+}
+
+
+[data-show="linux-action-news"] {
+  --md-primary-fg-color: #d50018;
+  --md-primary-fg-color--light: #d50018;
+  --md-primary-fg-color--dark: #d50018;
+
+  /* Neither black nor white work with dark/light theme */
+  --md-accent-fg-color: #d50018;
+  --md-accent-bg-color: #d50018;
+}
+
+[data-show="linux-unplugged"] {
+  --md-primary-fg-color: #006fb9;
+  --md-primary-fg-color--light: #006fb9;
+  --md-primary-fg-color--dark: #006fb9;
+
+  --md-accent-fg-color: #6dcdf4;
+  --md-accent-bg-color: #6dcdf4;
+
+}
