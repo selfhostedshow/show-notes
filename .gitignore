@@ -86,3 +86,5 @@ $RECYCLE.BIN/
 
 env/
 output/
+
+docs/**/episodes/

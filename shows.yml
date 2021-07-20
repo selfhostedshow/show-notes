@@ -1,4 +1,8 @@
-- show_name: selfhosted
+- slug: self-hosted
   fireside_url: https://selfhosted.show
-- show_name: linuxunplugged
+- slug: linux-unplugged
   fireside_url: https://linuxunplugged.com
+- slug: linux-action-news
+  fireside_url: https://linuxactionnews.com/
+- slug: coder-radio
+  fireside_url: https://coder.show/

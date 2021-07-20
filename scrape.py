@@ -7,8 +7,6 @@ from bs4 import BeautifulSoup
 from jinja2 import Template
 from ruamel.yaml import YAML
 
-OUTPUT_DIR = "output"
-
 
 with open("templates/episode.md.j2") as f:
     TEMPLATE = Template(f.read())
@@ -95,38 +93,18 @@ def main():
     with open("shows.yml") as f:
         shows = YAML().load(f)
 
-    try:
-        os.mkdir(OUTPUT_DIR)
-    except:
-        pass
-
     with concurrent.futures.ThreadPoolExecutor() as executor:
         for show in shows:
-            output_dir = f"{OUTPUT_DIR}/{show['show_name']}"
+            output_dir = f"docs/{show['slug']}/episodes"
 
             try:
                 os.mkdir(output_dir)
             except FileExistsError:
                 pass
 
-            docs_dir = f"shows/{show['show_name']}"
-            mkdocs_config = f"shows/{show['show_name']}.yml"
-            docs_output_dir = output_dir + "/docs"
-
-            try:
-                os.mkdir(docs_output_dir)
-            except FileExistsError:
-                pass
-
             api_data = requests.get(show['fireside_url'] + "/json").json()
             for api_episode in api_data["items"]:
-                executor.submit(create_episode, api_episode, show['fireside_url'], docs_output_dir)
-
-            try:
-                os.remove(output_dir + "/mkdocs.yml")
-            except FileNotFoundError:
-                pass
-            shutil.copy2(mkdocs_config, output_dir + "/mkdocs.yml")
+                executor.submit(create_episode, api_episode, show['fireside_url'], output_dir)
 
 
 if __name__ == "__main__":

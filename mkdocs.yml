@@ -1,4 +1,4 @@
-site_name: Self-Hosted - Show Notes
+site_name: Jupiter Broadcasting - Show Notes
 site_url: https://notes.selfhosted.show
 repo_url: https://github.com/selfhostedshow/show-notes
 repo_name: selfhostedshow/show-notes
@@ -7,33 +7,25 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: en
-  #logo: images/site/logo.png
-  favicon: images/assets/favicon.png
   icon:
     repo: fontawesome/brands/github
     logo: fontawesome/regular/folder-open
   palette:
-    primary: orange
-    accent: teal
-    scheme: default
+    primary: blue
+    accent: black
+    scheme: slate
   font:
     code: Jet Brains Mono
   features:
     - navigation.instant
+    - navigation.tabs
     - navigation.top
-    #- navigation.sections # prevents collapsible sections
     - navigation.expand #expands sections by default
     - toc.integrate
-  # insiders only
-  #   - search.suggest
-
-#google_analytics: ['UA-17919826-9', 'auto']
 
 plugins:
-  - git-revision-date
   - search
-  - minify:
-      minify_html: true
+
 markdown_extensions:
   - abbr
   - admonition # enables coloured blocks mid article
@@ -52,16 +44,3 @@ markdown_extensions:
   - pymdownx.keys
 
 copyright: 2020 - 2021 &copy; Alex Kretzschmar - Licensed under GPLv3
-extra:
-  social:
-    - icon: 'fontawesome/brands/github'
-      link: 'https://github.com/ironicbadger'
-      name: IronicBadger on GitHub
-    - icon: 'fontawesome/brands/twitter'
-      link: 'https://twitter.com/ironicbadger'
-      name: IronicBadger on Twitter
-    - icon: 'fontawesome/brands/linkedin'
-      link: 'https://www.linkedin.com/in/alex-kretzschmar/'      
-    - icon: 'fontawesome/solid/microphone'
-      link: 'https://selfhosted.show/'
-      name: IronicBadger's Podcast - selfhosted.show
