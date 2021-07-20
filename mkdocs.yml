@@ -1,0 +1,81 @@
+site_name: Jupiter Broadcasting - Show Notes
+site_url: https://notes.selfhosted.show
+repo_url: https://github.com/selfhostedshow/show-notes
+repo_name: selfhostedshow/show-notes
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  icon:
+    repo: fontawesome/brands/github
+    logo: fontawesome/regular/folder-open
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: light
+      primary: light blue
+      accent: white
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Embrace the dark side
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light blue
+      accent: white
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  font:
+    code: Jet Brains Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+  custom_dir: theme
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition # enables coloured blocks mid article
+  - attr_list # improves image handling
+  - pymdownx.details # enables collapsible admonitions
+  - footnotes
+  - meta # adds support for front matter
+  - toc:
+      permalink: true
+      toc_depth: 4
+  - pymdownx.highlight: # code highlighting
+      linenums: true
+  - pymdownx.tabbed # enables tabs for embedded blocks
+  - pymdownx.snippets
+  - pymdownx.superfences # allows for the nesting of code blocks inside other blocks
+  - pymdownx.keys
+
+copyright: 2020 - 2021 &copy; Alex Kretzschmar - Licensed under GPLv3
+
+extra_css:
+  - /show-themes.css
+
+extra:
+  shows:
+    self-hosted:
+      fireside_url: https://selfhosted.show
+    coder-radio:
+      fireside_url: https://coder.show
+    linux-action-news:
+      fireside_url: https://linuxactionnews.com
+    linux-unplugged:
+      fireside_url: https://linuxunplugged.com
+      extra:
+  social:
+    - icon: 'fontawesome/brands/twitter'
+      link: 'https://twitter.com/jupiterbroadcasting'
+      name: Twitter
+    - icon: 'fontawesome/solid/globe'
+      link: 'https://jupiterbroadcasting.com'
+      name: Website
+    - icon: 'fontawesome/brands/telegram'
+      link: 'https://www.jupiterbroadcasting.com/telegram'
+      name: Telegram

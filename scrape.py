@@ -7,12 +7,18 @@ import requests
 from bs4 import BeautifulSoup
 from jinja2 import Template
 from ruamel.yaml import YAML
-
-OUTPUT_DIR = "output"
+from dateutil.parser import parse as date_parse
 
 
 with open("templates/episode.md.j2") as f:
     TEMPLATE = Template(f.read())
+
+
+def mkdir_safe(directory):
+    try:
+        os.mkdir(directory)
+    except FileExistsError:
+        pass
 
 
 def get_list(soup, pre_title):
@@ -33,10 +39,13 @@ def create_episode(api_episode, base_url, output_dir):
     # RANT: What kind of API doesn't give the episode number?!
     episode_number = int(api_episode["url"].split("/")[-1])
     episode_number_padded = f"{episode_number:03}"
-    output_file = f"{output_dir}/episode-{episode_number_padded}.md"
+    publish_date = date_parse(api_episode['date_published'])
+    output_file = f"{output_dir}/{publish_date.year}/episode-{episode_number_padded}.md"
+
+    mkdir_safe(f"{output_dir}/{release_year}")
 
     if os.path.isfile(output_file):
-        print(f"Skipping {api_episode['url']}", end="\n")
+        print("Skipping", api_episode['url'], "as it already exists")
         return
 
     api_soup = BeautifulSoup(api_episode["content_html"], "html.parser")
@@ -84,50 +93,29 @@ def create_episode(api_episode, base_url, output_dir):
             "hosts": hosts,
             "tags": tags,
             "player_embed": player_embed,
-            "date_published": api_episode["date_published"].split("T", 1)[0],  # Date parsing? What's that?
+            "date_published": publish_date.date().isoformat(),
         }
     )
 
     with open(output_file, "w") as f:
+        print("Saving", api_episode["url"])
         f.write(output)
 
 
 def main():
-    with open("shows.yml") as f:
-        shows = YAML().load(f)
-
-    try:
-        os.mkdir(OUTPUT_DIR)
-    except:
-        pass
+    # Grab the config embedded in the mkdocs config
+    with open("mkdocs.yml") as f:
+        shows = YAML().load(f)['extra']['shows']
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        for show in shows:
-            output_dir = f"{OUTPUT_DIR}/{show['show_name']}"
+        for show_slug, show_config in shows.items():
+            output_dir = f"docs/{show_slug}"
 
-            try:
-                os.mkdir(output_dir)
-            except FileExistsError:
-                pass
+            mkdir_safe(output_dir)
 
-            docs_dir = f"shows/{show['show_name']}"
-            mkdocs_config = f"shows/{show['show_name']}.yml"
-            docs_output_dir = output_dir + "/docs"
-
-            try:
-                os.mkdir(docs_output_dir)
-            except FileExistsError:
-                pass
-
-            api_data = requests.get(show['fireside_url'] + "/json").json()
+            api_data = requests.get(show_config['fireside_url'] + "/json").json()
             for api_episode in api_data["items"]:
-                executor.submit(create_episode, api_episode, show['fireside_url'], docs_output_dir)
-
-            try:
-                os.remove(output_dir + "/mkdocs.yml")
-            except FileNotFoundError:
-                pass
-            shutil.copy2(mkdocs_config, output_dir + "/mkdocs.yml")
+                executor.submit(create_episode, api_episode, show_config['fireside_url'], output_dir)
 
 
 if __name__ == "__main__":
