@@ -5,7 +5,7 @@ import html2text
 import requests
 from bs4 import BeautifulSoup
 from jinja2 import Template
-from ruamel.yaml import YAML
+import yaml
 from dateutil.parser import parse as date_parse
 
 
@@ -102,7 +102,7 @@ def create_episode(api_episode, base_url, output_dir):
 def main():
     # Grab the config embedded in the mkdocs config
     with open("mkdocs.yml") as f:
-        shows = YAML().load(f)['extra']['shows']
+        shows = yaml.load(f, Loader=yaml.SafeLoader)['extra']['shows']
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
         futures = []
