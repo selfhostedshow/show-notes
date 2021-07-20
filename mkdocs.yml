@@ -11,9 +11,20 @@ theme:
     repo: fontawesome/brands/github
     logo: fontawesome/regular/folder-open
   palette:
-    primary: light blue
-    accent: white
-    scheme: slate
+    - media: "(prefers-color-scheme: light)"
+      scheme: light
+      primary: light blue
+      accent: white
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Embrace the dark side
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light blue
+      accent: white
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   font:
     code: Jet Brains Mono
   features:
