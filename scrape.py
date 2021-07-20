@@ -1,6 +1,7 @@
 import concurrent.futures
 import os
 import shutil
+import html2text
 
 import requests
 from bs4 import BeautifulSoup
@@ -28,7 +29,6 @@ def get_duration(seconds):
     minutes, seconds = divmod(seconds, 60)
     return f"{minutes} mins {seconds} secs"
 
-
 def create_episode(api_episode, base_url, output_dir):
     # RANT: What kind of API doesn't give the episode number?!
     episode_number = int(api_episode["url"].split("/")[-1])
@@ -43,8 +43,9 @@ def create_episode(api_episode, base_url, output_dir):
 
     blurb = api_episode["summary"]
 
-    sponsors = get_list(api_soup, "Sponsored By:")
-    links = get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:")
+    sponsors = html2text.html2text(str(get_list(api_soup, "Sponsored By:")))
+
+    links = html2text.html2text(str(get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:")))
 
     page_soup = BeautifulSoup(requests.get(api_episode["url"]).content, "html.parser")
 
