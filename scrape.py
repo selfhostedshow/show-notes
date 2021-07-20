@@ -30,9 +30,6 @@ def get_duration(seconds):
     minutes, seconds = divmod(seconds, 60)
     return f"{minutes} mins {seconds} secs"
 
-def format_list(list):
-    return [html2text.html2text(f"{r}") for r in list.contents]
-
 def create_episode(api_episode, base_url, output_dir):
     # RANT: What kind of API doesn't give the episode number?!
     episode_number = int(api_episode["url"].split("/")[-1])
@@ -47,9 +44,9 @@ def create_episode(api_episode, base_url, output_dir):
 
     blurb = api_episode["summary"]
 
-    sponsors = format_list(get_list(api_soup, "Sponsored By:"))
+    sponsors = html2text.html2text(str(get_list(api_soup, "Sponsored By:")))
 
-    links = format_list(get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:"))
+    links = html2text.html2text(str(get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:")))
 
     page_soup = BeautifulSoup(requests.get(api_episode["url"]).content, "html.parser")
 
@@ -83,8 +80,8 @@ def create_episode(api_episode, base_url, output_dir):
             "audio": show_attachment["url"],
             "duration": get_duration(int(show_attachment['duration_in_seconds'])),
             "blurb": blurb,
-            "sponsors": "\n".join(sponsors),
-            "links": "\n".join(links),
+            "sponsors": sponsors,
+            "links": links,
             "hosts": hosts,
             "tags": tags,
             "player_embed": player_embed,
