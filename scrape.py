@@ -12,6 +12,13 @@ with open("templates/episode.md.j2") as f:
     TEMPLATE = Template(f.read())
 
 
+def mkdir_safe(directory):
+    try:
+        os.mkdir(directory)
+    except FileExistsError:
+        pass
+
+
 def get_list(soup, pre_title):
     """
     Blocks of links are preceded by a `p` saying what it is.
@@ -31,7 +38,10 @@ def create_episode(api_episode, base_url, output_dir):
     # RANT: What kind of API doesn't give the episode number?!
     episode_number = int(api_episode["url"].split("/")[-1])
     episode_number_padded = f"{episode_number:03}"
-    output_file = f"{output_dir}/episode-{episode_number_padded}.md"
+    release_year = int(api_episode['date_published'][:4])
+    output_file = f"{output_dir}/{release_year}/episode-{episode_number_padded}.md"
+
+    mkdir_safe(f"{output_dir}/{release_year}")
 
     if os.path.isfile(output_file):
         print(f"Skipping {api_episode['url']}", end="\n")
@@ -95,12 +105,9 @@ def main():
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
         for show in shows:
-            output_dir = f"docs/{show['slug']}/episodes"
+            output_dir = f"docs/{show['slug']}"
 
-            try:
-                os.mkdir(output_dir)
-            except FileExistsError:
-                pass
+            mkdir_safe(output_dir)
 
             api_data = requests.get(show['fireside_url'] + "/json").json()
             for api_episode in api_data["items"]:

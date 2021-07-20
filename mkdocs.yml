@@ -20,7 +20,6 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.top
-    - navigation.expand #expands sections by default
     - toc.integrate
 
 plugins:
