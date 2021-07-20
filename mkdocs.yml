@@ -79,3 +79,6 @@ extra:
     - icon: 'fontawesome/brands/telegram'
       link: 'https://www.jupiterbroadcasting.com/telegram'
       name: Telegram
+    - icon: 'fontawesome/brands/discord'
+      link: 'https://selfhosted.show/discord'
+      name: Self-Hosted Discord
