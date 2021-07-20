@@ -68,3 +68,14 @@ extra:
       fireside_url: https://linuxactionnews.com
     linux-unplugged:
       fireside_url: https://linuxunplugged.com
+      extra:
+  social:
+    - icon: 'fontawesome/brands/twitter'
+      link: 'https://twitter.com/jupiterbroadcasting'
+      name: Twitter
+    - icon: 'fontawesome/solid/globe'
+      link: 'https://jupiterbroadcasting.com'
+      name: Website
+    - icon: 'fontawesome/brands/telegram'
+      link: 'https://www.jupiterbroadcasting.com/telegram'
+      name: Telegram
