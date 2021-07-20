@@ -44,7 +44,7 @@ def create_episode(api_episode, base_url, output_dir):
     mkdir_safe(f"{output_dir}/{release_year}")
 
     if os.path.isfile(output_file):
-        print(f"Skipping {api_episode['url']}", end="\n")
+        print("Skipping", api_episode['url'], "as it already exists")
         return
 
     api_soup = BeautifulSoup(api_episode["content_html"], "html.parser")
@@ -96,6 +96,7 @@ def create_episode(api_episode, base_url, output_dir):
     )
 
     with open(output_file, "w") as f:
+        print("Saving", api_episode["url"])
         f.write(output)
 
 
