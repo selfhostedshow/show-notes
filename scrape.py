@@ -108,6 +108,7 @@ def main():
         shows = YAML().load(f)['extra']['shows']
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
+        futures = []
         for show_slug, show_config in shows.items():
             output_dir = f"docs/{show_slug}"
 
@@ -115,8 +116,11 @@ def main():
 
             api_data = requests.get(show_config['fireside_url'] + "/json").json()
             for api_episode in api_data["items"]:
-                executor.submit(create_episode, api_episode, show_config['fireside_url'], output_dir)
+                futures.append(executor.submit(create_episode, api_episode, show_config['fireside_url'], output_dir))
 
+        # Drain to get exceptions. Still have to mash CTRL-C, though.
+        for future in concurrent.futures.as_completed(futures):
+            future.result()
 
 if __name__ == "__main__":
     main()
