@@ -11,16 +11,16 @@ theme:
     repo: fontawesome/brands/github
     logo: fontawesome/regular/folder-open
   palette:
-    primary: blue
-    accent: black
+    primary: light blue
+    accent: white
     scheme: slate
   font:
     code: Jet Brains Mono
   features:
-    - navigation.instant
     - navigation.tabs
     - navigation.top
     - toc.integrate
+  custom_dir: theme
 
 plugins:
   - search
@@ -43,3 +43,18 @@ markdown_extensions:
   - pymdownx.keys
 
 copyright: 2020 - 2021 &copy; Alex Kretzschmar - Licensed under GPLv3
+
+extra:
+  show_themes:
+    self-hosted:
+      primary: orange
+      accent: amber
+    coder-radio:
+      primary: blue
+      accent: red
+    linux-action-news:
+      primary: red
+      accent: white
+    linux-unplugged:
+      primary: blue
+      accent: cyan

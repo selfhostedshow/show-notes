@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block scripts %}
+    <script id="__theme" type="application/json">
+        {{- config.extra.show_themes | tojson -}}
+    </script>
+
+    <!-- Switcher must go before the other scripts -->
+    <script src="{{ 'theme-switcher.js' | url }}"></script>
+
+    <!-- Put the other scripts back afterwards -->
+    {{ super() }}
+{% endblock %}
