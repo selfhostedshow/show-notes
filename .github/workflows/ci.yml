@@ -18,4 +18,4 @@ jobs:
     - name: Scrape data
       run: python3 scrape.py
     - name: Build site
-      run: mkdocs serve --verbose
+      run: mkdocs build --verbose
