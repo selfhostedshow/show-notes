@@ -1,6 +1,7 @@
 import concurrent.futures
 import os
 import html2text
+import operator
 
 import requests
 from bs4 import BeautifulSoup
@@ -63,6 +64,9 @@ def create_episode(api_episode, base_url, output_dir):
         tags.append(
             {"link": base_url + link.get("href"), "text": link.get_text().strip()}
         )
+
+    # Sort tags by text
+    tags = sorted(tags, key=operator.itemgetter("text"))
 
     hosts = []
     for host in page_soup.find_all("ul", class_="episode-hosts"):

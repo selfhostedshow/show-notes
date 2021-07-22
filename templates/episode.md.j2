@@ -1,4 +1,5 @@
 # {{ episode_number_padded }}: {{ title_plain }}
+
 {{ player_embed }}
 
 * Air Date: {{ date_published }}
@@ -8,6 +9,12 @@
 
 {{ blurb }}
 
+## Your hosts
+
+{%- for host in hosts %}
+* [{{ host.name }}]({{ host.link }})
+{%- endfor %}
+
 ## Sponsored by
 
 {{ sponsors }}
@@ -16,14 +23,6 @@
 
 {{ links }}
 
-## Your hosts
-
-{% for host in hosts %}
-* [{{ host.name }}]({{ host.link }})
-{%- endfor %}
-
 ## Tags
 
-{% for tag in tags %}
-* [{{ tag.text }}]({{ tag.link }})
-{%- endfor %}
+{% for tag in tags %}[{{ tag.text }}]({{ tag.link }}){% if not loop.last %}, {% endif %}{% endfor %}
