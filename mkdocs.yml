@@ -68,7 +68,8 @@ extra:
       fireside_url: https://linuxactionnews.com
     linux-unplugged:
       fireside_url: https://linuxunplugged.com
-      extra:
+    jupiter-extras:
+      fireside_url: https://extras.show/
   social:
     - icon: 'fontawesome/brands/twitter'
       link: 'https://twitter.com/jupiterbroadcasting'
