@@ -25,6 +25,4 @@
 
 ## Tags
 
-{% for tag in tags %}
-* [{{ tag.text }}]({{ tag.link }})
-{%- endfor %}
+{% for tag in tags %}[{{ tag.text }}]({{ tag.link }}){% if not loop.last %}, {% endif %}{% endfor %}
