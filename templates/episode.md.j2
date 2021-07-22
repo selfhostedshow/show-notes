@@ -9,6 +9,12 @@
 
 {{ blurb }}
 
+## Your hosts
+
+{%- for host in hosts %}
+* [{{ host.name }}]({{ host.link }})
+{%- endfor %}
+
 ## Sponsored by
 
 {{ sponsors }}
@@ -16,12 +22,6 @@
 ## Episode links
 
 {{ links }}
-
-## Your hosts
-
-{% for host in hosts %}
-* [{{ host.name }}]({{ host.link }})
-{%- endfor %}
 
 ## Tags
 
