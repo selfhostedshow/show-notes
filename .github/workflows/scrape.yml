@@ -1,6 +1,8 @@
 name: Scrape and commit
 
 on:
+  schedule:
+    - cron:  '00 12 * * *'
   push:
     branches:
       - main
