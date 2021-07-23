@@ -7,15 +7,16 @@ on:
   push:
     branches:
       - main
-  rss:
-    url:
-      - https://feeds.fireside.fm/selfhosted/rss
-      - https://feeds.fireside.fm/coder/rss
-      - https://feeds.fireside.fm/linuxunplugged/rss
-      - https://feeds.fireside.fm/linuxactionnews/rss
-      - https://feeds.fireside.fm/extras/rss
-    config:
-      limit: 15
+  # requires this setting up https://actionsflow.github.io/docs/self-hosted/
+  # rss:
+  #   url:
+  #     - https://feeds.fireside.fm/selfhosted/rss
+  #     - https://feeds.fireside.fm/coder/rss
+  #     - https://feeds.fireside.fm/linuxunplugged/rss
+  #     - https://feeds.fireside.fm/linuxactionnews/rss
+  #     - https://feeds.fireside.fm/extras/rss
+  #   config:
+  #     limit: 15
 
 jobs:
   scrape:
