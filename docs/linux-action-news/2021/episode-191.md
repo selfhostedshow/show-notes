@@ -1,0 +1,55 @@
+# 191: Linux Action News 191
+
+<iframe src="https://player.fireside.fm/v2/DAcK9LdX+E5H8goam?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+* Air Date: 2021-05-31
+* Duration: 32 mins 57 secs
+
+## About this episode
+
+Our reaction to the new Freenode developments, and Audacity's latest shock to the community.
+
+## Your hosts
+* [Chris Fisher](https://linuxactionnews.com/hosts/chris)
+* [Wes Payne](https://linuxactionnews.com/hosts/wes)
+
+## Sponsored by
+
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+
+
+
+## Episode links
+
+  * [After staff revolt, Freenode management takes over hundreds of IRC channels for ‘policy violations’](https://www.theregister.com/2021/05/26/freenode_irc_takeover/ "After staff revolt, Freenode management takes over hundreds of IRC channels for ‘policy violations’") — All told, it appears something like 700 Freenode channels have been seized and re-permissioned, supposedly because the channels mentioned Libera Chat in violation of Freenode's advertising policy.
+  * [Freenode IRC staff resign en masse after takeover by Korea’s “crown prince”](https://arstechnica.com/gadgets/2021/05/freenode-irc-has-been-taken-over-by-the-crown-prince-of-korea/ "Freenode IRC staff resign en masse after takeover by Korea’s “crown prince”")
+  * [IRC Announcement - Fedora Magazine](https://fedoramagazine.org/irc-announcement/ "IRC Announcement - Fedora Magazine")
+  * [Ubuntu, Wikimedia jump ship to the Libera Chat IRC network after Freenode channel confiscations](https://www.theregister.com/2021/05/27/ubuntu_freenode/ "Ubuntu, Wikimedia jump ship to the Libera Chat IRC network after Freenode channel confiscations")
+  * [One week of Libera Chat](https://libera.chat/news/one-week-of-libera-chat "One week of Libera Chat") — It’s been an exciting first week, and we’d like to say a massive thank you for your support, enthusiasm, and patience as we continue to work to bring Libera.Chat up to full capacity. In these first few days, we’ve been able to reach 16,500 simultaneous connections and 20,000 registered accounts. 
+  * [kline󠁧󠁢󠁳󠁣󠁴󠁿 on mastodon: “andrew lee just seized over 700 channels on freenode”](https://mastodon.sdf.org/@kline/106299403921451814 "kline󠁧󠁢󠁳󠁣󠁴󠁿 on mastodon: “andrew lee just seized over 700 channels on freenode”")
+  * [PSA: Ubuntu’s IRC Channels Have Moved from Freenode to Libera Chat](https://www.omgubuntu.co.uk/2021/05/ubuntu-irc-moves-to-libera-chat "PSA: Ubuntu’s IRC Channels Have Moved from Freenode to Libera Chat")
+  * [Gentoo Freenode channels have been hijacked](https://www.gentoo.org/news/2021/05/26/gentoo-freenode-channels-hijacked.html "Gentoo Freenode channels have been hijacked") — Today (2021-05-26) a large number of Gentoo channels have been hijacked by Freenode staff, including channels that were not yet migrated to Libera.chat. We cannot perceive this otherwise than as an open act of hostility and we have effectively left Freenode.
+  * [Pwned Passwords, Open Source in the .NET Foundation and Working with the FBI](https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/ "Pwned Passwords, Open Source in the .NET Foundation and Working with the FBI")
+  * [Pwned Passwords is now open source!](https://dotnetfoundation.org/blog/2021/05/27/pwned-passwords-is-now-open-source "Pwned Passwords is now open source!")
+  * [Troy Hunt on Twitter RE: the news](https://twitter.com/troyhunt/status/1397990619985838081 "Troy Hunt on Twitter RE: the news")
+  * [The FBI will feed compromised passwords to Have I Been Pwned](https://www.engadget.com/fbi-have-i-been-pwned-open-source-054845213.html?guccounter=1 "The FBI will feed compromised passwords to Have I Been Pwned") — As Hunt explained, the FBI is involved into all sorts of investigations into digital crimes, such as botnets, ransomware, online child sexual exploitation and terrorism. The compromised passwords they find are often being used by crime rings, so the passwords' quick addition to the HIBP database would be extremely helpful. That said, the website doesn't have a way for the feds to quickly feed passwords into its database yet. 
+  * [Google is releasing Fuchsia OS, starting w/ 1st-gen Nest Hub](https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/ "Google is releasing Fuchsia OS, starting w/ 1st-gen Nest Hub") — Google’s long-in-development, from-scratch operating system, Fuchsia, is now running on real Made by Google devices, namely, the first-generation Nest Hub.
+  * [Here’s an easier way to try Fuchsia OS on your computer](https://9to5google.com/2021/05/26/fuchsia-os-emulator-dahliaos-fimage/ "Here’s an easier way to try Fuchsia OS on your computer")
+  * [Linux Action Show 431](https://youtu.be/-XMdnmmig3Y?t=1258 "Linux Action Show 431")
+  * [Valve is making a Switch-like portable gaming PC](https://arstechnica.com/gaming/2021/05/exclusive-valve-is-making-a-switch-like-portable-gaming-pc/ "Valve is making a Switch-like portable gaming PC") — On Tuesday, SteamDB operator Pavel Djundik spotted the change in Steam's code, which pointed to a new device named "SteamPal". 
+  * [New Audacity Owners Want a CLA](https://www.theregister.com/AMP/2021/05/27/audacity_cla/ "New Audacity Owners Want a CLA") — For those not yet aware, we are introducing a Contributor License Agreement (CLA), which contributors to Audacity will need to sign in order to contribute code to the project.
+  * [Information About Our New Contributor License Agreement](https://github.com/audacity/audacity/discussions/932?sort=top "Information About Our New Contributor License Agreement")
+  * [Nextcloud iOS app Open Sourced](https://nextcloud.com/blog/nextcloud-ios-app-open-sourced/ "Nextcloud iOS app Open Sourced")
+  * [GitHub: nextcloud/ios/COPYING.iOS](https://github.com/nextcloud/ios/blob/master/COPYING.iOS "GitHub: nextcloud/ios/COPYING.iOS")
+  * [Nextcloud iOS app License Guidelines](https://github.com/nextcloud/ios#contribution-guidelines--license "Nextcloud iOS app License Guidelines")
+  * [List of Open-Source iOS Apps](https://nicedoc.io/dkhamsing/open-source-ios-apps#user-content-communication "List of Open-Source iOS Apps")
+  * [Jami on the Mac App Store](https://apps.apple.com/tr/app/jami/id1388475331?mt=12 "Jami on the Mac App Store")
+  * [mediaU on the App Store](https://apps.apple.com/us/app/mediau/id542326887 "mediaU on the App Store")
+  * [Linux Game Development at Tesla?](https://tesla.avature.net/Careers/Jobdetail?jobId=91676 "Linux Game Development at Tesla?") — Some of you might have heard, our dear technoking is bullish on games and making an awesome platform for all gamers in Tesla vehicles. The latest Model S on our website can give you a hint of what we're aiming for in terms of platform capability (sorry, can't divulge much more for now). The Tesla infotainment OS and platform software are based on a standard Linux, so of course, we're interested in helping the gaming community make Linux gaming excellent. 
+
+
+
+## Tags
+
+[.net foundation](https://linuxactionnews.com/tags/.net%20foundation), [amd](https://linuxactionnews.com/tags/amd), [andrew lee](https://linuxactionnews.com/tags/andrew%20lee), [android](https://linuxactionnews.com/tags/android), [aosp](https://linuxactionnews.com/tags/aosp), [app store](https://linuxactionnews.com/tags/app%20store), [apple](https://linuxactionnews.com/tags/apple), [arm](https://linuxactionnews.com/tags/arm), [audacity](https://linuxactionnews.com/tags/audacity), [azure](https://linuxactionnews.com/tags/azure), [chat](https://linuxactionnews.com/tags/chat), [cla](https://linuxactionnews.com/tags/cla), [dahlia os](https://linuxactionnews.com/tags/dahlia%20os), [dart](https://linuxactionnews.com/tags/dart), [elon musk](https://linuxactionnews.com/tags/elon%20musk), [fbi](https://linuxactionnews.com/tags/fbi), [fimage](https://linuxactionnews.com/tags/fimage), [flutter](https://linuxactionnews.com/tags/flutter), [foss](https://linuxactionnews.com/tags/foss), [freenode](https://linuxactionnews.com/tags/freenode), [fuchsia os](https://linuxactionnews.com/tags/fuchsia%20os), [gabe newell](https://linuxactionnews.com/tags/gabe%20newell), [geekshed](https://linuxactionnews.com/tags/geekshed), [google](https://linuxactionnews.com/tags/google), [gpl](https://linuxactionnews.com/tags/gpl), [have i been pwned](https://linuxactionnews.com/tags/have%20i%20been%20pwned), [hibp](https://linuxactionnews.com/tags/hibp), [infosec](https://linuxactionnews.com/tags/infosec), [intel](https://linuxactionnews.com/tags/intel), [ios](https://linuxactionnews.com/tags/ios), [irc](https://linuxactionnews.com/tags/irc), [libera.chat](https://linuxactionnews.com/tags/libera.chat), [linux action news](https://linuxactionnews.com/tags/linux%20action%20news), [linux gaming](https://linuxactionnews.com/tags/linux%20gaming), [linux news podcast](https://linuxactionnews.com/tags/linux%20news%20podcast), [martin keary](https://linuxactionnews.com/tags/martin%20keary), [matrix](https://linuxactionnews.com/tags/matrix), [mesa](https://linuxactionnews.com/tags/mesa), [microkernel](https://linuxactionnews.com/tags/microkernel), [microsoft](https://linuxactionnews.com/tags/microsoft), [muse group](https://linuxactionnews.com/tags/muse%20group), [musescore](https://linuxactionnews.com/tags/musescore), [nest hub](https://linuxactionnews.com/tags/nest%20hub), [nextcloud](https://linuxactionnews.com/tags/nextcloud), [nintendo](https://linuxactionnews.com/tags/nintendo), [opengl](https://linuxactionnews.com/tags/opengl), [password management](https://linuxactionnews.com/tags/password%20management), [pavel djundik](https://linuxactionnews.com/tags/pavel%20djundik), [pixel](https://linuxactionnews.com/tags/pixel), [proton](https://linuxactionnews.com/tags/proton), [pwned passwords](https://linuxactionnews.com/tags/pwned%20passwords), [security](https://linuxactionnews.com/tags/security), [steam](https://linuxactionnews.com/tags/steam), [steam machine](https://linuxactionnews.com/tags/steam%20machine), [steampal](https://linuxactionnews.com/tags/steampal), [steamvr](https://linuxactionnews.com/tags/steamvr), [switch](https://linuxactionnews.com/tags/switch), [tantacrul](https://linuxactionnews.com/tags/tantacrul), [technoking](https://linuxactionnews.com/tags/technoking), [telegram](https://linuxactionnews.com/tags/telegram), [tesla](https://linuxactionnews.com/tags/tesla), [troy hunt](https://linuxactionnews.com/tags/troy%20hunt), [valve](https://linuxactionnews.com/tags/valve), [vlc](https://linuxactionnews.com/tags/vlc), [vulkan](https://linuxactionnews.com/tags/vulkan), [wine](https://linuxactionnews.com/tags/wine), [zirkon](https://linuxactionnews.com/tags/zirkon)

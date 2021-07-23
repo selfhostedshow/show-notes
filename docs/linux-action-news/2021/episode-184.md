@@ -1,0 +1,46 @@
+# 184: Linux Action News 184
+
+<iframe src="https://player.fireside.fm/v2/DAcK9LdX+Ypr3dtTn?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+* Air Date: 2021-04-11
+* Duration: 22 mins 17 secs
+
+## About this episode
+
+Don't buy that M1-powered Apple machine just yet, solving Wayland-driven fragmentation, and why Firefox is about to get an upgrade on Linux.
+
+## Your hosts
+* [Chris Fisher](https://linuxactionnews.com/hosts/chris)
+* [Wes Payne](https://linuxactionnews.com/hosts/wes)
+
+## Sponsored by
+
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+
+
+
+## Episode links
+
+  * [Initial Apple M1 SoC Support Aims For Linux 5.13 Kernel](https://www.phoronix.com/scan.php?page=news_item&px=Apple-M1-For-Linux-5.13 "Initial Apple M1 SoC Support Aims For Linux 5.13 Kernel") — This initial Apple M1 Linux port gets the UART, interrupts, SMP, and DeviceTree bits in place for offering basic functionality. 
+  * [“Challenge accepted”](https://twitter.com/marcan42/status/1380500289455747074 "“Challenge accepted”")
+  * [Ars: Apple M1 hardware support merged into Linux 5.13](https://arstechnica.com/gadgets/2020/11/hands-on-with-the-apple-m1-a-seriously-fast-x86-competitor/ "Ars: Apple M1 hardware support merged into Linux 5.13")
+  * [Official support for Linux on the M1 Macs could come as soon as June](https://9to5mac.com/2021/04/09/linux-m1-mac-june-report/ "Official support for Linux on the M1 Macs could come as soon as June")
+  * [[GIT PULL] Apple M1 SoC platform bring-up for 5.13](https://lore.kernel.org/lkml/bdb18e9f-fcd7-1e31-2224-19c0e5090706@marcan.st/T/#u "\[GIT PULL\] Apple M1 SoC platform bring-up for 5.13")
+  * [Asahi Linux on Twitter](https://twitter.com/asahilinux/status/1380364593126539265?s=21 "Asahi Linux on Twitter") — Initial M1 support has been merged into the Linux SoC tree and will be coming to Linux 5.13!
+  * [SiFive FU740 PCIe Support Queued Ahead Of Linux 5.13](https://www.phoronix.com/scan.php?page=news_item&px=SiFive-FU740-PCIe-Linux-5.13 "SiFive FU740 PCIe Support Queued Ahead Of Linux 5.13") — The HiFive Unmatched has a FU740 RISC-V SoC that features four U74-MC cores and one S7 embedded core, 16GB of RAM, USB 3.2 Gen 1, one PCI Express x16 slot (operating at x8 speeds), an NVMe slot, and Gigabit Ethernet.
+  * [How to Secure phpMyAdmin](https://www.linode.com/docs/guides/how-to-secure-phpmyadmin/?utm_medium=social&utm_source=twitter "How to Secure phpMyAdmin")
+  * [Firefox Is Making WebRender The Default Rendering Engine On Linux This Month And There Is A Facelift Coming In May](https://linuxreviews.org/Firefox_Is_Making_WebRender_The_Default_Rendering_Engine_On_Linux_This_Month_And_There_Is_A_Facelift_Coming_In_May "Firefox Is Making WebRender The Default Rendering Engine On Linux This Month And There Is A Facelift Coming In May") — The Firefox web browser is finally making the long-anticipated WebRender rendering engine the default on GNU/Linux when Firefox 88 is released later this month. 
+  * [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox "uBlock Origin works best on Firefox") — The Firefox version of uBO makes use of WebAssembly code for core filtering code paths. This is not the case with Chromium-based browsers because this would require an extra permission in the extension manifest which could cause friction when publishing the extension in the Chrome Web Store. 
+  * [Wayland Is Driving Fragmentation Around EDID Parsing - A Call To Fix That](https://www.phoronix.com/scan.php?page=news_item&px=Wayland-EDID-Fragmentation&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Phoronix+%28Phoronix%29 "Wayland Is Driving Fragmentation Around EDID Parsing - A Call To Fix That") — Currently there is no de facto EDID parsing library for Linux but many different choices and most Wayland compositors rolling their own. Rather than exposing all of the parsed information from the kernel, there is now a call to have a more unified Linux EDID parsing library. 
+  * [vgpu_unlock](https://github.com/DualCoder/vgpu_unlock "vgpu_unlock") — Unlock vGPU functionality for consumer-grade GPUs. 
+  * [Hacker figures how to unlock vGPU functionality intentionally hidden from certain NVIDIA cards for marketing purposes](https://www.reddit.com/r/linux/comments/mo0ay0/hacker_figures_how_to_unlock_vgpu_functionality/ "Hacker figures how to unlock vGPU functionality intentionally hidden from certain NVIDIA cards for marketing purposes")
+  * [Announcing KDE’s Qt 5 Patch Collection](https://dot.kde.org/2021/04/06/announcing-kdes-qt-5-patch-collection "Announcing KDE’s Qt 5 Patch Collection") — As Qt 5 support is drawing to a close, and we shift to Qt 6, we need to ensure that KDE products are as reliable as ever. To this end, KDE will be maintaining a set of patches with security and functional fixes so that we can enjoy good KDE Software still based on Qt5 until our software is reliably based on Qt 6. 
+  * [Mars Helicopter Flight Delayed to No Earlier than April 14](https://mars.nasa.gov/technology/helicopter/status/291/mars-helicopter-flight-delayed-to-no-earlier-than-april-14/ "Mars Helicopter Flight Delayed to No Earlier than April 14") — During a high-speed spin test of the rotors on Friday, the command sequence controlling the test ended early due to a “watchdog” timer expiration.
+  * [LUP 400 Beer Stein](https://www.zazzle.com/linux_unplugged_beer_stein-168297262422605246 "LUP 400 Beer Stein")
+
+
+
+## Tags
+
+[adblockers](https://linuxactionnews.com/tags/adblockers), [amazon](https://linuxactionnews.com/tags/amazon), [apple](https://linuxactionnews.com/tags/apple), [arm](https://linuxactionnews.com/tags/arm), [asahi linux](https://linuxactionnews.com/tags/asahi%20linux), [aws](https://linuxactionnews.com/tags/aws), [azure](https://linuxactionnews.com/tags/azure), [browser extensions](https://linuxactionnews.com/tags/browser%20extensions), [browser performance](https://linuxactionnews.com/tags/browser%20performance), [cloud](https://linuxactionnews.com/tags/cloud), [cname-unmasking](https://linuxactionnews.com/tags/cname-unmasking), [edid](https://linuxactionnews.com/tags/edid), [firefox](https://linuxactionnews.com/tags/firefox), [fragmentation](https://linuxactionnews.com/tags/fragmentation), [freedesktop.org](https://linuxactionnews.com/tags/freedesktop.org), [google](https://linuxactionnews.com/tags/google), [google chrome](https://linuxactionnews.com/tags/google%20chrome), [hector martin](https://linuxactionnews.com/tags/hector%20martin), [icloud](https://linuxactionnews.com/tags/icloud), [ingenuity](https://linuxactionnews.com/tags/ingenuity), [iommu](https://linuxactionnews.com/tags/iommu), [kde qt 5 patch collection](https://linuxactionnews.com/tags/kde%20qt%205%20patch%20collection), [linux 5.13](https://linuxactionnews.com/tags/linux%205.13), [linux action news](https://linuxactionnews.com/tags/linux%20action%20news), [linux desktop](https://linuxactionnews.com/tags/linux%20desktop), [linux graphics](https://linuxactionnews.com/tags/linux%20graphics), [linux kernel](https://linuxactionnews.com/tags/linux%20kernel), [linux news podcast](https://linuxactionnews.com/tags/linux%20news%20podcast), [linux-next](https://linuxactionnews.com/tags/linux-next), [m1](https://linuxactionnews.com/tags/m1), [mars](https://linuxactionnews.com/tags/mars), [michael larabel](https://linuxactionnews.com/tags/michael%20larabel), [microsoft](https://linuxactionnews.com/tags/microsoft), [mouser electronics](https://linuxactionnews.com/tags/mouser%20electronics), [mozilla](https://linuxactionnews.com/tags/mozilla), [nasa](https://linuxactionnews.com/tags/nasa), [nvidia](https://linuxactionnews.com/tags/nvidia), [pcie](https://linuxactionnews.com/tags/pcie), [perseverance](https://linuxactionnews.com/tags/perseverance), [phoronix](https://linuxactionnews.com/tags/phoronix), [plasma](https://linuxactionnews.com/tags/plasma), [qt](https://linuxactionnews.com/tags/qt), [qt 6](https://linuxactionnews.com/tags/qt%206), [quantum](https://linuxactionnews.com/tags/quantum), [risc-v](https://linuxactionnews.com/tags/risc-v), [rust](https://linuxactionnews.com/tags/rust), [science](https://linuxactionnews.com/tags/science), [servo](https://linuxactionnews.com/tags/servo), [sifive hifive unmatched](https://linuxactionnews.com/tags/sifive%20hifive%20unmatched), [space exploration](https://linuxactionnews.com/tags/space%20exploration), [ublock origin](https://linuxactionnews.com/tags/ublock%20origin), [vaapi](https://linuxactionnews.com/tags/vaapi), [vgpu](https://linuxactionnews.com/tags/vgpu), [vgpu_unlock](https://linuxactionnews.com/tags/vgpu_unlock), [virtual gpu](https://linuxactionnews.com/tags/virtual%20gpu), [virtualization](https://linuxactionnews.com/tags/virtualization), [wayland](https://linuxactionnews.com/tags/wayland), [webrender](https://linuxactionnews.com/tags/webrender)

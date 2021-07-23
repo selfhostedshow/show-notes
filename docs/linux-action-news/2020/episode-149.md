@@ -1,0 +1,39 @@
+# 149: Linux Action News 149
+
+<iframe src="https://player.fireside.fm/v2/DAcK9LdX+9wAjPBb8?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+* Air Date: 2020-03-14
+* Duration: 26 mins 8 secs
+
+## About this episode
+
+Solid releases from GNOME and Firefox, bad news for custom Android ROM users, and a new container distro from Amazon.
+
+## Your hosts
+* [Joe Ressington](https://linuxactionnews.com/hosts/joe)
+* [Drew DeVore](https://linuxactionnews.com/hosts/drewdvore)
+* [Wes Payne](https://linuxactionnews.com/hosts/wes)
+
+## Sponsored by
+
+None
+
+
+
+## Episode links
+
+  * [Firefox 74 arrives with stricter add-on rules, TLS 1.0 and TLS 1.1 disabled](https://venturebeat.com/2020/03/10/mozilla-firefox-74/ "Firefox 74 arrives with stricter add-on rules, TLS 1.0 and TLS 1.1 disabled") — Starting with Firefox 74, users will need to take explicit action to install the extensions they want, and will be able to remove previously sideloaded extensions when they want to.
+  * [Introducing GNOME 3.36: “Gresik”](https://help.gnome.org/misc/release-notes/3.36/ "Introducing GNOME 3.36: “Gresik”") — GNOME 3.36 is the latest version of GNOME 3, and is the result of 6 months’ hard work by the GNOME community. It contains major new features, such as new login and unlock experience, and a dedicated app for managing extensions.
+  * [GNOME 3.36 Released with New Lock Screen, Better Performance](https://www.omgubuntu.co.uk/2020/03/gnome-3-36-official-release-announcement "GNOME 3.36 Released with New Lock Screen, Better Performance") — Six months of development later and the official GNOME 3.36 release is finally here, with source code available to download from the usual places.
+  * [Announcing Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2020/03/announcing-bottlerocket-a-new-open-source-linux-based-operating-system-optimized-to-run-containers/ "Announcing Bottlerocket") — Bottlerocket comes with a single-step update mechanism and includes only the essential software to run containers. These properties enable customers to use container orchestrators to manage OS updates with minimal disruptions, enabling better uptime for containerized applications and lower operational cost.
+  * [Docker: Helping You and Your Development Team Build and Ship Faster](https://www.docker.com/blog/docker-strategy-helping-devs-build-and-ship-faster/ "Docker: Helping You and Your Development Team Build and Ship Faster") — How are we going to do this? By focusing on developer experience through Docker Desktop, partnering with the ecosystem, and making Docker Hub the nexus for all the integrations, configuration, and management of the application components which constitute your apps and microservices. 
+  * [VMware Announces Expanded Portfolio of Products and Services to Help Customers Modernize Applications and Infrastructure](https://www.vmware.com/company/news/releases/vmw-newsfeed.VMware-Announces-Expanded-Portfolio-of-Products-and-Services-to-Help-Customers-Modernize-Applications-and-Infrastructure.7ee66a70-1564-49d6-9d6b-730016ce92dc.html "VMware Announces Expanded Portfolio of Products and Services to Help Customers Modernize Applications and Infrastructure") — Tanzu, first introduced at the VMworld event in August 2019, is a portfolio of products centered on K8s. Also announced was vSphere 7, newly rearchitected using Kubernetes, and optimized to run both modern container-based and traditional virtual machine-based workloads.
+  * [KaiOS Technologies and Mozilla partner to enable a healthy mobile internet for everyone](https://www.kaiostech.com/press/kaios-technologies-and-mozilla-partner-to-enable-a-healthy-mobile-internet-for-everyone/ "KaiOS Technologies and Mozilla partner to enable a healthy mobile internet for everyone") — This partnership bolsters the security and performance of KaiOS-enabled smart feature phones, as well as the platform’s developer tools, security, and available functions, including better Progressive Web App and WebAssembly support. 
+  * [Magisk may no longer be able to hide bootloader unlocking from apps](https://www.xda-developers.com/magisk-no-longer-hide-bootloader-unlock-status/ "Magisk may no longer be able to hide bootloader unlocking from apps") — Users have noticed that their bootloader-unlocked devices are failing SafetyNet’s Basic Integrity check even though they used Magisk to patch the boot image. According to Magisk creator John Wu, this is because Google may have implemented hardware-level key attestation to verify that the boot image has not been tampered with. 
+  * [Kernels for WSL2 will come from Windows Update](https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/ "Kernels for WSL2 will come from Windows Update") — WSL2 will soon be officially available as part of Windows 10, version 2004! As we get ready for general availability, we want to share one additional change: updating how the Linux kernel inside of WSL2 is installed and serviced on your machine. 
+
+
+
+## Tags
+
+[a cloud guru](https://linuxactionnews.com/tags/a%20cloud%20guru), [add-ons](https://linuxactionnews.com/tags/add-ons), [amazon](https://linuxactionnews.com/tags/amazon), [android](https://linuxactionnews.com/tags/android), [aws](https://linuxactionnews.com/tags/aws), [bitnami](https://linuxactionnews.com/tags/bitnami), [bottlerocket](https://linuxactionnews.com/tags/bottlerocket), [cd](https://linuxactionnews.com/tags/cd), [ci](https://linuxactionnews.com/tags/ci), [containers](https://linuxactionnews.com/tags/containers), [docker](https://linuxactionnews.com/tags/docker), [docker desktop](https://linuxactionnews.com/tags/docker%20desktop), [docker hub](https://linuxactionnews.com/tags/docker%20hub), [extensions](https://linuxactionnews.com/tags/extensions), [feature phone](https://linuxactionnews.com/tags/feature%20phone), [firefox 74](https://linuxactionnews.com/tags/firefox%2074), [gnome 3.36](https://linuxactionnews.com/tags/gnome%203.36), [google play](https://linuxactionnews.com/tags/google%20play), [gresik](https://linuxactionnews.com/tags/gresik), [jupiter broadcasting](https://linuxactionnews.com/tags/jupiter%20broadcasting), [k8s](https://linuxactionnews.com/tags/k8s), [kaios](https://linuxactionnews.com/tags/kaios), [kubernetes](https://linuxactionnews.com/tags/kubernetes), [linux academy](https://linuxactionnews.com/tags/linux%20academy), [linux action show](https://linuxactionnews.com/tags/linux%20action%20show), [linux news podcast](https://linuxactionnews.com/tags/linux%20news%20podcast), [linux weekly podcast](https://linuxactionnews.com/tags/linux%20weekly%20podcast), [magisk](https://linuxactionnews.com/tags/magisk), [microsoft](https://linuxactionnews.com/tags/microsoft), [microsoft edge](https://linuxactionnews.com/tags/microsoft%20edge), [mobile](https://linuxactionnews.com/tags/mobile), [mozilla](https://linuxactionnews.com/tags/mozilla), [pivotal](https://linuxactionnews.com/tags/pivotal), [root](https://linuxactionnews.com/tags/root), [rust](https://linuxactionnews.com/tags/rust), [saas](https://linuxactionnews.com/tags/saas), [safetynet](https://linuxactionnews.com/tags/safetynet), [software development](https://linuxactionnews.com/tags/software%20development), [ssh](https://linuxactionnews.com/tags/ssh), [tanzu](https://linuxactionnews.com/tags/tanzu), [tls](https://linuxactionnews.com/tags/tls), [update](https://linuxactionnews.com/tags/update), [virtualization](https://linuxactionnews.com/tags/virtualization), [vmware](https://linuxactionnews.com/tags/vmware), [vsphere 7](https://linuxactionnews.com/tags/vsphere%207), [wsl2](https://linuxactionnews.com/tags/wsl2)
