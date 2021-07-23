@@ -3,7 +3,8 @@ name: Scrape and commit
 on:
   schedule:
     # 9am on a friday
-    - cron:  '00 09 * * 5'
+    #- cron:  '00 09 * * 5'
+    - cron:  '00 09 * * *'
   push:
     branches:
       - main
