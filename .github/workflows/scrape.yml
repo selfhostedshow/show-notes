@@ -2,10 +2,20 @@ name: Scrape and commit
 
 on:
   schedule:
-    - cron:  '00 12 * * *'
+    # 9am on a friday
+    - cron:  '00 09 * * 5'
   push:
     branches:
       - main
+  rss:
+    url:
+      - https://feeds.fireside.fm/selfhosted/rss
+      - https://feeds.fireside.fm/coder/rss
+      - https://feeds.fireside.fm/linuxunplugged/rss
+      - https://feeds.fireside.fm/linuxactionnews/rss
+      - https://feeds.fireside.fm/extras/rss
+    config:
+      limit: 15
 
 jobs:
   scrape:
