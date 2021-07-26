@@ -1,4 +1,4 @@
-# 242: Debian on the Fly
+# LUP 242: Debian on the Fly
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+dscNaQBD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

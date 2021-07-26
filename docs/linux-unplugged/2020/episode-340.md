@@ -1,4 +1,4 @@
-# 340: IRC is Dead
+# LUP 340: IRC is Dead
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+dI0AE1Nc?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

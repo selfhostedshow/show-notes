@@ -1,4 +1,4 @@
-# 022: Slow Cooked Servers
+# SSH 022: Slow Cooked Servers
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+3qHmnlt9?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

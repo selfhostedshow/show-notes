@@ -1,4 +1,4 @@
-# 188: Celebrating Linux on Pi Day
+# LUP 188: Celebrating Linux on Pi Day
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+vlmRAeMT?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

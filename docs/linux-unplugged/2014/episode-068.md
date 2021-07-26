@@ -1,4 +1,4 @@
-# 068: Linux Powered Schools
+# LUP 068: Linux Powered Schools
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+H24KFLNR?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

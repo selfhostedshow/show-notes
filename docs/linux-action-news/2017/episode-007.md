@@ -1,4 +1,4 @@
-# 007: Linux Action News 7
+# LAN 007: Linux Action News 7
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+a1-e3Hdl?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

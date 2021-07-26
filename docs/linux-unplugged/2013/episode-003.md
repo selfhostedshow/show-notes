@@ -1,4 +1,4 @@
-# 003: Go Dock Yourself
+# LUP 003: Go Dock Yourself
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+vZ2wFCz3?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

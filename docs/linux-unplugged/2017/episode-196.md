@@ -1,4 +1,4 @@
-# 196: Orange is the new Red (Hat)
+# LUP 196: Orange is the new Red (Hat)
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+o6A9tqOW?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

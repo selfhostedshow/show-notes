@@ -1,4 +1,4 @@
-# 132: Librem 15 is FAN-tastic!
+# LUP 132: Librem 15 is FAN-tastic!
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+PNhwxkJu?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 327: Smoked Laptops
+# CR 327: Smoked Laptops
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+x9EbE0Br?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

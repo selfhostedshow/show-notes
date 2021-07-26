@@ -1,4 +1,4 @@
-# 102: Canonical, Dell & AMD Games
+# LUP 102: Canonical, Dell & AMD Games
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+dpA6FWq5?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

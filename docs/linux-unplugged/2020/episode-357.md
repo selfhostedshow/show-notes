@@ -1,4 +1,4 @@
-# 357: The Little Distro That Could
+# LUP 357: The Little Distro That Could
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+MyEvBtLE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

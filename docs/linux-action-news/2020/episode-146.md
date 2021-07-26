@@ -1,4 +1,4 @@
-# 146: Linux Action News 146
+# LAN 146: Linux Action News 146
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+D6xhD4ew?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

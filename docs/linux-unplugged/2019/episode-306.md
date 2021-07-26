@@ -1,4 +1,4 @@
-# 306: Flipping FreeNAS for Fedora
+# LUP 306: Flipping FreeNAS for Fedora
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+ijh6XFys?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

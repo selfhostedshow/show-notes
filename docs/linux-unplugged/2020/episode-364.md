@@ -1,4 +1,4 @@
-# 364: Linux Arm Wrestling
+# LUP 364: Linux Arm Wrestling
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+52JVmLur?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

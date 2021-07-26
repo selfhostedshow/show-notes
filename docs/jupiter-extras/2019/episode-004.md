@@ -1,4 +1,4 @@
-# 004: Dell's New Ubuntu Hardware for Late 2019
+# JE 004: Dell's New Ubuntu Hardware for Late 2019
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+CwE4PH5N?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 316: Self-Hosted Secrets
+# LUP 316: Self-Hosted Secrets
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+FlTkAx2T?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

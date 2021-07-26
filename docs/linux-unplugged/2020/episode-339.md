@@ -1,4 +1,4 @@
-# 339: The Mint Mindset
+# LUP 339: The Mint Mindset
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+LGDsE62Z?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

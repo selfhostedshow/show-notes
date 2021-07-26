@@ -1,4 +1,4 @@
-# 301: Peak Red Hat
+# LUP 301: Peak Red Hat
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+AwsbMqZi?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

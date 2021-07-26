@@ -1,4 +1,4 @@
-# 357: 3 OSes 1 GPU
+# CR 357: 3 OSes 1 GPU
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+ENiXpL0g?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

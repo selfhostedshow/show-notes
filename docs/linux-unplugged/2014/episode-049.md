@@ -1,4 +1,4 @@
-# 049: Rapid Fire Journalism
+# LUP 049: Rapid Fire Journalism
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+4L1GASTU?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

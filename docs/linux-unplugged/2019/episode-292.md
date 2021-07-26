@@ -1,4 +1,4 @@
-# 292: Cheese on the SCaLE
+# LUP 292: Cheese on the SCaLE
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+LjX6Olgq?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

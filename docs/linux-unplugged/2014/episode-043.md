@@ -1,4 +1,4 @@
-# 043: Mint 17: Fresh or Stagnant?
+# LUP 043: Mint 17: Fresh or Stagnant?
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+6tKeCtXR?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 246: The Bionic Bet
+# LUP 246: The Bionic Bet
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+mAPanm2V?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

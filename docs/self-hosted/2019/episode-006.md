@@ -1,4 +1,4 @@
-# 006: Low Cost Home Camera System
+# SSH 006: Low Cost Home Camera System
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+DJc4_RF-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 377: An Epic Underdog
+# CR 377: An Epic Underdog
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+CgSbmxzz?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

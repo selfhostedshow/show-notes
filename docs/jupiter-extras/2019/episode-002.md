@@ -1,4 +1,4 @@
-# 002: Ell's Trip to Hacker Summer Camp
+# JE 002: Ell's Trip to Hacker Summer Camp
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+0fgUbBW-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 013: IRC is Not Dead
+# SSH 013: IRC is Not Dead
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+ajjedyNx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 069: Perfect Linux Laptop
+# LUP 069: Perfect Linux Laptop
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+jy3i0C0h?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 397: Electron Ennui
+# CR 397: Electron Ennui
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+rYEWGkW9?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 308: The One About GPU Passthrough
+# LUP 308: The One About GPU Passthrough
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+9ZRzR3sB?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

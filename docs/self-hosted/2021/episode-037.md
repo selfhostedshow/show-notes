@@ -1,4 +1,4 @@
-# 037: Security Growing Pains
+# SSH 037: Security Growing Pains
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+bYOeqY06?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

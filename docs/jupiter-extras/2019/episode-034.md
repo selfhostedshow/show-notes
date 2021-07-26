@@ -1,4 +1,4 @@
-# 034: popey on ThinkPads
+# JE 034: popey on ThinkPads
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+YsvrU-3Y?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

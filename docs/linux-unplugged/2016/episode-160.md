@@ -1,4 +1,4 @@
-# 160: Binary Decisions
+# LUP 160: Binary Decisions
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+ZSg505NJ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

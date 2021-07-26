@@ -1,4 +1,4 @@
-# 241: Snitching on SCaLE
+# LUP 241: Snitching on SCaLE
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+ryAr_meA?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

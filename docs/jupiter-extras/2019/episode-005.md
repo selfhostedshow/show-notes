@@ -1,4 +1,4 @@
-# 005: The Enthusiast Trap - Office Hours with Chris
+# JE 005: The Enthusiast Trap - Office Hours with Chris
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+vzSVFbsB?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

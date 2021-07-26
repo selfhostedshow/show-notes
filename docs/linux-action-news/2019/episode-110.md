@@ -1,4 +1,4 @@
-# 110: Linux Action News 110
+# LAN 110: Linux Action News 110
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+4_KgFkCs?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

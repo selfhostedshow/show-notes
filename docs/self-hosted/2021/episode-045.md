@@ -1,4 +1,4 @@
-# 045: The Future of Home Assistant
+# SSH 045: The Future of Home Assistant
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+bpVbwb3d?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

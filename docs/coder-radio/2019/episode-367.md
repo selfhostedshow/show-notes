@@ -1,4 +1,4 @@
-# 367: 10x Evilgineers
+# CR 367: 10x Evilgineers
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+_iRoUlYb?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

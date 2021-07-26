@@ -1,4 +1,4 @@
-# 290: Proper Pi Pedigree
+# LUP 290: Proper Pi Pedigree
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+QzN8371s?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

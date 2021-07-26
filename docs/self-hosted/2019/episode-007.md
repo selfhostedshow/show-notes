@@ -1,4 +1,4 @@
-# 007: Why We Love Home Assistant
+# SSH 007: Why We Love Home Assistant
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+5aeex-gJ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

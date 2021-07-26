@@ -1,4 +1,4 @@
-# 374: Perfect Nextcloud Setup
+# LUP 374: Perfect Nextcloud Setup
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+cemgNa9B?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

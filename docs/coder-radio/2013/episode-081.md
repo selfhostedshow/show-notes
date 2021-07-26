@@ -1,4 +1,4 @@
-# 081: The Freelancer Dilemma
+# CR 081: The Freelancer Dilemma
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+5d4EYVWM?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

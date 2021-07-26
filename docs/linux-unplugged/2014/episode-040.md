@@ -1,4 +1,4 @@
-# 040: Developers Get Qt
+# LUP 040: Developers Get Qt
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+0spqqTgx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

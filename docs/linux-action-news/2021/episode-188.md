@@ -1,4 +1,4 @@
-# 188: Linux Action News 188
+# LAN 188: Linux Action News 188
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+-XD6nhzD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

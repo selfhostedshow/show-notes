@@ -1,4 +1,4 @@
-# 124: Linux Action News 124
+# LAN 124: Linux Action News 124
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+Mk4kY5HJ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

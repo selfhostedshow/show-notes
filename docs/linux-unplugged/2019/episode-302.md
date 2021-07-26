@@ -1,4 +1,4 @@
-# 302: Dark Style Rises
+# LUP 302: Dark Style Rises
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+tYwZ9sra?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

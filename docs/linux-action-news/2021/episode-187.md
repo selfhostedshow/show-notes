@@ -1,4 +1,4 @@
-# 187: Linux Action News 187
+# LAN 187: Linux Action News 187
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+qr0BY39_?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

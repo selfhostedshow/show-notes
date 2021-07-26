@@ -1,4 +1,4 @@
-# 151: Linux Action News 151
+# LAN 151: Linux Action News 151
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+YXwuX0P4?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

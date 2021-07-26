@@ -1,4 +1,4 @@
-# 008: Linux Action News 8
+# LAN 008: Linux Action News 8
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+Xb6IK1wI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

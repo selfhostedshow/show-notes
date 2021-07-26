@@ -1,4 +1,4 @@
-# 097: Open Source, Closed Wallets
+# CR 097: Open Source, Closed Wallets
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+zvLwpky8?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

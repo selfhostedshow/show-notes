@@ -1,4 +1,4 @@
-# 126: Linux Action News 126
+# LAN 126: Linux Action News 126
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+9PFTGs7t?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

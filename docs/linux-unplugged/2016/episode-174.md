@@ -1,4 +1,4 @@
-# 174: Mesh of Thoughts
+# LUP 174: Mesh of Thoughts
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+dILdhq1P?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

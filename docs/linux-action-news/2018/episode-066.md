@@ -1,4 +1,4 @@
-# 066: Linux Action News 66
+# LAN 066: Linux Action News 66
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+ac_fXnyj?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

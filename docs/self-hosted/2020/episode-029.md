@@ -1,4 +1,4 @@
-# 029: Perils of Self-Hosting
+# SSH 029: Perils of Self-Hosting
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+0RtEKcla?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

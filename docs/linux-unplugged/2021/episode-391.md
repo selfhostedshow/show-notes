@@ -1,4 +1,4 @@
-# 391: GNOME 40ified
+# LUP 391: GNOME 40ified
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+pWgp3Wsf?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

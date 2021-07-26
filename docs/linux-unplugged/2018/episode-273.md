@@ -1,4 +1,4 @@
-# 273: International Hat Machines
+# LUP 273: International Hat Machines
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+Yw8PZvTJ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
