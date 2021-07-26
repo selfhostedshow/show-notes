@@ -1,4 +1,4 @@
-# 155: Google's Brillo Pad | CR 155
+# 155: Google's Brillo Pad
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+uKWauMTB?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

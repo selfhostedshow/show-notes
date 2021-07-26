@@ -1,4 +1,4 @@
-# 144: Apple Future vs Pebble Past | CR 144
+# 144: Apple Future vs Pebble Past
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+wnofbul0?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

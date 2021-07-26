@@ -1,4 +1,4 @@
-# 072: Best of LUP 2014 | LUP 72
+# 072: Best of LUP 2014
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+Y5qyeHkn?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

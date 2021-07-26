@@ -1,4 +1,4 @@
-# 061: Office Hours | CR 61
+# 061: Office Hours
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+zixMx1ns?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

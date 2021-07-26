@@ -1,4 +1,4 @@
-# 191: What’s a Distro? | LUP 191
+# 191: What’s a Distro?
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+HhAmhibT?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

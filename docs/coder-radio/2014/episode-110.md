@@ -1,4 +1,4 @@
-# 110: Manual Design | CR 110
+# 110: Manual Design
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+QACMw3TF?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

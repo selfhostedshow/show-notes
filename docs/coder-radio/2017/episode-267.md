@@ -1,4 +1,4 @@
-# 267: Skills to Pay the Bills | CR 267
+# 267: Skills to Pay the Bills
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+YdfeF1v8?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

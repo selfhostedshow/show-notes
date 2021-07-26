@@ -1,4 +1,4 @@
-# 181: A Brisk MATE for Solus | LUP 181
+# 181: A Brisk MATE for Solus
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+rLGWsvfw?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

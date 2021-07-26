@@ -1,4 +1,4 @@
-# 010: The Ubuntu Hangover | LINUX Unplugged 10
+# 010: The Ubuntu Hangover
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+WYGcdSAA?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

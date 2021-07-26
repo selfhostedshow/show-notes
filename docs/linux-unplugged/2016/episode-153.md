@@ -1,4 +1,4 @@
-# 153: One NAT to Rule Them | LUP 153
+# 153: One NAT to Rule Them
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+hNCgywP_?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

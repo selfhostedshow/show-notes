@@ -1,4 +1,4 @@
-# 173: Upgrade vs Nuke 'n Pave | LUP 173
+# 173: Upgrade vs Nuke 'n Pave
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+ucwKVfPI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

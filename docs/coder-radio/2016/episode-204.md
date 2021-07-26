@@ -1,4 +1,4 @@
-# 204: Revenge of the Swift | CR 204
+# 204: Revenge of the Swift
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+HCxJ_tGa?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

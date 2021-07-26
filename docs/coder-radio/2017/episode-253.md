@@ -1,4 +1,4 @@
-# 253: 4k of Sin | CR 253
+# 253: 4k of Sin
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+l6A9DtXm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

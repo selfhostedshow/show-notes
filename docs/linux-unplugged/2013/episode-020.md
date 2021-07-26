@@ -1,4 +1,4 @@
-# 020: Fidel Chromecastro | LUP 20
+# 020: Fidel Chromecastro
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+d4-fxnsf?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

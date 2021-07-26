@@ -1,4 +1,4 @@
-# 116: What's New MATE | LUP 116
+# 116: What's New MATE
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+hMmUqehf?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

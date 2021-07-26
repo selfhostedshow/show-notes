@@ -1,4 +1,4 @@
-# 199: No Samba No Cry | LUP 199
+# 199: No Samba No Cry
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+kCEeP4yR?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

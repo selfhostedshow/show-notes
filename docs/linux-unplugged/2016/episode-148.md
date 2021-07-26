@@ -1,4 +1,4 @@
-# 148: Mind on my Cloud & Cloud on my Mind | LUP 148
+# 148: Mind on my Cloud & Cloud on my Mind
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+ET4xPc8k?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

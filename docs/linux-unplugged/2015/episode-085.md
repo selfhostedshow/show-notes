@@ -1,4 +1,4 @@
-# 085: Give the Kids Linux | LUP 85
+# 085: Give the Kids Linux
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+LT1GW5X1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

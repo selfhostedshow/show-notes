@@ -1,4 +1,4 @@
-# 184: Mike’s Big Year | CR 184
+# 184: Mike’s Big Year
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+A7d2Be1-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

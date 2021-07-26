@@ -1,4 +1,4 @@
-# 210: Total Solus Eclipse | LUP 210
+# 210: Total Solus Eclipse
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+7wKj5mnz?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

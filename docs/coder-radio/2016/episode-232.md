@@ -1,4 +1,4 @@
-# 232: Minimal Functional Product | CR 232
+# 232: Minimal Functional Product
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+d8konAXY?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

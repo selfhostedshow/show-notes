@@ -1,4 +1,4 @@
-# 058: The 56k Solution | CR 58
+# 058: The 56k Solution
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+8mYPOX6m?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

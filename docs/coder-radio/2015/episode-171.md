@@ -1,4 +1,4 @@
-# 171: Coder Craftsmen | CR 171
+# 171: Coder Craftsmen
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+YBxSb4fX?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

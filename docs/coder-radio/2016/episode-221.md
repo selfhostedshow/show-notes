@@ -1,4 +1,4 @@
-# 221: Bag of jQuery | CR 221
+# 221: Bag of jQuery
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+9fizPcFx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

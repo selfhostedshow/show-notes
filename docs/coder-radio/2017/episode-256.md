@@ -1,4 +1,4 @@
-# 256: Legalize Math | CR 256
+# 256: Legalize Math
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+7bzi7N2y?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

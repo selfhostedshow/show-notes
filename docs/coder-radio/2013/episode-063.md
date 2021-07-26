@@ -1,4 +1,4 @@
-# 063: Mozilla Persona | CR 63
+# 063: Mozilla Persona
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+KGsnPAKs?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

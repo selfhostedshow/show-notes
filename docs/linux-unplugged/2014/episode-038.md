@@ -1,4 +1,4 @@
-# 038: The Rest of the Fest | LUP 38
+# 038: The Rest of the Fest
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+213tJ9xt?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

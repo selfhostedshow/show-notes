@@ -1,4 +1,4 @@
-# 129: Shaky Linux Foundations | LUP 129
+# 129: Shaky Linux Foundations
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+LN_y3G8a?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

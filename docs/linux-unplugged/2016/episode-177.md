@@ -1,4 +1,4 @@
-# 177: The Many Faces of Linux | LUP 177
+# 177: The Many Faces of Linux
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+gXqvtCWB?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 098: Not OK Google | LUP 98
+# 098: Not OK Google
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+TK2k_auS?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

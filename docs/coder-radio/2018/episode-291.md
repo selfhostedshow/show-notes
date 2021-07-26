@@ -1,4 +1,4 @@
-# 291: Hey Google | CR 291
+# 291: Hey Google
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+yu3swZw4?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

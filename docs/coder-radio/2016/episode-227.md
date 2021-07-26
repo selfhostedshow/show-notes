@@ -1,4 +1,4 @@
-# 227: Everybody's Keyboard Fighting | CR 227
+# 227: Everybody's Keyboard Fighting
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+zB0RLLpk?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

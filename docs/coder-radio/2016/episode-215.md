@@ -1,4 +1,4 @@
-# 215: Real Life on the Ratel | CR 215
+# 215: Real Life on the Ratel
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+b-eHOj7j?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 185: Predictive Coder | CR 185
+# 185: Predictive Coder
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+PPWPFeaO?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 200: Bot Your Life | CR 200
+# 200: Bot Your Life
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+-CG52XQg?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 106: Connecting the Docks | LUP 106
+# 106: Connecting the Docks
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+nHQ-Z3B-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

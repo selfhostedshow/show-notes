@@ -1,4 +1,4 @@
-# 171: Uncontained Human Error | LUP 171
+# 171: Uncontained Human Error
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+2JRuhD6j?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

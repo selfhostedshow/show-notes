@@ -1,4 +1,4 @@
-# 226: Coder Profiling | CR 226
+# 226: Coder Profiling
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+drtOlEYz?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

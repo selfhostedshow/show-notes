@@ -1,4 +1,4 @@
-# 206: Beardy McBeardface | LUP 206
+# 206: Beardy McBeardface
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+T9jIcUhp?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

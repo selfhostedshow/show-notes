@@ -1,4 +1,4 @@
-# 107: New Hotness Exhaustion | CR 107
+# 107: New Hotness Exhaustion
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+CL6AVSyY?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

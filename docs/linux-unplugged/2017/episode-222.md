@@ -1,4 +1,4 @@
-# 222: A Community Divided | LUP 222
+# 222: A Community Divided
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+s91SVGj6?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

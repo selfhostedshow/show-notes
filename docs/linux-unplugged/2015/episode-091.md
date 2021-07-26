@@ -1,4 +1,4 @@
-# 091: Open Source Kollaboration | LUP 91
+# 091: Open Source Kollaboration
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+IhRExNPq?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

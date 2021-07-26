@@ -1,4 +1,4 @@
-# 285: Windows 10, The Best Linux Yet? | CR 285
+# 285: Windows 10, The Best Linux Yet?
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+tsndEJl4?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

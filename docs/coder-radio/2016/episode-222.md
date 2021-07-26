@@ -1,4 +1,4 @@
-# 222: Rusty Support | CR 222
+# 222: Rusty Support
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+o_5VGnF3?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

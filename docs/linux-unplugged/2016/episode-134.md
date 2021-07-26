@@ -1,4 +1,4 @@
-# 134: Pi 3: The Next Generation | LUP 134
+# 134: Pi 3: The Next Generation
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+D9_9q6bm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

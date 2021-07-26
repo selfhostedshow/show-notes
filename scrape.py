@@ -36,6 +36,20 @@ def get_duration(seconds):
     return f"{minutes} mins {seconds} secs"
 
 
+def get_plain_title(title: str):
+    """
+    Get just the show title, without any numbering etc
+    """
+    # Remove number before colon
+    title = title.split(":", 1)[-1]
+
+    # Remove data after the pipe
+    title = title.rsplit("|", 1)[0]
+
+    # Strip any stray spaces
+    return title.strip()
+
+
 def create_episode(api_episode, base_url, output_dir):
     # RANT: What kind of API doesn't give the episode number?!
     episode_number = int(api_episode["url"].split("/")[-1])
@@ -82,7 +96,7 @@ def create_episode(api_episode, base_url, output_dir):
     output = TEMPLATE.render(
         {
             "title": api_episode["title"],
-            "title_plain": api_episode["title"].split(":", 1)[-1].strip(),
+            "title_plain": get_plain_title(api_episode["title"]),
             "episode_number": episode_number,
             "episode_number_padded": episode_number_padded,
             "url": api_episode["url"],

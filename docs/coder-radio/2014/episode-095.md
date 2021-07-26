@@ -1,4 +1,4 @@
-# 095: The Blame Game | CR 95
+# 095: The Blame Game
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+mnOjz0Yd?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

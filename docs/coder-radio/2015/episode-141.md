@@ -1,4 +1,4 @@
-# 141: Retro Extravaganza | CR 141
+# 141: Retro Extravaganza
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+fl3dcNam?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 172: Advertising Cold War | CR 172
+# 172: Advertising Cold War
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+CI-LpjI5?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

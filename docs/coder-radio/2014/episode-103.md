@@ -1,4 +1,4 @@
-# 103: WWDC Predictions 2014 | CR 103
+# 103: WWDC Predictions 2014
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+TI-3ZPiD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

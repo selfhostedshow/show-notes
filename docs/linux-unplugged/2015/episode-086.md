@@ -1,4 +1,4 @@
-# 086: Evolve Your OS | LUP 86
+# 086: Evolve Your OS
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+qsDnD3C4?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

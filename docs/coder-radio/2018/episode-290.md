@@ -1,4 +1,4 @@
-# 290: The Last Coder | CR 290
+# 290: The Last Coder
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+77OKh0ll?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

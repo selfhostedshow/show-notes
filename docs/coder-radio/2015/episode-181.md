@@ -1,4 +1,4 @@
-# 181: Code a Little Deeper | CR 181
+# 181: Code a Little Deeper
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+aPWQduUh?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

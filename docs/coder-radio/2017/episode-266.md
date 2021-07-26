@@ -1,4 +1,4 @@
-# 266: Mike the Botter | CR 266
+# 266: Mike the Botter
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+K0dHbPb1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

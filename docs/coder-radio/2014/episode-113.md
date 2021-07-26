@@ -1,4 +1,4 @@
-# 113: Corner of Shame | CR 113
+# 113: Corner of Shame
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+xWuHGjfq?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

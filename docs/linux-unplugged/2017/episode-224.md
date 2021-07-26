@@ -1,4 +1,4 @@
-# 224: No Escape from Google | LUP 224
+# 224: No Escape from Google
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+Q9Ozz4a1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

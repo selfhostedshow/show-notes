@@ -1,4 +1,4 @@
-# 179: I Came, I Saw, Ionic | CR 179
+# 179: I Came, I Saw, Ionic
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+O_FZnKM9?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 260: The WWDC17 Episode | CR 260
+# 260: The WWDC17 Episode
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+JXVlxV-z?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

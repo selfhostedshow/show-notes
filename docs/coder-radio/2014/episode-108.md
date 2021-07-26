@@ -1,4 +1,4 @@
-# 108: Materially Excited | CR 108
+# 108: Materially Excited
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+sjiESkkN?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

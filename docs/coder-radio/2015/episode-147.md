@@ -1,4 +1,4 @@
-# 147: The Sonic Philosophy | CR 147
+# 147: The Sonic Philosophy
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+DrUPv0gi?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

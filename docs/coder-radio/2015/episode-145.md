@@ -1,4 +1,4 @@
-# 145: Why Mike's Disgusted by Android | CR 145
+# 145: Why Mike's Disgusted by Android
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+b1xwdsT3?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 279: Evolving Software Development | CR 279
+# 279: Evolving Software Development
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+bLc9iuRP?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 170: Apple Strokes The Tip | CR 170
+# 170: Apple Strokes The Tip
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+x59z8aNv?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

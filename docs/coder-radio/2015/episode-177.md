@@ -1,4 +1,4 @@
-# 177: Coder Puppy Mills | CR 177
+# 177: Coder Puppy Mills
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+BtfaO9ap?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

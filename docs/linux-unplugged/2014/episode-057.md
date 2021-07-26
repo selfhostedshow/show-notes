@@ -1,4 +1,4 @@
-# 057: systemd Haters Busted | LUP 57
+# 057: systemd Haters Busted
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+xKe9oX8m?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

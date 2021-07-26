@@ -1,4 +1,4 @@
-# 125: Behind the Schemes | CR 125
+# 125: Behind the Schemes
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+CMsXgv_-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

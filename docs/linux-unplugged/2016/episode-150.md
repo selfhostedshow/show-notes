@@ -1,4 +1,4 @@
-# 150: War of the Packages | LUP 150
+# 150: War of the Packages
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+d72R0_hg?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

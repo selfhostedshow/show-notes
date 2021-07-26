@@ -1,4 +1,4 @@
-# 100: Still Minty Fresh | LUP 100
+# 100: Still Minty Fresh
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+5lZsv0BI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

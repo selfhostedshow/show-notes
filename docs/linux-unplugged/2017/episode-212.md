@@ -1,4 +1,4 @@
-# 212: The Free Phone Nightmare | LUP 212
+# 212: The Free Phone Nightmare
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+QroTyLeb?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

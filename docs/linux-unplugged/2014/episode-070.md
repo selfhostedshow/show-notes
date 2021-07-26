@@ -1,4 +1,4 @@
-# 070: Next Gen Fedora | LUP 70
+# 070: Next Gen Fedora
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+RanLpsxw?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

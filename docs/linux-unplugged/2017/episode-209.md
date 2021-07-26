@@ -1,4 +1,4 @@
-# 209: LILO and Slack(ware) | LUP 209
+# 209: LILO and Slack(ware)
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+1orf209e?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

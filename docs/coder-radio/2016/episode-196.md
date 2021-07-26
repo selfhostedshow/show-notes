@@ -1,4 +1,4 @@
-# 196: Hybrid Hijinks | CR 196
+# 196: Hybrid Hijinks
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+QGxG6-NM?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 095: Disjunctive Normal Fedora | LUP 95
+# 095: Disjunctive Normal Fedora
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+UQp6e_km?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

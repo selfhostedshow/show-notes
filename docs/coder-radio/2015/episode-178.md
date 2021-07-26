@@ -1,4 +1,4 @@
-# 178: Windows XP of the Net | CR 178
+# 178: Windows XP of the Net
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+X919Tbky?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

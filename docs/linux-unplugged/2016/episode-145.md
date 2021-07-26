@@ -1,4 +1,4 @@
-# 145: BuzzwordFS | LUP 145
+# 145: BuzzwordFS
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+vNjEI_bw?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

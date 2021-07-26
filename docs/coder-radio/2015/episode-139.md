@@ -1,4 +1,4 @@
-# 139: Windows in the Pi | CR 139
+# 139: Windows in the Pi
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+tnfN2u_c?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

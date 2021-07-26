@@ -1,4 +1,4 @@
-# 143: Can't Contain Linux | LUP 143
+# 143: Can't Contain Linux
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+EDTvZb9p?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

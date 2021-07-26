@@ -1,4 +1,4 @@
-# 169: Subscription Lock-in | CR 169
+# 169: Subscription Lock-in
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+EZfphBnm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

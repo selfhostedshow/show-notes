@@ -1,4 +1,4 @@
-# 128: .NET’s Open Future | CR 128
+# 128: .NET’s Open Future
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+RhWArCJB?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

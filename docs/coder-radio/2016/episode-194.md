@@ -1,4 +1,4 @@
-# 194: Xamarin through the Ages | CR 194
+# 194: Xamarin through the Ages
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+oSkPYsCE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 154: Pragmatic Idealism | LUP 154
+# 154: Pragmatic Idealism
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+GY-GRnRE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 223: Fedora’s New Trick | LUP 223
+# 223: Fedora’s New Trick
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+L4N1t9Pq?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

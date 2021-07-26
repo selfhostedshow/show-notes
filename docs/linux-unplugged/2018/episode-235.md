@@ -1,4 +1,4 @@
-# 235: Atomic Neon Kool-Aid  | LUP 235
+# 235: Atomic Neon Kool-Aid
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+3gY2QBny?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

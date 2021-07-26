@@ -1,4 +1,4 @@
-# 036: Beware of Underdog | LUP 36
+# 036: Beware of Underdog
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+UjVtqg-8?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

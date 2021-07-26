@@ -1,4 +1,4 @@
-# 263: The Guilty Bug | CR 263
+# 263: The Guilty Bug
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+1UVRbUFR?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

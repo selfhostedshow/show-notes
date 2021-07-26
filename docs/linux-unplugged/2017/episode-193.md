@@ -1,4 +1,4 @@
-# 193: Ubuntu's Bare Gnome | LUP 193
+# 193: Ubuntu's Bare Gnome
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+dYZ3vr_y?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 034: Drive-By Advice | LUP 34
+# 034: Drive-By Advice
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+RMendeow?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

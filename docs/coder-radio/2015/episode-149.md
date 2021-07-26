@@ -1,4 +1,4 @@
-# 149: The Sociopath Code | CR 149
+# 149: The Sociopath Code
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+brmPsR9S?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

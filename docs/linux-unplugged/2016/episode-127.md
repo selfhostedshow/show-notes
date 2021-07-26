@@ -1,4 +1,4 @@
-# 127: Sorry, I don't do Windows | LUP 127
+# 127: Sorry, I don't do Windows
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+v1kjpaXR?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

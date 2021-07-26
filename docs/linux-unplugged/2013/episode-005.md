@@ -1,4 +1,4 @@
-# 005: Wrath of Linus | LINUX Unplugged 5
+# 005: Wrath of Linus
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+g4OVK_Yh?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

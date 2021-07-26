@@ -1,4 +1,4 @@
-# 088: Paper Cuts Deep | CR 88
+# 088: Paper Cuts Deep
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+sRXmlMst?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

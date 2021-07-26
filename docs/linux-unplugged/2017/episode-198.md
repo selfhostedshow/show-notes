@@ -1,4 +1,4 @@
-# 198: Magic Device Cloud | LUP 198
+# 198: Magic Device Cloud
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+aryQ9DOD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 123: Mycroft and Chilli | LUP 123
+# 123: Mycroft and Chilli
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+MldoxiAW?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

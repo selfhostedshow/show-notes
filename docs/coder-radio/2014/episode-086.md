@@ -1,4 +1,4 @@
-# 086: Myth of Magic Methodology | CR 86
+# 086: Myth of Magic Methodology
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+STw1FPBI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

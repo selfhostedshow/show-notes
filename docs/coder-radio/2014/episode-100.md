@@ -1,4 +1,4 @@
-# 100: 0×64 | CR 100
+# 100: 0×64
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+fThJnSJE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

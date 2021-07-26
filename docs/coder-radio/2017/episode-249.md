@@ -1,4 +1,4 @@
-# 249: Just Some Tools | CR 249
+# 249: Just Some Tools
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+SKh95WIy?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

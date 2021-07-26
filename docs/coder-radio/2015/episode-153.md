@@ -1,4 +1,4 @@
-# 153: Bearded Buzzwords | CR 153
+# 153: Bearded Buzzwords
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+obkCn4af?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

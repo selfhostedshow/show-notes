@@ -1,4 +1,4 @@
-# 212: Derailing Java | CR 212
+# 212: Derailing Java
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+HMYjoDYS?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

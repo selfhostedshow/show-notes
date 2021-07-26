@@ -1,4 +1,4 @@
-# 021: Unplugging 2013 | LUP 21
+# 021: Unplugging 2013
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+y2h7LipZ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

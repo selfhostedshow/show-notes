@@ -1,4 +1,4 @@
-# 220: Docker Dumpster Fire | CR 220
+# 220: Docker Dumpster Fire
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+kFX6t3yM?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

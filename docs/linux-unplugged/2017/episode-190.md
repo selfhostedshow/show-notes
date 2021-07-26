@@ -1,4 +1,4 @@
-# 190: Boot Free or Die Tryin’ | LUP 190
+# 190: Boot Free or Die Tryin’
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+8eusTnUc?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 240: Disillusioned NixBeards | CR 240
+# 240: Disillusioned NixBeards
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+rQQCnE91?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

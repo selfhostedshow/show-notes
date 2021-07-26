@@ -1,4 +1,4 @@
-# 166: Hamburger Non-Helper | CR 166
+# 166: Hamburger Non-Helper
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+333Y_XXf?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

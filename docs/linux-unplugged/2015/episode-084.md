@@ -1,4 +1,4 @@
-# 084: On the Verge of Convergence | LUP 84
+# 084: On the Verge of Convergence
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+MGfEKnsp?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

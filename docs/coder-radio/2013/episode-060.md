@@ -1,4 +1,4 @@
-# 060: Call In 2.0 | CR 60
+# 060: Call In 2.0
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+dUe0wA41?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

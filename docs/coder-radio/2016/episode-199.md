@@ -1,4 +1,4 @@
-# 199: The Good Xamaritan | CR 199
+# 199: The Good Xamaritan
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+TB5-7j2v?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

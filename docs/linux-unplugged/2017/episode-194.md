@@ -1,4 +1,4 @@
-# 194: Internet of Troubles | LUP 194
+# 194: Internet of Troubles
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+eHSpYWwM?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 284: Popping WebAssembly Hype | CR 284
+# 284: Popping WebAssembly Hype
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+fQE87UBr?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

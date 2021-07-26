@@ -1,4 +1,4 @@
-# 014: Negative in the Practical Dimension | LUP 14
+# 014: Negative in the Practical Dimension
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+eKPNfn40?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 159: All Wimpy's Vault! | LUP 159
+# 159: All Wimpy's Vault!
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+VFauShnq?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

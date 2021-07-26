@@ -1,4 +1,4 @@
-# 289: Apple Payday | CR 289
+# 289: Apple Payday
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+zDlE2kfG?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

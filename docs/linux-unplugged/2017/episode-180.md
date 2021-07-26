@@ -1,4 +1,4 @@
-# 180: The Theory of Liri | LUP 180
+# 180: The Theory of Liri
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+5ies2Wpo?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

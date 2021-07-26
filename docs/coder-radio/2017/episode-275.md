@@ -1,4 +1,4 @@
-# 275: Reacting To React | CR 275
+# 275: Reacting To React
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+uc0jCuJK?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

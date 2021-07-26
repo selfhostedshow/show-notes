@@ -1,4 +1,4 @@
-# 065: OpenSUSE Followup | LINUX Unplugged 65
+# 065: OpenSUSE Followup
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+eiTpowqx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

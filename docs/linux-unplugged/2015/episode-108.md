@@ -1,4 +1,4 @@
-# 108: Insecurity by Design | LUP 108
+# 108: Insecurity by Design
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+E9syPEq5?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

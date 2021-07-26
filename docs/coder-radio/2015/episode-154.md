@@ -1,4 +1,4 @@
-# 154: Chrome Took My Memory! | CR 154
+# 154: Chrome Took My Memory!
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+hHujCZSO?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 066: Firefox gets Unplugged | LUP 66
+# 066: Firefox gets Unplugged
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+jBa5SlLQ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

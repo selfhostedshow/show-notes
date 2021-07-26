@@ -1,4 +1,4 @@
-# 232: The Secret to Future Linux Success | LUP 232
+# 232: The Secret to Future Linux Success
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+I05atT-L?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

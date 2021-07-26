@@ -1,4 +1,4 @@
-# 189: Das Boot Manager | LUP 189
+# 189: Das Boot Manager
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+uDQPGgns?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

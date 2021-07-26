@@ -1,4 +1,4 @@
-# 162: Wandering in the Woods | CR 162
+# 162: Wandering in the Woods
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+g9K3mq_e?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

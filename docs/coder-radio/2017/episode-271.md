@@ -1,4 +1,4 @@
-# 271: The Future is Serverless | CR 271
+# 271: The Future is Serverless
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+luxfH3tM?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

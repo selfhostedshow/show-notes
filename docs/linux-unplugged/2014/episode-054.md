@@ -1,4 +1,4 @@
-# 054: Microsoft's Munich Man | LINUX Unplugged 54
+# 054: Microsoft's Munich Man
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+a1wlA_dl?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

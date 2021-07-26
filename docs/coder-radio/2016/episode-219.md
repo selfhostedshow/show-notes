@@ -1,4 +1,4 @@
-# 219: Dollar Store Quality | CR 219
+# 219: Dollar Store Quality
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+PHuFIlOX?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 016: Meet the Dockers | LUP 16
+# 016: Meet the Dockers
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+5Uvs927Y?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

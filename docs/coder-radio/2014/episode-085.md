@@ -1,4 +1,4 @@
-# 085: Backend Lockin | CR 85
+# 085: Backend Lockin
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+ARuwZjVi?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

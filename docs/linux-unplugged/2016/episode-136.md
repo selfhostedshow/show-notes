@@ -1,4 +1,4 @@
-# 136: There's a Snap for That | LUP 136
+# 136: There's a Snap for That
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+5oydbX5r?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

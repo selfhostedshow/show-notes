@@ -1,4 +1,4 @@
-# 159: Hipster Tendencies | CR 159
+# 159: Hipster Tendencies
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+D-0kZ2kJ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

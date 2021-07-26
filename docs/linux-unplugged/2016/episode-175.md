@@ -1,4 +1,4 @@
-# 175: Best of MATEs | LUP 175
+# 175: Best of MATEs
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+xYgmOj1X?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

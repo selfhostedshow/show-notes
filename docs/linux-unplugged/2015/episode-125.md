@@ -1,4 +1,4 @@
-# 125: Slaving for Red Star OS | LUP 125
+# 125: Slaving for Red Star OS
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+056SMGYd?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 214: Hacking Devices with Kali Linux | LUP 214
+# 214: Hacking Devices with Kali Linux
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+5o7NMs5L?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

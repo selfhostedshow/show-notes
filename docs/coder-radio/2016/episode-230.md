@@ -1,4 +1,4 @@
-# 230: Microsoft’s Public Shame | CR 230
+# 230: Microsoft’s Public Shame
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+N3pIGTFE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

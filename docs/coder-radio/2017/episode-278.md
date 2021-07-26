@@ -1,4 +1,4 @@
-# 278: A New Kit for Home | CR 278
+# 278: A New Kit for Home
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+wPAm5Vrs?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

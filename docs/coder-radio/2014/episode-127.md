@@ -1,4 +1,4 @@
-# 127: The Gorilla in the Stack | CR 127
+# 127: The Gorilla in the Stack
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+u7sJ7011?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

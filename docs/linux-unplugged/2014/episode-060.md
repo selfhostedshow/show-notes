@@ -1,4 +1,4 @@
-# 060: Calm Before the Storm | LINUX Unplugged 60
+# 060: Calm Before the Storm
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+-xDh3UEa?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

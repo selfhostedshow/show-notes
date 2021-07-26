@@ -1,4 +1,4 @@
-# 063: For Forks Sake | LUP 63
+# 063: For Forks Sake
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+5wQqS4Ob?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

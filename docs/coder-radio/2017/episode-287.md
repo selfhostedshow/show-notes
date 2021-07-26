@@ -1,4 +1,4 @@
-# 287: You Need a Barb | CR 287
+# 287: You Need a Barb
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+xE_AcOEf?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

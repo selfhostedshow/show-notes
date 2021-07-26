@@ -1,4 +1,4 @@
-# 189: I'm OOPting Out | CR 189
+# 189: I'm OOPting Out
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+NC49nM2Z?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

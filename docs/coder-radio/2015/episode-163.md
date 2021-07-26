@@ -1,4 +1,4 @@
-# 163: Proprietary Stress Management | CR 163
+# 163: Proprietary Stress Management
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+eN8f0NOl?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

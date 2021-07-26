@@ -1,4 +1,4 @@
-# 180: Barkeep, Ionic, Please | CR 180
+# 180: Barkeep, Ionic, Please
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+kc6FC8hE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

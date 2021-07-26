@@ -1,4 +1,4 @@
-# 164: Conditional Swift Justice | CR 164
+# 164: Conditional Swift Justice
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+JSmL3xGW?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

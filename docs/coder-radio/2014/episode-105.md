@@ -1,4 +1,4 @@
-# 105: The Problem with GitHub | CR 105
+# 105: The Problem with GitHub
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+PJK-sGi2?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

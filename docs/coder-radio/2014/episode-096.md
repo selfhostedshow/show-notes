@@ -1,4 +1,4 @@
-# 096: MS Gadget 2.0 | CR 96
+# 096: MS Gadget 2.0
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+mrYYSk6D?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

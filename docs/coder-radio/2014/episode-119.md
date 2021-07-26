@@ -1,4 +1,4 @@
-# 119: Notch Escapes | Coder Radio 119
+# 119: Notch Escapes
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+1_zru-6-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

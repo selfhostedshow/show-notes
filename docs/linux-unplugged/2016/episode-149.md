@@ -1,4 +1,4 @@
-# 149: Snaps are Go! | LUP 149
+# 149: Snaps are Go!
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+W4ljGxt0?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

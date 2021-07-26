@@ -1,4 +1,4 @@
-# 074: Justifying Java | CR 74
+# 074: Justifying Java
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+uikSoUbY?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 045: The Triple-Boot Phone | LUP 45
+# 045: The Triple-Boot Phone
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+7_yAUkTD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

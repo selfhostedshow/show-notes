@@ -1,4 +1,4 @@
-# 156: Your Media Just Got Served | LUP 156
+# 156: Your Media Just Got Served
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+RDnrZ-4g?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

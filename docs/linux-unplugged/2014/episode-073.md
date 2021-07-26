@@ -1,4 +1,4 @@
-# 073: Predicting 2015 | LUP 73
+# 073: Predicting 2015
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+RmClIUvd?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 076: Building a Better Gnome | LUP 76
+# 076: Building a Better Gnome
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+oLGFM7E4?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 155: Snappy Collaboration | LUP 155
+# 155: Snappy Collaboration
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+zolqhkCl?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 037: Client Side Drama | LUP 37
+# 037: Client Side Drama
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+tyAGosA7?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

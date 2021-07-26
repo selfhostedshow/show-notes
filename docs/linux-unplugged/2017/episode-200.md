@@ -1,4 +1,4 @@
-# 200: Gnome in the Shell | LUP 200
+# 200: Gnome in the Shell
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+ihac-A2F?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

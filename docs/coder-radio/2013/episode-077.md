@@ -1,4 +1,4 @@
-# 077: The Big Xbone | CR 77
+# 077: The Big Xbone
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+LpXIPYdx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

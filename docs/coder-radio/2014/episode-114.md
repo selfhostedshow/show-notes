@@ -1,4 +1,4 @@
-# 114: Contrarian Contracting | CR 114
+# 114: Contrarian Contracting
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+wSOvWq3j?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

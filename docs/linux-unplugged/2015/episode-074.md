@@ -1,4 +1,4 @@
-# 074: Proprietary Exodus | LUP 74
+# 074: Proprietary Exodus
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+vOf79EvR?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

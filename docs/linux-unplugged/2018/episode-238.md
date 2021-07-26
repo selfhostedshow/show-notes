@@ -1,4 +1,4 @@
-# 238: It's All Wimpy's Fault | LUP 238
+# 238: It's All Wimpy's Fault
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+4GYfgcsz?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

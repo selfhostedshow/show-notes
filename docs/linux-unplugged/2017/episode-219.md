@@ -1,4 +1,4 @@
-# 219: Ubuntu’s New Era | LUP 219
+# 219: Ubuntu’s New Era
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+tE1IG0gJ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

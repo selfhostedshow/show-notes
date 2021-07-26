@@ -1,4 +1,4 @@
-# 011: Bankrupt Linux News | LINUX Unplugged 11
+# 011: Bankrupt Linux News
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+c9tjEigu?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

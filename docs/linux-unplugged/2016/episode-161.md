@@ -1,4 +1,4 @@
-# 161: A Real Pain in the Flash | LUP 161
+# 161: A Real Pain in the Flash
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+nbfu4Fbw?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

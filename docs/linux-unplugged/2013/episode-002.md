@@ -1,4 +1,4 @@
-# 002: Edge of Failure | LINUX Unplugged 2
+# 002: Edge of Failure
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+dgrIFWTR?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

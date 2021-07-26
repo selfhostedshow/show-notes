@@ -1,4 +1,4 @@
-# 087: Waning Windows | CR 87
+# 087: Waning Windows
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+9-P5XRNH?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

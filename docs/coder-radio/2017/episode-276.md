@@ -1,4 +1,4 @@
-# 276: Bite of the AR Apple | CR 276
+# 276: Bite of the AR Apple
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+Hx-M9GvE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

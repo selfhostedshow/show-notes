@@ -1,4 +1,4 @@
-# 006: The Android Problem | LINUX Unplugged 6
+# 006: The Android Problem
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+sTjtIH6f?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 280: Mike Was Right | CR 280
+# 280: Mike Was Right
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+_YJGjcNK?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
