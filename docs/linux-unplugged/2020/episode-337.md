@@ -1,4 +1,4 @@
-# 337: Mystical Users
+# LUP 337: Mystical Users
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+r6gGmuBt?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

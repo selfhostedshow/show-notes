@@ -1,4 +1,4 @@
-# 331: apt install arch-linux
+# LUP 331: apt install arch-linux
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+D6ADocMD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 003: Home Network Under $200
+# SSH 003: Home Network Under $200
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+cAEzQI3L?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

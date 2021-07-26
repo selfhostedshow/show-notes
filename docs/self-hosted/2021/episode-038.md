@@ -1,4 +1,4 @@
-# 038: Crouching Pi, Hidden Server
+# SSH 038: Crouching Pi, Hidden Server
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+a7x0uHeW?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

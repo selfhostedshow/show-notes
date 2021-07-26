@@ -1,4 +1,4 @@
-# 347: Rusty Rubies
+# CR 347: Rusty Rubies
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+NL--dIxW?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

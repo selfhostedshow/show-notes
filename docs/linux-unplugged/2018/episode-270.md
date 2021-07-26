@@ -1,4 +1,4 @@
-# 270: Stratis Pulls it All Together
+# LUP 270: Stratis Pulls it All Together
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+HHYutfTd?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 028: Neckbeard Entitlement Factor
+# LUP 028: Neckbeard Entitlement Factor
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+iSLnPs2T?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

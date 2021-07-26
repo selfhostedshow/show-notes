@@ -1,4 +1,4 @@
-# 247: Year of the Linux Desktop 😎
+# LUP 247: Year of the Linux Desktop 😎
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+NL9EkPFA?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 379: Favorite Linux Tweaks
+# LUP 379: Favorite Linux Tweaks
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+oFX4zT28?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

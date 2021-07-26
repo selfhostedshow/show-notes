@@ -1,4 +1,4 @@
-# 024: OPNsense Makes Sense
+# SSH 024: OPNsense Makes Sense
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+qwoZWDoP?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

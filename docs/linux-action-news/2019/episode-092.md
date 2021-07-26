@@ -1,4 +1,4 @@
-# 092: Linux Action News 92
+# LAN 092: Linux Action News 92
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+YxYcZyA6?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

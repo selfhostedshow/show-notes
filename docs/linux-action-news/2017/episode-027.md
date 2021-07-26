@@ -1,4 +1,4 @@
-# 027: Linux Action News 27
+# LAN 027: Linux Action News 27
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+65PdOJAj?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

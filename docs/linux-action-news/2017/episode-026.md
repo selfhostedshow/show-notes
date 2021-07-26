@@ -1,4 +1,4 @@
-# 026: Linux Action News 26
+# LAN 026: Linux Action News 26
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+HsHM2BuS?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

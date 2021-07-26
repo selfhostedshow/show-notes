@@ -1,4 +1,4 @@
-# 070: Linux Action News 70
+# LAN 070: Linux Action News 70
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+Z0SXyOkU?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

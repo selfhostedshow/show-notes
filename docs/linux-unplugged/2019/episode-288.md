@@ -1,4 +1,4 @@
-# 288: We're Gonna Need a Bigger Repo
+# LUP 288: We're Gonna Need a Bigger Repo
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+evPIOtYa?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

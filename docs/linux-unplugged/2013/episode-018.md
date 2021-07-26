@@ -1,4 +1,4 @@
-# 018: Hugs for LUGs
+# LUP 018: Hugs for LUGs
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+nNQc-8j5?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

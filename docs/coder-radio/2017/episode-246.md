@@ -1,4 +1,4 @@
-# 246: Mozilla's Pocket Pick
+# CR 246: Mozilla's Pocket Pick
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+PhKD_uSD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

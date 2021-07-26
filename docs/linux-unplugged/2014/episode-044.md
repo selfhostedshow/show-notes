@@ -1,4 +1,4 @@
-# 044: Bedrock: A New Paradigm
+# LUP 044: Bedrock: A New Paradigm
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+Am32KREx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

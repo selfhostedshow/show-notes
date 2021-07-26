@@ -50,7 +50,9 @@ def get_plain_title(title: str):
     return title.strip()
 
 
-def create_episode(api_episode, base_url, output_dir):
+def create_episode(api_episode, show_config, output_dir):
+    base_url = show_config['fireside_url']
+
     # RANT: What kind of API doesn't give the episode number?!
     episode_number = int(api_episode["url"].split("/")[-1])
     episode_number_padded = f"{episode_number:03}"
@@ -109,6 +111,7 @@ def create_episode(api_episode, base_url, output_dir):
             "tags": tags,
             "player_embed": player_embed,
             "date_published": publish_date.date().isoformat(),
+            "show_config": show_config
         }
     )
 
@@ -131,7 +134,7 @@ def main():
 
             api_data = requests.get(show_config['fireside_url'] + "/json").json()
             for api_episode in api_data["items"]:
-                futures.append(executor.submit(create_episode, api_episode, show_config['fireside_url'], output_dir))
+                futures.append(executor.submit(create_episode, api_episode, show_config, output_dir))
 
         # Drain to get exceptions. Still have to mash CTRL-C, though.
         for future in concurrent.futures.as_completed(futures):

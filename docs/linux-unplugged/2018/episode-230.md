@@ -1,4 +1,4 @@
-# 230: Invest In Popcorn
+# LUP 230: Invest In Popcorn
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+jU5TbAQS?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

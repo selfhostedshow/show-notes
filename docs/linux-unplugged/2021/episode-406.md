@@ -1,4 +1,4 @@
-# 406: Mars Goes to Shell
+# LUP 406: Mars Goes to Shell
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+ME2OFyOv?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 130: The Six Rings of Ubuntu
+# LUP 130: The Six Rings of Ubuntu
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+gRWcc91f?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

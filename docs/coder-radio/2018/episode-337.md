@@ -1,4 +1,4 @@
-# 337: 2018's Deal Channels
+# CR 337: 2018's Deal Channels
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+shrwKtlB?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

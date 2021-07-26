@@ -1,4 +1,4 @@
-# 067: Blazing 7
+# CR 067: Blazing 7
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+CiCdLsjG?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

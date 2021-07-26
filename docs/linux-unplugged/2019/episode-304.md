@@ -1,4 +1,4 @@
-# 304: Losing My Religion
+# LUP 304: Losing My Religion
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+G3SHc-NH?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

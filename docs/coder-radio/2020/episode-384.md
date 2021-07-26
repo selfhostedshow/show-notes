@@ -1,4 +1,4 @@
-# 384: Leaping Lizard People
+# CR 384: Leaping Lizard People
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+8oD_pbYV?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

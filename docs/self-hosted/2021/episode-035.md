@@ -1,4 +1,4 @@
-# 035: The Perfect Media Server
+# SSH 035: The Perfect Media Server
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+9gmfreLI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

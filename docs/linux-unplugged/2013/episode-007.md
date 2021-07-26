@@ -1,4 +1,4 @@
-# 007: Full SteamOS Ahead
+# LUP 007: Full SteamOS Ahead
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+giB1lNLM?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

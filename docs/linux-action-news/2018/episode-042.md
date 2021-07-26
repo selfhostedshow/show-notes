@@ -1,4 +1,4 @@
-# 042: Linux Action News 42
+# LAN 042: Linux Action News 42
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+dRQel_Qf?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 032: Do Me a SolydXK
+# LUP 032: Do Me a SolydXK
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+xJmFHnpD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

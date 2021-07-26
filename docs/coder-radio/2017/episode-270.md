@@ -1,4 +1,4 @@
-# 270: Daily Stand Up Myth
+# CR 270: Daily Stand Up Myth
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+3r8R6UJf?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

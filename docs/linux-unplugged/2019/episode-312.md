@@ -1,4 +1,4 @@
-# 312: What Modern Linux Looks Like
+# LUP 312: What Modern Linux Looks Like
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+JgT1O16X?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

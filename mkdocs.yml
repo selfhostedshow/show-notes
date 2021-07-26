@@ -62,14 +62,19 @@ extra:
   shows:
     self-hosted:
       fireside_url: https://selfhosted.show
+      acronym: SSH
     coder-radio:
       fireside_url: https://coder.show
+      acronym: CR
     linux-action-news:
       fireside_url: https://linuxactionnews.com
+      acronym: LAN
     linux-unplugged:
       fireside_url: https://linuxunplugged.com
+      acronym: LUP
     jupiter-extras:
       fireside_url: https://extras.show/
+      acronym: JE
   social:
     - icon: 'fontawesome/brands/twitter'
       link: 'https://twitter.com/jupiterbroadcasting'

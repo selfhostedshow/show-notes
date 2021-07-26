@@ -1,4 +1,4 @@
-# 069: Linux Action News 69
+# LAN 069: Linux Action News 69
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+KBCYQeli?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

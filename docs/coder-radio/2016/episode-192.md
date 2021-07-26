@@ -1,4 +1,4 @@
-# 192: Post Apocalyptic Linux Desktop
+# CR 192: Post Apocalyptic Linux Desktop
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+3nhi29fN?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

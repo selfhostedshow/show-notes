@@ -1,4 +1,4 @@
-# 147: The Talking Gnome
+# LUP 147: The Talking Gnome
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+cKUBAM-r?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

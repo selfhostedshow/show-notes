@@ -1,4 +1,4 @@
-# 388: Waxing On With Wendell
+# LUP 388: Waxing On With Wendell
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+JDlp6gZG?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

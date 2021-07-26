@@ -1,4 +1,4 @@
-# 318: Manjaro Levels Up
+# LUP 318: Manjaro Levels Up
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+pAT34Xka?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

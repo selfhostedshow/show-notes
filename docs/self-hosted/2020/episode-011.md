@@ -1,4 +1,4 @@
-# 011: Host Your Blog the Right Way
+# SSH 011: Host Your Blog the Right Way
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+BuWEaCkb?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

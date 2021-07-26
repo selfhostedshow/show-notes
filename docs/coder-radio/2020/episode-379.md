@@ -1,4 +1,4 @@
-# 379: Neckbeards Get Shaved
+# CR 379: Neckbeards Get Shaved
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+ZkDrrgzb?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

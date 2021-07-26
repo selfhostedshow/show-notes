@@ -1,4 +1,4 @@
-# 233: Living Inside the Shell
+# LUP 233: Living Inside the Shell
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+ZJmi2Bro?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

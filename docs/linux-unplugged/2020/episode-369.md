@@ -1,4 +1,4 @@
-# 369: Double Data Rate Trouble
+# LUP 369: Double Data Rate Trouble
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+6tFnwEiX?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

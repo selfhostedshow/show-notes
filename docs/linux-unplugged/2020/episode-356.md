@@ -1,4 +1,4 @@
-# 356: Linux Hardware Love
+# LUP 356: Linux Hardware Love
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+0HePKPzk?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

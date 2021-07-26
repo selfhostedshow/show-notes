@@ -1,4 +1,4 @@
-# 096: Linux Action News 96
+# LAN 096: Linux Action News 96
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+vMcm9MDF?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

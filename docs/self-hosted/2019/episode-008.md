@@ -1,4 +1,4 @@
-# 008: WLED Changes the Game
+# SSH 008: WLED Changes the Game
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+8618J48x?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

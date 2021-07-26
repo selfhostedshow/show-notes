@@ -1,4 +1,4 @@
-# 192: Linux Action News 192
+# LAN 192: Linux Action News 192
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+aYrLP4gI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 262: Tribes of Init
+# LUP 262: Tribes of Init
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+iqaYBcMA?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

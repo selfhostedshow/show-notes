@@ -1,4 +1,4 @@
-# 022: Hurd Mentality
+# LUP 022: Hurd Mentality
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+dHuIzkOI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

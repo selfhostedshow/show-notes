@@ -1,4 +1,4 @@
-# 031: Industrial Grade Mobile Internet
+# SSH 031: Industrial Grade Mobile Internet
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+nw3vci9n?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

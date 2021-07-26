@@ -1,4 +1,4 @@
-# 024: Linux Action News 24
+# LAN 024: Linux Action News 24
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+S5278Wfm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

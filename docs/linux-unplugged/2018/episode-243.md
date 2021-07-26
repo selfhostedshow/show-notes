@@ -1,4 +1,4 @@
-# 243: The Stallman Directive
+# LUP 243: The Stallman Directive
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+e7A6bFiO?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

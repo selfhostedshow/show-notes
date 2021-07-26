@@ -1,4 +1,4 @@
-# 342: Shrimps have SSHells
+# LUP 342: Shrimps have SSHells
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+o7lNqrS1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

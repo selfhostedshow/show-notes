@@ -1,4 +1,4 @@
-# 030: Threat Hunting 101
+# JE 030: Threat Hunting 101
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+xekF6G5H?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 067: Linux Action News 67
+# LAN 067: Linux Action News 67
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+tTTaE5Z1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

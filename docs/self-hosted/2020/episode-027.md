@@ -1,4 +1,4 @@
-# 027: Picture Perfect
+# SSH 027: Picture Perfect
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+OssEQUFF?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

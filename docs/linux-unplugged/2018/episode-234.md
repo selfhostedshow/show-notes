@@ -1,4 +1,4 @@
-# 234: Behind Canonical’s Curtain
+# LUP 234: Behind Canonical’s Curtain
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+tl-K3C3n?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

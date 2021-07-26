@@ -1,4 +1,4 @@
-# 346: The One-Click Trap
+# LUP 346: The One-Click Trap
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+zEr7qyan?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

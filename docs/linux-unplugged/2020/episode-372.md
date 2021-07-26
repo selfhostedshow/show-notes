@@ -1,4 +1,4 @@
-# 372: Distro Triforce
+# LUP 372: Distro Triforce
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+d2udLq_J?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

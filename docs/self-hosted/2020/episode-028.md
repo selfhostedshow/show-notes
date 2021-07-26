@@ -1,4 +1,4 @@
-# 028: Directing Traefik
+# SSH 028: Directing Traefik
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+mqPqIiGL?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

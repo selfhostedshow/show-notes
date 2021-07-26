@@ -1,4 +1,4 @@
-# 396: Everyone Fools Around with Linux in College
+# CR 396: Everyone Fools Around with Linux in College
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+k1oS6Qkg?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

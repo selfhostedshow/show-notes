@@ -1,4 +1,4 @@
-# 002: Why Self-Host? With Wendell from Level1techs
+# SSH 002: Why Self-Host? With Wendell from Level1techs
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+aGtGAbih?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

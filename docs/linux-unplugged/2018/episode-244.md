@@ -1,4 +1,4 @@
-# 244: Plasma Predicament
+# LUP 244: Plasma Predicament
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+YcGc5TLm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

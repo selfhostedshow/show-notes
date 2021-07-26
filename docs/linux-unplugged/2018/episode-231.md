@@ -1,4 +1,4 @@
-# 231: Most Expensive Linux Distro Ever
+# LUP 231: Most Expensive Linux Distro Ever
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+qGkqrmvz?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 338: Success Through Vulnerability
+# LUP 338: Success Through Vulnerability
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+xMdLRQsB?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

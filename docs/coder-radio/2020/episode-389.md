@@ -1,4 +1,4 @@
-# 389: Smoked Laptops
+# CR 389: Smoked Laptops
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+PwSpnXxc?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

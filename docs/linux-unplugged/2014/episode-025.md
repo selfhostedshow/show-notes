@@ -1,4 +1,4 @@
-# 025: Culture of Shiny
+# LUP 025: Culture of Shiny
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+1luZkd00?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

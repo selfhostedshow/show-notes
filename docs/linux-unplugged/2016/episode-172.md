@@ -1,4 +1,4 @@
-# 172: It's Not X, It's Wayland
+# LUP 172: It's Not X, It's Wayland
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+U-_nVOVe?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 024: FUD for Thought
+# LUP 024: FUD for Thought
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+bES0yA3J?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

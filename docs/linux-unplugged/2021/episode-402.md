@@ -1,4 +1,4 @@
-# 402: Our Worst Idea Yet
+# LUP 402: Our Worst Idea Yet
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+-sBaKLWn?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

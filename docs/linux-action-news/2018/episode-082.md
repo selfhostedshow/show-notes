@@ -1,4 +1,4 @@
-# 082: Linux Action News 82
+# LAN 082: Linux Action News 82
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+xekp7hE2?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

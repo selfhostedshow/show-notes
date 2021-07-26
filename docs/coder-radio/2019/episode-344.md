@@ -1,4 +1,4 @@
-# 344: Cupertino's King Makers
+# CR 344: Cupertino's King Makers
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+PNYt2TOZ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

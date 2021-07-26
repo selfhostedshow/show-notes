@@ -1,4 +1,4 @@
-# 040: Password Shaming
+# SSH 040: Password Shaming
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+Dw50l7X0?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

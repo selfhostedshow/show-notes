@@ -1,4 +1,4 @@
-# 101: Linux Action News 101
+# LAN 101: Linux Action News 101
 
 <iframe src="https://player.fireside.fm/v2/DAcK9LdX+bK5yPyaO?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

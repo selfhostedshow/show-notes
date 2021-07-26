@@ -1,4 +1,4 @@
-# 070: The Resilience of the Voyagers
+# JE 070: The Resilience of the Voyagers
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+2Ml1DQA0?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

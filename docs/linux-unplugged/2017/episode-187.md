@@ -1,4 +1,4 @@
-# 187: CIA's Dank Trojans
+# LUP 187: CIA's Dank Trojans
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+rRG90L_1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

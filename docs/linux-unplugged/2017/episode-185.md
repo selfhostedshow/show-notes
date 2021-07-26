@@ -1,4 +1,4 @@
-# 185: Plasma Injection
+# LUP 185: Plasma Injection
 
 <iframe src="https://player.fireside.fm/v2/RUkczH-V+_5jpplXF?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

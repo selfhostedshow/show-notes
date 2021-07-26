@@ -1,4 +1,4 @@
-# 008: The Story Behind Self-Hosted
+# JE 008: The Story Behind Self-Hosted
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+Yx1IKhbj?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

@@ -1,4 +1,4 @@
-# 373: Interactive Investigations
+# CR 373: Interactive Investigations
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+YZ8r9nv3?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
