@@ -4,7 +4,7 @@ on:
   schedule:
     # 9am on a friday
     #- cron:  '00 09 * * 5'
-    - cron:  '00 09 * * *'
+    - cron:  '00 11 * * *'
   push:
     branches:
       - main
