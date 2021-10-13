@@ -1,0 +1,48 @@
+# LUP 427: Life Changing Virtualization
+
+<iframe src="https://player.fireside.fm/v2/RUkczH-V+KXJPa9Gp?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+* Air Date: 2021-10-12
+* Duration: 69 mins 13 secs
+
+## About this episode
+
+Wimpy stops by with a new tool that will change your virtualization game, and we share our thoughts on Ubuntu 21.10 and take the flavor challenge.
+
+## Your hosts
+* [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
+* [Wes Payne](https://linuxunplugged.com/hosts/wes)
+* [Martin Wimpress](https://linuxunplugged.com/guests/martinwimpress)
+
+## Sponsored by
+
+  * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
+  * [A Cloud Guru](https://linuxacademy.com/cp/modules/view/id/262/?utm_source=jupiter&utm_medium=cpc): [By the end of this course, you will feel comfortable working with a large variety of networking tools and configurations to manage complex Linux networking implementations.](https://linuxacademy.com/cp/modules/view/id/262/?utm_source=jupiter&utm_medium=cpc)
+
+
+
+## Episode links
+
+  * [Carl George on Twitter](https://twitter.com/carlwgeorge/status/1447689008729952263 "Carl George on Twitter") — "I’ve been playing around with matplotlib to chart this data over time. Due to the difference in scale it’s necessary to split into different ranges. The “Liberty” systems started showing up in August, with a high of 79 systems the week of 2021-09-06 to 2021-09-12."
+  * [Microsoft transforms the Windows Subsystem for Linux into a Windows 11 app](https://www.theverge.com/2021/10/12/22722146/microsoft-windows-subsystem-for-linux-app-windows-11-microsoft-store "Microsoft transforms the Windows Subsystem for Linux into a Windows 11 app") — “Our goals are to make WSL in the Microsoft Store the best way to install and use WSL, as you’ll be able to get the latest updates fastest through that route, and in the long term we’d like to move WSL users to use the store version.”
+  * [A preview of WSL in the Microsoft Store is now available!](https://devblogs.microsoft.com/commandline/a-preview-of-wsl-in-the-microsoft-store-is-now-available/ "A preview of WSL in the Microsoft Store is now available!")
+  * [Craig Loewen on Twitter](https://twitter.com/craigaloewen/status/1447619339973136386 "Craig Loewen on Twitter") — "A preview of WSL inside of the Microsoft Store is now available for Windows 11 machines!"
+  * [Hayden Barnes on Twitter](https://twitter.com/unixterminal/status/1447651485295120387 "Hayden Barnes on Twitter") — "So many new goodies today! WSL in the Store, WSLg bundled with WSL, new WSL2 kernel version, a bunch of fixes for ARM64 👀, wsl.exe --mount, and a handful of nice refinements and fixes."
+  * [Ubuntu 21.10 Release Date & New Features](https://www.omgubuntu.co.uk/2021/07/ubuntu-21-10-release-features "Ubuntu 21.10 Release Date & New Features") — Ubuntu 21.10 will be available to download from October 14, 2021.
+  * [Ubuntu 21.10 Impish Indri - New Features and Release Date](https://www.debugpoint.com/2021/07/ubuntu-21-10/ "Ubuntu 21.10 Impish Indri - New Features and Release Date")
+  * [Ubuntu 21.10 is upon us, and it’s small changes for major improvements](https://www.techrepublic.com/article/ubuntu-21-10-is-upon-us-and-its-small-changes-for-major-improvements/ "Ubuntu 21.10 is upon us, and it’s small changes for major improvements")
+  * [Ubuntu 19.10 To 21.10: AMD Zen 2 + Radeon Performance On Linux Over Two Years](https://www.phoronix.com/scan.php?page=article&item=ubuntu-2110-zen2vega&num=1 "Ubuntu 19.10 To 21.10: AMD Zen 2 + Radeon Performance On Linux Over Two Years") — Ubuntu 19.10 was the first release following the Zen 2 debut in the summer of 2019. The benchmarks today are looking at the Ubuntu 19.10 performance up against the Ubuntu 21.10 daily ISO in its near final form ahead of the official release on Thursday.
+  * [MATE 1.26 released | MATE](https://mate-desktop.org/blog/2021-08-08-mate-1-26-released/ "MATE 1.26 released | MATE") — The theme for this release has been adding new functionality to the MATE Desktop while maintaining the look and feel that we all know and love. While all the added features are surely quite exciting we also did not forget to do tons of bugfixing, modernising the code base and optimizing the performance.
+  * [KDE Plasma desktop 5.22 Release Announcement](https://kde.org/announcements/plasma/5/5.22.0/ "KDE Plasma desktop 5.22 Release Announcement") — This time around, the big new feature is Adaptive Transparency: This means the panel and panel widgets will usually be pleasantly translucent, but will become entirely opaque if there are any maximized windows, to avoid any visual distractions when you need to focus.
+  * [Bug #1944468 “Electron applications all crash upon launch”](https://bugs.launchpad.net/ubuntu/+source/glibc/+bug/1944468 "Bug #1944468 “Electron applications all crash upon launch”")
+  * [quickemu](https://github.com/wimpysworld/quickemu "quickemu") — Quickly create and run highly optimised desktop virtual machines for Linux, macOS and Windows; with just two commands. You decide what operating system you want to run and Quickemu will figure out the best way to do it for you.
+  * [A GUI for Quickemu](https://github.com/marxjohnson/quickemu_gui "A GUI for Quickemu") — Provides an interface for setting up new VMs with Quickget, starting and stopping existing VMs.
+  * [PN50 review from Anandtech](https://www.anandtech.com/show/16975/asus-pn50-ucff-pc-review-a-zen-2-business-nuc "PN50 review from Anandtech")
+  * [Phoronix Test Suite 10.6 Released With Various Improvements For Linux Benchmarking](https://www.phoronix.com/scan.php?page=news_item&px=Phoronix-Test-Suite-10.6 "Phoronix Test Suite 10.6 Released With Various Improvements For Linux Benchmarking") — Windows 11 support and various Windows improvements, a wide variety of Phoromatic fixes and improvements from cleaning-up/unifying the CSS to log improvements and making use of the new log viewer, and more.
+  * [Why I have decided to step down from the AlmaLinux OS Foundation Board](https://blog.cloudlinux.com/why-i-have-decided-to-step-down-from-the-almalinux-os-foundation-board "Why I have decided to step down from the AlmaLinux OS Foundation Board") — "So, here we are. I am no longer on the board - and I am no longer deciding what is next for AlmaLinux OS Foundation. I will continue to be heavily involved in the day-to-day of AlmaLinux. CloudLinux and TuxCare will continue being just one of many corporate sponsors. benny Vasquez was voted to become a new chair of the board, and I am sure that the foundation and the board will flourish under her guidance."
+
+
+
+## Tags
+
+[almalinux](https://linuxunplugged.com/tags/almalinux), [amd](https://linuxunplugged.com/tags/amd), [apple m1](https://linuxunplugged.com/tags/apple%20m1), [centos](https://linuxunplugged.com/tags/centos), [cgroup v2](https://linuxunplugged.com/tags/cgroup%20v2), [firefox snap](https://linuxunplugged.com/tags/firefox%20snap), [flutter](https://linuxunplugged.com/tags/flutter), [gnome 40](https://linuxunplugged.com/tags/gnome%2040), [gpu acceleration](https://linuxunplugged.com/tags/gpu%20acceleration), [impish indri](https://linuxunplugged.com/tags/impish%20indri), [jupiter broadcasting](https://linuxunplugged.com/tags/jupiter%20broadcasting), [kde 5.22.5](https://linuxunplugged.com/tags/kde%205.22.5), [krita](https://linuxunplugged.com/tags/krita), [kubuntu](https://linuxunplugged.com/tags/kubuntu), [latte-dock](https://linuxunplugged.com/tags/latte-dock), [liberty linux](https://linuxunplugged.com/tags/liberty%20linux), [linux 5.13](https://linuxunplugged.com/tags/linux%205.13), [linux podcast](https://linuxunplugged.com/tags/linux%20podcast), [linux unplugged](https://linuxunplugged.com/tags/linux%20unplugged), [mac os](https://linuxunplugged.com/tags/mac%20os), [macbook hate](https://linuxunplugged.com/tags/macbook%20hate), [mate 1.26](https://linuxunplugged.com/tags/mate%201.26), [microsoft](https://linuxunplugged.com/tags/microsoft), [microsoft store](https://linuxunplugged.com/tags/microsoft%20store), [nftables](https://linuxunplugged.com/tags/nftables), [nuc](https://linuxunplugged.com/tags/nuc), [nvidia](https://linuxunplugged.com/tags/nvidia), [pci passthrough](https://linuxunplugged.com/tags/pci%20passthrough), [phoronix test suite 10.6](https://linuxunplugged.com/tags/phoronix%20test%20suite%2010.6), [pipewire](https://linuxunplugged.com/tags/pipewire), [plasma desktop](https://linuxunplugged.com/tags/plasma%20desktop), [qemu 6.0](https://linuxunplugged.com/tags/qemu%206.0), [quickemu](https://linuxunplugged.com/tags/quickemu), [raspberry pi](https://linuxunplugged.com/tags/raspberry%20pi), [rhel](https://linuxunplugged.com/tags/rhel), [suse](https://linuxunplugged.com/tags/suse), [systemd](https://linuxunplugged.com/tags/systemd), [tpm](https://linuxunplugged.com/tags/tpm), [ubuntu 21.10](https://linuxunplugged.com/tags/ubuntu%2021.10), [virtio](https://linuxunplugged.com/tags/virtio), [virtualization](https://linuxunplugged.com/tags/virtualization), [windows 11](https://linuxunplugged.com/tags/windows%2011), [wsl](https://linuxunplugged.com/tags/wsl), [wslg](https://linuxunplugged.com/tags/wslg), [yaru](https://linuxunplugged.com/tags/yaru)
