@@ -1,0 +1,45 @@
+# LAN 216: Linux Action News 216
+
+<iframe src="https://player.fireside.fm/v2/DAcK9LdX+9n6wGUJD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+* Air Date: 2021-11-21
+* Duration: 17 mins 18 secs
+
+## About this episode
+
+Just how severe is this DNS cache poisoning attack revealed this week? We'll break it down and explain why Linux is affected. Plus, the feature now removed from APT, more performance patches in the Kernel, and a big batch of project updates.
+
+## Your hosts
+* [Chris Fisher](https://linuxactionnews.com/hosts/chris)
+* [Wes Payne](https://linuxactionnews.com/hosts/wes)
+
+## Sponsored by
+
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+
+
+
+## Episode links
+
+  * [Linux has a serious security problem that once again enables DNS cache poisoning](https://arstechnica.com/gadgets/2021/11/dan-kaminskys-dns-cache-poisoning-attack-is-back-from-the-dead-again/ "Linux has a serious security problem that once again enables DNS cache poisoning") — We can actually guess the ephemeral port in the embedded UDP packet and package it in an ICMP probe to a DNS resolver. If the guessed port is correct, it causes some global resource in the Linux kernel to change, which can be indirectly observed. This is how the attacker can infer which ephemeral port is used.
+  * [Ubuntu Maker Canonical Planning To Vastly Improve Its Documentation](https://www.phoronix.com/scan.php?page=news_item&px=Better-Ubuntu-Docs-2021 "Ubuntu Maker Canonical Planning To Vastly Improve Its Documentation") — This is a permanent, on-going commitment. It’s work that will never end. It has already started, and will become part of the fundamental Canonical discipline of making software.
+  * [The future of documentation at Canonical](https://ubuntu.com//blog/the-future-of-documentation-at-canonical "The future of documentation at Canonical")
+  * [APT 2.3.12 package manager released, will no longer let you break everything](https://www.gamingonlinux.com/2021/11/apt-2312-package-manager-released-will-no-longer-let-you-break-everything/ "APT 2.3.12 package manager released, will no longer let you break everything") — After the issues that happened with Linus from Linus Tech Tips breaking Pop!_OS during the switch to Linux challenge, the APT package manager has been upgraded to prevent future issues happening.
+  * [KDE Discover gets update to prevent you breaking your Linux system](https://www.gamingonlinux.com/2021/11/kde-discover-prevents-breaking-your-linux-system/page=12/ "KDE Discover gets update to prevent you breaking your Linux system") — Another change to make things look a bit friendlier in Discover is if you have issues upgrading, it will instantly shove a load of technical details in your face. To normal consumers, that's clearly not going to do much to help and probably scare them away. Now, instead, it will provide a very clear and friendly message, with the option to get more details to report the issue.
+  * [Add support for list issue - Jens Axboe](https://lore.kernel.org/linux-block/20211117033807.185715-1-axboe@kernel.dk/ "Add support for list issue - Jens Axboe") — With the support in 5.16-rc1 for allocating and completing batches of IO, the one missing piece is passing down a list of requests for issue. 
+  * [Linux 5.17 To Continue With I/O Optimizations, 5~6% Improvement Pending For NVMe](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-Will-Continue-IO "Linux 5.17 To Continue With I/O Optimizations, 5~6% Improvement Pending For NVMe") — With the merge window for 5.16 closed, time to submit for review some of the performance optimizations that didn't make this release. Here's batched issue for blk-mq with an NVMe implementation included. 5-6% improvement.
+  * [Linux 5.17 To Boast A Big TCP Performance Optimization](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-TCP-Optimization&utm_content=187840157&utm_medium=social&utm_source=linkedin&hss_channel=lcp-11041071 "Linux 5.17 To Boast A Big TCP Performance Optimization")
+  * [Linux 5.17 To Bring DRM Privacy-Screen Support, Intel VESA PWM Backlight Handling](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-Privacy-Screen-Next "Linux 5.17 To Bring DRM Privacy-Screen Support, Intel VESA PWM Backlight Handling") — The Linux 5.16 merge window now past, an initial batch of changes from drm-misc-next has been sent in to DRM-Next for queuing until the Linux 5.17 cycle kicks off around the start of the new year.
+  * [Ubuntu Touch OTA-20 Released for Linux Phones, Here’s What’s New](https://9to5linux.com/ubuntu-touch-ota-20-released-for-linux-phones-heres-whats-new "Ubuntu Touch OTA-20 Released for Linux Phones, Here’s What’s New") — The UBports Foundation released today the Ubuntu Touch OTA-20 software update for Ubuntu Phone devices with various improvements and more bug fixes.
+  * [FWUPD 1.7.2 Released With Fixes, Faster & Smaller Daemon](https://www.phoronix.com/scan.php?page=news_item&px=FWUPD-1.7.2-Released "FWUPD 1.7.2 Released With Fixes, Faster & Smaller Daemon") — FWUPD 1.7.2 adds support for handling exported MTD block devices, tweaking the compiler flags to reduce the install size by around 300 Kb, speeding up the FWUPD daemon startup by ~40% by postponing some work, and a variety of fixes. The fixes range from a possible DFU crash to DLI download troubles and other device-specific corrections.
+  * [Alma and Rocky Linux release 8.5 builds, Rocky catches up with secure boot](https://www.theregister.com/2021/11/16/alma_and_rocky_linux_release/ "Alma and Rocky Linux release 8.5 builds, Rocky catches up with secure boot") — AlmaLinux and Rocky Linux, both of which provide community builds of Red Hat Enterprise Linux (RHEL), have released builds matching RHEL 8.5, with Rocky's work catching up with Alma by being signed for secure boot.
+  * [Proxmox VE 7.1 released!](https://forum.proxmox.com/threads/proxmox-ve-7-1-released.99846/ "Proxmox VE 7.1 released!") — Proxmox VE 7.1 is based on Debian 11 but uses a newer Linux kernel, 5.13, QEMU 6.1, and OpenZFS 2.1.
+  * [Proxmox 7.1 release notes](https://pve.proxmox.com/wiki/Roadmap#Proxmox_VE_7.1 "Proxmox 7.1 release notes")
+  * [Proxmox Downloads](https://www.proxmox.com/en/downloads "Proxmox Downloads")
+
+
+
+## Tags
+
+[almalinux](https://linuxactionnews.com/tags/almalinux), [apt 2.3.12](https://linuxactionnews.com/tags/apt%202.3.12), [bind](https://linuxactionnews.com/tags/bind), [canonical](https://linuxactionnews.com/tags/canonical), [dan kaminsky](https://linuxactionnews.com/tags/dan%20kaminsky), [daniele procida](https://linuxactionnews.com/tags/daniele%20procida), [dns cache poisoning](https://linuxactionnews.com/tags/dns%20cache%20poisoning), [dns resolver](https://linuxactionnews.com/tags/dns%20resolver), [dnsmasq](https://linuxactionnews.com/tags/dnsmasq), [entropy](https://linuxactionnews.com/tags/entropy), [ephemeral port](https://linuxactionnews.com/tags/ephemeral%20port), [fwupd](https://linuxactionnews.com/tags/fwupd), [halium 9](https://linuxactionnews.com/tags/halium%209), [icmp](https://linuxactionnews.com/tags/icmp), [kernel 5.16](https://linuxactionnews.com/tags/kernel%205.16), [kernel 5.17](https://linuxactionnews.com/tags/kernel%205.17), [linux action news](https://linuxactionnews.com/tags/linux%20action%20news), [linux news podcast](https://linuxactionnews.com/tags/linux%20news%20podcast), [lvfs](https://linuxactionnews.com/tags/lvfs), [mtd block devices](https://linuxactionnews.com/tags/mtd%20block%20devices), [nvme optimizations](https://linuxactionnews.com/tags/nvme%20optimizations), [openzfs 2.1](https://linuxactionnews.com/tags/openzfs%202.1), [port 53](https://linuxactionnews.com/tags/port%2053), [proxmox ve 7.1](https://linuxactionnews.com/tags/proxmox%20ve%207.1), [qemu 6.1](https://linuxactionnews.com/tags/qemu%206.1), [richard hughes](https://linuxactionnews.com/tags/richard%20hughes), [rocky linux](https://linuxactionnews.com/tags/rocky%20linux), [saddns](https://linuxactionnews.com/tags/saddns), [side channel attack](https://linuxactionnews.com/tags/side%20channel%20attack), [spoofed addresses](https://linuxactionnews.com/tags/spoofed%20addresses), [tcp performance optimization](https://linuxactionnews.com/tags/tcp%20performance%20optimization), [transaction id](https://linuxactionnews.com/tags/transaction%20id), [ubuntu documentation](https://linuxactionnews.com/tags/ubuntu%20documentation), [ubuntu touch ota-20](https://linuxactionnews.com/tags/ubuntu%20touch%20ota-20), [udp packet](https://linuxactionnews.com/tags/udp%20packet), [unbound](https://linuxactionnews.com/tags/unbound), [university of california](https://linuxactionnews.com/tags/university%20of%20california)
