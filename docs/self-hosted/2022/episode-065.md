@@ -29,7 +29,7 @@ Alex gives the new TrueNAS SCALE a go and hits a snag.
   * [TrueCommand](https://www.truenas.com/truecommand/ "TrueCommand") — Manage your TrueNAS fleet all from one place 
   * [Nextcloud Two-factor authentication](https://docs.nextcloud.com/server/latest/admin_manual/configuration_user/two_factor-auth.html "Nextcloud Two-factor authentication") — Two-factor authentication adds an additional layer of security to user accounts. In order to log in on an account with two-factor authentication (2FA) enabled, it is necessary to provide both the login password and another factor. 2FA in Nextcloud is pluggable, meaning that they are not part of the Nextcloud Server component but provided by featured and 3rd-party Nextcloud apps. 
   * [Two-Factor TOTP Provider - Apps - App Store](https://apps.nextcloud.com/apps/twofactor_totp "Two-Factor TOTP Provider - Apps - App Store")
-  * [Jupiter Broadcasting Meetup Page](https://www.meetup.com/jupiterbroadcasting/ "Jupiter Broadcasting Meetup Page") — upiter Broadcasting regularly provides community events, talks, meet and greets and special hang-out dinners while attending fests and conferences.
+  * [Jupiter Broadcasting Meetup Page](https://www.meetup.com/jupiterbroadcasting/ "Jupiter Broadcasting Meetup Page") — Jupiter Broadcasting regularly provides community events, talks, meet and greets and special hang-out dinners while attending fests and conferences.
 
 
 
