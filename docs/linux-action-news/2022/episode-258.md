@@ -1,0 +1,53 @@
+# LAN 258: Linux Action News 258
+
+<iframe src="https://player.fireside.fm/v2/DAcK9LdX+i1wSxTFA?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+* Air Date: 2022-09-15
+* Duration: 23 mins 32 secs
+
+## About this episode
+
+The Linux Foundation takes a victory lap, Google kills another community-loved project, and key moments from the Linux Plumbers Conference.
+
+## Your hosts
+* [Chris Fisher](https://linuxactionnews.com/hosts/chris)
+* [Wes Payne](https://linuxactionnews.com/hosts/wes)
+
+## Sponsored by
+
+  * [Kolide](https://kolide.com/lan): [User-centered, cross-platform endpoint security for teams that Slack. ](https://kolide.com/lan)
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
+
+
+
+## Episode links
+
+  * [Shikitega - AT&T Alien Labs](https://cybersecurity.att.com/blogs/labs-research/shikitega-new-stealthy-malware-targeting-linux "Shikitega -  AT&T Alien Labs") — New stealthy malware targeting Linux 
+  * [LINUX Unplugged 474: Linux’s Malware Inevitability](https://linuxunplugged.com/474 "LINUX Unplugged 474: Linux’s Malware Inevitability")
+  * [New Linux malware combines unusual stealth with a full suite of capabilities](https://arstechnica.com/information-technology/2022/09/new-linux-malware-combines-unusual-stealth-with-a-full-suite-of-capabilities/ "New Linux malware combines unusual stealth with a full suite of capabilities") — "Threat actors continue to search for ways to deliver malware in new ways to stay under the radar and avoid detection," AT&T Alien Labs researcher Ofer Caspi wrote.
+  * [New Linux malware evades detection using multi-stage deployment](https://www.bleepingcomputer.com/news/security/new-linux-malware-evades-detection-using-multi-stage-deployment/ "New Linux malware evades detection using multi-stage deployment")
+  * [Shape-shifting cryptominer savaging Linux endpoints and IoT](https://www.theregister.com/2022/09/10/in_brief_security/ "Shape-shifting cryptominer savaging Linux endpoints and IoT") — The malware was dubbed "Shikitega" for its extensive use of the popular Shikata Ga Nai polymorphic encoder, which allows the malware to "mutate" its code to avoid detection. Shikitega alters its code each time it runs through one of several decoding loops that AT&T said each deliver multiple attacks, beginning with an ELF file that's just 370 bytes. 
+  * [Next-Gen Linux Malware Takes Over Devices With Unique Tool Set](https://www.darkreading.com/vulnerabilities-threats/next-gen-linux-malware-takes-over-devices-unique-toolset "Next-Gen Linux Malware Takes Over Devices With Unique Tool Set")
+  * [OpenWrt 22.03 Released With Updated Firewall, Support For 180+ New Devices - Phoronix](https://www.phoronix.com/news/OpenWrt-22.03-Released "OpenWrt 22.03 Released With Updated Firewall, Support For 180+ New Devices - Phoronix")
+  * [[OpenWrt Wiki] OpenWrt 22.03.0 - First Stable Release - 6 September 2022](https://openwrt.org/releases/22.03/notes-22.03.0 "\[OpenWrt Wiki\] OpenWrt 22.03.0 - First Stable Release - 6 September 2022")
+  * [Linux Foundation Announces Open Wallet Foundation](https://www.linuxfoundation.org/press/linux-foundation-announces-an-intent-to-form-the-openwallet-foundation "Linux Foundation Announces Open Wallet Foundation") — The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced the intention to form the OpenWallet Foundation (OWF), a new collaborative effort to develop open source software to support interoperability for a wide range of wallet use cases.
+  * [Linux Foundation announces the OpenWallet Foundation to develop interoperable digital wallets](https://techcrunch.com/2022/09/13/linux-foundation-announces-the-openwallet-foundation-to-develop-interoperable-digital-wallets/ "Linux Foundation announces the OpenWallet Foundation to develop interoperable digital wallets")
+  * [Welcoming PyTorch to the Linux Foundation](https://www.linuxfoundation.org/blog/blog/welcoming-pytorch-to-the-linux-foundation "Welcoming PyTorch to the Linux Foundation")
+  * [Facebook Transfers PyTorch AI Framework to Linux Foundation for Governance](https://debugpointnews.com/meta-pytorch-linux/ "Facebook Transfers PyTorch AI Framework to Linux Foundation for Governance") — Today we are more than thrilled to welcome PyTorch to the Linux Foundation. Honestly, it’s hard to capture how big a deal this is for us in a single post but I’ll try. 
+  * [PyTorch strengthens its governance by joining the Linux Foundation](https://pytorch.org/blog/PyTorchfoundation/ "PyTorch strengthens its governance by joining the Linux Foundation")
+  * [Google Pixelbook is no more, proving the world wasn’t ready for premium Chromebooks | TechRadar](https://www.techradar.com/news/google-pixelbook-is-no-more-proving-the-world-wasnt-ready-for-premium-chromebooks "Google Pixelbook is no more, proving the world wasn’t ready for premium Chromebooks | TechRadar")
+  * [Linux Plumbers Conference - YouTube](https://www.youtube.com/c/LinuxPlumbersConference/videos?app=desktop&view=2&flow=list&live_view=501&cbrd=1 "Linux Plumbers Conference - YouTube")
+  * [LPC 2022: Rust Linux Drivers Capable Of Achieving Performance Comparable To C Code - Phoronix](https://www.phoronix.com/news/LPC-2022-Rust-Linux "LPC 2022: Rust Linux Drivers Capable Of Achieving Performance Comparable To C Code - Phoronix")
+  * [IO_uring Continues To Prove Very Exciting: Promising io_uring_spawn Announced](https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn "IO_uring Continues To Prove Very Exciting: Promising io_uring_spawn Announced") — It also continues to be relentlessly optimized by Jens Axboe and others for maximum performance potential. The latest innovation around IO_uring that was announced this week at Linux Plumbers Conference 2022 in Dublin is io_uring_spawn.
+  * [An io_uring-based user-space block driver](https://lwn.net/Articles/903855/ "An io_uring-based user-space block driver")
+  * [A pair of Rust kernel modules](https://lwn.net/Articles/907685/ "A pair of Rust kernel modules")
+  * [Compiling Rust with GCC: an update](https://lwn.net/Articles/907405/ "Compiling Rust with GCC: an update")
+  * [Mesa’s Rust OpenCL Implementation Merged](https://www.phoronix.com/news/Mesa-Rust-OpenCL-Merging-Soon "Mesa’s Rust OpenCL Implementation Merged")
+  * [Adding rusticl (!15439) · Merge requests · Mesa / mesa · GitLab](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/15439 "Adding rusticl \(!15439\) · Merge requests · Mesa / mesa · GitLab")
+  * [LPC 2022 - Kernel Summit - Lansdowne - YouTube](https://www.youtube.com/watch?v=e2SZoUPhDRg "LPC 2022 - Kernel Summit - Lansdowne - YouTube")
+
+
+
+## Tags
+
+[2038 problem](https://linuxactionnews.com/tags/2038%20problem), [ai](https://linuxactionnews.com/tags/ai), [alien labs](https://linuxactionnews.com/tags/alien%20labs), [async i/o](https://linuxactionnews.com/tags/async%20i%2Fo), [at&t](https://linuxactionnews.com/tags/at&t), [busybox](https://linuxactionnews.com/tags/busybox), [chromebook](https://linuxactionnews.com/tags/chromebook), [chromeos](https://linuxactionnews.com/tags/chromeos), [cryptocurrency miner](https://linuxactionnews.com/tags/cryptocurrency%20miner), [dark mode](https://linuxactionnews.com/tags/dark%20mode), [digital wallets](https://linuxactionnews.com/tags/digital%20wallets), [ebpf](https://linuxactionnews.com/tags/ebpf), [edr](https://linuxactionnews.com/tags/edr), [embedded devices](https://linuxactionnews.com/tags/embedded%20devices), [facebook](https://linuxactionnews.com/tags/facebook), [firewall](https://linuxactionnews.com/tags/firewall), [fork](https://linuxactionnews.com/tags/fork), [google](https://linuxactionnews.com/tags/google), [interpreter](https://linuxactionnews.com/tags/interpreter), [io_uring](https://linuxactionnews.com/tags/io_uring), [iptables](https://linuxactionnews.com/tags/iptables), [jens axboe](https://linuxactionnews.com/tags/jens%20axboe), [josh triplett](https://linuxactionnews.com/tags/josh%20triplett), [linux action news](https://linuxactionnews.com/tags/linux%20action%20news), [linux foundation](https://linuxactionnews.com/tags/linux%20foundation), [linux foundation europe](https://linuxactionnews.com/tags/linux%20foundation%20europe), [linux news podcast](https://linuxactionnews.com/tags/linux%20news%20podcast), [linux plumbers conference](https://linuxactionnews.com/tags/linux%20plumbers%20conference), [lpc](https://linuxactionnews.com/tags/lpc), [malware](https://linuxactionnews.com/tags/malware), [meta](https://linuxactionnews.com/tags/meta), [mettle metasploit](https://linuxactionnews.com/tags/mettle%20metasploit), [ml](https://linuxactionnews.com/tags/ml), [musl](https://linuxactionnews.com/tags/musl), [nftables](https://linuxactionnews.com/tags/nftables), [nvme](https://linuxactionnews.com/tags/nvme), [open source](https://linuxactionnews.com/tags/open%20source), [open source summit europe](https://linuxactionnews.com/tags/open%20source%20summit%20europe), [opencl](https://linuxactionnews.com/tags/opencl), [openwallet foundation](https://linuxactionnews.com/tags/openwallet%20foundation), [openwrt 22.03](https://linuxactionnews.com/tags/openwrt%2022.03), [optimization](https://linuxactionnews.com/tags/optimization), [owf](https://linuxactionnews.com/tags/owf), [performance](https://linuxactionnews.com/tags/performance), [pixelbook](https://linuxactionnews.com/tags/pixelbook), [polymorphic encoder](https://linuxactionnews.com/tags/polymorphic%20encoder), [posix_spawn](https://linuxactionnews.com/tags/posix_spawn), [pytorch](https://linuxactionnews.com/tags/pytorch), [reverse shell](https://linuxactionnews.com/tags/reverse%20shell), [router](https://linuxactionnews.com/tags/router), [rust](https://linuxactionnews.com/tags/rust), [security](https://linuxactionnews.com/tags/security), [shellcode](https://linuxactionnews.com/tags/shellcode), [shikata ga nai](https://linuxactionnews.com/tags/shikata%20ga%20nai), [shikitega](https://linuxactionnews.com/tags/shikitega), [vfork](https://linuxactionnews.com/tags/vfork), [virus](https://linuxactionnews.com/tags/virus), [vulnerability](https://linuxactionnews.com/tags/vulnerability), [western digital](https://linuxactionnews.com/tags/western%20digital), [wifi 6](https://linuxactionnews.com/tags/wifi%206), [xmrig](https://linuxactionnews.com/tags/xmrig)
