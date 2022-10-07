@@ -1,0 +1,43 @@
+# LAN 261: Linux Action News 261
+
+<iframe src="https://player.fireside.fm/v2/DAcK9LdX+fsv2f-UT?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+* Air Date: 2022-10-06
+* Duration: 19 mins 26 secs
+
+## About this episode
+
+Our thoughts on IBM slicing up more of Red Hat, what stands out in Nextcloud Hub 3, and a few essential fixes finally landing in the Linux kernel.
+
+## Your hosts
+* [Chris Fisher](https://linuxactionnews.com/hosts/chris)
+* [Wes Payne](https://linuxactionnews.com/hosts/wes)
+
+## Sponsored by
+
+  * [Kolide](https://kolide.com/lan): [User-centered, cross-platform endpoint security for teams that Slack. ](https://kolide.com/lan)
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
+
+
+
+## Episode links
+
+  * [IBM Takes Over Red Hat Storage to IBM Offerings](https://newsroom.ibm.com/2022-10-04-IBM-Redefines-Hybrid-Cloud-Application-and-Data-Storage-Adding-Red-Hat-Storage-to-IBM-Offerings "IBM Takes Over Red Hat Storage to IBM Offerings") — IBM announced today it will add Red Hat storage product roadmaps and Red Hat associate teams to the IBM Storage business unit, bringing consistent application and data storage across on-premises infrastructure and cloud.
+  * [Why Whitehurst is stepping away from IBM](https://www.zdnet.com/article/why-whitehurst-is-stepping-away-from-ibm/ "Why Whitehurst is stepping away from IBM")
+  * [IBM Does A “Quasi-Acquisition” Of Red Hat Storage](https://www.phoronix.com/news/IBM-Red-Hat-Storage "IBM Does A “Quasi-Acquisition” Of Red Hat Storage") — Red Hat OpenShift Data Foundation is also being absorbed into IBM Spectrum Fusion. IBM is assuming the Premier Sponsorship role of the Ceph Foundation from Red Hat.
+  * [Announcing Nextcloud Hub 3](https://nextcloud.com/blog/announcing-nextcloud-hub-3-brand-new-design-and-photos-2-0-with-editor-and-ai/ "Announcing Nextcloud Hub 3") — Our design always followed three principles. Focus on content, ease of use, and great accessibility. For this refresh, we added a fourth: make it your own.
+  * [Introducing NVK](https://www.collabora.com/news-and-blog/news-and-events/introducing-nvk.html "Introducing NVK") — NVK is a new open-source Vulkan driver for NVIDIA hardware in Mesa. 
+  * [Debian’s firmware vote results](https://lwn.net/Articles/910065 "Debian’s firmware vote results") — The winning option allows the installer image to include firmware necessary to use the system.
+  * [Intel Laptop Users Should Avoid Linux 5.19.12](https://lore.kernel.org/all/YzwooNdMECzuI5+h@intel.com/ "Intel Laptop Users Should Avoid Linux 5.19.12") — After looking at some logs we do end up with potentially bogus panel power sequencing delays, which may harm the LCD panel.
+  * [Intel Laptop Users Should Avoid Linux 5.19.12 To Avoid Potentially Damaging The Display - Phoronix](https://www.phoronix.com/news/Intel-iGPU-Avoid-Linux-5.19.12 "Intel Laptop Users Should Avoid Linux 5.19.12 To Avoid Potentially Damaging The Display - Phoronix")
+  * [Linux 6.0 Released With Many Intel & AMD Driver Additions](https://www.phoronix.com/news/Linux-6.0-Released "Linux 6.0 Released With Many Intel & AMD Driver Additions") — Linus Torvalds just promoted Linux 6.0 to stable on-schedule and thereby now ushering in the Linux 6.1 merge window to officially get underway tomorrow.
+  * [Some 6.0 development statistics](https://lwn.net/Articles/909625/ "Some 6.0 development statistics") — A total of 2,034 developers contributed to the 6.0 release; of those, 236 made their first contribution during this cycle. The total number of developers is just short of the record (2,086) set for 5.19, but the number of first-time contributors is the lowest seen since the 5.6 release (216) in 2020.
+  * [Linux 6.0 Supporting New Intel/AMD Hardware](https://www.phoronix.com/review/linux-60-features/2 "Linux 6.0 Supporting New Intel/AMD Hardware")
+  * [Btrfs Brings Some Great Performance Improvements With Linux 6.1](https://www.phoronix.com/news/Linux-6.1-Btrfs "Btrfs Brings Some Great Performance Improvements With Linux 6.1")
+  * [The Initial Rust Infrastructure Has Been Merged Into Linux 6.1](https://www.phoronix.com/news/Rust-Is-Merged-Linux-6.1 "The Initial Rust Infrastructure Has Been Merged Into Linux 6.1") — As a follow-up to the Rust infrastructure pull request for Linux 6.1, Linus Torvalds pulled the initial Rust code into the mainline Linux kernel this evening.
+
+
+
+## Tags
+
+[6.1](https://linuxactionnews.com/tags/6.1), [accessibility](https://linuxactionnews.com/tags/accessibility), [ai](https://linuxactionnews.com/tags/ai), [amd](https://linuxactionnews.com/tags/amd), [assistive software](https://linuxactionnews.com/tags/assistive%20software), [backups](https://linuxactionnews.com/tags/backups), [binary blob](https://linuxactionnews.com/tags/binary%20blob), [btrfs](https://linuxactionnews.com/tags/btrfs), [ceph](https://linuxactionnews.com/tags/ceph), [chat](https://linuxactionnews.com/tags/chat), [clevo](https://linuxactionnews.com/tags/clevo), [collabora](https://linuxactionnews.com/tags/collabora), [data compression](https://linuxactionnews.com/tags/data%20compression), [debian](https://linuxactionnews.com/tags/debian), [dyslexia](https://linuxactionnews.com/tags/dyslexia), [end-to-end encryption](https://linuxactionnews.com/tags/end-to-end%20encryption), [face recognition](https://linuxactionnews.com/tags/face%20recognition), [fedora](https://linuxactionnews.com/tags/fedora), [firmware](https://linuxactionnews.com/tags/firmware), [h.265](https://linuxactionnews.com/tags/h.265), [hardware](https://linuxactionnews.com/tags/hardware), [hevc](https://linuxactionnews.com/tags/hevc), [hybrid cloud](https://linuxactionnews.com/tags/hybrid%20cloud), [ibm](https://linuxactionnews.com/tags/ibm), [intel graphics](https://linuxactionnews.com/tags/intel%20graphics), [io_uring](https://linuxactionnews.com/tags/io_uring), [jason ekstrand](https://linuxactionnews.com/tags/jason%20ekstrand), [k8s](https://linuxactionnews.com/tags/k8s), [keyboard shortcuts](https://linuxactionnews.com/tags/keyboard%20shortcuts), [kubernetes](https://linuxactionnews.com/tags/kubernetes), [lcd](https://linuxactionnews.com/tags/lcd), [linux 5.19.12](https://linuxactionnews.com/tags/linux%205.19.12), [linux 6.0](https://linuxactionnews.com/tags/linux%206.0), [linux action news](https://linuxactionnews.com/tags/linux%20action%20news), [linux news podcast](https://linuxactionnews.com/tags/linux%20news%20podcast), [lovelace](https://linuxactionnews.com/tags/lovelace), [mail 2.0](https://linuxactionnews.com/tags/mail%202.0), [mesa](https://linuxactionnews.com/tags/mesa), [ml](https://linuxactionnews.com/tags/ml), [nextcloud](https://linuxactionnews.com/tags/nextcloud), [nextcloud hub 3](https://linuxactionnews.com/tags/nextcloud%20hub%203), [nextcloud talk](https://linuxactionnews.com/tags/nextcloud%20talk), [nvidia](https://linuxactionnews.com/tags/nvidia), [nvk](https://linuxactionnews.com/tags/nvk), [object storage](https://linuxactionnews.com/tags/object%20storage), [odf](https://linuxactionnews.com/tags/odf), [open source graphics](https://linuxactionnews.com/tags/open%20source%20graphics), [openshift](https://linuxactionnews.com/tags/openshift), [openstack](https://linuxactionnews.com/tags/openstack), [photos 2.0](https://linuxactionnews.com/tags/photos%202.0), [radv](https://linuxactionnews.com/tags/radv), [raid](https://linuxactionnews.com/tags/raid), [raid5](https://linuxactionnews.com/tags/raid5), [raid6](https://linuxactionnews.com/tags/raid6), [raspberry pi 4](https://linuxactionnews.com/tags/raspberry%20pi%204), [red hat](https://linuxactionnews.com/tags/red%20hat), [rook](https://linuxactionnews.com/tags/rook), [rust](https://linuxactionnews.com/tags/rust), [security](https://linuxactionnews.com/tags/security), [send protocol v2](https://linuxactionnews.com/tags/send%20protocol%20v2), [send/receive](https://linuxactionnews.com/tags/send%2Freceive), [snapshots](https://linuxactionnews.com/tags/snapshots), [software-defined storage](https://linuxactionnews.com/tags/software-defined%20storage), [spectrum fusion](https://linuxactionnews.com/tags/spectrum%20fusion), [turing](https://linuxactionnews.com/tags/turing), [v3d](https://linuxactionnews.com/tags/v3d), [virtio](https://linuxactionnews.com/tags/virtio), [vulkan](https://linuxactionnews.com/tags/vulkan), [xfs](https://linuxactionnews.com/tags/xfs)
