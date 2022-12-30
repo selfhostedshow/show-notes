@@ -51,73 +51,76 @@ def get_plain_title(title: str):
 
 
 def create_episode(api_episode, show_config, output_dir):
-    base_url = show_config['fireside_url']
+    try:
+        base_url = show_config['fireside_url']
 
-    # RANT: What kind of API doesn't give the episode number?!
-    episode_number = int(api_episode["url"].split("/")[-1])
-    episode_number_padded = f"{episode_number:03}"
-    publish_date = date_parse(api_episode['date_published'])
-    output_file = f"{output_dir}/{publish_date.year}/episode-{episode_number_padded}.md"
+        # RANT: What kind of API doesn't give the episode number?!
+        episode_number = int(api_episode["url"].split("/")[-1])
+        episode_number_padded = f"{episode_number:03}"
+        publish_date = date_parse(api_episode['date_published'])
+        output_file = f"{output_dir}/{publish_date.year}/episode-{episode_number_padded}.md"
 
-    mkdir_safe(f"{output_dir}/{publish_date.year}")
+        mkdir_safe(f"{output_dir}/{publish_date.year}")
 
-    if os.path.isfile(output_file):
-        print("Skipping", api_episode['url'], "as it already exists")
-        return
+        if os.path.isfile(output_file):
+            print("Skipping", api_episode['url'], "as it already exists")
+            return
 
-    api_soup = BeautifulSoup(api_episode["content_html"], "html.parser")
+        api_soup = BeautifulSoup(api_episode["content_html"], "html.parser")
 
-    blurb = api_episode["summary"]
+        blurb = api_episode["summary"]
 
-    sponsors = html2text.html2text(str(get_list(api_soup, "Sponsored By:")))
+        sponsors = html2text.html2text(str(get_list(api_soup, "Sponsored By:")))
 
-    links = html2text.html2text(str(get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:")))
+        links = html2text.html2text(str(get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:")))
 
-    page_soup = BeautifulSoup(requests.get(api_episode["url"]).content, "html.parser")
+        page_soup = BeautifulSoup(requests.get(api_episode["url"]).content, "html.parser")
 
-    tags = []
-    for link in page_soup.find_all("a", class_="tag"):
-        tags.append(
-            {"link": base_url + link.get("href"), "text": link.get_text().strip()}
-        )
-
-    # Sort tags by text
-    tags = sorted(tags, key=operator.itemgetter("text"))
-
-    hosts = []
-    for host in page_soup.find_all("ul", class_="episode-hosts"):
-        for link in host.find_all("a"):
-            hosts.append(
-                {"name": link.get("title"), "link": base_url + link.get("href")}
+        tags = []
+        for link in page_soup.find_all("a", class_="tag"):
+            tags.append(
+                {"link": base_url + link.get("href"), "text": link.get_text().strip()}
             )
 
-    player_embed = page_soup.find("input", class_="copy-share-embed").get("value")
+        # Sort tags by text
+        tags = sorted(tags, key=operator.itemgetter("text"))
 
-    show_attachment = api_episode["attachments"][0]
+        hosts = []
+        for host in page_soup.find_all("ul", class_="episode-hosts"):
+            for link in host.find_all("a"):
+                hosts.append(
+                    {"name": link.get("title"), "link": base_url + link.get("href")}
+                )
 
-    output = TEMPLATE.render(
-        {
-            "title": api_episode["title"],
-            "title_plain": get_plain_title(api_episode["title"]),
-            "episode_number": episode_number,
-            "episode_number_padded": episode_number_padded,
-            "url": api_episode["url"],
-            "audio": show_attachment["url"],
-            "duration": get_duration(int(show_attachment['duration_in_seconds'])),
-            "blurb": blurb,
-            "sponsors": sponsors,
-            "links": links,
-            "hosts": hosts,
-            "tags": tags,
-            "player_embed": player_embed,
-            "date_published": publish_date.date().isoformat(),
-            "show_config": show_config
-        }
-    )
+        player_embed = page_soup.find("input", class_="copy-share-embed").get("value")
 
-    with open(output_file, "w") as f:
-        print("Saving", api_episode["url"])
-        f.write(output)
+        show_attachment = api_episode["attachments"][0]
+
+        output = TEMPLATE.render(
+            {
+                "title": api_episode["title"],
+                "title_plain": get_plain_title(api_episode["title"]),
+                "episode_number": episode_number,
+                "episode_number_padded": episode_number_padded,
+                "url": api_episode["url"],
+                "audio": show_attachment["url"],
+                "duration": get_duration(int(show_attachment['duration_in_seconds'])),
+                "blurb": blurb,
+                "sponsors": sponsors,
+                "links": links,
+                "hosts": hosts,
+                "tags": tags,
+                "player_embed": player_embed,
+                "date_published": publish_date.date().isoformat(),
+                "show_config": show_config
+            }
+        )
+
+        with open(output_file, "w") as f:
+            print("Saving", api_episode["url"])
+            f.write(output)
+    except Exception as e:
+        print(f"Skipping {api_episode['url']} because of error: {e}")
 
 
 def main():
