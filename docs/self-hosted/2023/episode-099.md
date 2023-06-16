@@ -28,6 +28,7 @@ We dive into Lemmy, a self-hosted Reddit alternative. Plus, a couple of easy-to-
   * [Install with Ansible - Lemmy Documentation](https://join-lemmy.org/docs/en/administration/install_ansible.html "Install with Ansible - Lemmy Documentation") — Follow the instructions on the Lemmy-Ansible repo.
   * [Mlem](https://github.com/buresdv/Mlem "Mlem") — The Lemmy client for iOS.
   * [Jerboa](https://github.com/dessalines/jerboa "Jerboa") — An Android client for Lemmy, a federated reddit alternative 
+  * [Snapdrop](https://github.com/RobinLinus/snapdrop "Snapdrop") — A Progressive Web App for local file sharing 
 
 
 
