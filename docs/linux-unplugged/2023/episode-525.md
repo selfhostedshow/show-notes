@@ -1,0 +1,64 @@
+# LUP 525: Beating Apple to the Sauce
+
+<iframe src="https://player.fireside.fm/v2/RUkczH-V+Xz8fxCGl?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+* Air Date: 2023-08-27
+* Duration: 72 mins 20 secs
+
+## About this episode
+
+We daily drive Asahi Linux on a MacBook, chat about how the team beat Apple to a major GPU milestone, and an easy way to self-host open-source ChatGPT alternatives.
+
+## Your hosts
+* [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
+* [Wes Payne](https://linuxunplugged.com/hosts/wes)
+* [Brent Gervais](https://linuxunplugged.com/hosts/brent)
+* [Neal Gompa](https://linuxunplugged.com/guests/nealgompa)
+
+## Sponsored by
+
+  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
+  * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
+  * [Kolide](https://kolide.com/unplugged): [Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn’t trusted and secure, it can’t log into your cloud apps.](https://kolide.com/unplugged)
+
+
+
+## Episode links
+
+  * [🎉 Alby](https://getalby.com/ "🎉 Alby") — Boost into the show, first grab Alby, top it off, and then head over to the Podcast Index.
+  * [⚡️ LINUX Unplugged on the Podcastindex.org](https://podcastindex.org/podcast/575694 "⚡️ LINUX Unplugged on the Podcastindex.org") — You can boost from the web. Once Alby is topped off, visit our page on the Podcast Index.
+  * [Hector Martin's Controversial Question](https://social.treehouse.systems/@marcan/110837288605832455 "Hector Martin's Controversial Question") — Would you be okay with us adding some really trivial telemetry to the Asahi installer?
+  * [Berlin with Brent](https://www.meetup.com/jupiterbroadcasting/events/295135448/ "Berlin with Brent") — Brent will be back in Berlin for the Nextcloud Conference and can't get enough of Berlin Meetups! Friday, September 8th, 6 PM.
+  * [Fedora Asahi Remix](https://fedora-asahi-remix.org/ "Fedora Asahi Remix")
+  * [Fedora Asahi Remix Coming For Fedora Linux On Apple Silicon Hardware](https://www.phoronix.com/news/Fedora-Asahi-Remix-Coming "Fedora Asahi Remix Coming For Fedora Linux On Apple Silicon Hardware") — Fedora Asahi Remix will be their new flagship distribution for providing a polished Linux experience on Apple Silicon.
+  * [Fedora Asahi Remix: bringing Fedora to Apple Silicon Macs (Flock To Fedora 2023)](https://www.youtube.com/watch?v=bD2R4Yt8m88 "Fedora Asahi Remix: bringing Fedora to Apple Silicon Macs \(Flock To Fedora 2023\)")
+  * [Our new flagship distro: Fedora Asahi Remix](https://asahilinux.org/2023/08/fedora-asahi-remix/ "Our new flagship distro: Fedora Asahi Remix") — We’re still working out the kinks and making things even better, so we are not quite ready to call this a release yet. We aim to officially release the Fedora Asahi Remix by the end of August 2023. Look forward to many new features, machine support, and more!
+  * [Hector Martin: “Okay, I’m going to be honest…”](https://social.treehouse.systems/@marcan/109971521711413167 "Hector Martin: “Okay, I’m going to be honest…”") — I apologize to all Asahi Linux users. You deserve better. When I chose Arch Linux ARM as a base I didn't realize it would have so many basic QA issues.
+  * [Coming soon: Fedora for Apple Silicon Macs! (Fedora Discourse)](https://discussion.fedoraproject.org/t/coming-soon-fedora-for-apple-silicon-macs/86745 "Coming soon: Fedora for Apple Silicon Macs! \(Fedora Discourse\)")
+  * [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html "The first conformant M1 GPU driver") — Our reverse-engineered, free and open source graphics drivers are the world’s only conformant OpenGL ES 3.1 implementation for M1- and M2-family graphics hardware. That means our driver passed tens of thousands of tests to demonstrate correctness and is now recognized by the industry.
+  * [Asahi Linux’s Apple M1/M2 Gallium3D Driver Now OpenGL ES 3.1 Conformant](https://www.phoronix.com/news/Asahi-Linux-GLES-3.1-AGX-M1-M2 "Asahi Linux’s Apple M1/M2 Gallium3D Driver Now OpenGL ES 3.1 Conformant") — It's even more rewarding for the community developers in that Apple doesn't provide any conformant (OpenGL or Vulkan) graphics drivers for their Arm-based platform.
+  * [Feature Support · AsahiLinux/docs Wiki](https://github.com/AsahiLinux/docs/wiki/Feature-Support "Feature Support · AsahiLinux/docs Wiki")
+  * [Switch to the kernel-16k variant - Fedora Discussion](https://discussion.fedoraproject.org/t/switch-to-the-kernel-16k-variant/87711 "Switch to the kernel-16k variant - Fedora Discussion")
+  * [NixOS: Unlocking your LUKS via SSH and Tor](https://nixos.wiki/wiki/Remote_LUKS_Unlocking "NixOS: Unlocking your LUKS via SSH and Tor")
+  * [StreetComplete](https://github.com/streetcomplete/StreetComplete "StreetComplete") — Easy to use OpenStreetMap editor for Android.
+  * [getumbrel/llama-gpt: A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.](https://github.com/getumbrel/llama-gpt "getumbrel/llama-gpt: A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.")
+  * [serge-chat/serge: A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.](https://github.com/serge-chat/serge "serge-chat/serge: A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.")
+  * [liltom-eth/llama2-webui: Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Use](https://github.com/liltom-eth/llama2-webui "liltom-eth/llama2-webui: Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere \(Linux/Windows/Mac\). Use")
+  * [llama.cpp](https://github.com/ggerganov/llama.cpp "llama.cpp") — Port of Facebook’s LLaMA model in C/C++
+  * [Llama2.c](https://github.com/karpathy/llama2.c "Llama2.c") — Inference Llama 2 in one file of pure C
+  * [Koboldcpp](https://github.com/LostRuins/koboldcpp "Koboldcpp") — A simple one-file way to run various GGML models with KoboldAI’s UI
+  * [lollms-webui](https://github.com/ParisNeo/lollms-webui "lollms-webui") — Lord of Large Language Models Web User Interface
+  * [LM Studio](https://lmstudio.ai/ "LM Studio") — Discover, download, and run local LLMs
+  * [text-generation-webui](https://github.com/oobabooga/text-generation-webui "text-generation-webui") — A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
+  * [A comprehensive guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally "A comprehensive guide to running Llama 2 locally") — Code Llama is a state-of-the-art LLM capable of generating code, and natural language about code, from both code and natural language prompts.
+  * [Meta Releases Code Llama, a Coding Version of Llama 2](https://www.wired.com/story/meta-code-llama/ "Meta Releases Code Llama, a Coding Version of Llama 2")
+  * [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/ "Introducing Code Llama, a state-of-the-art large language model for coding")
+  * [Llama and ChatGPT Are Not Open-Source](https://spectrum.ieee.org/open-source-llm-not-open "Llama and ChatGPT Are Not Open-Source")
+  * [Meta launches Llama 2, a source-available AI model that allows commercial applications](https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/ "Meta launches Llama 2, a source-available AI model that allows commercial applications") — A family of pretrained and fine-tuned language models in sizes from 7 to 70 billion parameters.
+  * [Meta’s Llama 2 is not open source](https://www.theregister.com/2023/07/21/llama_is_not_open_source/ "Meta’s Llama 2 is not open source") — Meta's newly released large language model Llama 2 is not open source.
+
+
+
+## Tags
+
+[16k kernel](https://linuxunplugged.com/tags/16k%20kernel), [16k pages](https://linuxunplugged.com/tags/16k%20pages), [ai](https://linuxunplugged.com/tags/ai), [alyssa rosenzweig](https://linuxunplugged.com/tags/alyssa%20rosenzweig), [apple](https://linuxunplugged.com/tags/apple), [apple silicon](https://linuxunplugged.com/tags/apple%20silicon), [arch arm](https://linuxunplugged.com/tags/arch%20arm), [arm](https://linuxunplugged.com/tags/arm), [arm64](https://linuxunplugged.com/tags/arm64), [asahi linux](https://linuxunplugged.com/tags/asahi%20linux), [battery life](https://linuxunplugged.com/tags/battery%20life), [btrfs](https://linuxunplugged.com/tags/btrfs), [chatgpt](https://linuxunplugged.com/tags/chatgpt), [conformant gpu driver](https://linuxunplugged.com/tags/conformant%20gpu%20driver), [data center](https://linuxunplugged.com/tags/data%20center), [data loss](https://linuxunplugged.com/tags/data%20loss), [davide calvalca](https://linuxunplugged.com/tags/davide%20calvalca), [disk encryption](https://linuxunplugged.com/tags/disk%20encryption), [dual booting](https://linuxunplugged.com/tags/dual%20booting), [fedora](https://linuxunplugged.com/tags/fedora), [fedora asahi remix](https://linuxunplugged.com/tags/fedora%20asahi%20remix), [filesystem](https://linuxunplugged.com/tags/filesystem), [gallium3d](https://linuxunplugged.com/tags/gallium3d), [gpu](https://linuxunplugged.com/tags/gpu), [gpu acceleration](https://linuxunplugged.com/tags/gpu%20acceleration), [hector martin](https://linuxunplugged.com/tags/hector%20martin), [hpc](https://linuxunplugged.com/tags/hpc), [immutability](https://linuxunplugged.com/tags/immutability), [impermanence](https://linuxunplugged.com/tags/impermanence), [jbod](https://linuxunplugged.com/tags/jbod), [jitsi meet](https://linuxunplugged.com/tags/jitsi%20meet), [jupiter broadcasting](https://linuxunplugged.com/tags/jupiter%20broadcasting), [kde](https://linuxunplugged.com/tags/kde), [kde connect](https://linuxunplugged.com/tags/kde%20connect), [linux podcast](https://linuxunplugged.com/tags/linux%20podcast), [linux unplugged](https://linuxunplugged.com/tags/linux%20unplugged), [llama 2](https://linuxunplugged.com/tags/llama%202), [llama-gpt](https://linuxunplugged.com/tags/llama-gpt), [llama.cpp](https://linuxunplugged.com/tags/llama.cpp), [llm](https://linuxunplugged.com/tags/llm), [luks](https://linuxunplugged.com/tags/luks), [lvm](https://linuxunplugged.com/tags/lvm), [m1](https://linuxunplugged.com/tags/m1), [m2](https://linuxunplugged.com/tags/m2), [mac mini](https://linuxunplugged.com/tags/mac%20mini), [macos](https://linuxunplugged.com/tags/macos), [mattermost](https://linuxunplugged.com/tags/mattermost), [meta](https://linuxunplugged.com/tags/meta), [ml](https://linuxunplugged.com/tags/ml), [neal gompa](https://linuxunplugged.com/tags/neal%20gompa), [nixos](https://linuxunplugged.com/tags/nixos), [oneplus 6](https://linuxunplugged.com/tags/oneplus%206), [open source ai](https://linuxunplugged.com/tags/open%20source%20ai), [openai](https://linuxunplugged.com/tags/openai), [opengl es 3.1](https://linuxunplugged.com/tags/opengl%20es%203.1), [openstreetmap](https://linuxunplugged.com/tags/openstreetmap), [opensuse tumbleweed](https://linuxunplugged.com/tags/opensuse%20tumbleweed), [organic maps](https://linuxunplugged.com/tags/organic%20maps), [plasma](https://linuxunplugged.com/tags/plasma), [rdp](https://linuxunplugged.com/tags/rdp), [self-hosting](https://linuxunplugged.com/tags/self-hosting), [server temperature](https://linuxunplugged.com/tags/server%20temperature), [sip](https://linuxunplugged.com/tags/sip), [snapdragon 845](https://linuxunplugged.com/tags/snapdragon%20845), [streetcomplete](https://linuxunplugged.com/tags/streetcomplete), [telemetry](https://linuxunplugged.com/tags/telemetry), [thunderbolt](https://linuxunplugged.com/tags/thunderbolt), [uefi](https://linuxunplugged.com/tags/uefi), [umbrel](https://linuxunplugged.com/tags/umbrel), [vnc](https://linuxunplugged.com/tags/vnc), [voip](https://linuxunplugged.com/tags/voip), [xfs](https://linuxunplugged.com/tags/xfs), [xfs_repair](https://linuxunplugged.com/tags/xfs_repair), [zfs](https://linuxunplugged.com/tags/zfs), [🦙](https://linuxunplugged.com/tags/%F0%9F%A6%99)
