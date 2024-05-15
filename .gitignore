@@ -86,6 +86,7 @@ $RECYCLE.BIN/
 
 env/
 output/
+venv/
 
 # This will fail in 2100, but i'm ok with that
 #docs/**/20*/
