@@ -135,9 +135,13 @@ def main():
 
             mkdir_safe(output_dir)
 
-            api_data = requests.get(show_config['fireside_url'] + "/json").json()
-            for api_episode in api_data["items"]:
-                futures.append(executor.submit(create_episode, api_episode, show_config, output_dir))
+            try:
+                api_data = requests.get(show_config['fireside_url'] + "/json").json()
+                for api_episode in api_data["items"]:
+                    futures.append(executor.submit(create_episode, api_episode, show_config, output_dir))
+            except:
+                print("ERROR: An error occurred somewhere.")
+
 
         # Drain to get exceptions. Still have to mash CTRL-C, though.
         for future in concurrent.futures.as_completed(futures):
