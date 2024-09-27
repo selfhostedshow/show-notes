@@ -1,7 +1,9 @@
 import concurrent.futures
-import os
+import datetime
 import html2text
 import operator
+import os
+import xml.etree.ElementTree
 
 import requests
 from bs4 import BeautifulSoup
@@ -36,6 +38,21 @@ def get_duration(seconds):
     return f"{minutes} mins {seconds} secs"
 
 
+def hms_to_seconds(time_str):
+    """
+    Convert HH:MM:SS or MM:SS format to seconds.
+    """
+    parts = time_str.split(":")
+    if len(parts) == 3:
+        hours, minutes, seconds = map(int, parts)
+    elif len(parts) == 2:
+        hours, minutes, seconds = 0, *map(int, parts)
+    else:
+        raise ValueError("Invalid time format. Use HH:MM:SS or MM:SS.")
+
+    return hours * 3600 + minutes * 60 + seconds
+
+
 def get_plain_title(title: str):
     """
     Get just the show title, without any numbering etc
@@ -55,8 +72,12 @@ def create_episode(api_episode, show_config, output_dir):
         base_url = show_config['fireside_url']
 
         # RANT: What kind of API doesn't give the episode number?!
-        episode_number = int(api_episode["url"].split("/")[-1])
-        episode_number_padded = f"{episode_number:03}"
+        try:
+            episode_number = int(api_episode["url"].split("/")[-1])
+            episode_number_padded = f"{episode_number:03}"
+        except Exception as e:
+            # Attempt to handle non-integer slugs.
+            episode_number = episode_number_padded = api_episode["url"].split("/")[-1]
         publish_date = date_parse(api_episode['date_published'])
         output_file = f"{output_dir}/{publish_date.year}/episode-{episode_number_padded}.md"
 
@@ -123,6 +144,54 @@ def create_episode(api_episode, show_config, output_dir):
         print(f"Skipping {api_episode['url']} because of error: {e}")
 
 
+def api_data_from_rss_item(item):
+    "Convert RSS to Fireside JSON format."
+    return {
+        "url": item["link"],
+        "date_published": datetime.datetime.strptime(
+            item["pubDate"], "%a, %d %b %Y %H:%M:%S %z"
+        ).isoformat(),
+        "content_html": item.get(
+            "{http://purl.org/rss/1.0/modules/content/}encoded",
+            item.get("{http://www.itunes.com/dtds/podcast-1.0.dtd}summary", ""),
+        ).strip(),
+        "summary": item["{http://www.itunes.com/dtds/podcast-1.0.dtd}subtitle"].strip(),
+        "attachments": [
+            {
+                "url": item["enclosure"]["url"],
+                "duration": item["{http://www.itunes.com/dtds/podcast-1.0.dtd}duration"],
+                "duration_in_seconds": hms_to_seconds(
+                    item["{http://www.itunes.com/dtds/podcast-1.0.dtd}duration"]
+                ),
+            }
+        ],
+        "title": item["title"].strip(),
+    }
+
+
+def scrape_episodes_from_rss(url):
+    raw_xml = requests.get(url).content
+    feed = xml.etree.ElementTree.fromstring(raw_xml)
+    channel = feed.find("channel")
+    assert channel is not None, "channel not found!"
+    items = channel.findall("item")
+    return [
+        api_data_from_rss_item(
+            {
+                # Convert child tags of item to dict kvs
+                child.tag: (
+                    # Handle somtimes empty tags, such as itunes:subtitle
+                    child.text
+                    or child.attrib
+                    or ""
+                )
+                for child in list(item)
+            }
+        )
+        for item in items
+    ]
+
+
 def main():
     # Grab the config embedded in the mkdocs config
     with open("mkdocs.yml") as f:
@@ -136,8 +205,12 @@ def main():
             mkdir_safe(output_dir)
 
             try:
-                api_data = requests.get(show_config['fireside_url'] + "/json").json()
-                for api_episode in api_data["items"]:
+                api_data = (
+                    requests.get(show_config["fireside_url"] + "/json").json()["items"]
+                    if show_config.get("use_fireside_json")
+                    else scrape_episodes_from_rss(show_config["fireside_url"] + "/rss")
+                )
+                for api_episode in api_data:
                     futures.append(executor.submit(create_episode, api_episode, show_config, output_dir))
             except:
                 print("ERROR: An error occurred somewhere.")
