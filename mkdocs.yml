@@ -54,7 +54,7 @@ markdown_extensions:
   - pymdownx.superfences # allows for the nesting of code blocks inside other blocks
   - pymdownx.keys
 
-copyright: 2021 &copy; Jupiter Broadcasting
+copyright: 2021-2024 &copy; Jupiter Broadcasting
 
 extra_css:
   - /show-themes.css
