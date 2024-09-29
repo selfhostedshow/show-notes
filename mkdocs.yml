@@ -79,6 +79,7 @@ extra:
     office-hours:
       fireside_url: https://www.officehours.hair/
       acronym: OFH
+      use_fireside_json: true
   social:
     - icon: 'fontawesome/brands/twitter'
       link: 'https://twitter.com/jupiterbroadcasting'
