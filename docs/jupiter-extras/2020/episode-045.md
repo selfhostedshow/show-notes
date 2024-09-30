@@ -1,4 +1,4 @@
-# JE 045: Fixing Brent's WiFi
+# JE 045: Self-Hosted: Fixing Brent's WiFi
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+3h9s1vff?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

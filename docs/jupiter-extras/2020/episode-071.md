@@ -1,4 +1,4 @@
-# JE 071: Sri Ramkrishna
+# JE 071: Brunch with Brent: Sri Ramkrishna
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+sqNv8tXk?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

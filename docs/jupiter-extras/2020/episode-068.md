@@ -1,4 +1,4 @@
-# JE 068: Daniel Foré
+# JE 068: Brunch with Brent: Daniel Foré
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+MirueKba?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

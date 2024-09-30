@@ -1,4 +1,4 @@
-# JE 069: Neal Gompa
+# JE 069: Pagure a GitLab Alternative: Neal Gompa
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+4HugjoN3?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

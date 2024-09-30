@@ -1,4 +1,4 @@
-# JE 086: Quentin Stafford-Fraser
+# JE 086: Brunch with Brent: Quentin Stafford-Fraser
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+0xfUaRdU?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

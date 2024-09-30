@@ -1,4 +1,4 @@
-# JE 041: Jason Spisak Part 2
+# JE 041: Brunch with Brent: Jason Spisak Part 2
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+GPJQCBBm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

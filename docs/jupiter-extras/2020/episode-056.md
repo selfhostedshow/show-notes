@@ -1,4 +1,4 @@
-# JE 056: Joe Ressington
+# JE 056: Podcasting Basics: Joe Ressington
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+89aXV2_A?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

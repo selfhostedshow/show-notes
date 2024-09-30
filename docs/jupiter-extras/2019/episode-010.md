@@ -1,4 +1,4 @@
-# JE 010: Drew DeVore
+# JE 010: Brunch with Brent: Drew DeVore
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+WPm6ZnJH?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

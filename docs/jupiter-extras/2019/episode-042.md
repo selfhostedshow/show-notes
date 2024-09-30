@@ -1,4 +1,4 @@
-# JE 042: Catherine Kretzschmar
+# JE 042: Brunch with Brent: Catherine Kretzschmar
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+wQvyLHsy?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

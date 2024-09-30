@@ -1,4 +1,4 @@
-# JE 007: Alex Kretzschmar
+# JE 007: Brunch with Brent: Alex Kretzschmar
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+ymL_Vy_o?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

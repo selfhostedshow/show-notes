@@ -1,4 +1,4 @@
-# CR 186: Native vs Hybrid
+# CR 186: Decision 2016: Native vs Hybrid
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+sXmdOqY2?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

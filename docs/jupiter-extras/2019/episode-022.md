@@ -1,4 +1,4 @@
-# JE 022: Allan Jude
+# JE 022: Brunch with Brent: Allan Jude
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+2JarOMue?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

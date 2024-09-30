@@ -1,4 +1,4 @@
-# JE 018: Christophe Limpalair
+# JE 018: Brunch with Brent: Christophe Limpalair
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+BRcnRb16?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

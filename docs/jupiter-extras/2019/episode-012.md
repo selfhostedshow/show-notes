@@ -1,4 +1,4 @@
-# JE 012: Wes Payne
+# JE 012: Brunch with Brent: Wes Payne
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+CIXJYTcb?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

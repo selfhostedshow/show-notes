@@ -1,4 +1,4 @@
-# JE 006: Chz Bacon
+# JE 006: Brunch with Brent: Chz Bacon
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+uqSh5q-m?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

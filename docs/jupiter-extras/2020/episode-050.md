@@ -1,4 +1,4 @@
-# JE 050: Peter Adams Part 1
+# JE 050: Brunch with Brent: Peter Adams Part 1
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+E2vlUAgR?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

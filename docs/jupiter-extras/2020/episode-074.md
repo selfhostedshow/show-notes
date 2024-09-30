@@ -1,4 +1,4 @@
-# JE 074: Philip Müller
+# JE 074: Brunch with Brent: Philip Müller
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+JxgbKmc_?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

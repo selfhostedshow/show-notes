@@ -1,4 +1,4 @@
-# CR gamer: Gaming with Perspective - Test Show
+# CR gamer: Gamer Radio 0: Gaming with Perspective - Test Show
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+PUB63yNn?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

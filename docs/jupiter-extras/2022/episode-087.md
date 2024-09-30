@@ -1,4 +1,4 @@
-# JE 087: Tim Canham
+# JE 087: Brunch With Brent: Tim Canham
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+qit1QV83?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

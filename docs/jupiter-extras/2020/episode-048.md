@@ -1,4 +1,4 @@
-# JE 048: Jim Salter
+# JE 048: Brunch with Brent: Jim Salter
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+6riAKR0x?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

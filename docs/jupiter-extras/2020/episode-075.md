@@ -1,4 +1,4 @@
-# JE 075: Carl Richell
+# JE 075: Brunch with Brent: Carl Richell
 
 <iframe src="https://player.fireside.fm/v2/WTrMvATU+wj5yQiwy?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
