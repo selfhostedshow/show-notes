@@ -10,8 +10,8 @@
 Brent sits down for an in-person chat with Allan Jude for a retrospective storytelling of his beginnings in BSD, his long history with podcasting, BSDNow and Jupiter Broadcasting, a beginner's guide to the benefits of FreeBSD, with technical nuggets and nostalgic bits throughout.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Allan Jude](https://extras.show//hosts/allanjude)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Allan Jude](https://extras.show/hosts/allanjude)
 
 ## Sponsored by
 
@@ -40,4 +40,4 @@ None
 
 ## Tags
 
-[allan jude](https://extras.show//tags/allan%20jude), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [bsd](https://extras.show//tags/bsd), [bsdnow](https://extras.show//tags/bsdnow), [cdn](https://extras.show//tags/cdn), [community](https://extras.show//tags/community), [freebsd](https://extras.show//tags/freebsd), [interview podcast](https://extras.show//tags/interview%20podcast), [irc](https://extras.show//tags/irc), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [linux](https://extras.show//tags/linux), [linux action show](https://extras.show//tags/linux%20action%20show), [openzfs](https://extras.show//tags/openzfs), [podcast](https://extras.show//tags/podcast), [scaleengine](https://extras.show//tags/scaleengine), [techsnap](https://extras.show//tags/techsnap), [zfs](https://extras.show//tags/zfs)
+[allan jude](https://extras.show/tags/allan%20jude), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [bsd](https://extras.show/tags/bsd), [bsdnow](https://extras.show/tags/bsdnow), [cdn](https://extras.show/tags/cdn), [community](https://extras.show/tags/community), [freebsd](https://extras.show/tags/freebsd), [interview podcast](https://extras.show/tags/interview%20podcast), [irc](https://extras.show/tags/irc), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [linux](https://extras.show/tags/linux), [linux action show](https://extras.show/tags/linux%20action%20show), [openzfs](https://extras.show/tags/openzfs), [podcast](https://extras.show/tags/podcast), [scaleengine](https://extras.show/tags/scaleengine), [techsnap](https://extras.show/tags/techsnap), [zfs](https://extras.show/tags/zfs)

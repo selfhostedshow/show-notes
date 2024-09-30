@@ -7,7 +7,7 @@
 
 ## About this episode
 
-A RISC-V development PC is in the works,  we have the details and try to set expectations. 
+A RISC-V development PC is in the works,  we have the details and try to set expectations.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

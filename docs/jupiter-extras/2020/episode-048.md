@@ -10,8 +10,8 @@
 Brent sits down with Jim Salter, co-host of Jupiter Broadcasting's TechSNAP and technology reporter at Ars Technica. We explore his relationship with computers via the US Navy, when code has it's place in either proprietary or open source licensing, the value in being a social gadfly, and Jim's motivations behind his writing and who he is hoping to reach and inspire.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Jim Salter](https://extras.show//guests/jim-salter)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Jim Salter](https://extras.show/guests/jim-salter)
 
 ## Sponsored by
 
@@ -40,4 +40,4 @@ None
 
 ## Tags
 
-[ars](https://extras.show//tags/ars), [ars technica](https://extras.show//tags/ars%20technica), [brain pickings](https://extras.show//tags/brain%20pickings), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [bsd](https://extras.show//tags/bsd), [code](https://extras.show//tags/code), [coding](https://extras.show//tags/coding), [community](https://extras.show//tags/community), [extras](https://extras.show//tags/extras), [gadfly](https://extras.show//tags/gadfly), [interview podcast](https://extras.show//tags/interview%20podcast), [jim salter](https://extras.show//tags/jim%20salter), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [leader](https://extras.show//tags/leader), [licensing](https://extras.show//tags/licensing), [linus](https://extras.show//tags/linus), [linus torvalds](https://extras.show//tags/linus%20torvalds), [linux](https://extras.show//tags/linux), [navy](https://extras.show//tags/navy), [nebula](https://extras.show//tags/nebula), [open source](https://extras.show//tags/open%20source), [stoicism](https://extras.show//tags/stoicism), [techsnap](https://extras.show//tags/techsnap), [the cathedral and the bazaar](https://extras.show//tags/the%20cathedral%20and%20the%20bazaar), [vpn](https://extras.show//tags/vpn), [zfs](https://extras.show//tags/zfs)
+[ars](https://extras.show/tags/ars), [ars technica](https://extras.show/tags/ars%20technica), [brain pickings](https://extras.show/tags/brain%20pickings), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [bsd](https://extras.show/tags/bsd), [code](https://extras.show/tags/code), [coding](https://extras.show/tags/coding), [community](https://extras.show/tags/community), [extras](https://extras.show/tags/extras), [gadfly](https://extras.show/tags/gadfly), [interview podcast](https://extras.show/tags/interview%20podcast), [jim salter](https://extras.show/tags/jim%20salter), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [leader](https://extras.show/tags/leader), [licensing](https://extras.show/tags/licensing), [linus](https://extras.show/tags/linus), [linus torvalds](https://extras.show/tags/linus%20torvalds), [linux](https://extras.show/tags/linux), [navy](https://extras.show/tags/navy), [nebula](https://extras.show/tags/nebula), [open source](https://extras.show/tags/open%20source), [stoicism](https://extras.show/tags/stoicism), [techsnap](https://extras.show/tags/techsnap), [the cathedral and the bazaar](https://extras.show/tags/the%20cathedral%20and%20the%20bazaar), [vpn](https://extras.show/tags/vpn), [zfs](https://extras.show/tags/zfs)

@@ -10,9 +10,9 @@
 The Unplugged team holds a live event with a special guest, your questions, and we give away a lot of Bitcoin sats!
 
 ## Your hosts
-* [Wes Payne](https://extras.show//hosts/wes)
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [Brent Gervais](https://extras.show//hosts/brent)
+* [Wes Payne](https://extras.show/hosts/wes)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [Brent Gervais](https://extras.show/hosts/brent)
 
 ## Sponsored by
 

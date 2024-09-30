@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Mike is the extreme laptop killer, with a tale you’ll have to hear to believe. With only a few short hours left on a deadline, it was 24 hours of chaos. 
+Mike is the extreme laptop killer, with a tale you’ll have to hear to believe. With only a few short hours left on a deadline, it was 24 hours of chaos.
 
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)

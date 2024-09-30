@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Red Hat shakes up the container world with its CoreOS purchase. Skype ships as a snap and Chris has a report from Canonical's recent development sprint. 
+Red Hat shakes up the container world with its CoreOS purchase. Skype ships as a snap and Chris has a report from Canonical's recent development sprint.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

@@ -11,7 +11,6 @@ We’ll take a look at the new features of Linux Mint 17, and discuss the new Ci
 
 Plus: Is Red Hat too over controlling of Gnome? Candidates for the Gnome Foundation’s board think so.
 
-
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)

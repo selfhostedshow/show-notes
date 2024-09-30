@@ -17,6 +17,7 @@ Alex dives deep to find out if Kubernetes is overkill for the home and finds sol
 
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [LogScale](https://crowdstrike.com/lce): [Take logs from any source and make them usable. Get started with LogScale Community Edition for free.](https://crowdstrike.com/lce)
+  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
 
 
 

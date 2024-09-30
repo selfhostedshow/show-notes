@@ -10,12 +10,12 @@
 It's a casual community hangout, and we spin the Wheel of Topics. From what Linux does worst, our thoughts on EndlessOS, Ubuntu Web Remix, QubesOS, Brent's adventures with JellyFin, and why Linux will ultimately dominate all operating. systems in 20 years.
 
 ## Your hosts
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [Brent Gervais](https://extras.show//hosts/brent)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [Brent Gervais](https://extras.show/hosts/brent)
 
 ## Sponsored by
 
-  * [Support JB Directly ](http://jupiter.party): [Support the network directly with our new network membership.](http://jupiter.party)
+  * [Join the Party! The Jupiter Membership Party](http://jupiter.party): [Join the party and get exclusive content. ](http://jupiter.party)
 
 
 
@@ -27,4 +27,4 @@ None
 
 ## Tags
 
-[bitcoin](https://extras.show//tags/bitcoin), [docker](https://extras.show//tags/docker), [endlessos](https://extras.show//tags/endlessos), [jellfin](https://extras.show//tags/jellfin), [qubesos](https://extras.show//tags/qubesos), [self-hosting](https://extras.show//tags/self-hosting), [ubuntu web](https://extras.show//tags/ubuntu%20web)
+[bitcoin](https://extras.show/tags/bitcoin), [docker](https://extras.show/tags/docker), [endlessos](https://extras.show/tags/endlessos), [jellfin](https://extras.show/tags/jellfin), [qubesos](https://extras.show/tags/qubesos), [self-hosting](https://extras.show/tags/self-hosting), [ubuntu web](https://extras.show/tags/ubuntu%20web)

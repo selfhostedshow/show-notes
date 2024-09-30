@@ -38,6 +38,8 @@ Elon launches another AI company, leaks suggest Apple might enable sideloading, 
   * [Companies will have to scale up resources in trust and safety areas for A.I.](https://www.youtube.com/watch?v=zrsBJR72t8w "Companies will have to scale up resources in trust and safety areas for A.I.") — Rob Leathern, former Google vice president of product management and former Meta senior director of product and business integrity, joins 'Squawk on the Street' to discuss A.I. regulation, the need for transparency in A.I. development, and more. 
   * [Alby: Your Boost companion for the web](https://getalby.com/ "Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
   * [Coder Radio on the Podcastindex.org](https://podcastindex.org/podcast/487548 "Coder Radio on the Podcastindex.org") — Send a Boost into the show via the web. First, top-up Alby, then head over to our entry on the Podcast Index.
+  * [ctop: Top-like interface for container metrics](https://github.com/bcicen/ctop "ctop: Top-like interface for container metrics") — ctop provides a concise and condensed overview of real-time metrics for multiple containers:
+  * [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui "chatbot-ui") — An open-source ChatGPT UI that sits on top of the openAI API.
 
 
 

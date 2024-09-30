@@ -12,8 +12,7 @@ Chz sits down with Alan Pope (popey) to discuss his thoughts about ThinkPads, an
 Find out what those model numbers really mean, plus our tips for picking which one is right for you.
 
 ## Your hosts
-* [chzbacon](https://extras.show//hosts/chzbacon)
-* [Alan Pope](https://extras.show//guests/popey)
+* [Alan Pope](https://extras.show/guests/popey)
 
 ## Sponsored by
 
@@ -31,4 +30,4 @@ None
 
 ## Tags
 
-[alan pope](https://extras.show//tags/alan%20pope), [chzbacon](https://extras.show//tags/chzbacon), [ebay](https://extras.show//tags/ebay), [extras](https://extras.show//tags/extras), [ibm](https://extras.show//tags/ibm), [jupiter extras](https://extras.show//tags/jupiter%20extras), [lenovo](https://extras.show//tags/lenovo), [linux](https://extras.show//tags/linux), [podcast](https://extras.show//tags/podcast), [popey](https://extras.show//tags/popey), [pre-owned](https://extras.show//tags/pre-owned), [refurbished](https://extras.show//tags/refurbished), [t440s](https://extras.show//tags/t440s), [t450](https://extras.show//tags/t450), [thinkpad](https://extras.show//tags/thinkpad), [thinkwiki](https://extras.show//tags/thinkwiki), [ubuntu](https://extras.show//tags/ubuntu), [used](https://extras.show//tags/used), [x1 carbon](https://extras.show//tags/x1%20carbon), [x220](https://extras.show//tags/x220), [x230](https://extras.show//tags/x230), [x250](https://extras.show//tags/x250)
+[alan pope](https://extras.show/tags/alan%20pope), [chzbacon](https://extras.show/tags/chzbacon), [ebay](https://extras.show/tags/ebay), [extras](https://extras.show/tags/extras), [ibm](https://extras.show/tags/ibm), [jupiter extras](https://extras.show/tags/jupiter%20extras), [lenovo](https://extras.show/tags/lenovo), [linux](https://extras.show/tags/linux), [podcast](https://extras.show/tags/podcast), [popey](https://extras.show/tags/popey), [pre-owned](https://extras.show/tags/pre-owned), [refurbished](https://extras.show/tags/refurbished), [t440s](https://extras.show/tags/t440s), [t450](https://extras.show/tags/t450), [thinkpad](https://extras.show/tags/thinkpad), [thinkwiki](https://extras.show/tags/thinkwiki), [ubuntu](https://extras.show/tags/ubuntu), [used](https://extras.show/tags/used), [x1 carbon](https://extras.show/tags/x1%20carbon), [x220](https://extras.show/tags/x220), [x230](https://extras.show/tags/x230), [x250](https://extras.show/tags/x250)

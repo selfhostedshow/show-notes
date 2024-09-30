@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Ubuntu 18.04 is out and we round up the new features, the flavors, and our first takes. 
+Ubuntu 18.04 is out and we round up the new features, the flavors, and our first takes.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

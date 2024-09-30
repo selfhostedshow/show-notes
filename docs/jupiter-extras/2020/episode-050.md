@@ -12,8 +12,8 @@ Brent sits down with Peter Adams, professional photographer and former founder a
 Brunch with Brent: Peter Adams Part 2 comes out this Friday.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Peter Adams](https://extras.show//guests/peter-adams)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Peter Adams](https://extras.show/guests/peter-adams)
 
 ## Sponsored by
 
@@ -32,4 +32,4 @@ None
 
 ## Tags
 
-[art](https://extras.show//tags/art), [awk](https://extras.show//tags/awk), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [community](https://extras.show//tags/community), [darkroom](https://extras.show//tags/darkroom), [dot-com bubble](https://extras.show//tags/dot-com%20bubble), [extras](https://extras.show//tags/extras), [faces of open source](https://extras.show//tags/faces%20of%20open%20source), [film](https://extras.show//tags/film), [grep](https://extras.show//tags/grep), [interview podcast](https://extras.show//tags/interview%20podcast), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [linus](https://extras.show//tags/linus), [linus torvalds](https://extras.show//tags/linus%20torvalds), [linux](https://extras.show//tags/linux), [open source](https://extras.show//tags/open%20source), [open source advocate](https://extras.show//tags/open%20source%20advocate), [oracle](https://extras.show//tags/oracle), [osscon](https://extras.show//tags/osscon), [peter adams](https://extras.show//tags/peter%20adams), [photographer](https://extras.show//tags/photographer), [photography](https://extras.show//tags/photography), [portrait](https://extras.show//tags/portrait), [sed](https://extras.show//tags/sed), [sun microsystems](https://extras.show//tags/sun%20microsystems), [unix](https://extras.show//tags/unix), [usenet](https://extras.show//tags/usenet)
+[art](https://extras.show/tags/art), [awk](https://extras.show/tags/awk), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [community](https://extras.show/tags/community), [darkroom](https://extras.show/tags/darkroom), [dot-com bubble](https://extras.show/tags/dot-com%20bubble), [extras](https://extras.show/tags/extras), [faces of open source](https://extras.show/tags/faces%20of%20open%20source), [film](https://extras.show/tags/film), [grep](https://extras.show/tags/grep), [interview podcast](https://extras.show/tags/interview%20podcast), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [linus](https://extras.show/tags/linus), [linus torvalds](https://extras.show/tags/linus%20torvalds), [linux](https://extras.show/tags/linux), [open source](https://extras.show/tags/open%20source), [open source advocate](https://extras.show/tags/open%20source%20advocate), [oracle](https://extras.show/tags/oracle), [osscon](https://extras.show/tags/osscon), [peter adams](https://extras.show/tags/peter%20adams), [photographer](https://extras.show/tags/photographer), [photography](https://extras.show/tags/photography), [portrait](https://extras.show/tags/portrait), [sed](https://extras.show/tags/sed), [sun microsystems](https://extras.show/tags/sun%20microsystems), [unix](https://extras.show/tags/unix), [usenet](https://extras.show/tags/usenet)

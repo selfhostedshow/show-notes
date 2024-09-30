@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Free and open source developers are still freaking out about Microsoft buying GitHub, ReactOS reaches a major milestone, TrueOS appears to be forking, and changes are coming to the core of Plasma desktop team. 
+Free and open source developers are still freaking out about Microsoft buying GitHub, ReactOS reaches a major milestone, TrueOS appears to be forking, and changes are coming to the core of Plasma desktop team.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

@@ -16,7 +16,7 @@ Can we save an old Arch install? We'll attempt a live rescue, then get into our 
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
   * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
   * [Kolide](https://kolide.com/unplugged): [Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn’t trusted and secure, it can’t log into your cloud apps.](https://kolide.com/unplugged)
 
@@ -29,7 +29,7 @@ Can we save an old Arch install? We'll attempt a live rescue, then get into our 
   * [Is Arch Linux suitable for server environment?](https://serverfault.com/questions/173286/is-arch-linux-suitable-for-server-environment "Is Arch Linux suitable for server environment?") — Probably the biggest issue with Arch as a server operating system is that it's not clear where and when applications may break after an upgrade. More often than not, you have to keep up with what's going on in the wiki and on the forums before doing any sort of upgrade
   * [Unplugged Tuxies - 2023](http://tuxies.party/ "Unplugged Tuxies - 2023")
   * [⚠️ DID WE MISS SOMETHING?](https://nextcloud.tuxies.party/apps/forms/J9HiKYa2zwjsiPHy "⚠️ DID WE MISS SOMETHING?")
-  * [Get your Tuxies "I Voted" sticker from TheGoldenDragon](https://www.etsy.com/shop/KittermanCreative "Get your Tuxies "I Voted" sticker from TheGoldenDragon") — $2 Digital Sticker
+  * [Get your Tuxies "I Voted" sticker from TheGoldenDragon](https://www.etsy.com/shop/KittermanCreative "Get your Tuxies ") — $2 Digital Sticker
   * [Texas Linux Festival 2024](https://2024.texaslinuxfest.org/ "Texas Linux Festival 2024") — Texas Linux Fest is the first state-wide annual community-run conference for Linux and open-source software users and enthusiasts from around the Lone Star State. Much like SCALE in Los Angeles, Ohio Linux Fest in Columbus, and Linux Fest Northwest – and an ever-growing list of successful regional shows.
   * [Switch to the base-devel meta package requires manual intervention](https://archlinux.org/news/switch-to-the-base-devel-meta-package-requires-manual-intervention/ "Switch to the base-devel meta package requires manual intervention") — On February 2nd, the base-devel package group has been replaced by a meta package of the same name.
   * [Git migration announcement](https://archlinux.org/news/git-migration-announcement/ "Git migration announcement")

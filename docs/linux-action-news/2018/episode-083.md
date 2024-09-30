@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Microsoft is moving to Chromium, and Mozilla isn't too thrilled about it. 
+Microsoft is moving to Chromium, and Mozilla isn't too thrilled about it.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

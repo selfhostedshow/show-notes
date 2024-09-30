@@ -7,7 +7,6 @@
 
 ## About this episode
 
-
 Chris finally gets excited about Docker just as Wes tells him it’s time to learn something new.
 
 ## Your hosts

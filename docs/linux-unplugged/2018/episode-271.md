@@ -16,7 +16,7 @@ elementary OS’ latest and greatest released today, and we talk with Dan and Ca
 * [Brent Gervais](https://linuxunplugged.com/guests/brentgervais)
 * [Cassidy James Blaede](https://linuxunplugged.com/guests/cassidyjames)
 * [Dalton Durst](https://linuxunplugged.com/guests/daltondurst)
-* [Daniel Fore](https://linuxunplugged.com/guests/danielfore)
+* [Danielle Foré](https://linuxunplugged.com/guests/daniellefore)
 * [Martin Wimpress](https://linuxunplugged.com/guests/martinwimpress)
 
 ## Sponsored by

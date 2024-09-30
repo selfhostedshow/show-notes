@@ -18,7 +18,7 @@ Alex replaces another Google service; we point the community spotlight at FuzzyM
 ## Sponsored by
 
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/selfhosted)
+  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
 
 
 
@@ -33,6 +33,7 @@ Alex replaces another Google service; we point the community spotlight at FuzzyM
   * [Umami](https://github.com/mikecao/umami "Umami") — Umami is a simple, fast, privacy-focused alternative to Google Analytics. 
   * [eufy Security Indoor Cam 2K Pan & Tilt](https://us.eufylife.com/products/t8410121 "eufy Security Indoor Cam 2K Pan & Tilt") — 2K Pan and Tilt Plug-in Indoor Security Camera, Home Security Camera for Indoor Surveillance, Human and Pet AI, Voice Assistant Compatibility, Motion Tracking, Night Vision.
   * [wz_mini_hacks: v3 camera mods](https://github.com/gtxaspec/wz_mini_hacks "wz_mini_hacks: v3 camera mods") — Run whatever firmware you want on your v3/PANv2 and have root access to the device. This is in early stages of testing, use CAUTION if you are unsure of what you are doing. No support whatsoever is offered with this release. 
+  * [ESP8266 Bed Occupancy Project](https://blog.fuzzymistborn.com/esp8266-projects/ "ESP8266 Bed Occupancy Project") — ESP8266 based bed occupancy sensor.
 
 
 

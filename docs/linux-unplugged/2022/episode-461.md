@@ -23,8 +23,8 @@ Three tails of tech tribulations, and how Brent saved his openSUSE Tumbleweed bo
 
 ## Episode links
 
-  * [Markuss Broks 🦆 on Twitter: "iPad Air 2 running Linux 5.18"](https://twitter.com/quaack723/status/1531965090018349057 "Markuss Broks 🦆 on Twitter: "iPad Air 2 running Linux 5.18"")
-  * [Konrad Dybcio on Twitter: "It’s spreading quickly 😎"](https://twitter.com/konradybcio/status/1532908202270105600 "Konrad Dybcio on Twitter: "It’s spreading quickly 😎"")
+  * [Markuss Broks 🦆 on Twitter: "iPad Air 2 running Linux 5.18"](https://twitter.com/quaack723/status/1531965090018349057 "Markuss Broks 🦆 on Twitter: ")
+  * [Konrad Dybcio on Twitter: "It’s spreading quickly 😎"](https://twitter.com/konradybcio/status/1532908202270105600 "Konrad Dybcio on Twitter: ")
   * [#46 Going Mobile · This Week in GNOME](https://thisweek.gnome.org/posts/2022/06/twig-46/ "#46 Going Mobile · This Week in GNOME")
   * [JB’s London Meetup](https://www.meetup.com/jupiterbroadcasting/events/286056077/ "JB’s London Meetup")
   * [Jupiter Tube](http://jupiter.tube/ "Jupiter Tube")

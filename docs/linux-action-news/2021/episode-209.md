@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Why Linus believes keeping Linux fun is critical, the massive investment Fedora is about to make in video, and why we suspect Clourflare's R2 service will make Amazon squirm.
+Why Linus believes keeping Linux fun is critical, the massive investment Fedora is about to make in video, and why we suspect Cloudflare's R2 service will make Amazon squirm.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

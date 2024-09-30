@@ -10,8 +10,8 @@
 We've built up some incredible backend infrastructure for our new website. We run through the big improvements, and where we still need some help.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -35,4 +35,4 @@ We've built up some incredible backend infrastructure for our new website. We ru
 
 ## Tags
 
-[bitcoin](https://www.officehours.hair//tags/bitcoin), [chrislas](https://www.officehours.hair//tags/chrislas), [columbus meetup](https://www.officehours.hair//tags/columbus%20meetup), [crypto](https://www.officehours.hair//tags/crypto), [crypto is a scam](https://www.officehours.hair//tags/crypto%20is%20a%20scam), [free software](https://www.officehours.hair//tags/free%20software), [github actions](https://www.officehours.hair//tags/github%20actions), [hugo](https://www.officehours.hair//tags/hugo), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [linode](https://www.officehours.hair//tags/linode), [matrix spaces](https://www.officehours.hair//tags/matrix%20spaces), [object storage](https://www.officehours.hair//tags/object%20storage), [office hours](https://www.officehours.hair//tags/office%20hours), [ohio linuxfest](https://www.officehours.hair//tags/ohio%20linuxfest), [open source podcast website](https://www.officehours.hair//tags/open%20source%20podcast%20website), [revolution os](https://www.officehours.hair//tags/revolution%20os)
+[bitcoin](https://www.officehours.hair/tags/bitcoin), [chrislas](https://www.officehours.hair/tags/chrislas), [columbus meetup](https://www.officehours.hair/tags/columbus%20meetup), [crypto](https://www.officehours.hair/tags/crypto), [crypto is a scam](https://www.officehours.hair/tags/crypto%20is%20a%20scam), [free software](https://www.officehours.hair/tags/free%20software), [github actions](https://www.officehours.hair/tags/github%20actions), [hugo](https://www.officehours.hair/tags/hugo), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [linode](https://www.officehours.hair/tags/linode), [matrix spaces](https://www.officehours.hair/tags/matrix%20spaces), [object storage](https://www.officehours.hair/tags/object%20storage), [office hours](https://www.officehours.hair/tags/office%20hours), [ohio linuxfest](https://www.officehours.hair/tags/ohio%20linuxfest), [open source podcast website](https://www.officehours.hair/tags/open%20source%20podcast%20website), [revolution os](https://www.officehours.hair/tags/revolution%20os)

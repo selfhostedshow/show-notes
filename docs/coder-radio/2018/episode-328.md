@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Mike makes his case for realism when it comes to automated testing, and a readjustment of expectations in the wider community. 
+Mike makes his case for realism when it comes to automated testing, and a readjustment of expectations in the wider community.
 
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)

@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Gentoo's GitHub is compromised, and Google's writing big checks to the Linux Foundation to distract you from the Fuchsia elephant in the room. 
+Gentoo's GitHub is compromised, and Google's writing big checks to the Linux Foundation to distract you from the Fuchsia elephant in the room.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

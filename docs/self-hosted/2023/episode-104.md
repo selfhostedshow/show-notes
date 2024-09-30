@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Alex does a significant overhaul of his website and shares new insights. Chris finally archives complete local voice control of his network, we complain about the state of domain name sellers, and more.
+Alex does a significant overhaul of his website and unpacks a new GitHub action workflow. Chris finally achieves complete local voice control of his network, we complain about the state of domain name sellers, and more.
 
 ## Your hosts
 * [Alex Kretzschmar](https://selfhosted.show/hosts/alexktz)
@@ -15,9 +15,9 @@ Alex does a significant overhaul of his website and shares new insights. Chris f
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/selfhosted)
+  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [45drives](https://45homelab.com): [Big. Strong. Fast storage servers with affordable high-performance, high-capacity, enterprise storage solutions for all industries and now your Home Lab.](https://45homelab.com)
+  * [45drives](https://45homelab.com): [ The HL15 from 45HomeLab is an open-source, open-platform, 15-bay homelab server. ](https://45homelab.com)
 
 
 

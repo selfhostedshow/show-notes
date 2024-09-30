@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Fedora 30 is out, we share our thoughts. Purism's new Librem One service is launched, we're rather skeptical and the reason might surprise you. 
+Fedora 30 is out, we share our thoughts. Purism's new Librem One service is launched, we're rather skeptical and the reason might surprise you.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

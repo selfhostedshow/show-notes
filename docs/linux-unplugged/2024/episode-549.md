@@ -17,8 +17,8 @@ Deploying Nextcloud the Nix way promises a paradise of reproducibility and simpl
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
-  * [Warp Terminal](https://warp.dev/linux-terminal): [Warp is a modern, Rust-based terminal with AI built in. Be the first to know when it’s available for Linux. ](https://warp.dev/linux-terminal)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
+  * [Warp Terminal](https://warp.dev/linux-terminal): [Warp - the re-imagined terminal now available for Linux with multiple distributions available including Ubuntu, Fedora, Debian, and Arch Linux.](https://warp.dev/linux-terminal)
   * [Kolide](https://kolide.com/unplugged): [Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn’t trusted and secure, it can’t log into your cloud apps.](https://kolide.com/unplugged)
 
 
@@ -58,6 +58,7 @@ Deploying Nextcloud the Nix way promises a paradise of reproducibility and simpl
   * [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/ "Nix from First Principles: Flake Edition")
   * [hercules-ci/arion](https://github.com/hercules-ci/arion?tab=readme-ov-file "hercules-ci/arion") — Run docker-compose with help from Nix/NixOS
   * [Arion documentation](https://docs.hercules-ci.com/arion/ "Arion documentation")
+  * [GabMus / Envision · GitLab](https://gitlab.com/gabmus/envision "GabMus / Envision · GitLab") — A VR stack for Linux, recently running directly on the NVK driver and Wayland.
 
 
 

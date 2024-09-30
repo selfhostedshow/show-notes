@@ -10,8 +10,8 @@
 A change is in the air.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -33,4 +33,4 @@ A change is in the air.
 
 ## Tags
 
-[ai generated podcasts](https://www.officehours.hair//tags/ai%20generated%20podcasts), [alby wallets for web developers](https://www.officehours.hair//tags/alby%20wallets%20for%20web%20developers), [america+](https://www.officehours.hair//tags/america+), [boosties](https://www.officehours.hair//tags/boosties), [chrislas](https://www.officehours.hair//tags/chrislas), [cole mccormick](https://www.officehours.hair//tags/cole%20mccormick), [digital well being](https://www.officehours.hair//tags/digital%20well%20being), [hacker news recap](https://www.officehours.hair//tags/hacker%20news%20recap), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [jupiter broadcasting  and v4v next steps](https://www.officehours.hair//tags/jupiter%20broadcasting%20%20and%20v4v%20next%20steps), [office hours](https://www.officehours.hair//tags/office%20hours), [robob review](https://www.officehours.hair//tags/robob%20review), [satslinge](https://www.officehours.hair//tags/satslinge), [seedpeer logo idea](https://www.officehours.hair//tags/seedpeer%20logo%20idea), [the boosties](https://www.officehours.hair//tags/the%20boosties), [value for value webinar](https://www.officehours.hair//tags/value%20for%20value%20webinar), [wondercraft ai](https://www.officehours.hair//tags/wondercraft%20ai)
+[ai generated podcasts](https://www.officehours.hair/tags/ai%20generated%20podcasts), [alby wallets for web developers](https://www.officehours.hair/tags/alby%20wallets%20for%20web%20developers), [america+](https://www.officehours.hair/tags/america+), [boosties](https://www.officehours.hair/tags/boosties), [chrislas](https://www.officehours.hair/tags/chrislas), [cole mccormick](https://www.officehours.hair/tags/cole%20mccormick), [digital well being](https://www.officehours.hair/tags/digital%20well%20being), [hacker news recap](https://www.officehours.hair/tags/hacker%20news%20recap), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [jupiter broadcasting  and v4v next steps](https://www.officehours.hair/tags/jupiter%20broadcasting%20%20and%20v4v%20next%20steps), [office hours](https://www.officehours.hair/tags/office%20hours), [robob review](https://www.officehours.hair/tags/robob%20review), [satslinge](https://www.officehours.hair/tags/satslinge), [seedpeer logo idea](https://www.officehours.hair/tags/seedpeer%20logo%20idea), [the boosties](https://www.officehours.hair/tags/the%20boosties), [value for value webinar](https://www.officehours.hair/tags/value%20for%20value%20webinar), [wondercraft ai](https://www.officehours.hair/tags/wondercraft%20ai)

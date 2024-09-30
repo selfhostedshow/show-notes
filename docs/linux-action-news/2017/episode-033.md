@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Chris and Joe look back at the big news stories of 2017, some notable trends, the changes that impacted Desktop Linux users, and the topics that dominated the community discussion. 
+Chris and Joe look back at the big news stories of 2017, some notable trends, the changes that impacted Desktop Linux users, and the topics that dominated the community discussion.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

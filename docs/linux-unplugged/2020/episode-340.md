@@ -15,7 +15,7 @@ The difficult and fascinating conversations from FOSDEM 2020. Plus how elementar
 * [chzbacon](https://linuxunplugged.com/hosts/chzbacon)
 * [Brent Gervais](https://linuxunplugged.com/guests/brentgervais)
 * [Cassidy James Blaede](https://linuxunplugged.com/guests/cassidyjames)
-* [Daniel Fore](https://linuxunplugged.com/guests/danielfore)
+* [Danielle Foré](https://linuxunplugged.com/guests/daniellefore)
 * [Dusty Mabe](https://linuxunplugged.com/guests/dusty)
 
 ## Sponsored by

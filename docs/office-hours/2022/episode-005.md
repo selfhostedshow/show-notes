@@ -10,9 +10,9 @@
 We have a laugh at Spotify, then check out a minimum viable project for the new Jupiter Broadcasting website.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
-* [Stefan Schulte-Ortbeck](https://www.officehours.hair//guests/stefan)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
+* [Stefan Schulte-Ortbeck](https://www.officehours.hair/guests/stefan)
 
 ## Sponsored by
 
@@ -40,4 +40,4 @@ We have a laugh at Spotify, then check out a minimum viable project for the new 
 
 ## Tags
 
-[chrislas](https://www.officehours.hair//tags/chrislas), [conan o’brien podcast](https://www.officehours.hair//tags/conan%20o%E2%80%99brien%20podcast), [github actions](https://www.officehours.hair//tags/github%20actions), [hugo](https://www.officehours.hair//tags/hugo), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [markdown](https://www.officehours.hair//tags/markdown), [office hours](https://www.officehours.hair//tags/office%20hours), [opensats](https://www.officehours.hair//tags/opensats), [podcasting 2.0](https://www.officehours.hair//tags/podcasting%202.0), [podtrac](https://www.officehours.hair//tags/podtrac), [siriusxm](https://www.officehours.hair//tags/siriusxm), [spotify ads](https://www.officehours.hair//tags/spotify%20ads), [stefans-o](https://www.officehours.hair//tags/stefans-o), [wild turkey](https://www.officehours.hair//tags/wild%20turkey), [youtube reach](https://www.officehours.hair//tags/youtube%20reach)
+[chrislas](https://www.officehours.hair/tags/chrislas), [conan o’brien podcast](https://www.officehours.hair/tags/conan%20o%E2%80%99brien%20podcast), [github actions](https://www.officehours.hair/tags/github%20actions), [hugo](https://www.officehours.hair/tags/hugo), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [markdown](https://www.officehours.hair/tags/markdown), [office hours](https://www.officehours.hair/tags/office%20hours), [opensats](https://www.officehours.hair/tags/opensats), [podcasting 2.0](https://www.officehours.hair/tags/podcasting%202.0), [podtrac](https://www.officehours.hair/tags/podtrac), [siriusxm](https://www.officehours.hair/tags/siriusxm), [spotify ads](https://www.officehours.hair/tags/spotify%20ads), [stefans-o](https://www.officehours.hair/tags/stefans-o), [wild turkey](https://www.officehours.hair/tags/wild%20turkey), [youtube reach](https://www.officehours.hair/tags/youtube%20reach)

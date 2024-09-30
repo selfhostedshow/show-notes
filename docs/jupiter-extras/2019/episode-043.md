@@ -10,8 +10,8 @@
 Brent sits down with Jackie DeVore, co-host of horror podcast Sirens of Scream and multi-disciplinary artist. Our in-person chat explores the origins of her podcasting, creativity as a lifestyle, women in tech, art, and gaming, and her co-founding and recent launch of Hell Bunny Independents Club, a women's inclusive and supportive digital safe space.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Jackie DeVore](https://extras.show//guests/jackiebot)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Jackie DeVore](https://extras.show/guests/jackiebot)
 
 ## Sponsored by
 
@@ -57,4 +57,4 @@ None
 
 ## Tags
 
-[art](https://extras.show//tags/art), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [community](https://extras.show//tags/community), [creativity](https://extras.show//tags/creativity), [extras](https://extras.show//tags/extras), [ghosts in the burbs](https://extras.show//tags/ghosts%20in%20the%20burbs), [hbic](https://extras.show//tags/hbic), [hell bunny independents club](https://extras.show//tags/hell%20bunny%20independents%20club), [horror](https://extras.show//tags/horror), [inclusivity](https://extras.show//tags/inclusivity), [interview podcast](https://extras.show//tags/interview%20podcast), [jackie devore](https://extras.show//tags/jackie%20devore), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [lgbtq](https://extras.show//tags/lgbtq), [nin](https://extras.show//tags/nin), [nine inch nails](https://extras.show//tags/nine%20inch%20nails), [sirens of scream](https://extras.show//tags/sirens%20of%20scream), [user error](https://extras.show//tags/user%20error), [whiprsnapr brewing](https://extras.show//tags/whiprsnapr%20brewing), [women](https://extras.show//tags/women)
+[art](https://extras.show/tags/art), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [community](https://extras.show/tags/community), [creativity](https://extras.show/tags/creativity), [extras](https://extras.show/tags/extras), [ghosts in the burbs](https://extras.show/tags/ghosts%20in%20the%20burbs), [hbic](https://extras.show/tags/hbic), [hell bunny independents club](https://extras.show/tags/hell%20bunny%20independents%20club), [horror](https://extras.show/tags/horror), [inclusivity](https://extras.show/tags/inclusivity), [interview podcast](https://extras.show/tags/interview%20podcast), [jackie devore](https://extras.show/tags/jackie%20devore), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [lgbtq](https://extras.show/tags/lgbtq), [nin](https://extras.show/tags/nin), [nine inch nails](https://extras.show/tags/nine%20inch%20nails), [sirens of scream](https://extras.show/tags/sirens%20of%20scream), [user error](https://extras.show/tags/user%20error), [whiprsnapr brewing](https://extras.show/tags/whiprsnapr%20brewing), [women](https://extras.show/tags/women)

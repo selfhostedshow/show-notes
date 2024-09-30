@@ -9,7 +9,6 @@
 
 Mike and Wes debate the merits and aesthetics of Clojure in this week's rowdy language check-in.
 
-
 ## Your hosts
 * [Michael Dominick](https://coder.show/hosts/michael)
 * [Wes Payne](https://coder.show/hosts/wespayne)

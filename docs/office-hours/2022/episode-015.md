@@ -10,9 +10,9 @@
 We recap a busy night after a studio power outage, then dig into what makes an open-source project worth contributing to. Why do some fail while others grow and prosper?
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
-* [Alex Rodriguez](https://www.officehours.hair//guests/elrey)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
+* [Alex Rodriguez](https://www.officehours.hair/guests/elrey)
 
 ## Sponsored by
 
@@ -35,4 +35,4 @@ We recap a busy night after a studio power outage, then dig into what makes an o
 
 ## Tags
 
-[alex rodriguez](https://www.officehours.hair//tags/alex%20rodriguez), [automattic](https://www.officehours.hair//tags/automattic), [boostcli](https://www.officehours.hair//tags/boostcli), [chrislas](https://www.officehours.hair//tags/chrislas), [community contributions](https://www.officehours.hair//tags/community%20contributions), [deploy previews](https://www.officehours.hair//tags/deploy%20previews), [elrey](https://www.officehours.hair//tags/elrey), [gitflow](https://www.officehours.hair//tags/gitflow), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair//tags/office%20hours), [open source website](https://www.officehours.hair//tags/open%20source%20website), [pavek museum](https://www.officehours.hair//tags/pavek%20museum), [pocket casts](https://www.officehours.hair//tags/pocket%20casts)
+[alex rodriguez](https://www.officehours.hair/tags/alex%20rodriguez), [automattic](https://www.officehours.hair/tags/automattic), [boostcli](https://www.officehours.hair/tags/boostcli), [chrislas](https://www.officehours.hair/tags/chrislas), [community contributions](https://www.officehours.hair/tags/community%20contributions), [deploy previews](https://www.officehours.hair/tags/deploy%20previews), [elrey](https://www.officehours.hair/tags/elrey), [gitflow](https://www.officehours.hair/tags/gitflow), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair/tags/office%20hours), [open source website](https://www.officehours.hair/tags/open%20source%20website), [pavek museum](https://www.officehours.hair/tags/pavek%20museum), [pocket casts](https://www.officehours.hair/tags/pocket%20casts)

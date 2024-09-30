@@ -12,8 +12,8 @@ Brent sits down with Carl Richell, Founder and CEO of System76. We explore the p
 Carl's Community Ask: Be Bold.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Carl Richell](https://extras.show//guests/carl-richell)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Carl Richell](https://extras.show/guests/carl-richell)
 
 ## Sponsored by
 
@@ -36,4 +36,4 @@ None
 
 ## Tags
 
-[be bold](https://extras.show//tags/be%20bold), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [carl richell](https://extras.show//tags/carl%20richell), [community](https://extras.show//tags/community), [emma marshall](https://extras.show//tags/emma%20marshall), [extras](https://extras.show//tags/extras), [hardware](https://extras.show//tags/hardware), [interview podcast](https://extras.show//tags/interview%20podcast), [jeremy soller](https://extras.show//tags/jeremy%20soller), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [lfnw](https://extras.show//tags/lfnw), [linux](https://extras.show//tags/linux), [linuxfest northwest](https://extras.show//tags/linuxfest%20northwest), [open firmware](https://extras.show//tags/open%20firmware), [open source](https://extras.show//tags/open%20source), [pop!_os](https://extras.show//tags/pop!_os), [spacex](https://extras.show//tags/spacex), [system76](https://extras.show//tags/system76)
+[be bold](https://extras.show/tags/be%20bold), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [carl richell](https://extras.show/tags/carl%20richell), [community](https://extras.show/tags/community), [emma marshall](https://extras.show/tags/emma%20marshall), [extras](https://extras.show/tags/extras), [hardware](https://extras.show/tags/hardware), [interview podcast](https://extras.show/tags/interview%20podcast), [jeremy soller](https://extras.show/tags/jeremy%20soller), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [lfnw](https://extras.show/tags/lfnw), [linux](https://extras.show/tags/linux), [linuxfest northwest](https://extras.show/tags/linuxfest%20northwest), [open firmware](https://extras.show/tags/open%20firmware), [open source](https://extras.show/tags/open%20source), [pop!_os](https://extras.show/tags/pop!_os), [spacex](https://extras.show/tags/spacex), [system76](https://extras.show/tags/system76)

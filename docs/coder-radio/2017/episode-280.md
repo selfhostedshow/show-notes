@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Mike walks us through Optionals & gives us a specific code example. Plus we launch a new segment long in the making, “Mike Was Right” & it’s a doozy! 
+Mike walks us through Optionals & gives us a specific code example. Plus we launch a new segment long in the making, “Mike Was Right” & it’s a doozy!
 
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)

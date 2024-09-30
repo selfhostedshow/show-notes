@@ -1,4 +1,4 @@
-# SSH 100: Our Essentials Apps
+# SSH 100: Our Essential Apps
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+wulRW6yc?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
@@ -15,7 +15,7 @@ We cover our must-have self-hosted apps, reflect on the state of Self-Hosting no
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/selfhosted)
+  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 

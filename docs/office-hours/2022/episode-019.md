@@ -10,8 +10,8 @@
 We have some big plans for 2023, and we share the next steps to fully host our podcast infrastructure.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -36,4 +36,4 @@ We have some big plans for 2023, and we share the next steps to fully host our p
 
 ## Tags
 
-[adhd](https://www.officehours.hair//tags/adhd), [chatgpt](https://www.officehours.hair//tags/chatgpt), [chrislas](https://www.officehours.hair//tags/chrislas), [giraffeneos](https://www.officehours.hair//tags/giraffeneos), [grapheneos](https://www.officehours.hair//tags/grapheneos), [hugo](https://www.officehours.hair//tags/hugo), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair//tags/office%20hours), [pixel 7](https://www.officehours.hair//tags/pixel%207), [tuxies](https://www.officehours.hair//tags/tuxies), [🦒](https://www.officehours.hair//tags/%F0%9F%A6%92)
+[adhd](https://www.officehours.hair/tags/adhd), [chatgpt](https://www.officehours.hair/tags/chatgpt), [chrislas](https://www.officehours.hair/tags/chrislas), [giraffeneos](https://www.officehours.hair/tags/giraffeneos), [grapheneos](https://www.officehours.hair/tags/grapheneos), [hugo](https://www.officehours.hair/tags/hugo), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair/tags/office%20hours), [pixel 7](https://www.officehours.hair/tags/pixel%207), [tuxies](https://www.officehours.hair/tags/tuxies), [🦒](https://www.officehours.hair/tags/%F0%9F%A6%92)

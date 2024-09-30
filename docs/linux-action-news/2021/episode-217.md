@@ -29,8 +29,6 @@ Fedora's massive endorsement this week that went unnoticed, why RISC-V mobile de
   * [LLVM relicensing - long tail - Google Sheets](https://docs.google.com/spreadsheets/d/18_0Hog_eSwES8lKwf7WJal3yBwwcYfvPu1yCfZnTcek/edit#gid=1357290134 "LLVM relicensing - long tail - Google Sheets")
   * [The LLVM Project Blog](https://blog.llvm.org/posts/2021-11-18-relicensing-update/ "The LLVM Project Blog")
   * [German state planning to switch 25,000 PCs to LibreOffice](https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/ "German state planning to switch 25,000 PCs to LibreOffice") — The north-German state of Schleswig-Holstein plans to switch to open source software, including LibreOffice, in its administration and schools.
-  * [READ: Linode - HedgeDoc](https://h.docs.lol/ydgoYGuHSY6Ky7_tlp1sTA "READ: Linode - HedgeDoc")
-  * [READ: Ting](https://h.docs.lol/SiLw0fobQZmd0cMU6hId-w "READ: Ting")
   * [Amazon Linux 2022 Released - Based On Fedora With Changes](https://www.phoronix.com/scan.php?page=news_item&px=Amazon-Linux-2022-Preview "Amazon Linux 2022 Released - Based On Fedora With Changes") — Amazon Linux / Amazon Linux 2 had been based on a combination of RHEL and Fedora packages while in today's Amazon Linux 2022 release they note it's explicitly based on Fedora. 
   * [amazon-linux-2022: Amazon Linux 2022](https://github.com/amazonlinux/amazon-linux-2022 "amazon-linux-2022: Amazon Linux 2022")
   * [Announcing preview of Amazon Linux 2022](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-amazon-linux-2022/ "Announcing preview of Amazon Linux 2022")

@@ -10,8 +10,7 @@
 Chris and Chz catch up on what's been going on and then share the story behind our new daily Linux podcast and the breakthrough it took to make it possible.
 
 ## Your hosts
-* [chzbacon](https://extras.show//hosts/chzbacon)
-* [Chris Fisher](https://extras.show//hosts/chrislas)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
 
 ## Sponsored by
 
@@ -29,4 +28,4 @@ None
 
 ## Tags
 
-[behind the scenes](https://extras.show//tags/behind%20the%20scenes), [daily linux podcast](https://extras.show//tags/daily%20linux%20podcast), [jupiter extras](https://extras.show//tags/jupiter%20extras), [linux academy](https://extras.show//tags/linux%20academy), [linux headlines](https://extras.show//tags/linux%20headlines)
+[behind the scenes](https://extras.show/tags/behind%20the%20scenes), [daily linux podcast](https://extras.show/tags/daily%20linux%20podcast), [jupiter extras](https://extras.show/tags/jupiter%20extras), [linux academy](https://extras.show/tags/linux%20academy), [linux headlines](https://extras.show/tags/linux%20headlines)

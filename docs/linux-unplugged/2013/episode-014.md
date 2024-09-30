@@ -7,7 +7,7 @@
 
 ## About this episode
 
-This week we’ll use the lens of some recent technical meltdowns to discuss this age old struggle of pragmatism vs idealism. 
+This week we’ll use the lens of some recent technical meltdowns to discuss this age old struggle of pragmatism vs idealism.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

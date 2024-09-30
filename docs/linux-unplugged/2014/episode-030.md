@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Two developers from the TOX project, an open source secure Skype killer join us to discuss their new project, the future, and how they hope to become your new messaging system. 
+Two developers from the TOX project, an open source secure Skype killer join us to discuss their new project, the future, and how they hope to become your new messaging system.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

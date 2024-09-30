@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Aaron Seigo joins us to call out the new and shiny culture that’s pervasive in the free software community. And even your own humble hosts have been afflicted with from time to time. 
+Aaron Seigo joins us to call out the new and shiny culture that’s pervasive in the free software community. And even your own humble hosts have been afflicted with from time to time.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

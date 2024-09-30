@@ -22,6 +22,7 @@ SUSE had an awkward week; we breakdown the very mixed launch of SUSE Liberty Lin
 
 ## Episode links
 
+  * [Pictures of Brent's Server Cabinet Built](https://twitter.com/ChrisLAS/status/1485814265768333312 "Pictures of Brent's Server Cabinet Built") — Some pics of the sweet server cabinet @brentgervais built this last weekend at the @jupitersignal studio.
   * [Jupiter Broadcasting Meetup](http://meetup.com/jupiterbroadcasting "Jupiter Broadcasting Meetup")
   * [Flathub to verify first-party apps and allow developers to collect monies](https://www.gamingonlinux.com/2022/01/flathub-to-verify-first-party-apps-and-allow-developers-to-collect-monies/ "Flathub to verify first-party apps and allow developers to collect monies") — Flathub is going to gain a way to process and verify apps from first-party teams. As in, developers who directly publish their app and manage the Flatpak package process for Flathub.
   * [SUSE Liberty Linux Announced For Mixed Linux Environments](https://www.phoronix.com/scan.php?page=news_item&px=SUSE-Liberty-Linux "SUSE Liberty Linux Announced For Mixed Linux Environments") — SUSE Liberty Linux is a new technology and support offering that provides customers a unified support experience for managing their heterogeneous IT environments.

@@ -14,7 +14,7 @@ Big things are happening in the world of WireGuard, Jim Salter joins to catch us
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)
 * [Brent Gervais](https://linuxunplugged.com/guests/brentgervais)
 * [Cassidy James Blaede](https://linuxunplugged.com/guests/cassidyjames)
-* [Daniel Fore](https://linuxunplugged.com/guests/danielfore)
+* [Danielle Foré](https://linuxunplugged.com/guests/daniellefore)
 * [Jim Salter](https://linuxunplugged.com/guests/jimsalter)
 
 ## Sponsored by

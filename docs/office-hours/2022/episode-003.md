@@ -10,8 +10,8 @@
 It's a summer of projects, we get into our plans to totally rebuild our website, some new Podcasting 2.0 features and, Brent takes his first bite of the Raspberry Pi.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -33,4 +33,4 @@ It's a summer of projects, we get into our plans to totally rebuild our website,
 
 ## Tags
 
-[chrislas](https://www.officehours.hair//tags/chrislas), [github action](https://www.officehours.hair//tags/github%20action), [grab](https://www.officehours.hair//tags/grab), [hugo](https://www.officehours.hair//tags/hugo), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [jupiter broadcasting lightning node](https://www.officehours.hair//tags/jupiter%20broadcasting%20lightning%20node), [office hours](https://www.officehours.hair//tags/office%20hours), [open source cms](https://www.officehours.hair//tags/open%20source%20cms), [podcast:medium tag](https://www.officehours.hair//tags/podcast:medium%20tag), [podcasting 2.0](https://www.officehours.hair//tags/podcasting%202.0), [static website](https://www.officehours.hair//tags/static%20website), [value 4 value](https://www.officehours.hair//tags/value%204%20value), [wordpress](https://www.officehours.hair//tags/wordpress)
+[chrislas](https://www.officehours.hair/tags/chrislas), [github action](https://www.officehours.hair/tags/github%20action), [grab](https://www.officehours.hair/tags/grab), [hugo](https://www.officehours.hair/tags/hugo), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [jupiter broadcasting lightning node](https://www.officehours.hair/tags/jupiter%20broadcasting%20lightning%20node), [office hours](https://www.officehours.hair/tags/office%20hours), [open source cms](https://www.officehours.hair/tags/open%20source%20cms), [podcast:medium tag](https://www.officehours.hair/tags/podcast:medium%20tag), [podcasting 2.0](https://www.officehours.hair/tags/podcasting%202.0), [static website](https://www.officehours.hair/tags/static%20website), [value 4 value](https://www.officehours.hair/tags/value%204%20value), [wordpress](https://www.officehours.hair/tags/wordpress)

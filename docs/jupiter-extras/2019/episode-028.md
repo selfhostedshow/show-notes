@@ -10,10 +10,9 @@
 Alex, Drew from ChooseLinux, and Brent (of the Brunch fame) sit down with Antonio Musumeci, the developer of mergerfs during the JB sprint. It is a union filesystem geared towards simplifying storage and management of files across numerous commodity storage devices, it is similar to mhddfs, unionfs, and aufs.
 
 ## Your hosts
-* [Drew DeVore](https://extras.show//hosts/drewdevore)
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Alex Kretzschmar](https://extras.show//hosts/alexktz)
-* [Antonio Musumeci](https://extras.show//guests/antoniom)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Alex Kretzschmar](https://extras.show/hosts/alexktz)
+* [Antonio Musumeci](https://extras.show/guests/antoniom)
 
 ## Sponsored by
 
@@ -31,4 +30,4 @@ None
 
 ## Tags
 
-[antonio musumeci](https://extras.show//tags/antonio%20musumeci), [jbod](https://extras.show//tags/jbod), [mergerfs](https://extras.show//tags/mergerfs), [mhddfs](https://extras.show//tags/mhddfs), [self-hosted](https://extras.show//tags/self-hosted), [unionfs](https://extras.show//tags/unionfs)
+[antonio musumeci](https://extras.show/tags/antonio%20musumeci), [jbod](https://extras.show/tags/jbod), [mergerfs](https://extras.show/tags/mergerfs), [mhddfs](https://extras.show/tags/mhddfs), [self-hosted](https://extras.show/tags/self-hosted), [unionfs](https://extras.show/tags/unionfs)

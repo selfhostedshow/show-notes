@@ -10,8 +10,8 @@
 Brent sits down with Daniel Foré, founder of elementary OS and co-host of User Error. We explore his early years in design and software, formative aspects of Ubuntu and Gentoo, the philosophies and history of elementary OS, and more.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Daniel Fore](https://extras.show//guests/danielfore)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Danielle Foré ](https://extras.show/guests/dani)
 
 ## Sponsored by
 
@@ -46,4 +46,4 @@ None
 
 ## Tags
 
-[app centre](https://extras.show//tags/app%20centre), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [community](https://extras.show//tags/community), [daniel foré](https://extras.show//tags/daniel%20for%C3%A9), [design](https://extras.show//tags/design), [desire paths](https://extras.show//tags/desire%20paths), [diversity](https://extras.show//tags/diversity), [elementary os](https://extras.show//tags/elementary%20os), [extras](https://extras.show//tags/extras), [flatpak](https://extras.show//tags/flatpak), [gentoo](https://extras.show//tags/gentoo), [gnome](https://extras.show//tags/gnome), [guadec](https://extras.show//tags/guadec), [interview podcast](https://extras.show//tags/interview%20podcast), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [korora](https://extras.show//tags/korora), [lfnw](https://extras.show//tags/lfnw), [linux](https://extras.show//tags/linux), [linuxfest northwest](https://extras.show//tags/linuxfest%20northwest), [open source](https://extras.show//tags/open%20source), [software development](https://extras.show//tags/software%20development), [ubuntu](https://extras.show//tags/ubuntu), [user error](https://extras.show//tags/user%20error)
+[app centre](https://extras.show/tags/app%20centre), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [community](https://extras.show/tags/community), [daniel foré](https://extras.show/tags/daniel%20for%C3%A9), [design](https://extras.show/tags/design), [desire paths](https://extras.show/tags/desire%20paths), [diversity](https://extras.show/tags/diversity), [elementary os](https://extras.show/tags/elementary%20os), [extras](https://extras.show/tags/extras), [flatpak](https://extras.show/tags/flatpak), [gentoo](https://extras.show/tags/gentoo), [gnome](https://extras.show/tags/gnome), [guadec](https://extras.show/tags/guadec), [interview podcast](https://extras.show/tags/interview%20podcast), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [korora](https://extras.show/tags/korora), [lfnw](https://extras.show/tags/lfnw), [linux](https://extras.show/tags/linux), [linuxfest northwest](https://extras.show/tags/linuxfest%20northwest), [open source](https://extras.show/tags/open%20source), [software development](https://extras.show/tags/software%20development), [ubuntu](https://extras.show/tags/ubuntu), [user error](https://extras.show/tags/user%20error)

@@ -10,13 +10,13 @@
 We react to Microsoft gobbling up yet another game studio, chat about Crypto.com's recent $15M hack, the massive failure YouTube just admitted, and a few personal crew stories.
 
 ## Your hosts
-* [Wes Payne](https://extras.show//hosts/wes)
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [Brent Gervais](https://extras.show//hosts/brent)
+* [Wes Payne](https://extras.show/hosts/wes)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [Brent Gervais](https://extras.show/hosts/brent)
 
 ## Sponsored by
 
-  * [Support JB Directly ](http://jupiter.party): [Support the network directly with our new network membership.](http://jupiter.party)
+  * [Join the Party! The Jupiter Membership Party](http://jupiter.party): [Join the party and get exclusive content. ](http://jupiter.party)
 
 
 
@@ -35,4 +35,4 @@ We react to Microsoft gobbling up yet another game studio, chat about Crypto.com
 
 ## Tags
 
-[activision blizzard](https://extras.show//tags/activision%20blizzard), [apple](https://extras.show//tags/apple), [coinbase nft marketplace](https://extras.show//tags/coinbase%20nft%20marketplace), [crypto.com hack](https://extras.show//tags/crypto.com%20hack), [ethereum](https://extras.show//tags/ethereum), [gaming](https://extras.show//tags/gaming), [intel low-voltage bitcoin mining asic](https://extras.show//tags/intel%20low-voltage%20bitcoin%20mining%20asic), [mastercard](https://extras.show//tags/mastercard), [microsoft](https://extras.show//tags/microsoft), [smartphone market](https://extras.show//tags/smartphone%20market), [xbox game pass](https://extras.show//tags/xbox%20game%20pass), [youtube original content](https://extras.show//tags/youtube%20original%20content)
+[activision blizzard](https://extras.show/tags/activision%20blizzard), [apple](https://extras.show/tags/apple), [coinbase nft marketplace](https://extras.show/tags/coinbase%20nft%20marketplace), [crypto.com hack](https://extras.show/tags/crypto.com%20hack), [ethereum](https://extras.show/tags/ethereum), [gaming](https://extras.show/tags/gaming), [intel low-voltage bitcoin mining asic](https://extras.show/tags/intel%20low-voltage%20bitcoin%20mining%20asic), [mastercard](https://extras.show/tags/mastercard), [microsoft](https://extras.show/tags/microsoft), [smartphone market](https://extras.show/tags/smartphone%20market), [xbox game pass](https://extras.show/tags/xbox%20game%20pass), [youtube original content](https://extras.show/tags/youtube%20original%20content)

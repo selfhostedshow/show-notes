@@ -10,8 +10,8 @@
 It was one technical disaster after another, we recap the series of technical challenges that killed all future shows from the road.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -39,4 +39,4 @@ It was one technical disaster after another, we recap the series of technical ch
 
 ## Tags
 
-[alby](https://www.officehours.hair//tags/alby), [chrislas](https://www.officehours.hair//tags/chrislas), [fountain](https://www.officehours.hair//tags/fountain), [geocaching](https://www.officehours.hair//tags/geocaching), [hacktoberfest](https://www.officehours.hair//tags/hacktoberfest), [hugo](https://www.officehours.hair//tags/hugo), [infrastructure as code](https://www.officehours.hair//tags/infrastructure%20as%20code), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [new show name](https://www.officehours.hair//tags/new%20show%20name), [office hours](https://www.officehours.hair//tags/office%20hours), [podverse](https://www.officehours.hair//tags/podverse), [road shows](https://www.officehours.hair//tags/road%20shows), [road trip](https://www.officehours.hair//tags/road%20trip), [rust desk](https://www.officehours.hair//tags/rust%20desk), [rv podcasting](https://www.officehours.hair//tags/rv%20podcasting), [sonobus](https://www.officehours.hair//tags/sonobus), [technical failure](https://www.officehours.hair//tags/technical%20failure), [value for value](https://www.officehours.hair//tags/value%20for%20value)
+[alby](https://www.officehours.hair/tags/alby), [chrislas](https://www.officehours.hair/tags/chrislas), [fountain](https://www.officehours.hair/tags/fountain), [geocaching](https://www.officehours.hair/tags/geocaching), [hacktoberfest](https://www.officehours.hair/tags/hacktoberfest), [hugo](https://www.officehours.hair/tags/hugo), [infrastructure as code](https://www.officehours.hair/tags/infrastructure%20as%20code), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [new show name](https://www.officehours.hair/tags/new%20show%20name), [office hours](https://www.officehours.hair/tags/office%20hours), [podverse](https://www.officehours.hair/tags/podverse), [road shows](https://www.officehours.hair/tags/road%20shows), [road trip](https://www.officehours.hair/tags/road%20trip), [rust desk](https://www.officehours.hair/tags/rust%20desk), [rv podcasting](https://www.officehours.hair/tags/rv%20podcasting), [sonobus](https://www.officehours.hair/tags/sonobus), [technical failure](https://www.officehours.hair/tags/technical%20failure), [value for value](https://www.officehours.hair/tags/value%20for%20value)

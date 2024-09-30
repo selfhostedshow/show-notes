@@ -10,8 +10,8 @@
 We get you caught up on one heck of a trip.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -39,4 +39,4 @@ We get you caught up on one heck of a trip.
 
 ## Tags
 
-[alby](https://www.officehours.hair//tags/alby), [bitrefill](https://www.officehours.hair//tags/bitrefill), [chrislas](https://www.officehours.hair//tags/chrislas), [fire](https://www.officehours.hair//tags/fire), [fountain](https://www.officehours.hair//tags/fountain), [geocaching](https://www.officehours.hair//tags/geocaching), [grant's pass](https://www.officehours.hair//tags/grant's%20pass), [grease fire](https://www.officehours.hair//tags/grease%20fire), [grilling](https://www.officehours.hair//tags/grilling), [jpl](https://www.officehours.hair//tags/jpl), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [meetups](https://www.officehours.hair//tags/meetups), [office hours](https://www.officehours.hair//tags/office%20hours), [open source](https://www.officehours.hair//tags/open%20source), [podverse](https://www.officehours.hair//tags/podverse), [poop blender](https://www.officehours.hair//tags/poop%20blender), [road trip](https://www.officehours.hair//tags/road%20trip), [sacramento](https://www.officehours.hair//tags/sacramento), [sat steaks](https://www.officehours.hair//tags/sat%20steaks), [satoshi squares](https://www.officehours.hair//tags/satoshi%20squares), [user error](https://www.officehours.hair//tags/user%20error), [value for value](https://www.officehours.hair//tags/value%20for%20value)
+[alby](https://www.officehours.hair/tags/alby), [bitrefill](https://www.officehours.hair/tags/bitrefill), [chrislas](https://www.officehours.hair/tags/chrislas), [fire](https://www.officehours.hair/tags/fire), [fountain](https://www.officehours.hair/tags/fountain), [geocaching](https://www.officehours.hair/tags/geocaching), [grant's pass](https://www.officehours.hair/tags/grant's%20pass), [grease fire](https://www.officehours.hair/tags/grease%20fire), [grilling](https://www.officehours.hair/tags/grilling), [jpl](https://www.officehours.hair/tags/jpl), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [meetups](https://www.officehours.hair/tags/meetups), [office hours](https://www.officehours.hair/tags/office%20hours), [open source](https://www.officehours.hair/tags/open%20source), [podverse](https://www.officehours.hair/tags/podverse), [poop blender](https://www.officehours.hair/tags/poop%20blender), [road trip](https://www.officehours.hair/tags/road%20trip), [sacramento](https://www.officehours.hair/tags/sacramento), [sat steaks](https://www.officehours.hair/tags/sat%20steaks), [satoshi squares](https://www.officehours.hair/tags/satoshi%20squares), [user error](https://www.officehours.hair/tags/user%20error), [value for value](https://www.officehours.hair/tags/value%20for%20value)

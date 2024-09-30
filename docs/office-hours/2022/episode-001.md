@@ -10,7 +10,7 @@
 What is the enthusiast trap, and why does it seem to ensnarl every successful open source project? Also, some excellent listener power user tips for NextCloud.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
 
 ## Sponsored by
 
@@ -28,4 +28,4 @@ None
 
 ## Tags
 
-[apple](https://www.officehours.hair//tags/apple), [enthusiast trap](https://www.officehours.hair//tags/enthusiast%20trap), [external storage](https://www.officehours.hair//tags/external%20storage), [free office](https://www.officehours.hair//tags/free%20office), [linux community](https://www.officehours.hair//tags/linux%20community), [manjaro](https://www.officehours.hair//tags/manjaro), [nextcloud](https://www.officehours.hair//tags/nextcloud), [nextcloud tips](https://www.officehours.hair//tags/nextcloud%20tips), [office hours with chris](https://www.officehours.hair//tags/office%20hours%20with%20chris), [pro user](https://www.officehours.hair//tags/pro%20user)
+[apple](https://www.officehours.hair/tags/apple), [enthusiast trap](https://www.officehours.hair/tags/enthusiast%20trap), [external storage](https://www.officehours.hair/tags/external%20storage), [free office](https://www.officehours.hair/tags/free%20office), [linux community](https://www.officehours.hair/tags/linux%20community), [manjaro](https://www.officehours.hair/tags/manjaro), [nextcloud](https://www.officehours.hair/tags/nextcloud), [nextcloud tips](https://www.officehours.hair/tags/nextcloud%20tips), [office hours with chris](https://www.officehours.hair/tags/office%20hours%20with%20chris), [pro user](https://www.officehours.hair/tags/pro%20user)

@@ -7,7 +7,7 @@
 
 ## About this episode
 
-The guys discuss the real last bastion of scratch your own itch, and debate the merits of recent C# functional programing fads that are transforming the language. 
+The guys discuss the real last bastion of scratch your own itch, and debate the merits of recent C# functional programing fads that are transforming the language.
 
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)

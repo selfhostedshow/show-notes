@@ -7,8 +7,7 @@
 
 ## About this episode
 
-
-We put the Raspberry Pi 4 to the desktop test, and try it as our daily driver. 
+We put the Raspberry Pi 4 to the desktop test, and try it as our daily driver.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

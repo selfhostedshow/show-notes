@@ -9,7 +9,6 @@
 
 We discuss a compelling case against Object-Oriented programming, is it truly all bad? Plus the cold chills the new Rails Doctrine gives us, the long-term ramifications of progress over stability & convention vs configuration strategy & more!
 
-
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)
 * [Michael Dominick](https://coder.show/hosts/michael)

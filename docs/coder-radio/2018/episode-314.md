@@ -9,8 +9,6 @@
 
 Mike's got a dream, and it's a dream where Microsoft saves us from Electron. Now historically speaking, he's been wrong every single time. But this week we'll make the case why we all need to collective pull for his vision.
 
-
-
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)
 * [Michael Dominick](https://coder.show/hosts/michael)

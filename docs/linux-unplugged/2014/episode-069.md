@@ -9,7 +9,6 @@
 
 The founder of Purism Librem 15, joins us to discuss the hardware, software & goals of the project & how he hopes to encourage manufacturers to free the entire stack. Plus CoreOS announces Rocket, a new Docker competitor that we’re excited about & more!
 
-
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)

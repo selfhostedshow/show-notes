@@ -10,7 +10,7 @@
 Chris's thoughts on Linux's NVIDIA conundrum, Elon's takeover of Twitter, MailChimp's insider hack, and the Google Drones taking off in Texas.
 
 ## Your hosts
-* [Chris Fisher](https://extras.show//hosts/chrislas)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
 
 ## Sponsored by
 
@@ -30,4 +30,4 @@ None
 
 ## Tags
 
-[alphabet](https://extras.show//tags/alphabet), [conundrum](https://extras.show//tags/conundrum), [dallas](https://extras.show//tags/dallas), [dfw](https://extras.show//tags/dfw), [drones](https://extras.show//tags/drones), [elon musk](https://extras.show//tags/elon%20musk), [fedora](https://extras.show//tags/fedora), [forth worth](https://extras.show//tags/forth%20worth), [google](https://extras.show//tags/google), [matthew miller](https://extras.show//tags/matthew%20miller), [nvidia](https://extras.show//tags/nvidia), [texas](https://extras.show//tags/texas), [trezor](https://extras.show//tags/trezor), [twitter takeover](https://extras.show//tags/twitter%20takeover), [wing](https://extras.show//tags/wing)
+[alphabet](https://extras.show/tags/alphabet), [conundrum](https://extras.show/tags/conundrum), [dallas](https://extras.show/tags/dallas), [dfw](https://extras.show/tags/dfw), [drones](https://extras.show/tags/drones), [elon musk](https://extras.show/tags/elon%20musk), [fedora](https://extras.show/tags/fedora), [forth worth](https://extras.show/tags/forth%20worth), [google](https://extras.show/tags/google), [matthew miller](https://extras.show/tags/matthew%20miller), [nvidia](https://extras.show/tags/nvidia), [texas](https://extras.show/tags/texas), [trezor](https://extras.show/tags/trezor), [twitter takeover](https://extras.show/tags/twitter%20takeover), [wing](https://extras.show/tags/wing)

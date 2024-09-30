@@ -17,7 +17,7 @@ With a dose of pragmatism and optimism, we chat about making the best out of old
 ## Sponsored by
 
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
-  * [45drives](https://45homelab.com): [The new HL15 is almost ready to be shipped. It is a 15-bay server that was designed to provide the power and storage needed for a great homelab. You can now reserve your spot now.](https://45homelab.com)
+  * [45drives](https://45homelab.com): [ The HL15 from 45HomeLab is an open-source, open-platform, 15-bay homelab server. ](https://45homelab.com)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 

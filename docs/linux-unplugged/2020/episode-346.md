@@ -13,7 +13,7 @@ We debate the dangers and advantages of one-click deployments. Then Dan from ele
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)
 * [chzbacon](https://linuxunplugged.com/hosts/chzbacon)
-* [Daniel Fore](https://linuxunplugged.com/guests/danielfore)
+* [Danielle Foré](https://linuxunplugged.com/guests/daniellefore)
 * [Neal Gompa](https://linuxunplugged.com/guests/nealgompa)
 
 ## Sponsored by

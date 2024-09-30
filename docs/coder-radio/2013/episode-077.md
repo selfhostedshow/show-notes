@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Is the Xbox One the next big App platform? We’ll share theories. Plus where to books fit in for self education? Are they too slow, or is there a place for the printed medium in a rapidly developing industry? 
+Is the Xbox One the next big App platform? We’ll share theories. Plus where to books fit in for self education? Are they too slow, or is there a place for the printed medium in a rapidly developing industry?
 
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)

@@ -7,10 +7,10 @@
 
 ## About this episode
 
-Live from the floor of Texas LinuxFest. We capture the structured chaos 1 from Austin Texas. 
+Live from the floor of Texas LinuxFest. We capture the structured chaos 1 from Austin Texas.
 
 ## Your hosts
-* [Friends of Jupiter Broadcasting](https://extras.show//hosts/friends)
+* [Friends of Jupiter Broadcasting](https://extras.show/hosts/friends)
 
 ## Sponsored by
 
@@ -26,4 +26,4 @@ None
 
 ## Tags
 
-[austin](https://extras.show//tags/austin), [live stream](https://extras.show//tags/live%20stream), [texas linuxfest](https://extras.show//tags/texas%20linuxfest)
+[austin](https://extras.show/tags/austin), [live stream](https://extras.show/tags/live%20stream), [texas linuxfest](https://extras.show/tags/texas%20linuxfest)

@@ -10,8 +10,8 @@
 We've got a radically new format idea for Office Hours and want to tell you all about it.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -40,4 +40,4 @@ We've got a radically new format idea for Office Hours and want to tell you all 
 
 ## Tags
 
-[acast study](https://www.officehours.hair//tags/acast%20study), [adopting bitcoin 2023](https://www.officehours.hair//tags/adopting%20bitcoin%202023), [advertisecast](https://www.officehours.hair//tags/advertisecast), [berlin with brent](https://www.officehours.hair//tags/berlin%20with%20brent), [boost bounty](https://www.officehours.hair//tags/boost%20bounty), [chrislas](https://www.officehours.hair//tags/chrislas), [dynamic ads](https://www.officehours.hair//tags/dynamic%20ads), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [meetup in berlin](https://www.officehours.hair//tags/meetup%20in%20berlin), [office hours](https://www.officehours.hair//tags/office%20hours), [podcast ai](https://www.officehours.hair//tags/podcast%20ai), [pure value for value](https://www.officehours.hair//tags/pure%20value%20for%20value), [transcribe.fm](https://www.officehours.hair//tags/transcribe.fm), [twit.tv selects libsyn](https://www.officehours.hair//tags/twit.tv%20selects%20libsyn), [what are podcasting 2.0 transcripts](https://www.officehours.hair//tags/what%20are%20podcasting%202.0%20transcripts)
+[acast study](https://www.officehours.hair/tags/acast%20study), [adopting bitcoin 2023](https://www.officehours.hair/tags/adopting%20bitcoin%202023), [advertisecast](https://www.officehours.hair/tags/advertisecast), [berlin with brent](https://www.officehours.hair/tags/berlin%20with%20brent), [boost bounty](https://www.officehours.hair/tags/boost%20bounty), [chrislas](https://www.officehours.hair/tags/chrislas), [dynamic ads](https://www.officehours.hair/tags/dynamic%20ads), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [meetup in berlin](https://www.officehours.hair/tags/meetup%20in%20berlin), [office hours](https://www.officehours.hair/tags/office%20hours), [podcast ai](https://www.officehours.hair/tags/podcast%20ai), [pure value for value](https://www.officehours.hair/tags/pure%20value%20for%20value), [transcribe.fm](https://www.officehours.hair/tags/transcribe.fm), [twit.tv selects libsyn](https://www.officehours.hair/tags/twit.tv%20selects%20libsyn), [what are podcasting 2.0 transcripts](https://www.officehours.hair/tags/what%20are%20podcasting%202.0%20transcripts)

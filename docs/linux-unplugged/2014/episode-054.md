@@ -11,7 +11,6 @@ Sam from the Moka project stops by to chat about making Linux look better. Then 
 
 Plus we bust some of the FUD around Munich’s much reported plan to abandon Linux and switch back to Windows.
 
-
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)

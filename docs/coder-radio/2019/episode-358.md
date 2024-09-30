@@ -9,7 +9,6 @@
 
 A strong argument against Python’s batteries included model exposes some bigger problems the community is struggling with.
 
-
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)
 * [Michael Dominick](https://coder.show/hosts/michael)

@@ -17,8 +17,8 @@ The advantages of Federating a local and remote Nextcloud, Chris replaces Google
 ## Sponsored by
 
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/selfhosted)
-  * [45drives](https://45homelab.com): [Big. Strong. Fast storage servers with affordable high-performance, high-capacity, enterprise storage solutions for all industries and now your Home Lab.](https://45homelab.com)
+  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
+  * [45drives](https://45homelab.com): [ The HL15 from 45HomeLab is an open-source, open-platform, 15-bay homelab server. ](https://45homelab.com)
 
 
 

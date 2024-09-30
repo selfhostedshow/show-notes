@@ -15,9 +15,9 @@ Why mastering your development environment can be a tricky feat, and a server ou
 
 ## Sponsored by
 
+  * [A Cloud Guru](https://learn.acloud.guru/course/33a5a87a-2b2c-4e51-b00f-8f2e2a15ab30/overview/?utm_source=jupiter&utm_medium=cpc): [The Certified Entry-Level Python Programmer Certification (PCEP) is a great place to start when getting Python certified. ](https://learn.acloud.guru/course/33a5a87a-2b2c-4e51-b00f-8f2e2a15ab30/overview/?utm_source=jupiter&utm_medium=cpc)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
-  * [A Cloud Guru](https://learn.acloud.guru/course/33a5a87a-2b2c-4e51-b00f-8f2e2a15ab30/overview/?utm_source=jupiter&utm_medium=cpc): [The Certified Entry-Level Python Programmer Certification (PCEP) is a great place to start when getting Python certified. ](https://learn.acloud.guru/course/33a5a87a-2b2c-4e51-b00f-8f2e2a15ab30/overview/?utm_source=jupiter&utm_medium=cpc)
 
 
 

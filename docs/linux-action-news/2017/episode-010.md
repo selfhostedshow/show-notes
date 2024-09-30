@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Fedora 26 is out, progress on the Unity 8 fork, Ubuntu in the Windows Store, more Pop!_OS details, peer to peer web browsing and more. 
+Fedora 26 is out, progress on the Unity 8 fork, Ubuntu in the Windows Store, more Pop!_OS details, peer to peer web browsing and more.
 
 ## Your hosts
 * [Joe Ressington](https://linuxactionnews.com/hosts/joe)

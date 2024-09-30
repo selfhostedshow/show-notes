@@ -17,7 +17,7 @@ The nasty Log4Shell vulnerability isn't solved yet, this week saw a new round of
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
   * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
-  * [Jupiter Network Membership](http://jupiter.party): [Support the entire network, and get access to every member's special feed for every show on the network. Sign-up before the end of the year and save $2/m for a year!](http://jupiter.party) Promo Code: thesignal
+  * [Jupiter Network Membership](http://jupiter.party): [Support the entire network, and get access to every member's special feed for every show on the network.](http://jupiter.party) Promo Code: thesignal
 
 
 

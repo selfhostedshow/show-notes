@@ -11,7 +11,6 @@ We cover some great open source projects that help you live life off-line, as if
 
 Plus some great feedback, a road trip update & more!
 
-
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)

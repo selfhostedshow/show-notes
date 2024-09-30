@@ -7,7 +7,7 @@
 
 ## About this episode
 
-We’re just back from touring System76’s new factory, and getting the inside scoop on how they build their Thelio desktop. This is our story about walking in as skeptics, and walking out as believers. 
+We’re just back from touring System76’s new factory, and getting the inside scoop on how they build their Thelio desktop. This is our story about walking in as skeptics, and walking out as believers.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

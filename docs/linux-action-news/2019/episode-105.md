@@ -7,7 +7,7 @@
 
 ## About this episode
 
-RHEL 8 is released, we report from the ground of the big announcement, Microsoft announces WSL 2 with a real Linux kernel at the core, and details on their new open source terminal. 
+RHEL 8 is released, we report from the ground of the big announcement, Microsoft announces WSL 2 with a real Linux kernel at the core, and details on their new open source terminal.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

@@ -7,7 +7,7 @@
 
 ## About this episode
 
-We have some Plasma problems this week, but we’re still putting it into production in our most ambitious event yet. 
+We have some Plasma problems this week, but we’re still putting it into production in our most ambitious event yet.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

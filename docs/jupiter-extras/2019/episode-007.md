@@ -10,8 +10,8 @@
 Brent welcomes Alex into the podcast family and discusses his long journey from Apple to Red Hat, and London to Raleigh. Plus some tidbits about the new show he's co-hosting on Jupiter Broadcasting and spending time with the crew.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Alex Kretzschmar](https://extras.show//hosts/alexktz)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Alex Kretzschmar](https://extras.show/hosts/alexktz)
 
 ## Sponsored by
 
@@ -29,4 +29,4 @@ None
 
 ## Tags
 
-[alex kretzschmar](https://extras.show//tags/alex%20kretzschmar), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [podcasting](https://extras.show//tags/podcasting), [red hat](https://extras.show//tags/red%20hat), [self hosted](https://extras.show//tags/self%20hosted)
+[alex kretzschmar](https://extras.show/tags/alex%20kretzschmar), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [podcasting](https://extras.show/tags/podcasting), [red hat](https://extras.show/tags/red%20hat), [self hosted](https://extras.show/tags/self%20hosted)

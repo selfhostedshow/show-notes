@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Sun Microsystems was fertile ground for what might be the largest developer upset in ten years. 
+Sun Microsystems was fertile ground for what might be the largest developer upset in ten years.
 
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)

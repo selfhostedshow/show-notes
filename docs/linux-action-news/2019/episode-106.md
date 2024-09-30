@@ -7,7 +7,7 @@
 
 ## About this episode
 
-ZombieLoad's impact on Linux, AMP to start hiding Google from the URL, and the huge Linux switch underway. 
+ZombieLoad's impact on Linux, AMP to start hiding Google from the URL, and the huge Linux switch underway.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

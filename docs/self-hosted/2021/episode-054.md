@@ -17,6 +17,7 @@ Alex is abroad and uses the opportunity to build out not one but two ultimate se
 
   * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
+  * [MyLocalBytes](https://www.mylocalbytes.com/discount/SELFHOSTED): [Smart Home gear pre-flashed with Tasmota - For an exclusive discount, use code SELFHOSTED and support the show.](https://www.mylocalbytes.com/discount/SELFHOSTED) Promo Code: SELFHOSTED
   * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
 
 

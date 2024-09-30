@@ -10,8 +10,8 @@
 We share some recent adventures, and the tale of how water got dumped into Chris' new home server.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -29,4 +29,4 @@ We share some recent adventures, and the tale of how water got dumped into Chris
 
 ## Tags
 
-[chrislas](https://www.officehours.hair//tags/chrislas), [data rescue](https://www.officehours.hair//tags/data%20rescue), [disaster](https://www.officehours.hair//tags/disaster), [home server disaster](https://www.officehours.hair//tags/home%20server%20disaster), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [node](https://www.officehours.hair//tags/node), [office hours](https://www.officehours.hair//tags/office%20hours), [restore](https://www.officehours.hair//tags/restore), [sats](https://www.officehours.hair//tags/sats), [travel stories](https://www.officehours.hair//tags/travel%20stories), [water spill](https://www.officehours.hair//tags/water%20spill), [wedding](https://www.officehours.hair//tags/wedding)
+[chrislas](https://www.officehours.hair/tags/chrislas), [data rescue](https://www.officehours.hair/tags/data%20rescue), [disaster](https://www.officehours.hair/tags/disaster), [home server disaster](https://www.officehours.hair/tags/home%20server%20disaster), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [node](https://www.officehours.hair/tags/node), [office hours](https://www.officehours.hair/tags/office%20hours), [restore](https://www.officehours.hair/tags/restore), [sats](https://www.officehours.hair/tags/sats), [travel stories](https://www.officehours.hair/tags/travel%20stories), [water spill](https://www.officehours.hair/tags/water%20spill), [wedding](https://www.officehours.hair/tags/wedding)

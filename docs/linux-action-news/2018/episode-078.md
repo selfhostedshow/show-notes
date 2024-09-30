@@ -7,7 +7,7 @@
 
 ## About this episode
 
-The new Fedora has a neat trick, The Register's KDE klickbait, and GhostBSD impresses. 
+The new Fedora has a neat trick, The Register's KDE klickbait, and GhostBSD impresses.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

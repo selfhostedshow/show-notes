@@ -1,4 +1,4 @@
-# SSH 079: Self-Hosted 79
+# SSH 079: Google is a Hostile Actor
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+7t-Oh68h?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
@@ -16,7 +16,7 @@ We've made some changes since the last episode, and share why we have doubled do
 ## Sponsored by
 
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [Humio](https://humio.com/hce): [Take logs from any source and make them usable. Get started with Humio Community Edition for free.](https://humio.com/hce)
+  * [LogScale](https://crowdstrike.com/lce): [Take logs from any source and make them usable. Get started with LogScale Community Edition for free.](https://crowdstrike.com/lce)
 
 
 

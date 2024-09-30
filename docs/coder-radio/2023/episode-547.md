@@ -3,7 +3,7 @@
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+SCej-n0C?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-12-06
-* Duration: 72 mins 18 secs
+* Duration: 58 mins 44 secs
 
 ## About this episode
 

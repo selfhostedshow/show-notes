@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Wes joins Mike to chat all things Apple. We discuss the surprising implications of the iPhone X & the exciting possibilities of ARKit. Plus, we debate FaceID and APFS, check in on HomeKit & search for the right level of abstraction for UI development. 
+Wes joins Mike to chat all things Apple. We discuss the surprising implications of the iPhone X & the exciting possibilities of ARKit. Plus, we debate FaceID and APFS, check in on HomeKit & search for the right level of abstraction for UI development.
 
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)

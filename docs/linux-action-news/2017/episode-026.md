@@ -9,7 +9,7 @@
 
 The Plasma Mobile project sets humble goals, Firefox learns new tricks, a TOR flaw for Linux users, and Canonical joins the Gnome Advisory Board.
 
-Plus a new report claims every Bitcoin transaction uses as much energy as your house in a week, and two legal matters that may have long-term impacts on the Linux community. 
+Plus a new report claims every Bitcoin transaction uses as much energy as your house in a week, and two legal matters that may have long-term impacts on the Linux community.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

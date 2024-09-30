@@ -34,6 +34,7 @@ We just watched Revolution OS before the show, so we reflect on the audacity of 
   * [Cardano Stack Exchange](https://cardano.stackexchange.com/ "Cardano Stack Exchange")
   * [Latest Developers topics - Cardano Forum](https://forum.cardano.org/c/developers/29 "Latest Developers topics - Cardano Forum")
   * [r/CardanoDevelopers](https://www.reddit.com/r/CardanoDevelopers/ "r/CardanoDevelopers")
+  * [Strike - Best app in the US to Quickly Buy Sats](https://strike.me/en "Strike - Best app in the US to Quickly Buy Sats")
 
 
 

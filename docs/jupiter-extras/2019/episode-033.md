@@ -10,8 +10,8 @@
 Brent sits down with Emma Marshall, Customer Happiness Manager at System76 for a fun chat touching on her love of pinball and puppies, spreading happiness, women in tech, and more.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Emma Marshall](https://extras.show//guests/emma-marshall)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Emma Marshall](https://extras.show/guests/emma-marshall)
 
 ## Sponsored by
 
@@ -34,4 +34,4 @@ None
 
 ## Tags
 
-[brunch with brent](https://extras.show//tags/brunch%20with%20brent), [cat](https://extras.show//tags/cat), [community](https://extras.show//tags/community), [dog](https://extras.show//tags/dog), [emma marshall](https://extras.show//tags/emma%20marshall), [happiness](https://extras.show//tags/happiness), [inclusive](https://extras.show//tags/inclusive), [interview podcast](https://extras.show//tags/interview%20podcast), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [linux](https://extras.show//tags/linux), [linuxfest northwest](https://extras.show//tags/linuxfest%20northwest), [pinball](https://extras.show//tags/pinball), [pink](https://extras.show//tags/pink), [system76](https://extras.show//tags/system76), [taylor swift](https://extras.show//tags/taylor%20swift), [thelio](https://extras.show//tags/thelio), [women](https://extras.show//tags/women)
+[brunch with brent](https://extras.show/tags/brunch%20with%20brent), [cat](https://extras.show/tags/cat), [community](https://extras.show/tags/community), [dog](https://extras.show/tags/dog), [emma marshall](https://extras.show/tags/emma%20marshall), [happiness](https://extras.show/tags/happiness), [inclusive](https://extras.show/tags/inclusive), [interview podcast](https://extras.show/tags/interview%20podcast), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [linux](https://extras.show/tags/linux), [linuxfest northwest](https://extras.show/tags/linuxfest%20northwest), [pinball](https://extras.show/tags/pinball), [pink](https://extras.show/tags/pink), [system76](https://extras.show/tags/system76), [taylor swift](https://extras.show/tags/taylor%20swift), [thelio](https://extras.show/tags/thelio), [women](https://extras.show/tags/women)

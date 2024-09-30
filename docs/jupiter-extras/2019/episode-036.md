@@ -10,8 +10,8 @@
 Brent sits down with Rocco of Big Daddy Linux for a conversation about the origins of Linux Spotlight, some shared behind-the-scenes podcasting perspectives, and just how great we feel about our Linux community.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Rocco (BigDaddyLinux)](https://extras.show//guests/rocco-bigdaddylinux)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Rocco (BigDaddyLinux)](https://extras.show/guests/rocco-bigdaddylinux)
 
 ## Sponsored by
 
@@ -42,4 +42,4 @@ None
 
 ## Tags
 
-[big daddy linux](https://extras.show//tags/big%20daddy%20linux), [bigdaddylinux](https://extras.show//tags/bigdaddylinux), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [community](https://extras.show//tags/community), [destination linux](https://extras.show//tags/destination%20linux), [developer](https://extras.show//tags/developer), [extras](https://extras.show//tags/extras), [interview podcast](https://extras.show//tags/interview%20podcast), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [kde](https://extras.show//tags/kde), [kubuntu](https://extras.show//tags/kubuntu), [linux](https://extras.show//tags/linux), [linux spotlight](https://extras.show//tags/linux%20spotlight), [open source](https://extras.show//tags/open%20source), [rocco](https://extras.show//tags/rocco), [ubuntu](https://extras.show//tags/ubuntu)
+[big daddy linux](https://extras.show/tags/big%20daddy%20linux), [bigdaddylinux](https://extras.show/tags/bigdaddylinux), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [community](https://extras.show/tags/community), [destination linux](https://extras.show/tags/destination%20linux), [developer](https://extras.show/tags/developer), [extras](https://extras.show/tags/extras), [interview podcast](https://extras.show/tags/interview%20podcast), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [kde](https://extras.show/tags/kde), [kubuntu](https://extras.show/tags/kubuntu), [linux](https://extras.show/tags/linux), [linux spotlight](https://extras.show/tags/linux%20spotlight), [open source](https://extras.show/tags/open%20source), [rocco](https://extras.show/tags/rocco), [ubuntu](https://extras.show/tags/ubuntu)

@@ -14,7 +14,7 @@ Why FOSDEM might be the quintessential community event, and our thoughts after p
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)
 * [Alan Pope](https://linuxunplugged.com/guests/alanpope)
 * [Brent Gervais](https://linuxunplugged.com/guests/brentgervais)
-* [Daniel Fore](https://linuxunplugged.com/guests/danielfore)
+* [Danielle Foré](https://linuxunplugged.com/guests/daniellefore)
 * [Martin Wimpress](https://linuxunplugged.com/guests/martinwimpress)
 
 ## Sponsored by

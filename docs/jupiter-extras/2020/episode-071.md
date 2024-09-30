@@ -10,8 +10,8 @@
 Brent sits down with Sri Ramkrishna, seasoned GNOME community member, founder of Linux App Summit, and Principle Ecosystems Engineer at ITRenew. We discuss his experiences in the GNOME community since 1998, the value of building relationships across communities, the increasing importance of non-technical roles in open source projects, and more.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Sri Ramkrishna](https://extras.show//guests/sri-ramkrishna)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Sri Ramkrishna](https://extras.show/guests/sri-ramkrishna)
 
 ## Sponsored by
 
@@ -36,4 +36,4 @@ None
 
 ## Tags
 
-[apps community](https://extras.show//tags/apps%20community), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [chaoss](https://extras.show//tags/chaoss), [community](https://extras.show//tags/community), [extras](https://extras.show//tags/extras), [flatpak](https://extras.show//tags/flatpak), [gnome](https://extras.show//tags/gnome), [interview podcast](https://extras.show//tags/interview%20podcast), [itrenew](https://extras.show//tags/itrenew), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [kde](https://extras.show//tags/kde), [kubernetes](https://extras.show//tags/kubernetes), [linux](https://extras.show//tags/linux), [linux app summit](https://extras.show//tags/linux%20app%20summit), [open compute project](https://extras.show//tags/open%20compute%20project), [open source](https://extras.show//tags/open%20source), [snap](https://extras.show//tags/snap), [sri](https://extras.show//tags/sri), [sri ramkrishna](https://extras.show//tags/sri%20ramkrishna)
+[apps community](https://extras.show/tags/apps%20community), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [chaoss](https://extras.show/tags/chaoss), [community](https://extras.show/tags/community), [extras](https://extras.show/tags/extras), [flatpak](https://extras.show/tags/flatpak), [gnome](https://extras.show/tags/gnome), [interview podcast](https://extras.show/tags/interview%20podcast), [itrenew](https://extras.show/tags/itrenew), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [kde](https://extras.show/tags/kde), [kubernetes](https://extras.show/tags/kubernetes), [linux](https://extras.show/tags/linux), [linux app summit](https://extras.show/tags/linux%20app%20summit), [open compute project](https://extras.show/tags/open%20compute%20project), [open source](https://extras.show/tags/open%20source), [snap](https://extras.show/tags/snap), [sri](https://extras.show/tags/sri), [sri ramkrishna](https://extras.show/tags/sri%20ramkrishna)

@@ -9,7 +9,6 @@
 
 The future is JavaScript and Mike’s seen the way. Plus we answer a listener's questions about career changes, discuss the week’s hoopla, and share a cautionary tale.
 
-
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)
 * [Michael Dominick](https://coder.show/hosts/michael)

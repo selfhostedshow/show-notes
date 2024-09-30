@@ -19,6 +19,7 @@ This was not the year of the Linux Desktop. We’ve been slacking on the mailbag
 ## Sponsored by
 
   * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
+  * [Jupiter Signal Network Membership](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=thesignal): [Support all the shows, get all the perks, and save a bit for the holidays. Use promo code: thesignal](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=thesignal)
 
 
 

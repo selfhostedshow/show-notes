@@ -1,4 +1,4 @@
-# SSH 085: Wendell’s Hot Pi
+# SSH 085: Wendell's Hot Pi
 
 <iframe src="https://player.fireside.fm/v2/dUlrHQih+Haz1OasG?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

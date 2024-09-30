@@ -11,8 +11,6 @@ After discussing recent hardware gadget purchases, and why, the guys jump into t
 
 Plus a little dev world hoopla, your feedback, and more!
 
-
-
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)
 * [Michael Dominick](https://coder.show/hosts/michael)

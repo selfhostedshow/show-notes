@@ -10,9 +10,9 @@
 Chris, Alex, and Wes talk about reverse proxies, internal routing, and some popular methods to make it all work.
 
 ## Your hosts
-* [Wes Payne](https://extras.show//hosts/wes)
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [Alex Kretzschmar](https://extras.show//hosts/alexktz)
+* [Wes Payne](https://extras.show/hosts/wes)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [Alex Kretzschmar](https://extras.show/hosts/alexktz)
 
 ## Sponsored by
 
@@ -46,4 +46,4 @@ None
 
 ## Tags
 
-[cloud](https://extras.show//tags/cloud), [containers](https://extras.show//tags/containers), [dns](https://extras.show//tags/dns), [docker](https://extras.show//tags/docker), [hosted](https://extras.show//tags/hosted), [json](https://extras.show//tags/json), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [kubernetes](https://extras.show//tags/kubernetes), [letsencrypt](https://extras.show//tags/letsencrypt), [linux](https://extras.show//tags/linux), [nginx](https://extras.show//tags/nginx), [pfsense](https://extras.show//tags/pfsense), [pi](https://extras.show//tags/pi), [port](https://extras.show//tags/port), [port forward](https://extras.show//tags/port%20forward), [port forwarding](https://extras.show//tags/port%20forwarding), [proxy](https://extras.show//tags/proxy), [raspberry pi](https://extras.show//tags/raspberry%20pi), [reverse proxy](https://extras.show//tags/reverse%20proxy), [router](https://extras.show//tags/router), [routing](https://extras.show//tags/routing), [self-hosted](https://extras.show//tags/self-hosted), [selfhosted](https://extras.show//tags/selfhosted), [server](https://extras.show//tags/server), [ssh](https://extras.show//tags/ssh), [tls](https://extras.show//tags/tls), [traefik](https://extras.show//tags/traefik), [vpn](https://extras.show//tags/vpn), [wireguard](https://extras.show//tags/wireguard)
+[cloud](https://extras.show/tags/cloud), [containers](https://extras.show/tags/containers), [dns](https://extras.show/tags/dns), [docker](https://extras.show/tags/docker), [hosted](https://extras.show/tags/hosted), [json](https://extras.show/tags/json), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [kubernetes](https://extras.show/tags/kubernetes), [letsencrypt](https://extras.show/tags/letsencrypt), [linux](https://extras.show/tags/linux), [nginx](https://extras.show/tags/nginx), [pfsense](https://extras.show/tags/pfsense), [pi](https://extras.show/tags/pi), [port](https://extras.show/tags/port), [port forward](https://extras.show/tags/port%20forward), [port forwarding](https://extras.show/tags/port%20forwarding), [proxy](https://extras.show/tags/proxy), [raspberry pi](https://extras.show/tags/raspberry%20pi), [reverse proxy](https://extras.show/tags/reverse%20proxy), [router](https://extras.show/tags/router), [routing](https://extras.show/tags/routing), [self-hosted](https://extras.show/tags/self-hosted), [selfhosted](https://extras.show/tags/selfhosted), [server](https://extras.show/tags/server), [ssh](https://extras.show/tags/ssh), [tls](https://extras.show/tags/tls), [traefik](https://extras.show/tags/traefik), [vpn](https://extras.show/tags/vpn), [wireguard](https://extras.show/tags/wireguard)

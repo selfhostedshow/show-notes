@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Open Source salvation from Android and iOS gets closer this week, an update on Ubuntu's metrics collection, and huge news for Signal and RISC-V Linux fans. 
+Open Source salvation from Android and iOS gets closer this week, an update on Ubuntu's metrics collection, and huge news for Signal and RISC-V Linux fans.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

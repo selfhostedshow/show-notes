@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Chris Raspberry Pi server is dead, and Alex has a few ideas for his next build.
+Chris' Raspberry Pi server is dead, and Alex has a few ideas for his next build.
 
 ## Your hosts
 * [Alex Kretzschmar](https://selfhosted.show/hosts/alexktz)

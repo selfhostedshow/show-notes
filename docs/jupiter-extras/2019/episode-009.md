@@ -10,8 +10,7 @@
 What should have been an innocent question about bunk beds turned into the longest ever User Error outtake.
 
 ## Your hosts
-* [Friends of Jupiter Broadcasting](https://extras.show//hosts/friends)
-* [Joe Ressington](https://extras.show//hosts/joe)
+* [Friends of Jupiter Broadcasting](https://extras.show/hosts/friends)
 
 ## Sponsored by
 
@@ -27,4 +26,4 @@ None
 
 ## Tags
 
-[bunk beds](https://extras.show//tags/bunk%20beds), [outtake](https://extras.show//tags/outtake), [user error](https://extras.show//tags/user%20error)
+[bunk beds](https://extras.show/tags/bunk%20beds), [outtake](https://extras.show/tags/outtake), [user error](https://extras.show/tags/user%20error)

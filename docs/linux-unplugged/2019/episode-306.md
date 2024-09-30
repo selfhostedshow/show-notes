@@ -7,7 +7,7 @@
 
 ## About this episode
 
-We attempt something you never should, we live flip our FreeNAS ZFS install to a Fedora server. 
+We attempt something you never should, we live flip our FreeNAS ZFS install to a Fedora server.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

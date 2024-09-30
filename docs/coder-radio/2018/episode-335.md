@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Estimates can be a very tricky thing to get right, but their vitally important. Peter Kretzman joins us to make it all a bit easier and clearer. 
+Estimates can be a very tricky thing to get right, but their vitally important. Peter Kretzman joins us to make it all a bit easier and clearer.
 
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)

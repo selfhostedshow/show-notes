@@ -24,7 +24,7 @@ None
 
   * [2021 Tuxie Nominations are Open!](http://tuxies.party/ "2021 Tuxie Nominations are Open!")
   * [SteamOS 3.0 will have an immutable filesystem - a first for arch?](https://9to5linux.com/valve-says-steamos-3-0-will-be-available-for-everyone-to-download-and-install "SteamOS 3.0 will have an immutable filesystem - a first for arch?") — During the Steam Deck Development live steam, Valve finally gave us some good news and said that SteamOS 3.0 will be generally available for everyone to install on their computers. They also revealed that SteamOS 3.0 will have an immutable root file system to prevent unauthorized access and use PipeWire for audio.
-  * [Greg’s Company Cock Blocks the free OpenSUSE](https://twitter.com/ChrisLAS/status/1460668344156114944 "Greg’s Company Cock Blocks the free OpenSUSE") — "Hey, @openSUSE have you been seeing a drop in downloads recently? I might know why..."
+  * [Greg’s Company Buys Ads openSUSE Search Results](https://twitter.com/ChrisLAS/status/1460668344156114944 "Greg’s Company Buys Ads openSUSE Search Results") — "Hey, @openSUSE have you been seeing a drop in downloads recently? I might know why..."
   * [They did this to AlmaLinux at the end of July.](https://twitter.com/ChrisLAS/status/1460672698686656515 "They did this to AlmaLinux at the end of July.")
   * [AlmaLinux AMA](https://www.reddit.com/r/linux/comments/qv6mg2/were_the_almalinux_os_foundation_team_ama/ "AlmaLinux AMA")
   * [Setting up a containerized environment - openSUSE User Documentation Project](https://opensuse.github.io/openSUSE-docs-revamped-temp/install_podman/ "Setting up a containerized environment - openSUSE User Documentation Project")

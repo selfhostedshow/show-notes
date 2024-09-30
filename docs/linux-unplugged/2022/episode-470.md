@@ -19,7 +19,7 @@ We present a buffet of budget Linux boxes. From $40 to $400 you'll be surprised 
 
   * [Bitwarden](https://bitwarden.com/linux): [Bitwarden is the easiest way for businesses and individuals to store, share, and sync sensitive data.](https://bitwarden.com/linux)
   * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
 
 
 
@@ -31,7 +31,7 @@ We present a buffet of budget Linux boxes. From $40 to $400 you'll be surprised 
   * [remembertoremember on Twitter](https://twitter.com/remembersonly/status/1553500805956866048?s=12&t=q5fkFL6KZjQ2bfWg6wFq2g "remembertoremember on Twitter") — I haven’t really had major Linux woes in a long time and I use new hardware with 4k but always shop with Linux in mind.
   * [New $160: Beelink MiniS Mini Pc with 11th Gen Processor N5095,8GB DDR4 128GB SSD Mini Desktop Computers](https://www.amazon.com/dp/B09ZLBDVZD "New $160: Beelink MiniS Mini Pc with 11th Gen Processor N5095,8GB DDR4 128GB SSD Mini Desktop Computers")
   * [Acer Switch One SW1-011 Intel Atom x5-Z8300 @ 1.44 GHz 2GB Ram 32GB Storage](https://www.ebay.com/itm/394069161806 "Acer Switch One SW1-011 Intel Atom x5-Z8300 @ 1.44 GHz 2GB Ram 32GB Storage")
-  * [Lenovo IdeaPad 3 14IML05 14" 128GB SSD, Intel Pentium Gold, 2.40GHz, 4GB](https://www.ebay.com/p/24039563830 "Lenovo IdeaPad 3 14IML05 14" 128GB SSD, Intel Pentium Gold, 2.40GHz, 4GB")
+  * [Lenovo IdeaPad 3 14IML05 14" 128GB SSD, Intel Pentium Gold, 2.40GHz, 4GB](https://www.ebay.com/p/24039563830 "Lenovo IdeaPad 3 14IML05 14")
   * [Acer Mini PC Atom x5-Z8300 2Gb RAM 16Gb EMMC WiFi Bluetooth Linux CloudProfessor](https://www.ebay.com/itm/Acer-Mini-PC-Atom-x5-Z8300-2Gb-RAM-16Gb-EMMC-WiFi-Bluetooth-Linux-CloudProfessor-/164608918888?hash=item265374c568 "Acer Mini PC Atom x5-Z8300 2Gb RAM 16Gb EMMC WiFi Bluetooth Linux CloudProfessor")
   * [nixos-generators](https://github.com/nix-community/nixos-generators "nixos-generators") — The nixos-generators project allows to take the same NixOS configuration, and generate outputs for different target formats.
   * [MinisForum DeskMini UM350 Ryzen Mini PC](https://store.minisforum.com/products/deskmini-um350-x-manjaro-linux?_pos=2&_psq=ma&_ss=e&_v=1.0 "MinisForum DeskMini UM350 Ryzen Mini PC")

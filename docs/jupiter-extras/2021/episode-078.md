@@ -10,8 +10,8 @@
 Big internal process improvements have resulted in a major new version of elementary OS hot on the heals of the previous release. Find out why 6.1 is a lot more than just a number.
 
 ## Your hosts
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [Danielle Foré ](https://extras.show//guests/dani)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [Danielle Foré ](https://extras.show/guests/dani)
 
 ## Sponsored by
 
@@ -28,4 +28,4 @@ None
 
 ## Tags
 
-[dark mode](https://extras.show//tags/dark%20mode), [elementary os 6.1](https://extras.show//tags/elementary%20os%206.1), [elementary store](https://extras.show//tags/elementary%20store), [flathub](https://extras.show//tags/flathub), [flatpak](https://extras.show//tags/flatpak), [free desktop spec](https://extras.show//tags/free%20desktop%20spec)
+[dark mode](https://extras.show/tags/dark%20mode), [elementary os 6.1](https://extras.show/tags/elementary%20os%206.1), [elementary store](https://extras.show/tags/elementary%20store), [flathub](https://extras.show/tags/flathub), [flatpak](https://extras.show/tags/flatpak), [free desktop spec](https://extras.show/tags/free%20desktop%20spec)

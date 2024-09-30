@@ -7,9 +7,7 @@
 
 ## About this episode
 
-Atari has a Linux powered console, some brief Ubuntu updates, and the biggest Kernel news in years. 
-
-
+Atari has a Linux powered console, some brief Ubuntu updates, and the biggest Kernel news in years.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

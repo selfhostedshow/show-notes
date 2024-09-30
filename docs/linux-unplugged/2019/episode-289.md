@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Will there ever be another "big" Linux distro, or has that time passed? 
+Will there ever be another "big" Linux distro, or has that time passed?
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

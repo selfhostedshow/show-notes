@@ -15,7 +15,7 @@ Why Google says we should all go rolling, Red Hat's got a new boss, Microsoft ge
 
 ## Sponsored by
 
-  * [Kolide](https://kolide.com/lan): [User-centered, cross-platform endpoint security for teams that Slack. ](https://kolide.com/lan)
+  * [Kolide](https://l.kolide.co/3klbWzr): [Kolide can help you nail third-party audits and internal compliance goals with endpoint security for your entire fleet. ](https://l.kolide.co/3klbWzr)
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
 
 

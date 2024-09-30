@@ -10,13 +10,13 @@
 Our road trip machine is loaded up from solar to networking, the tech that made working, living, and recording from the road possible for 44 days and over 2,200 miles.
 
 ## Your hosts
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [Brent Gervais](https://extras.show//hosts/brent)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [Brent Gervais](https://extras.show/hosts/brent)
 
 ## Sponsored by
 
-  * [Support JB Directly ](http://jupiter.party): [Support the network directly with our new network membership.](http://jupiter.party)
-  * [Linode](https://colonytracker.live/): [Linode makes this content](https://colonytracker.live/)
+  * [Join the Party! The Jupiter Membership Party](http://jupiter.party): [Join the party and get exclusive content. ](http://jupiter.party)
+  * [Linode](https://linode.com/jupiter): [See why we and Linux users around the world love Linode, and get a $100 credit](https://linode.com/jupiter)
 
 
 
@@ -31,4 +31,4 @@ Our road trip machine is loaded up from solar to networking, the tech that made 
 
 ## Tags
 
-[battery overheating](https://extras.show//tags/battery%20overheating), [battleborn](https://extras.show//tags/battleborn), [bonded lte connections](https://extras.show//tags/bonded%20lte%20connections), [denver](https://extras.show//tags/denver), [ford](https://extras.show//tags/ford), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [linode](https://extras.show//tags/linode), [lithium](https://extras.show//tags/lithium), [max transit](https://extras.show//tags/max%20transit), [mobile podcasting](https://extras.show//tags/mobile%20podcasting), [peplink](https://extras.show//tags/peplink), [pepwave](https://extras.show//tags/pepwave), [road trip](https://extras.show//tags/road%20trip), [rode procaster](https://extras.show//tags/rode%20procaster), [rv life](https://extras.show//tags/rv%20life), [rv living](https://extras.show//tags/rv%20living), [salt lake city](https://extras.show//tags/salt%20lake%20city), [seattle](https://extras.show//tags/seattle), [solar](https://extras.show//tags/solar), [sync files with vps](https://extras.show//tags/sync%20files%20with%20vps), [syncthying](https://extras.show//tags/syncthying), [triton](https://extras.show//tags/triton), [v10](https://extras.show//tags/v10), [victron](https://extras.show//tags/victron), [wireguard](https://extras.show//tags/wireguard)
+[battery overheating](https://extras.show/tags/battery%20overheating), [battleborn](https://extras.show/tags/battleborn), [bonded lte connections](https://extras.show/tags/bonded%20lte%20connections), [denver](https://extras.show/tags/denver), [ford](https://extras.show/tags/ford), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [linode](https://extras.show/tags/linode), [lithium](https://extras.show/tags/lithium), [max transit](https://extras.show/tags/max%20transit), [mobile podcasting](https://extras.show/tags/mobile%20podcasting), [peplink](https://extras.show/tags/peplink), [pepwave](https://extras.show/tags/pepwave), [road trip](https://extras.show/tags/road%20trip), [rode procaster](https://extras.show/tags/rode%20procaster), [rv life](https://extras.show/tags/rv%20life), [rv living](https://extras.show/tags/rv%20living), [salt lake city](https://extras.show/tags/salt%20lake%20city), [seattle](https://extras.show/tags/seattle), [solar](https://extras.show/tags/solar), [sync files with vps](https://extras.show/tags/sync%20files%20with%20vps), [syncthying](https://extras.show/tags/syncthying), [triton](https://extras.show/tags/triton), [v10](https://extras.show/tags/v10), [victron](https://extras.show/tags/victron), [wireguard](https://extras.show/tags/wireguard)

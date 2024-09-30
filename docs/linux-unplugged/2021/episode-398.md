@@ -13,7 +13,7 @@ We share our favorite networking trick of all time, and then chat with the bloke
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)
 * [Dalton Durst](https://linuxunplugged.com/guests/daltondurst)
-* [Daniel Fore](https://linuxunplugged.com/guests/danielfore)
+* [Danielle Foré](https://linuxunplugged.com/guests/daniellefore)
 
 ## Sponsored by
 

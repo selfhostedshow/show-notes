@@ -7,7 +7,7 @@
 
 ## About this episode
 
-We have witnessed a massive shift of power. And it’s been happening right under developers noses. From the slowly won battle for control of the server, to Amazon’s to control over the Internet. 
+We have witnessed a massive shift of power. And it’s been happening right under developers noses. From the slowly won battle for control of the server, to Amazon’s to control over the Internet.
 
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)

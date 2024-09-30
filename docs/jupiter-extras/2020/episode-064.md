@@ -10,8 +10,8 @@
 We share what goes into making LINUX Unplugged special, and have a laugh at some of our bad ideas from show past.
 
 ## Your hosts
-* [Wes Payne](https://extras.show//hosts/wes)
-* [Chris Fisher](https://extras.show//hosts/chrislas)
+* [Wes Payne](https://extras.show/hosts/wes)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
 
 ## Sponsored by
 
@@ -30,4 +30,4 @@ None
 
 ## Tags
 
-[behind the scenes](https://extras.show//tags/behind%20the%20scenes), [history](https://extras.show//tags/history), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [linux action show](https://extras.show//tags/linux%20action%20show), [linux podcast](https://extras.show//tags/linux%20podcast), [linux unplugged](https://extras.show//tags/linux%20unplugged), [look back](https://extras.show//tags/look%20back), [lup](https://extras.show//tags/lup), [nebula](https://extras.show//tags/nebula), [news](https://extras.show//tags/news), [podcasting](https://extras.show//tags/podcasting), [tinc](https://extras.show//tags/tinc), [vpn](https://extras.show//tags/vpn)
+[behind the scenes](https://extras.show/tags/behind%20the%20scenes), [history](https://extras.show/tags/history), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [linux action show](https://extras.show/tags/linux%20action%20show), [linux podcast](https://extras.show/tags/linux%20podcast), [linux unplugged](https://extras.show/tags/linux%20unplugged), [look back](https://extras.show/tags/look%20back), [lup](https://extras.show/tags/lup), [nebula](https://extras.show/tags/nebula), [news](https://extras.show/tags/news), [podcasting](https://extras.show/tags/podcasting), [tinc](https://extras.show/tags/tinc), [vpn](https://extras.show/tags/vpn)

@@ -18,7 +18,7 @@ We discuss old and new ways to manage, organize, index, and search your photo co
 ## Sponsored by
 
   * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
-  * [Jupiter Garage Sale](http://jupitergarage.com/): [Own a bit of Jupiter Broadcasting history, while making way for the new! ](http://jupitergarage.com/)
+  * [New JB Stickers](http://jupitergarage.com/): [Own a bit of Jupiter Broadcasting history, while making way for the new! ](http://jupitergarage.com/)
   * [A Cloud Guru](https://linuxacademy.com/cp/modules/view/id/262/?utm_source=jupiter&utm_medium=cpc): [By the end of this course, you will feel comfortable working with a large variety of networking tools and configurations to manage complex Linux networking implementations.](https://linuxacademy.com/cp/modules/view/id/262/?utm_source=jupiter&utm_medium=cpc)
 
 

@@ -9,7 +9,6 @@
 
 The big debate over today’s biggest UI compromise comes to life, Microsoft open sources its iOS-apps-on-Windows compatibility layer, the process of evaluating a new language, plus a book recommendation & more!
 
-
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)
 * [Michael Dominick](https://coder.show/hosts/michael)

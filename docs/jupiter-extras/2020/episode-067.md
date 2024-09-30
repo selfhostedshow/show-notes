@@ -10,9 +10,8 @@
 Joe, Alan, and Dan speculate about what the world will be like after the situation with Coronavirus is under control and life returns to something resembling normality.
 
 ## Your hosts
-* [Joe Ressington](https://extras.show//hosts/joe)
-* [Alan Pope](https://extras.show//guests/popey)
-* [Daniel Fore](https://extras.show//guests/danielfore)
+* [Alan Pope](https://extras.show/guests/popey)
+* [Danielle Foré ](https://extras.show/guests/dani)
 
 ## Sponsored by
 
@@ -28,4 +27,4 @@ None
 
 ## Tags
 
-[a cloud guru](https://extras.show//tags/a%20cloud%20guru), [broadband](https://extras.show//tags/broadband), [coronavirus](https://extras.show//tags/coronavirus), [covid-19](https://extras.show//tags/covid-19), [downsize](https://extras.show//tags/downsize), [dsl](https://extras.show//tags/dsl), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [jupiter extras](https://extras.show//tags/jupiter%20extras), [office](https://extras.show//tags/office), [part time](https://extras.show//tags/part%20time), [user error](https://extras.show//tags/user%20error), [wfh](https://extras.show//tags/wfh), [work from home](https://extras.show//tags/work%20from%20home)
+[a cloud guru](https://extras.show/tags/a%20cloud%20guru), [broadband](https://extras.show/tags/broadband), [coronavirus](https://extras.show/tags/coronavirus), [covid-19](https://extras.show/tags/covid-19), [downsize](https://extras.show/tags/downsize), [dsl](https://extras.show/tags/dsl), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [jupiter extras](https://extras.show/tags/jupiter%20extras), [office](https://extras.show/tags/office), [part time](https://extras.show/tags/part%20time), [user error](https://extras.show/tags/user%20error), [wfh](https://extras.show/tags/wfh), [work from home](https://extras.show/tags/work%20from%20home)

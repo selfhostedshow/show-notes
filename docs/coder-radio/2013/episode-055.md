@@ -9,7 +9,6 @@
 
 Even when you know better, you sometimes find yourself contributing to the problem,  just to get the job done. This week the guys bare it all and discuss how they’ve ended up making things worse when they were hired to make it all better.
 
-
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)
 * [Michael Dominick](https://coder.show/hosts/michael)

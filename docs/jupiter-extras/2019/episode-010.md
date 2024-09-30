@@ -10,8 +10,7 @@
 Brent sits down with Drew DeVore, Jupiter Broadcasting's latest addition to the Audio Editing Engineer team and cohost of [Choose Linux](https://chooselinux.show/). We chat shoes, his love for linux, adventures in audio, and why JB feels like home.
 
 ## Your hosts
-* [Drew DeVore](https://extras.show//hosts/drewdevore)
-* [Brent Gervais](https://extras.show//hosts/brent)
+* [Brent Gervais](https://extras.show/hosts/brent)
 
 ## Sponsored by
 
@@ -35,4 +34,4 @@ None
 
 ## Tags
 
-[audio](https://extras.show//tags/audio), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [community](https://extras.show//tags/community), [drew](https://extras.show//tags/drew), [interview podcast](https://extras.show//tags/interview%20podcast), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [linux audio](https://extras.show//tags/linux%20audio), [open source](https://extras.show//tags/open%20source), [open source contribution](https://extras.show//tags/open%20source%20contribution), [pipewire](https://extras.show//tags/pipewire), [regolith linux](https://extras.show//tags/regolith%20linux)
+[audio](https://extras.show/tags/audio), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [community](https://extras.show/tags/community), [drew](https://extras.show/tags/drew), [interview podcast](https://extras.show/tags/interview%20podcast), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [linux audio](https://extras.show/tags/linux%20audio), [open source](https://extras.show/tags/open%20source), [open source contribution](https://extras.show/tags/open%20source%20contribution), [pipewire](https://extras.show/tags/pipewire), [regolith linux](https://extras.show/tags/regolith%20linux)

@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Steam Play rocks the Linux world as it promises new levels of compatibility with AAA Windows games. But the story of how Valve is doing it might be just as fascinating. 
+Steam Play rocks the Linux world as it promises new levels of compatibility with AAA Windows games. But the story of how Valve is doing it might be just as fascinating.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

@@ -28,7 +28,7 @@ None
   * [OpenLiteSpeed-WordPress - Linode Manager](https://cloud.linode.com/stackscripts/443929 "OpenLiteSpeed-WordPress - Linode Manager") — Blazing-fast WordPress with LSCache, 300+ times faster than regular WordPress
   * [LinuxServer.io Blog](https://blog.linuxserver.io/ "LinuxServer.io Blog")
   * [ktz. - Alex's Blog](https://blog.ktz.me/ "ktz. - Alex's Blog")
-  * [Shelly 2.5 - Shelly Cloud](https://shelly.cloud/shelly-25-wifi-smart-relay-roller-shutter-home-automation/ "Shelly 2.5 - Shelly Cloud") — Shelly 2.5 comes with a programming/debug header which can be used to flash alternative firmware on the device. It has an ESP8266 inside, with a 2MB flash chip. A USB-to-UART adapter is needed as well as a reliable 3.3V with at least 350 mA drive capability.
+  * [Shelly 2.5 - Shelly Cloud](https://kb.shelly.cloud/knowledge-base/shelly-2-5 "Shelly 2.5 - Shelly Cloud") — Shelly 2.5 comes with a programming/debug header which can be used to flash alternative firmware on the device. It has an ESP8266 inside, with a 2MB flash chip. A USB-to-UART adapter is needed as well as a reliable 3.3V with at least 350 mA drive capability.
 
 
 

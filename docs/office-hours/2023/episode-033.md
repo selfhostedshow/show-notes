@@ -12,8 +12,8 @@ Why independent media is getting just as bad as mainstream media, and Brent's es
 Plus, an update on our new bounty release format!
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -37,4 +37,4 @@ Plus, an update on our new bounty release format!
 
 ## Tags
 
-[bacon and linux](https://www.officehours.hair//tags/bacon%20and%20linux), [bc wildfire service](https://www.officehours.hair//tags/bc%20wildfire%20service), [boosts](https://www.officehours.hair//tags/boosts), [brent's house](https://www.officehours.hair//tags/brent's%20house), [chrislas](https://www.officehours.hair//tags/chrislas), [coffee](https://www.officehours.hair//tags/coffee), [dynamic ads](https://www.officehours.hair//tags/dynamic%20ads), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [nostr](https://www.officehours.hair//tags/nostr), [office hours](https://www.officehours.hair//tags/office%20hours), [paying creators](https://www.officehours.hair//tags/paying%20creators), [podcasting](https://www.officehours.hair//tags/podcasting), [st. mary's river](https://www.officehours.hair//tags/st.%20mary's%20river), [twitter](https://www.officehours.hair//tags/twitter), [what bitcoin did with matt odell](https://www.officehours.hair//tags/what%20bitcoin%20did%20with%20matt%20odell)
+[bacon and linux](https://www.officehours.hair/tags/bacon%20and%20linux), [bc wildfire service](https://www.officehours.hair/tags/bc%20wildfire%20service), [boosts](https://www.officehours.hair/tags/boosts), [brent's house](https://www.officehours.hair/tags/brent's%20house), [chrislas](https://www.officehours.hair/tags/chrislas), [coffee](https://www.officehours.hair/tags/coffee), [dynamic ads](https://www.officehours.hair/tags/dynamic%20ads), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [nostr](https://www.officehours.hair/tags/nostr), [office hours](https://www.officehours.hair/tags/office%20hours), [paying creators](https://www.officehours.hair/tags/paying%20creators), [podcasting](https://www.officehours.hair/tags/podcasting), [st. mary's river](https://www.officehours.hair/tags/st.%20mary's%20river), [twitter](https://www.officehours.hair/tags/twitter), [what bitcoin did with matt odell](https://www.officehours.hair/tags/what%20bitcoin%20did%20with%20matt%20odell)

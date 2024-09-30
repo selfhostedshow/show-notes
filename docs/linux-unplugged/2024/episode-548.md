@@ -16,8 +16,8 @@ Some uncomfortable truths about using Linux, and then we introduce a new segment
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
-  * [Warp Terminal](https://warp.dev/linux-terminal): [Warp is a modern, Rust-based terminal with AI built in. Be the first to know when it’s available for Linux. ](https://warp.dev/linux-terminal)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
+  * [Warp Terminal](https://warp.dev/linux-terminal): [Warp - the re-imagined terminal now available for Linux with multiple distributions available including Ubuntu, Fedora, Debian, and Arch Linux.](https://warp.dev/linux-terminal)
   * [Kolide](https://kolide.com/unplugged): [Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn’t trusted and secure, it can’t log into your cloud apps.](https://kolide.com/unplugged)
   * [The Bitcoin Company](https://app.thebitcoincompany.com/signup?ref=UNPLUGGED): [You can spend your sats, and keep the show on the road. Earn Bitcoin with every credit card, gift card, flight, hotel stay, prepaid Visa card purchase, and shopping through our app.](https://app.thebitcoincompany.com/signup?ref=UNPLUGGED) Promo Code: UNPLUGGED
 

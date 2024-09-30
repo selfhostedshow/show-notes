@@ -17,7 +17,7 @@ The story of an open-source hero who became a villain.
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
   * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
   * [Bitwarden](https://bitwarden.com/linux): [Bitwarden is the easiest way for businesses and individuals to store, share, and sync sensitive data.](https://bitwarden.com/linux)
 
@@ -48,6 +48,7 @@ The story of an open-source hero who became a villain.
   * [Introducing Moby Project](https://www.docker.com/blog/introducing-the-moby-project/ "Introducing Moby Project")
   * [Solomon Hykes leaves Docker, the company he founded](https://techcrunch.com/2018/03/28/solomon-hykes-leaves-docker-the-company-he-founded/ "Solomon Hykes leaves Docker, the company he founded")
   * [Rate limiting starts on Docker Hub](https://www.docker.com/blog/what-you-need-to-know-about-upcoming-docker-hub-rate-limiting/ "Rate limiting starts on Docker Hub")
+  * [[Alex's YouTube] Secret Management with Ansible Vault and docker-compose](https://www.youtube.com/watch?v=CUh8FDLbj8M "\[Alex's YouTube\] Secret Management with Ansible Vault and docker-compose") — This video shows how I use Ansible and Ansible Vault in conjunction with docker-compose to keep my secrets safe and encrypted whilst still being able to push my repos to Github publicly.
 
 
 

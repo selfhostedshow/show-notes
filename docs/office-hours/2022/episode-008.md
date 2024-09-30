@@ -10,9 +10,9 @@
 We're learning on the job this week as the deadline for our new website is just around the corner. Plus, a dirty little secret that explains why most tech press coverage sucks.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
-* [Stefan Schulte-Ortbeck](https://www.officehours.hair//guests/stefan)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
+* [Stefan Schulte-Ortbeck](https://www.officehours.hair/guests/stefan)
 
 ## Sponsored by
 
@@ -41,4 +41,4 @@ We're learning on the job this week as the deadline for our new website is just 
 
 ## Tags
 
-[amd](https://www.officehours.hair//tags/amd), [boosts](https://www.officehours.hair//tags/boosts), [chrislas](https://www.officehours.hair//tags/chrislas), [github](https://www.officehours.hair//tags/github), [hugo](https://www.officehours.hair//tags/hugo), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair//tags/office%20hours), [open source](https://www.officehours.hair//tags/open%20source), [pipeline](https://www.officehours.hair//tags/pipeline), [podcasting 2.0](https://www.officehours.hair//tags/podcasting%202.0), [podverse](https://www.officehours.hair//tags/podverse), [rss feed generation](https://www.officehours.hair//tags/rss%20feed%20generation), [ryzen](https://www.officehours.hair//tags/ryzen), [static website](https://www.officehours.hair//tags/static%20website), [v4v](https://www.officehours.hair//tags/v4v), [value](https://www.officehours.hair//tags/value), [workflow](https://www.officehours.hair//tags/workflow)
+[amd](https://www.officehours.hair/tags/amd), [boosts](https://www.officehours.hair/tags/boosts), [chrislas](https://www.officehours.hair/tags/chrislas), [github](https://www.officehours.hair/tags/github), [hugo](https://www.officehours.hair/tags/hugo), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair/tags/office%20hours), [open source](https://www.officehours.hair/tags/open%20source), [pipeline](https://www.officehours.hair/tags/pipeline), [podcasting 2.0](https://www.officehours.hair/tags/podcasting%202.0), [podverse](https://www.officehours.hair/tags/podverse), [rss feed generation](https://www.officehours.hair/tags/rss%20feed%20generation), [ryzen](https://www.officehours.hair/tags/ryzen), [static website](https://www.officehours.hair/tags/static%20website), [v4v](https://www.officehours.hair/tags/v4v), [value](https://www.officehours.hair/tags/value), [workflow](https://www.officehours.hair/tags/workflow)

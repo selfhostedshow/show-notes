@@ -10,8 +10,8 @@
 Brent sits down with Alan Pope (popey), who shares his knack for fuzzy-testing, the beginnings of Ubuntu Podcast, insights into Ubuntu Touch and Unity, the joys and perils of being "Internet Famous", and how to contribute meaningfully to your favorite Linux distributions.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Alan Pope](https://extras.show//guests/popey)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Alan Pope](https://extras.show/guests/popey)
 
 ## Sponsored by
 
@@ -37,4 +37,4 @@ None
 
 ## Tags
 
-[alan pope](https://extras.show//tags/alan%20pope), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [community](https://extras.show//tags/community), [extras](https://extras.show//tags/extras), [interview podcast](https://extras.show//tags/interview%20podcast), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [linux](https://extras.show//tags/linux), [open source](https://extras.show//tags/open%20source), [popey](https://extras.show//tags/popey), [thinkpad](https://extras.show//tags/thinkpad), [ubuntu](https://extras.show//tags/ubuntu), [ubuntu podcast](https://extras.show//tags/ubuntu%20podcast), [ubuntu touch](https://extras.show//tags/ubuntu%20touch), [unity](https://extras.show//tags/unity), [user error](https://extras.show//tags/user%20error)
+[alan pope](https://extras.show/tags/alan%20pope), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [community](https://extras.show/tags/community), [extras](https://extras.show/tags/extras), [interview podcast](https://extras.show/tags/interview%20podcast), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [linux](https://extras.show/tags/linux), [open source](https://extras.show/tags/open%20source), [popey](https://extras.show/tags/popey), [thinkpad](https://extras.show/tags/thinkpad), [ubuntu](https://extras.show/tags/ubuntu), [ubuntu podcast](https://extras.show/tags/ubuntu%20podcast), [ubuntu touch](https://extras.show/tags/ubuntu%20touch), [unity](https://extras.show/tags/unity), [user error](https://extras.show/tags/user%20error)

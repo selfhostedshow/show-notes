@@ -10,7 +10,7 @@
 Taken from Monday's Coder live stream, Chris reacts to discovering that the city of Miami has its own crypto coin. As the conversation goes on it turns into a broader discussion about how cryptocurrency gets a bad reputation, and why that reputation is completely divorced from the reality of the technology.
 
 ## Your hosts
-* [Chris Fisher](https://extras.show//hosts/chrislas)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
 
 ## Sponsored by
 
@@ -28,4 +28,4 @@ None
 
 ## Tags
 
-[bitcoin](https://extras.show//tags/bitcoin), [cashapp](https://extras.show//tags/cashapp), [cryptocurrency](https://extras.show//tags/cryptocurrency), [miamicoin](https://extras.show//tags/miamicoin)
+[bitcoin](https://extras.show/tags/bitcoin), [cashapp](https://extras.show/tags/cashapp), [cryptocurrency](https://extras.show/tags/cryptocurrency), [miamicoin](https://extras.show/tags/miamicoin)

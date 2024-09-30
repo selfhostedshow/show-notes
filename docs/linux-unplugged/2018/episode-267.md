@@ -14,7 +14,7 @@ Linus takes a break and the Linux kernel adopts a new Code of Conduct. We work t
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)
 * [Alex Kretzschmar](https://linuxunplugged.com/guests/alexktz)
 * [Brent Gervais](https://linuxunplugged.com/guests/brentgervais)
-* [Daniel Fore](https://linuxunplugged.com/guests/danielfore)
+* [Danielle Foré](https://linuxunplugged.com/guests/daniellefore)
 * [Eric Hendricks](https://linuxunplugged.com/guests/erichendricks)
 
 ## Sponsored by

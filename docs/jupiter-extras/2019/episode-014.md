@@ -10,9 +10,9 @@
 Chris and Wes talk with DM from the PowerShell On Linux community about PowerShell's strengths and its place in the Linux ecosystem.
 
 ## Your hosts
-* [Wes Payne](https://extras.show//hosts/wes)
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [DM](https://extras.show//guests/dm)
+* [Wes Payne](https://extras.show/hosts/wes)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [DM](https://extras.show/guests/dm)
 
 ## Sponsored by
 
@@ -34,4 +34,4 @@ None
 
 ## Tags
 
-[.net](https://extras.show//tags/.net), [automation](https://extras.show//tags/automation), [extras](https://extras.show//tags/extras), [freenas](https://extras.show//tags/freenas), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [linux](https://extras.show//tags/linux), [macos](https://extras.show//tags/macos), [microsoft](https://extras.show//tags/microsoft), [object-oriented](https://extras.show//tags/object-oriented), [powershell](https://extras.show//tags/powershell), [powershellonlinux](https://extras.show//tags/powershellonlinux), [python](https://extras.show//tags/python), [script](https://extras.show//tags/script), [scripting](https://extras.show//tags/scripting), [selenium](https://extras.show//tags/selenium), [shell](https://extras.show//tags/shell), [software testing](https://extras.show//tags/software%20testing), [sysadmin](https://extras.show//tags/sysadmin), [website](https://extras.show//tags/website), [windows](https://extras.show//tags/windows)
+[.net](https://extras.show/tags/.net), [automation](https://extras.show/tags/automation), [extras](https://extras.show/tags/extras), [freenas](https://extras.show/tags/freenas), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [linux](https://extras.show/tags/linux), [macos](https://extras.show/tags/macos), [microsoft](https://extras.show/tags/microsoft), [object-oriented](https://extras.show/tags/object-oriented), [powershell](https://extras.show/tags/powershell), [powershellonlinux](https://extras.show/tags/powershellonlinux), [python](https://extras.show/tags/python), [script](https://extras.show/tags/script), [scripting](https://extras.show/tags/scripting), [selenium](https://extras.show/tags/selenium), [shell](https://extras.show/tags/shell), [software testing](https://extras.show/tags/software%20testing), [sysadmin](https://extras.show/tags/sysadmin), [website](https://extras.show/tags/website), [windows](https://extras.show/tags/windows)

@@ -10,11 +10,10 @@
 Brent joins Alex and Chris to discuss the origins of Jupiter Broadcasting's new Self Hosted podcast. It's a casual chat about a project in the making for two years, hit play and the drinks are on us.
 
 ## Your hosts
-* [Wes Payne](https://extras.show//hosts/wes)
-* [chzbacon](https://extras.show//hosts/chzbacon)
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Alex Kretzschmar](https://extras.show//hosts/alexktz)
+* [Wes Payne](https://extras.show/hosts/wes)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Alex Kretzschmar](https://extras.show/hosts/alexktz)
 
 ## Sponsored by
 
@@ -37,4 +36,4 @@ None
 
 ## Tags
 
-[alex](https://extras.show//tags/alex), [brent](https://extras.show//tags/brent), [origin story](https://extras.show//tags/origin%20story), [self hosted](https://extras.show//tags/self%20hosted)
+[alex](https://extras.show/tags/alex), [brent](https://extras.show/tags/brent), [origin story](https://extras.show/tags/origin%20story), [self hosted](https://extras.show/tags/self%20hosted)

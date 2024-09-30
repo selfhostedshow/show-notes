@@ -10,8 +10,8 @@
 We react to the "ship date" of the Librem 5, and look back at when it was first announced.
 
 ## Your hosts
-* [Wes Payne](https://extras.show//hosts/wes)
-* [Chris Fisher](https://extras.show//hosts/chrislas)
+* [Wes Payne](https://extras.show/hosts/wes)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
 
 ## Sponsored by
 
@@ -30,4 +30,4 @@ None
 
 ## Tags
 
-[arm](https://extras.show//tags/arm), [free software](https://extras.show//tags/free%20software), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [librem 5](https://extras.show//tags/librem%205), [linux unplugged](https://extras.show//tags/linux%20unplugged), [open hardware](https://extras.show//tags/open%20hardware), [purism](https://extras.show//tags/purism), [smartphone](https://extras.show//tags/smartphone)
+[arm](https://extras.show/tags/arm), [free software](https://extras.show/tags/free%20software), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [librem 5](https://extras.show/tags/librem%205), [linux unplugged](https://extras.show/tags/linux%20unplugged), [open hardware](https://extras.show/tags/open%20hardware), [purism](https://extras.show/tags/purism), [smartphone](https://extras.show/tags/smartphone)

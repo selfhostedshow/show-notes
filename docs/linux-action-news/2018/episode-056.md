@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Ubuntu-based Atari VCS crowd-funding is going very well, Endless employees are hit with layoffs, and why GNOME might be too fat for Pi. 
+Ubuntu-based Atari VCS crowd-funding is going very well, Endless employees are hit with layoffs, and why GNOME might be too fat for Pi.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

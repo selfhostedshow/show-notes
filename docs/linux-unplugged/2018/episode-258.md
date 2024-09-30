@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Atari has released details about its upcoming Linux powered console, some of us are sold… And some of us are rather skeptical. 
+Atari has released details about its upcoming Linux powered console, some of us are sold… And some of us are rather skeptical.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

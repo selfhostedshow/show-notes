@@ -10,8 +10,8 @@
 Alex and Chris are hard at work on the next Self-Hosted episode, here's a behind the scenes real moment from their recent production meeting.
 
 ## Your hosts
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [Alex Kretzschmar](https://extras.show//hosts/alexktz)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [Alex Kretzschmar](https://extras.show/hosts/alexktz)
 
 ## Sponsored by
 
@@ -27,4 +27,4 @@ None
 
 ## Tags
 
-[amd](https://extras.show//tags/amd), [behind the scenes](https://extras.show//tags/behind%20the%20scenes), [hardware proxmox](https://extras.show//tags/hardware%20proxmox), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [self-hosted](https://extras.show//tags/self-hosted), [threadripper](https://extras.show//tags/threadripper), [troubleshooting](https://extras.show//tags/troubleshooting)
+[amd](https://extras.show/tags/amd), [behind the scenes](https://extras.show/tags/behind%20the%20scenes), [hardware proxmox](https://extras.show/tags/hardware%20proxmox), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [self-hosted](https://extras.show/tags/self-hosted), [threadripper](https://extras.show/tags/threadripper), [troubleshooting](https://extras.show/tags/troubleshooting)

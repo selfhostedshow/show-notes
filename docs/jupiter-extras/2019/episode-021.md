@@ -10,8 +10,7 @@
 Brent sits down with Angela Fisher, Executive Producer at Linux Academy, Jupiter Broadcasting co-founder, co-host of many JB productions including The FauxShow, and Tech Talk Today, among others.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Angela Fisher](https://extras.show//hosts/angerz)
+* [Brent Gervais](https://extras.show/hosts/brent)
 
 ## Sponsored by
 
@@ -39,4 +38,4 @@ None
 
 ## Tags
 
-[#yesmom](https://extras.show//tags/%23yesmom), [al-anon](https://extras.show//tags/al-anon), [angela fisher](https://extras.show//tags/angela%20fisher), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [community](https://extras.show//tags/community), [eero](https://extras.show//tags/eero), [extras](https://extras.show//tags/extras), [fauxshow](https://extras.show//tags/fauxshow), [interview podcast](https://extras.show//tags/interview%20podcast), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [learning](https://extras.show//tags/learning), [linuxfest northwest](https://extras.show//tags/linuxfest%20northwest), [parenting](https://extras.show//tags/parenting), [tech talk today](https://extras.show//tags/tech%20talk%20today)
+[#yesmom](https://extras.show/tags/%23yesmom), [al-anon](https://extras.show/tags/al-anon), [angela fisher](https://extras.show/tags/angela%20fisher), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [community](https://extras.show/tags/community), [eero](https://extras.show/tags/eero), [extras](https://extras.show/tags/extras), [fauxshow](https://extras.show/tags/fauxshow), [interview podcast](https://extras.show/tags/interview%20podcast), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [learning](https://extras.show/tags/learning), [linuxfest northwest](https://extras.show/tags/linuxfest%20northwest), [parenting](https://extras.show/tags/parenting), [tech talk today](https://extras.show/tags/tech%20talk%20today)

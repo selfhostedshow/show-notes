@@ -17,7 +17,7 @@ Dell expands their linux hardware lineup, why elementary OS's Flatpak support se
 * [Brent Gervais](https://linuxunplugged.com/guests/brentgervais)
 * [Cassidy James Blaede](https://linuxunplugged.com/guests/cassidyjames)
 * [Christian F.K. Schaller](https://linuxunplugged.com/guests/christianschaller)
-* [Daniel Fore](https://linuxunplugged.com/guests/danielfore)
+* [Danielle Foré](https://linuxunplugged.com/guests/daniellefore)
 * [Martin Wimpress](https://linuxunplugged.com/guests/martinwimpress)
 
 ## Sponsored by
@@ -32,7 +32,7 @@ None
   * [XPS 13 Inch 10th Gen 4K Laptop | Dell USA](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/new-xps-13-developer-edition/spd/xps-13-7390-laptop/cax13w10p1c606csu?view=configurations "XPS 13 Inch 10th Gen 4K Laptop | Dell USA")
   * [Roadmap for Ubuntu official support for the Raspberry Pi 4 | Ubuntu](https://ubuntu.com/blog/roadmap-for-official-support-for-the-raspberry-pi-4 "Roadmap for Ubuntu official support for the Raspberry Pi 4 | Ubuntu")
   * [elementary Updates for October, 2019](https://blog.elementary.io/updates-for-october-2019/ "elementary Updates for October, 2019")
-  * [Cassidy on Twitter: "elementary: spends a ton of time and energy going out of our way to make the sideloading experience for users clear, accurate, and easy. Implements Flatpak, making it easier for users to get apps from anywhere. Random YouTube commenters: LOL SO APPLE, HELLO WALLED GARDEN"](https://twitter.com/CassidyJames/status/1191802707310309377 "Cassidy on Twitter: "elementary: spends a ton of time and energy going out of our way to make the sideloading experience for users clear, accurate, and easy. Implements Flatpak, making it easier for users to get apps from anywhere. Random YouTube commenters: LOL SO APPLE, HELLO WALLED GARDEN"")
+  * [Cassidy on Twitter: "elementary: spends a ton of time and energy going out of our way to make the sideloading experience for users clear, accurate, and easy. Implements Flatpak, making it easier for users to get apps from anywhere. Random YouTube commenters: LOL SO APPLE, HELLO WALLED GARDEN"](https://twitter.com/CassidyJames/status/1191802707310309377 "Cassidy on Twitter: ")
   * [JB Extras - Brunch with Brent w/Wimpy](https://extras.show/29 "JB Extras - Brunch with Brent w/Wimpy")
   * [JB Extras - Threat hunting 101](https://extras.show/30 "JB Extras - Threat hunting 101")
   * [1753295 – Pango no longer supports bitmap fonts ](https://bugzilla.redhat.com/show_bug.cgi?id=1753295 "1753295 – Pango no longer supports bitmap fonts

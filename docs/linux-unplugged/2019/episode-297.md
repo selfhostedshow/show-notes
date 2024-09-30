@@ -9,7 +9,6 @@
 
 Ubuntu's new release is here, and this one might be one of the most important in a while. But is it worth upgrading from an LTS? We review and debate just that.
 
-
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)

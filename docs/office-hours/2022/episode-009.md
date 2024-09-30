@@ -10,8 +10,8 @@
 Why we hate crypto more than you, plus a frank conversation about boosts in our shows, some big lessons learned from our new website project, and the things we'd never do again.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -36,4 +36,4 @@ Why we hate crypto more than you, plus a frank conversation about boosts in our 
 
 ## Tags
 
-[automation](https://www.officehours.hair//tags/automation), [boosts](https://www.officehours.hair//tags/boosts), [chrislas](https://www.officehours.hair//tags/chrislas), [community](https://www.officehours.hair//tags/community), [crypto scams](https://www.officehours.hair//tags/crypto%20scams), [fireside](https://www.officehours.hair//tags/fireside), [git](https://www.officehours.hair//tags/git), [github](https://www.officehours.hair//tags/github), [github actions](https://www.officehours.hair//tags/github%20actions), [hugo](https://www.officehours.hair//tags/hugo), [infrastructure](https://www.officehours.hair//tags/infrastructure), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [matrix](https://www.officehours.hair//tags/matrix), [meetup](https://www.officehours.hair//tags/meetup), [office hours](https://www.officehours.hair//tags/office%20hours), [open source development](https://www.officehours.hair//tags/open%20source%20development), [sats](https://www.officehours.hair//tags/sats), [value for value](https://www.officehours.hair//tags/value%20for%20value)
+[automation](https://www.officehours.hair/tags/automation), [boosts](https://www.officehours.hair/tags/boosts), [chrislas](https://www.officehours.hair/tags/chrislas), [community](https://www.officehours.hair/tags/community), [crypto scams](https://www.officehours.hair/tags/crypto%20scams), [fireside](https://www.officehours.hair/tags/fireside), [git](https://www.officehours.hair/tags/git), [github](https://www.officehours.hair/tags/github), [github actions](https://www.officehours.hair/tags/github%20actions), [hugo](https://www.officehours.hair/tags/hugo), [infrastructure](https://www.officehours.hair/tags/infrastructure), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [matrix](https://www.officehours.hair/tags/matrix), [meetup](https://www.officehours.hair/tags/meetup), [office hours](https://www.officehours.hair/tags/office%20hours), [open source development](https://www.officehours.hair/tags/open%20source%20development), [sats](https://www.officehours.hair/tags/sats), [value for value](https://www.officehours.hair/tags/value%20for%20value)

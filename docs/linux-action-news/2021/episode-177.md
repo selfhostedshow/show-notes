@@ -17,7 +17,7 @@ We share some exclusive details about the Linux-powered gear that just landed on
 
   * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [The Coder](http://thecoder.shop): [ Look and feel comfortable, while kicking ass. Life is better in a robe.](http://thecoder.shop)
+  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [ Look and feel comfortable, while kicking ass. Life is better in a robe.](https://www.jupitergarage.com/product/the-coder-robe)
 
 
 

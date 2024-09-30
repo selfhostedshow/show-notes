@@ -7,7 +7,7 @@
 
 ## About this episode
 
-We join the fight between Apple and Spotify, and debate the meaning of 'fair play' in the App Store and the browser wars. 
+We join the fight between Apple and Spotify, and debate the meaning of 'fair play' in the App Store and the browser wars.
 
 ## Your hosts
 * [Michael Dominick](https://coder.show/hosts/michael)

@@ -10,8 +10,8 @@
 We blow the lid off a secret project and get LIT.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -42,4 +42,4 @@ We blow the lid off a secret project and get LIT.
 
 ## Tags
 
-[blubrry support](https://www.officehours.hair//tags/blubrry%20support), [chrislas](https://www.officehours.hair//tags/chrislas), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [new partnership between alby and blubrry](https://www.officehours.hair//tags/new%20partnership%20between%20alby%20and%20blubrry), [new test feed](https://www.officehours.hair//tags/new%20test%20feed), [office hours](https://www.officehours.hair//tags/office%20hours), [patreon mismanagement](https://www.officehours.hair//tags/patreon%20mismanagement), [podcast index](https://www.officehours.hair//tags/podcast%20index), [podcasting 2.0](https://www.officehours.hair//tags/podcasting%202.0), [podverse](https://www.officehours.hair//tags/podverse), [sovereign feeds](https://www.officehours.hair//tags/sovereign%20feeds), [transcriptions](https://www.officehours.hair//tags/transcriptions), [webvtt](https://www.officehours.hair//tags/webvtt), [whisper](https://www.officehours.hair//tags/whisper)
+[blubrry support](https://www.officehours.hair/tags/blubrry%20support), [chrislas](https://www.officehours.hair/tags/chrislas), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [new partnership between alby and blubrry](https://www.officehours.hair/tags/new%20partnership%20between%20alby%20and%20blubrry), [new test feed](https://www.officehours.hair/tags/new%20test%20feed), [office hours](https://www.officehours.hair/tags/office%20hours), [patreon mismanagement](https://www.officehours.hair/tags/patreon%20mismanagement), [podcast index](https://www.officehours.hair/tags/podcast%20index), [podcasting 2.0](https://www.officehours.hair/tags/podcasting%202.0), [podverse](https://www.officehours.hair/tags/podverse), [sovereign feeds](https://www.officehours.hair/tags/sovereign%20feeds), [transcriptions](https://www.officehours.hair/tags/transcriptions), [webvtt](https://www.officehours.hair/tags/webvtt), [whisper](https://www.officehours.hair/tags/whisper)

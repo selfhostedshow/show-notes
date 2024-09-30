@@ -10,8 +10,8 @@
 We've made some essential decisions for our big projects, what really has us excited about Podcasting 2.0, and the real problem with Boosts.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -40,4 +40,4 @@ We've made some essential decisions for our big projects, what really has us exc
 
 ## Tags
 
-[bluewallet](https://www.officehours.hair//tags/bluewallet), [boosts](https://www.officehours.hair//tags/boosts), [carplay](https://www.officehours.hair//tags/carplay), [chrislas](https://www.officehours.hair//tags/chrislas), [facebook podcasts](https://www.officehours.hair//tags/facebook%20podcasts), [fountain.fm review](https://www.officehours.hair//tags/fountain.fm%20review), [github actions](https://www.officehours.hair//tags/github%20actions), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [memberships](https://www.officehours.hair//tags/memberships), [mumble](https://www.officehours.hair//tags/mumble), [namespace](https://www.officehours.hair//tags/namespace), [office hours](https://www.officehours.hair//tags/office%20hours), [opus](https://www.officehours.hair//tags/opus), [podcasting 2.0](https://www.officehours.hair//tags/podcasting%202.0), [project mistakes](https://www.officehours.hair//tags/project%20mistakes), [sovereign feeds](https://www.officehours.hair//tags/sovereign%20feeds), [sovereignfeeds](https://www.officehours.hair//tags/sovereignfeeds), [static website generator](https://www.officehours.hair//tags/static%20website%20generator), [strike](https://www.officehours.hair//tags/strike), [transcriptions](https://www.officehours.hair//tags/transcriptions), [value for value](https://www.officehours.hair//tags/value%20for%20value)
+[bluewallet](https://www.officehours.hair/tags/bluewallet), [boosts](https://www.officehours.hair/tags/boosts), [carplay](https://www.officehours.hair/tags/carplay), [chrislas](https://www.officehours.hair/tags/chrislas), [facebook podcasts](https://www.officehours.hair/tags/facebook%20podcasts), [fountain.fm review](https://www.officehours.hair/tags/fountain.fm%20review), [github actions](https://www.officehours.hair/tags/github%20actions), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [memberships](https://www.officehours.hair/tags/memberships), [mumble](https://www.officehours.hair/tags/mumble), [namespace](https://www.officehours.hair/tags/namespace), [office hours](https://www.officehours.hair/tags/office%20hours), [opus](https://www.officehours.hair/tags/opus), [podcasting 2.0](https://www.officehours.hair/tags/podcasting%202.0), [project mistakes](https://www.officehours.hair/tags/project%20mistakes), [sovereign feeds](https://www.officehours.hair/tags/sovereign%20feeds), [sovereignfeeds](https://www.officehours.hair/tags/sovereignfeeds), [static website generator](https://www.officehours.hair/tags/static%20website%20generator), [strike](https://www.officehours.hair/tags/strike), [transcriptions](https://www.officehours.hair/tags/transcriptions), [value for value](https://www.officehours.hair/tags/value%20for%20value)

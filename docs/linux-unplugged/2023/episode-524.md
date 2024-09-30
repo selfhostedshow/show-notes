@@ -16,7 +16,7 @@ Can we build an indestructible server that stands up to the test of giving out r
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
   * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
   * [Kolide](https://kolide.com/unplugged): [Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn’t trusted and secure, it can’t log into your cloud apps.](https://kolide.com/unplugged)
 
@@ -38,7 +38,7 @@ Can we build an indestructible server that stands up to the test of giving out r
   * [disko](https://github.com/nix-community/disko "disko") — NixOS is a Linux distribution where everything is described as code, with one exception: during installation, the disk partitioning and formatting are manual steps. disko aims to correct this sad 🤡 omission.
   * [nixos-anywhere](https://github.com/numtide/nixos-anywhere "nixos-anywhere") — You can then initiate an unattended installation with a single CLI command. Since nixos-anywhere can access the new machine using SSH, it's ideal for remote installations.
   * [Immutable infrastructure for mutable systems](https://grahamc.com/blog/erase-your-darlings/ "Immutable infrastructure for mutable systems") — I erase my systems at every boot.
-  * [NixOS Series 4: "Stateless" Operating System](https://lantian.pub/en/article/modify-computer/nixos-impermanence.lantian/ "NixOS Series 4: "Stateless" Operating System") — Here's the question: is it really necessary to store the contents of /etc on the disk drive? They're going to be regenerated on each reboot or config switch anyway.
+  * [NixOS Series 4: "Stateless" Operating System](https://lantian.pub/en/article/modify-computer/nixos-impermanence.lantian/ "NixOS Series 4: ") — Here's the question: is it really necessary to store the contents of /etc on the disk drive? They're going to be regenerated on each reboot or config switch anyway.
   * [NixOS ❄: tmpfs as root](https://elis.nu/blog/2020/05/nixos-tmpfs-as-root/ "NixOS ❄: tmpfs as root") — One fairly unique property of NixOS is the ability to boot with only /boot and /nix. Nothing else is actually required. This supports doing all sorts of weird things with your root file system.
   * [Nixos and Erasing My Darlings](https://hanckmann.com/posts/nixos-and-erasing-my-darlings/ "Nixos and Erasing My Darlings")
   * [Impermanence - NixOS Wiki](https://nixos.wiki/wiki/Impermanence "Impermanence - NixOS Wiki") — Impermanence in NixOS is where your root directory gets wiped every reboot (such as by mounting a tmpfs to /). Such a setup is possible because NixOS only needs /boot and /nix in order to boot, all other system files are simply links to files in /nix. /boot and /nix still need to be stored on a hard drive or SSD.

@@ -10,8 +10,7 @@
 A revealing conversation with Jupiter Broadcasting's designer Mr. Chz Bacon. We discuss his Linux roots, design philosophies, community involvement, and a lot more.
 
 ## Your hosts
-* [chzbacon](https://extras.show//hosts/chzbacon)
-* [Brent Gervais](https://extras.show//hosts/brent)
+* [Brent Gervais](https://extras.show/hosts/brent)
 
 ## Sponsored by
 
@@ -27,4 +26,4 @@ None
 
 ## Tags
 
-[brunch with brent](https://extras.show//tags/brunch%20with%20brent), [community](https://extras.show//tags/community), [design](https://extras.show//tags/design), [elementary os](https://extras.show//tags/elementary%20os), [graphics](https://extras.show//tags/graphics), [interview podcast](https://extras.show//tags/interview%20podcast), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [open source](https://extras.show//tags/open%20source), [open source contribution](https://extras.show//tags/open%20source%20contribution), [slackware](https://extras.show//tags/slackware), [ui](https://extras.show//tags/ui), [ux](https://extras.show//tags/ux)
+[brunch with brent](https://extras.show/tags/brunch%20with%20brent), [community](https://extras.show/tags/community), [design](https://extras.show/tags/design), [elementary os](https://extras.show/tags/elementary%20os), [graphics](https://extras.show/tags/graphics), [interview podcast](https://extras.show/tags/interview%20podcast), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [open source](https://extras.show/tags/open%20source), [open source contribution](https://extras.show/tags/open%20source%20contribution), [slackware](https://extras.show/tags/slackware), [ui](https://extras.show/tags/ui), [ux](https://extras.show/tags/ux)

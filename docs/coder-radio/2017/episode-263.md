@@ -8,7 +8,7 @@
 ## About this episode
 
 We ponder the ethical dilemma of a developer who has replaced himself with a bot, debate the possibility of ever making money from bots & have some tough love for Apple.
-Plus discuss System76’s new Pop!_OS & Mike’s adventures in Florida. 
+Plus discuss System76’s new Pop!_OS & Mike’s adventures in Florida.
 
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)

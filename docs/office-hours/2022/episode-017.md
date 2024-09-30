@@ -10,8 +10,8 @@
 The worst part about being a Podcaster; our pitch to eliminate nearly all holidays and some hard questions.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -32,4 +32,4 @@ The worst part about being a Podcaster; our pitch to eliminate nearly all holida
 
 ## Tags
 
-[18.04](https://www.officehours.hair//tags/18.04), [boost feedback](https://www.officehours.hair//tags/boost%20feedback), [firefox](https://www.officehours.hair//tags/firefox), [holiday](https://www.officehours.hair//tags/holiday), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair//tags/office%20hours), [podcast listners in the us](https://www.officehours.hair//tags/podcast%20listners%20in%20the%20us), [projects](https://www.officehours.hair//tags/projects), [travel](https://www.officehours.hair//tags/travel), [tuxies](https://www.officehours.hair//tags/tuxies), [x11](https://www.officehours.hair//tags/x11)
+[18.04](https://www.officehours.hair/tags/18.04), [boost feedback](https://www.officehours.hair/tags/boost%20feedback), [firefox](https://www.officehours.hair/tags/firefox), [holiday](https://www.officehours.hair/tags/holiday), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair/tags/office%20hours), [podcast listners in the us](https://www.officehours.hair/tags/podcast%20listners%20in%20the%20us), [projects](https://www.officehours.hair/tags/projects), [travel](https://www.officehours.hair/tags/travel), [tuxies](https://www.officehours.hair/tags/tuxies), [x11](https://www.officehours.hair/tags/x11)

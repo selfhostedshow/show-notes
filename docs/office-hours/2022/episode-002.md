@@ -10,8 +10,8 @@
 We kick off a new show and chat about the rapid centralization facing the podcast industry. Then we share some secret future Jupiter Broadcasting plans.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -31,4 +31,4 @@ We kick off a new show and chat about the rapid centralization facing the podcas
 
 ## Tags
 
-[github](https://www.officehours.hair//tags/github), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [low power x86 server](https://www.officehours.hair//tags/low%20power%20x86%20server), [matrix server](https://www.officehours.hair//tags/matrix%20server), [meetup spots in california](https://www.officehours.hair//tags/meetup%20spots%20in%20california), [office hours](https://www.officehours.hair//tags/office%20hours), [podcasting centralization](https://www.officehours.hair//tags/podcasting%20centralization), [road trip](https://www.officehours.hair//tags/road%20trip), [rv repairs](https://www.officehours.hair//tags/rv%20repairs), [spotify](https://www.officehours.hair//tags/spotify)
+[github](https://www.officehours.hair/tags/github), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [low power x86 server](https://www.officehours.hair/tags/low%20power%20x86%20server), [matrix server](https://www.officehours.hair/tags/matrix%20server), [meetup spots in california](https://www.officehours.hair/tags/meetup%20spots%20in%20california), [office hours](https://www.officehours.hair/tags/office%20hours), [podcasting centralization](https://www.officehours.hair/tags/podcasting%20centralization), [road trip](https://www.officehours.hair/tags/road%20trip), [rv repairs](https://www.officehours.hair/tags/rv%20repairs), [spotify](https://www.officehours.hair/tags/spotify)

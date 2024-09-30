@@ -15,13 +15,14 @@ Alex has major Proxmox problems. What happened, and the fix for now. Plus, the r
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/selfhosted)
+  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 
 ## Episode links
 
+  * [blog.ktz.me - Fully automated DNS and DHCP with Ansible, Dnsmasq and Pihole](https://blog.ktz.me/fully-automated-dns-and-dhcp-with-pihole-and-dnsmasq/ "blog.ktz.me - Fully automated DNS and DHCP with Ansible, Dnsmasq and Pihole") — For the longest time I've made do with clicking through the Opnsense UI to add static IP reservations via MAC address mapping. It's been one of those minor friction points of network administration that I've put up with because automating the process seemed daunting. This post will detail how I solved a few interesting problems as I fully automated DNS overrides and DHCP reservations using Pihole, and the program it's built on top of Dnsmasq.
   * [Cluster Manager - Proxmox VE](https://pve.proxmox.com/wiki/Cluster_Manager "Cluster Manager - Proxmox VE") — The Proxmox VE cluster manager pvecm is a tool to create a group of physical servers. Such a group is called a cluster. We use the Corosync Cluster Engine for reliable group communication. There’s no explicit limit for the number of nodes in a cluster. In practice, the actual possible node count may be limited by the host and network performance. Currently (2021), there are reports of clusters (using high-end enterprise hardware) with over 50 nodes in production.
   * [Pi-hole](https://pi-hole.net/ "Pi-hole") — You can run Pi-hole in a container, or deploy it directly to a supported operating system 
   * [Ubiquiti WiFi](https://ui.com/wi-fi "Ubiquiti WiFi")

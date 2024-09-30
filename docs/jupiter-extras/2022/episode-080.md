@@ -10,13 +10,13 @@
 During our summer road trip to Denver we had the microphone's recording and captured some great moments.
 
 ## Your hosts
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [Brent Gervais](https://extras.show//hosts/brent)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [Brent Gervais](https://extras.show/hosts/brent)
 
 ## Sponsored by
 
-  * [Linode](https://colonytracker.live/): [Linode makes this content](https://colonytracker.live/)
-  * [Support JB Directly ](http://jupiter.party): [Support the network directly with our new network membership.](http://jupiter.party)
+  * [Linode](https://linode.com/jupiter): [See why we and Linux users around the world love Linode, and get a $100 credit](https://linode.com/jupiter)
+  * [Join the Party! The Jupiter Membership Party](http://jupiter.party): [Join the party and get exclusive content. ](http://jupiter.party)
 
 
 
@@ -28,4 +28,4 @@ None
 
 ## Tags
 
-[denver road trip](https://extras.show//tags/denver%20road%20trip), [levi](https://extras.show//tags/levi), [system76](https://extras.show//tags/system76)
+[denver road trip](https://extras.show/tags/denver%20road%20trip), [levi](https://extras.show/tags/levi), [system76](https://extras.show/tags/system76)

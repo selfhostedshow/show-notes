@@ -16,9 +16,9 @@ Data-hoard with purpose and manage your audiobooks and podcasts with one applica
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
   * [Kolide](https://kolide.com/unplugged): [Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn’t trusted and secure, it can’t log into your cloud apps.](https://kolide.com/unplugged)
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
   * [The Bitcoin Company](https://app.thebitcoincompany.com/signup?ref=UNPLUGGED): [You can spend your sats, and keep the show on the road. Earn Bitcoin with every credit card, gift card, flight, hotel stay, prepaid Visa card purchase, and shopping through our app.](https://app.thebitcoincompany.com/signup?ref=UNPLUGGED) Promo Code: UNPLUGGED
 
 

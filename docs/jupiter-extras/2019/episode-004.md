@@ -10,7 +10,7 @@
 The new XPS 13 details and Dell's Linux hardware plan for 2019.
 
 ## Your hosts
-* [Chris Fisher](https://extras.show//hosts/chrislas)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
 
 ## Sponsored by
 
@@ -26,4 +26,4 @@ None
 
 ## Tags
 
-[7390](https://extras.show//tags/7390), [9380](https://extras.show//tags/9380), [dell](https://extras.show//tags/dell), [developer edition](https://extras.show//tags/developer%20edition), [ubuntu 18.04 sp1 lts](https://extras.show//tags/ubuntu%2018.04%20sp1%20lts), [xps 13](https://extras.show//tags/xps%2013)
+[7390](https://extras.show/tags/7390), [9380](https://extras.show/tags/9380), [dell](https://extras.show/tags/dell), [developer edition](https://extras.show/tags/developer%20edition), [ubuntu 18.04 sp1 lts](https://extras.show/tags/ubuntu%2018.04%20sp1%20lts), [xps 13](https://extras.show/tags/xps%2013)

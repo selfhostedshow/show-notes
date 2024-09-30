@@ -16,9 +16,9 @@ Chris spends the week in a VR desktop, revealing the glitches, gains, and VR's o
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
   * [Kolide](https://kolide.com/unplugged): [Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn’t trusted and secure, it can’t log into your cloud apps.](https://kolide.com/unplugged)
-  * [Warp Terminal](https://warp.dev/linux-terminal): [Warp is a modern, Rust-based terminal with AI built in. Be the first to know when it’s available for Linux. ](https://warp.dev/linux-terminal)
+  * [Warp Terminal](https://warp.dev/linux-terminal): [Warp - the re-imagined terminal now available for Linux with multiple distributions available including Ubuntu, Fedora, Debian, and Arch Linux.](https://warp.dev/linux-terminal)
 
 
 
@@ -57,6 +57,7 @@ Chris spends the week in a VR desktop, revealing the glitches, gains, and VR's o
   * [Nebula is Not the Fastest Mesh VPN](https://www.defined.net/blog/nebula-is-not-the-fastest-mesh-vpn/ "Nebula is Not the Fastest Mesh VPN") — For this first public release of data, we’ve chosen to test the most popular mesh VPN options we’re aware of, so we will be comparing Nebula (in AES mode), Netmaker, Tailscale, and ZeroTier (note, this list is intentionally in alphabetical order, as additional confirmation of our commitment to fairness). 
   * [DESTEK QH3 Pressure-Free Head Strap](https://www.amazon.com/dp/B0CHVJQ3ZJ "DESTEK QH3 Pressure-Free Head Strap")
   * [BOBOVR S3 Pro Super Strap Accessories, Head air conditioning and 10000](https://www.bobovr.com/products/s3-pro "BOBOVR S3 Pro Super Strap Accessories, Head air conditioning and 10000")
+  * [CitraVR: Port of the leading 3DS emulator](https://github.com/amwatson/CitraVR "CitraVR: Port of the leading 3DS emulator") — Play 3DS homebrew and personal game backups in 3D on the go with your Quest. CitraVR is a GPL-licensed, engineless OpenXR application with all source code publicly available. 
 
 
 

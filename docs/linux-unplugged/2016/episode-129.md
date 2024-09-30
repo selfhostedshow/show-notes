@@ -11,7 +11,6 @@ Has the Linux Foundation made moves to cut out the individual from having their 
 
 Plus why if you're still waiting for Wayland to ship, your doing it wrong & more!
 
-
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)

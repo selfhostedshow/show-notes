@@ -10,9 +10,9 @@
 We're pushing our new website to production live on the show today. We have no idea how things will turn out - but we're taking you along for the ride either way!
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
-* [Alex Kretzschmar](https://www.officehours.hair//guests/alexktz)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
+* [Alex Kretzschmar](https://www.officehours.hair/guests/alexktz)
 
 ## Sponsored by
 
@@ -32,4 +32,4 @@ We're pushing our new website to production live on the show today. We have no i
 
 ## Tags
 
-[alby](https://www.officehours.hair//tags/alby), [caching](https://www.officehours.hair//tags/caching), [chrislas](https://www.officehours.hair//tags/chrislas), [cloudflare](https://www.officehours.hair//tags/cloudflare), [community](https://www.officehours.hair//tags/community), [deployment](https://www.officehours.hair//tags/deployment), [github actions](https://www.officehours.hair//tags/github%20actions), [hugo](https://www.officehours.hair//tags/hugo), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair//tags/office%20hours), [open source](https://www.officehours.hair//tags/open%20source), [peertube](https://www.officehours.hair//tags/peertube), [podcasting 2.0](https://www.officehours.hair//tags/podcasting%202.0), [podverse](https://www.officehours.hair//tags/podverse), [twitter podcast hub](https://www.officehours.hair//tags/twitter%20podcast%20hub)
+[alby](https://www.officehours.hair/tags/alby), [caching](https://www.officehours.hair/tags/caching), [chrislas](https://www.officehours.hair/tags/chrislas), [cloudflare](https://www.officehours.hair/tags/cloudflare), [community](https://www.officehours.hair/tags/community), [deployment](https://www.officehours.hair/tags/deployment), [github actions](https://www.officehours.hair/tags/github%20actions), [hugo](https://www.officehours.hair/tags/hugo), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair/tags/office%20hours), [open source](https://www.officehours.hair/tags/open%20source), [peertube](https://www.officehours.hair/tags/peertube), [podcasting 2.0](https://www.officehours.hair/tags/podcasting%202.0), [podverse](https://www.officehours.hair/tags/podverse), [twitter podcast hub](https://www.officehours.hair/tags/twitter%20podcast%20hub)

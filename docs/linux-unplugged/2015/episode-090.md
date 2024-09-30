@@ -9,7 +9,6 @@
 
 Exclusive interviews from the floor of LinuxFest Northwest 2015, meet the man who brought Netflix to Linux, how Intel builds the MinnowBoard for Linux, the state of ZFS on Linux. Plus a quick look at Plasma 5.3, Telegram’s surprising popularity & more!
 
-
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)

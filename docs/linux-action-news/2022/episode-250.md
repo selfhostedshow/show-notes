@@ -15,7 +15,7 @@ Microsoft makes a hard about-face, a significant fix for Ubuntu 22.04 is in the 
 
 ## Sponsored by
 
-  * [Kolide](https://kolide.com/lan): [User-centered, cross-platform endpoint security for teams that Slack. ](https://kolide.com/lan)
+  * [Kolide](https://l.kolide.co/3klbWzr): [Kolide can help you nail third-party audits and internal compliance goals with endpoint security for your entire fleet. ](https://l.kolide.co/3klbWzr)
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
 
 
@@ -25,7 +25,7 @@ Microsoft makes a hard about-face, a significant fix for Ubuntu 22.04 is in the 
   * [Microsoft changes its mind about open source monetization](https://www.pcgamer.com/microsoft-store-u-turn-open-source/ "Microsoft changes its mind about open source monetization") — Microsoft was trying to do the right thing, but it turns out doing nothing is better.
   * [Giorgio Sardo on Twitter](https://twitter.com/gisardo/status/1549055495243194371 "Giorgio Sardo on Twitter") — To clarify our intent, we removed the previous mention to open source pricing. We're committed to building an open Store and enabling dev choice and flexibility. If there are intellectual property concerns about an app, please report it.
   * [An Ubuntu 22.04 LTS Fix Is Coming For A Very Annoying & Serious APT Problem](https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-22.04-APT-Breaks-Things "An Ubuntu 22.04 LTS Fix Is Coming For A Very Annoying & Serious APT Problem") — "installing the package libudev1 results in a large number of critical packages being removed and rendering the system essentially unusable."
-  * [Bug #1974196 “Installing libudev1 on a new Jammy installation"](https://bugs.launchpad.net/ubuntu/+source/apt/+bug/1974196 "Bug #1974196 “Installing libudev1 on a new Jammy installation"")
+  * [Bug #1974196 “Installing libudev1 on a new Jammy installation"](https://bugs.launchpad.net/ubuntu/+source/apt/+bug/1974196 "Bug #1974196 “Installing libudev1 on a new Jammy installation")
   * [Draft: Mark broken reverse depends for upgrade (!248) · Merge requests](https://salsa.debian.org/apt-team/apt/-/merge_requests/248 "Draft: Mark broken reverse depends for upgrade \(!248\) · Merge requests")
   * [Drop-in, drop-out chats with Video Rooms in Element](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience "Drop-in, drop-out chats with Video Rooms in Element") — This has been a long time coming and, frankly, we’re really excited to be introducing Video Rooms to you. It’s a major step towards richer video (and soon voice) rooms!
   * [SCALE 19x](https://www.socallinuxexpo.org/blog/scale-19x-and-covid-19 "SCALE 19x") — SCaLE 19x is coming up July 28th - the 31st at the LAX Hilton. Promo code LAS50

@@ -7,8 +7,7 @@
 
 ## About this episode
 
-
-Manjaro's news starts us off and leads us into a bigger philosophical question about open source development. 
+Manjaro's news starts us off and leads us into a bigger philosophical question about open source development.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

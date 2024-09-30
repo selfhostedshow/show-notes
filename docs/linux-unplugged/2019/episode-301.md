@@ -7,7 +7,7 @@
 
 ## About this episode
 
-We scale the Red Hat Summit and come back with a few stories to share. 
+We scale the Red Hat Summit and come back with a few stories to share.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

@@ -15,7 +15,7 @@ We dive into Lemmy, a self-hosted Reddit alternative. Plus, a couple of easy-to-
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/selfhosted)
+  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
@@ -28,7 +28,6 @@ We dive into Lemmy, a self-hosted Reddit alternative. Plus, a couple of easy-to-
   * [Install with Ansible - Lemmy Documentation](https://join-lemmy.org/docs/en/administration/install_ansible.html "Install with Ansible - Lemmy Documentation") — Follow the instructions on the Lemmy-Ansible repo.
   * [Mlem](https://github.com/buresdv/Mlem "Mlem") — The Lemmy client for iOS.
   * [Jerboa](https://github.com/dessalines/jerboa "Jerboa") — An Android client for Lemmy, a federated reddit alternative 
-  * [Snapdrop](https://github.com/RobinLinus/snapdrop "Snapdrop") — A Progressive Web App for local file sharing 
 
 
 

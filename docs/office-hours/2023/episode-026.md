@@ -10,8 +10,8 @@
 Brent shares some rip-roaring tales from Berlin, and we introduce the new contributor who can publish to production.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -36,4 +36,4 @@ Brent shares some rip-roaring tales from Berlin, and we introduce the new contri
 
 ## Tags
 
-[android developer](https://www.officehours.hair//tags/android%20developer), [cgbassplayer](https://www.officehours.hair//tags/cgbassplayer), [chrislas](https://www.officehours.hair//tags/chrislas), [episode pages](https://www.officehours.hair//tags/episode%20pages), [foss projects](https://www.officehours.hair//tags/foss%20projects), [full page screenshots](https://www.officehours.hair//tags/full%20page%20screenshots), [group chat](https://www.officehours.hair//tags/group%20chat), [jb berlin meetup](https://www.officehours.hair//tags/jb%20berlin%20meetup), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [local devs](https://www.officehours.hair//tags/local%20devs), [microsoft playwright-pytest](https://www.officehours.hair//tags/microsoft%20playwright-pytest), [nextcloud hackathon](https://www.officehours.hair//tags/nextcloud%20hackathon), [office hours](https://www.officehours.hair//tags/office%20hours), [onboarding](https://www.officehours.hair//tags/onboarding), [podverse](https://www.officehours.hair//tags/podverse), [ryan](https://www.officehours.hair//tags/ryan), [tags](https://www.officehours.hair//tags/tags), [tests](https://www.officehours.hair//tags/tests), [value for value](https://www.officehours.hair//tags/value%20for%20value), [website update](https://www.officehours.hair//tags/website%20update)
+[android developer](https://www.officehours.hair/tags/android%20developer), [cgbassplayer](https://www.officehours.hair/tags/cgbassplayer), [chrislas](https://www.officehours.hair/tags/chrislas), [episode pages](https://www.officehours.hair/tags/episode%20pages), [foss projects](https://www.officehours.hair/tags/foss%20projects), [full page screenshots](https://www.officehours.hair/tags/full%20page%20screenshots), [group chat](https://www.officehours.hair/tags/group%20chat), [jb berlin meetup](https://www.officehours.hair/tags/jb%20berlin%20meetup), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [local devs](https://www.officehours.hair/tags/local%20devs), [microsoft playwright-pytest](https://www.officehours.hair/tags/microsoft%20playwright-pytest), [nextcloud hackathon](https://www.officehours.hair/tags/nextcloud%20hackathon), [office hours](https://www.officehours.hair/tags/office%20hours), [onboarding](https://www.officehours.hair/tags/onboarding), [podverse](https://www.officehours.hair/tags/podverse), [ryan](https://www.officehours.hair/tags/ryan), [tags](https://www.officehours.hair/tags/tags), [tests](https://www.officehours.hair/tags/tests), [value for value](https://www.officehours.hair/tags/value%20for%20value), [website update](https://www.officehours.hair/tags/website%20update)

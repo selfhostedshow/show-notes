@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Is Linux gaming really being saved by Google's Stadia platform? We discuss the details and possibilities. 
+Is Linux gaming really being saved by Google's Stadia platform? We discuss the details and possibilities.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

@@ -15,7 +15,7 @@ Docker controversy is brewing, but it's probably not what you think. We get arou
 * [Brent Gervais](https://linuxunplugged.com/hosts/brent)
 * [Brent Gervais](https://linuxunplugged.com/guests/brentgervais)
 * [Cassidy James Blaede](https://linuxunplugged.com/guests/cassidyjames)
-* [Daniel Fore](https://linuxunplugged.com/guests/danielfore)
+* [Danielle Foré](https://linuxunplugged.com/guests/daniellefore)
 * [Martin Wimpress](https://linuxunplugged.com/guests/martinwimpress)
 
 ## Sponsored by
@@ -38,7 +38,7 @@ Docker controversy is brewing, but it's probably not what you think. We get arou
   * [OggCamp 18](https://oggcamp.org/ "OggCamp 18")
   * [fosscon.us](https://fosscon.us/attend "fosscon.us")
   * [intel-microcode: Update intel-microcode to 20180807](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=906158 "intel-microcode: Update intel-microcode to 20180807")
-  * [Imad Sousou: "This is not true."](https://twitter.com/imadsousou/status/1030260566483496960 "Imad Sousou: "This is not true."")
+  * [Imad Sousou: "This is not true."](https://twitter.com/imadsousou/status/1030260566483496960 "Imad Sousou: ")
   * [Um: Create and maintain your own man pages so you can remember how to do stuff](https://github.com/sinclairtarget/um "Um: Create and maintain your own man pages so you can remember how to do stuff")
 
 

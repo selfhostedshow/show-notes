@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Apple is shaking up the foundations of UI development with SwiftUI and raising developer eyebrows with a new default shell on MacOS. 
+Apple is shaking up the foundations of UI development with SwiftUI and raising developer eyebrows with a new default shell on MacOS.
 
 ## Your hosts
 * [Michael Dominick](https://coder.show/hosts/michael)

@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Joe Ressington of Late Night Linux joins Wes to discuss just what makes a “Proper” distribution, the latest news about Libreboot & the FSF Plus containers explained in pictures, Fedora has the desktop for Hacker News & Android is king of the internet. 
+Joe Ressington of Late Night Linux joins Wes to discuss just what makes a “Proper” distribution, the latest news about Libreboot & the FSF Plus containers explained in pictures, Fedora has the desktop for Hacker News & Android is king of the internet.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

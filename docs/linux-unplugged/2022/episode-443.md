@@ -27,7 +27,6 @@ We all take it for granted, but it is one of the best things about Linux. We sha
   * [Finnix](https://www.finnix.org/ "Finnix") — Finnix is the original utility live Linux distribution. Write it to a USB flash drive or burn it to a CD, boot it, and you're seconds from a root prompt with hundreds of utilities available for recovery, maintenance, testing and more.
   * [Finnix 123 released](https://blog.finnix.org/2021/09/06/finnix-123-released/ "Finnix 123 released")
   * [Cluster Knoppix](https://slashdot.org/story/03/05/29/1336229/clusterknoppix "Cluster Knoppix")
-  * [Apps.com](http://apps.com/ "Apps.com")
   * [Richard Brown on Twitter](https://twitter.com/sysrich/status/1486231451163144195 "Richard Brown on Twitter") — Rebrand and rescope; Old expanded support was just RHEL and just for purpose of holding customers over until they migrated to SLE; Liberty includes CentOS and Leap, and doesn’t require customers to move to SLE.
   * [sc-im](https://github.com/andmarti1424/sc-im "sc-im") — Spreadsheet Calculator Improvised – An ncurses spreadsheet program for terminal.
 

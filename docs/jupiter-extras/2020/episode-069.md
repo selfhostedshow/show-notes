@@ -10,8 +10,8 @@
 Pagure, the free software GitLab alternative no one is talking about.
 
 ## Your hosts
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [Neal Gompa](https://extras.show//guests/nealgompa)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [Neal Gompa](https://extras.show/guests/nealgompa)
 
 ## Sponsored by
 
@@ -33,4 +33,4 @@ None
 
 ## Tags
 
-[fedora](https://extras.show//tags/fedora), [free software](https://extras.show//tags/free%20software), [fsf](https://extras.show//tags/fsf), [git](https://extras.show//tags/git), [git-centered forge](https://extras.show//tags/git-centered%20forge), [gitlab](https://extras.show//tags/gitlab), [pagure](https://extras.show//tags/pagure), [pygit2](https://extras.show//tags/pygit2), [source control](https://extras.show//tags/source%20control), [version control](https://extras.show//tags/version%20control)
+[fedora](https://extras.show/tags/fedora), [free software](https://extras.show/tags/free%20software), [fsf](https://extras.show/tags/fsf), [git](https://extras.show/tags/git), [git-centered forge](https://extras.show/tags/git-centered%20forge), [gitlab](https://extras.show/tags/gitlab), [pagure](https://extras.show/tags/pagure), [pygit2](https://extras.show/tags/pygit2), [source control](https://extras.show/tags/source%20control), [version control](https://extras.show/tags/version%20control)

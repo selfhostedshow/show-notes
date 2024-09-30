@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Wes joins Mike for a special Coder. They share thoughts on the costs and benefits of Optionals in Swift, uncover Mike's secret love affair with F#, and debate the true value of serverless. 
+Wes joins Mike for a special Coder. They share thoughts on the costs and benefits of Optionals in Swift, uncover Mike's secret love affair with F#, and debate the true value of serverless.
 
 ## Your hosts
 * [Michael Dominick](https://coder.show/hosts/michael)

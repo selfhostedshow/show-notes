@@ -1,4 +1,4 @@
-# CR 442: Tocuched by the Bar
+# CR 442: Touched by the Bar
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+BCV29yj1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 

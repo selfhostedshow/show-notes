@@ -12,8 +12,8 @@ Brent sits down with Catherine Kretzschmar, professional music teacher, coding b
 Catherine is a good friend of the Jupiter Broadcasting family and wife of Alex Kretzschmar, co-host of Self-Hosted.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Catherine Kretzschmar](https://extras.show//guests/catherine-kretzschmar)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Catherine Kretzschmar](https://extras.show/guests/catherine-kretzschmar)
 
 ## Sponsored by
 
@@ -34,4 +34,4 @@ None
 
 ## Tags
 
-[bassoon](https://extras.show//tags/bassoon), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [catherine kretzschmar](https://extras.show//tags/catherine%20kretzschmar), [coding](https://extras.show//tags/coding), [community](https://extras.show//tags/community), [extras](https://extras.show//tags/extras), [home automation](https://extras.show//tags/home%20automation), [humanist](https://extras.show//tags/humanist), [humanist celebrant](https://extras.show//tags/humanist%20celebrant), [interview podcast](https://extras.show//tags/interview%20podcast), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [logic puzzle](https://extras.show//tags/logic%20puzzle), [music](https://extras.show//tags/music), [teacher](https://extras.show//tags/teacher)
+[bassoon](https://extras.show/tags/bassoon), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [catherine kretzschmar](https://extras.show/tags/catherine%20kretzschmar), [coding](https://extras.show/tags/coding), [community](https://extras.show/tags/community), [extras](https://extras.show/tags/extras), [home automation](https://extras.show/tags/home%20automation), [humanist](https://extras.show/tags/humanist), [humanist celebrant](https://extras.show/tags/humanist%20celebrant), [interview podcast](https://extras.show/tags/interview%20podcast), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [logic puzzle](https://extras.show/tags/logic%20puzzle), [music](https://extras.show/tags/music), [teacher](https://extras.show/tags/teacher)

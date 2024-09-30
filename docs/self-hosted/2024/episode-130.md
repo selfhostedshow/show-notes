@@ -12,7 +12,7 @@ Prusa's Mk4S 3D printer seems to have hit the mark. Alex gets a tour of an aweso
 ## Your hosts
 * [Alex Kretzschmar](https://selfhosted.show/hosts/alexktz)
 * [Chris Fisher](https://selfhosted.show/hosts/chrislas)
-* [Josh](https://selfhosted.show/guests/josh)
+* [Jscar_Hawk](https://selfhosted.show/guests/jscar)
 
 ## Sponsored by
 

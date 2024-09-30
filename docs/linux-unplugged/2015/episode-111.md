@@ -7,7 +7,7 @@
 
 ## About this episode
 
- Chris joins the Virtual LUG from the road & Noah and Wes host the show. They compare and contrast Fedora and Arch & the nice new features of Fedora 23.
+Chris joins the Virtual LUG from the road & Noah and Wes host the show. They compare and contrast Fedora and Arch & the nice new features of Fedora 23.
 Plus  everyone has their own perspective on home automation. Then living offline, like you're online.
 
 ## Your hosts

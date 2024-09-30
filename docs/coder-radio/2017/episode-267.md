@@ -11,7 +11,6 @@ We solve some problems, and then go down the rat hole of self hacking to increas
 
 Then we gleefully watch as Coding Bootcamps begin to collapse. Plus Mike shares some straightforward code that solved an annoying problem
 
-
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)
 * [Michael Dominick](https://coder.show/hosts/michael)

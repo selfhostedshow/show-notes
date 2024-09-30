@@ -18,7 +18,7 @@ Just about every take on the Red Hat news seems to have missed the mark.
 ## Sponsored by
 
   * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
-  * [Kolide](https://l.kolide.co/3klbWzr): [Kolide can help you nail third-party audits and internal compliance goals with endpoint security for your entire fleet.](https://l.kolide.co/3klbWzr)
+  * [Kolide](https://kolide.com/unplugged): [Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn’t trusted and secure, it can’t log into your cloud apps.](https://kolide.com/unplugged)
 
 
 
@@ -38,7 +38,7 @@ Just about every take on the Red Hat news seems to have missed the mark.
   * [Carl George on Fosstodon](https://fosstodon.org/@carlwgeorge/110595756516276336 "Carl George on Fosstodon") — “You should have already been using #CentOS Stream. There, I said it.”
   * [NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view "NASA secures contract with Rocky Enterprise Linux") — NASA/NSSC has a requirement for FY23 CIQ Rocky Enterprise Linux Purchase. Item: CIQ Rocky Enterprise Linux Per Person Advanced - Annual Subscription. Quantity: 3
   * [NASA secures contract with Rocky Enterprise Linux (HN Discussion)](https://news.ycombinator.com/item?id=36417968 "NASA secures contract with Rocky Enterprise Linux \(HN Discussion\)")
-  * [catercloud.me](http://catercloud.me/ "catercloud.me") — Originally, the project consisted of a web framework that glued together several other, more mature open-source projoects, but as scope creep and my own tendency toward re-inventing the wheel rose to the surface, the project’s development became more and more complex, slowly incorporating a lot of components that go way beyond a simple word cloud and into things like natural language processing.
+  * [catercloud.me](https://catercloud.me/ "catercloud.me") — Originally, the project consisted of a web framework that glued together several other, more mature open-source projoects, but as scope creep and my own tendency toward re-inventing the wheel rose to the surface, the project’s development became more and more complex, slowly incorporating a lot of components that go way beyond a simple word cloud and into things like natural language processing.
 
 
 

@@ -17,7 +17,7 @@ Do as we say, not as we do. This week we're setting off to host our own email. W
 ## Sponsored by
 
   * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
-  * [Jupiter Garage Sale](http://jupitergarage.com/): [Own a bit of Jupiter Broadcasting history, while making way for the new! ](http://jupitergarage.com/)
+  * [New JB Stickers](http://jupitergarage.com/): [Own a bit of Jupiter Broadcasting history, while making way for the new! ](http://jupitergarage.com/)
   * [A Cloud Guru](https://acloudguru.com): [Hundreds of courses, thousands of hands-on labs.](https://acloudguru.com)
 
 

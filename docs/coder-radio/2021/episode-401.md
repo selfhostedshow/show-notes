@@ -15,7 +15,7 @@ Mike crosses over to report back from the other side, and Chris is along for the
 
 ## Sponsored by
 
-  * [The Coder](http://thecoder.shop/): [The Coder is made from 100% cotton terry velour for soft, cozy wear. Embroidered on the left chest with a classic white on black Coder Radio logo.](http://thecoder.shop/)
+  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [The Coder is made from 100% cotton terry velour for soft, cozy wear and is embroidered on the left chest with a classic white-on-black Coder Radio logo. Save $10 with code SWIFT.](https://www.jupitergarage.com/product/the-coder-robe) Promo Code: SWIFT
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
   * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)

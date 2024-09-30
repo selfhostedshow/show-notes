@@ -18,7 +18,7 @@ We try and bust a common Linux distro myth. Then what surprised Chris about his 
 
   * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
   * [Bitwarden](https://bitwarden.com/linux): [Bitwarden is the easiest way for businesses and individuals to store, share, and sync sensitive data.](https://bitwarden.com/linux)
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
 
 
 
@@ -26,9 +26,9 @@ We try and bust a common Linux distro myth. Then what surprised Chris about his 
 
   * [Pre-show: Microsoft is selling tech pants for $150.](https://www.zdnet.com/article/microsoft-is-selling-tech-pants-for-150-wait-what-are-tech-pants/ "Pre-show: Microsoft is selling tech pants for $150.") — Wait, what are tech pants?
   * [London Meetup on August 5th at 6pm GMT](https://www.meetup.com/jupiterbroadcasting/events/286056077/ "London Meetup on August 5th at 6pm GMT")
-  * [Southern Oregon Meet Up, Tue, Sep 20, 2022, 6:00 PM](https://www.meetup.com/jupiterbroadcasting/events/287237399/ "Southern Oregon Meet Up, Tue, Sep 20, 2022, 6:00 PM")
-  * [Sacramento Meet Up!, Fri, Sep 23, 2022, 6:00 PM](https://www.meetup.com/jupiterbroadcasting/events/287237396/ "Sacramento Meet Up!, Fri, Sep 23, 2022, 6:00 PM")
-  * [Southern California Meet Up, Fri, Sep 30, 2022, 6:00 PM](https://www.meetup.com/jupiterbroadcasting/events/287237407/ "Southern California Meet Up, Fri, Sep 30, 2022, 6:00 PM")
+  * [Southern Oregon Meet Up, Tue, Sep 20, 2022, 6:00 PM](https://www.meetup.com/jupiterbroadcasting/events/287248086/ "Southern Oregon Meet Up, Tue, Sep 20, 2022, 6:00 PM")
+  * [Sacramento Meet Up!, Fri, Sep 23, 2022, 6:00 PM](https://www.meetup.com/jupiterbroadcasting/events/287248095/ "Sacramento Meet Up!, Fri, Sep 23, 2022, 6:00 PM")
+  * [Southern California Meet Up, Fri, Sep 30, 2022, 6:00 PM](https://www.meetup.com/jupiterbroadcasting/events/287248082/ "Southern California Meet Up, Fri, Sep 30, 2022, 6:00 PM")
   * [Portland Meet Up, Fri, Oct 7, 2022, 6:00 PM](https://www.meetup.com/jupiterbroadcasting/events/287237410/ "Portland Meet Up, Fri, Oct 7, 2022, 6:00 PM")
   * [Steam Deck Tech Specs](https://www.steamdeck.com/en/tech "Steam Deck Tech Specs")
   * [(Video) Steam Deck Teardown](https://www.youtube.com/watch?v=4T0RZ6ustKQ "\(Video\) Steam Deck Teardown") — Everything Valve Said Not to Do!

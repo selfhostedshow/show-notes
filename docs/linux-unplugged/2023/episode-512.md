@@ -16,7 +16,7 @@ We take a "Rust-only tools" challenge for a week and admit what worked, and what
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
   * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
   * [Bitwarden](https://bitwarden.com/linux): [Bitwarden is the easiest way for businesses and individuals to store, share, and sync sensitive data.](https://bitwarden.com/linux)
 
@@ -53,6 +53,7 @@ We take a "Rust-only tools" challenge for a week and admit what worked, and what
   * [LINUX Unplugged on the Podcastindex.org](https://podcastindex.org/podcast/575694 "LINUX Unplugged on the Podcastindex.org")
   * [Pick: Please Run That](https://flathub.org/apps/io.github.Sebicodes99.Prt "Pick: Please Run That") — A Python socket app for letting a friend execute a command on your system without using a ssh server all, with a simple GUI It has active development and works OOTB.
   * [Pick: turtle](https://gitlab.gnome.org/philippun1/turtlegit "Pick: turtle") — Turtle is a gtk4 + libadwaita frontend for pygit2 with nautilus plugin support. The project is currently in a very early development stage.
+  * [Chris Interviewed on Mere Mortals](https://www.meremortalspodcast.com/podcast/episode/7eb82808/chris-fisher-or-the-future-of-advertising-adopting-value-for-value-and-creating-jupiter-broadcasting "Chris Interviewed on Mere Mortals") — In Conversation #90, Chris and I discuss: what it's been like to have 25+ podcasts, the current nosedive in advertising, how value for value is creating a richer experience for podcasters, his mindset in analyzing technological ideas, the coming pain from the messed up financial system, why Bitcoin/AI won't be as impactful as the internet and traveling across the US in an RV.
 
 
 

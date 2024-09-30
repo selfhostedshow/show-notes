@@ -16,7 +16,7 @@ Chris integrates full home power monitoring into Home Assistant, while Alex tame
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/selfhosted)
+  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
@@ -37,6 +37,7 @@ Chris integrates full home power monitoring into Home Assistant, while Alex tame
   * [TomsDad's Obsidian Daily note taking scripts](https://gist.github.com/zsviczian/fd3fcae4e2c4fa2be668756dca59da06 "TomsDad's Obsidian Daily note taking scripts")
   * [Alby: Boost from the Web](https://getalby.com/ "Alby: Boost from the Web") — Alby brings Boosts to the web.
   * [Self-Hosted on the Podcastindex.org](https://podcastindex.org/podcast/830124 "Self-Hosted on the Podcastindex.org") — Send a Boost into the show via the web. First, top-up Alby, then head over to our entry on the Podcast Index.
+  * [chatbot-ui: An open source ChatGPT UI.](https://github.com/mckaywrigley/chatbot-ui "chatbot-ui: An open source ChatGPT UI.") — Chatbot UI is an advanced chatbot kit for OpenAI's chat models built on top of Chatbot UI Lite using Next.js, TypeScript, and Tailwind CSS.
 
 
 

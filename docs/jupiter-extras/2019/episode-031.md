@@ -10,8 +10,8 @@
 Brent sits down with Jill Bryant Ryniker, long time Linux aficionado, for a connective conversation exploring her deep involvement in Linux and open source, from community to professional animation and more.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Jill Bryant Ryniker](https://extras.show//guests/jilllinuxgirl)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Jill Bryant Ryniker](https://extras.show/guests/jilllinuxgirl)
 
 ## Sponsored by
 
@@ -37,4 +37,4 @@ None
 
 ## Tags
 
-[animation](https://extras.show//tags/animation), [brunch with brent](https://extras.show//tags/brunch%20with%20brent), [community](https://extras.show//tags/community), [gamer](https://extras.show//tags/gamer), [interview podcast](https://extras.show//tags/interview%20podcast), [jill bryant ryniker](https://extras.show//tags/jill%20bryant%20ryniker), [jillsciples](https://extras.show//tags/jillsciples), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [linux](https://extras.show//tags/linux), [linuxchix](https://extras.show//tags/linuxchix), [linuxgamecast](https://extras.show//tags/linuxgamecast), [lug](https://extras.show//tags/lug), [lwdw](https://extras.show//tags/lwdw), [open source](https://extras.show//tags/open%20source), [scale](https://extras.show//tags/scale)
+[animation](https://extras.show/tags/animation), [brunch with brent](https://extras.show/tags/brunch%20with%20brent), [community](https://extras.show/tags/community), [gamer](https://extras.show/tags/gamer), [interview podcast](https://extras.show/tags/interview%20podcast), [jill bryant ryniker](https://extras.show/tags/jill%20bryant%20ryniker), [jillsciples](https://extras.show/tags/jillsciples), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [linux](https://extras.show/tags/linux), [linuxchix](https://extras.show/tags/linuxchix), [linuxgamecast](https://extras.show/tags/linuxgamecast), [lug](https://extras.show/tags/lug), [lwdw](https://extras.show/tags/lwdw), [open source](https://extras.show/tags/open%20source), [scale](https://extras.show/tags/scale)

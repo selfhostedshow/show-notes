@@ -7,10 +7,10 @@
 
 ## About this episode
 
-What is the enthusiast trap, and why does it seem to ensnare every successful open source project? Also, some excellent listener power user tips for NextCloud. 
+What is the enthusiast trap, and why does it seem to ensnare every successful open source project? Also, some excellent listener power user tips for NextCloud.
 
 ## Your hosts
-* [Chris Fisher](https://extras.show//hosts/chrislas)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
 
 ## Sponsored by
 
@@ -30,4 +30,4 @@ None
 
 ## Tags
 
-[apple](https://extras.show//tags/apple), [enthusiast trap](https://extras.show//tags/enthusiast%20trap), [external storage](https://extras.show//tags/external%20storage), [free office](https://extras.show//tags/free%20office), [linux community](https://extras.show//tags/linux%20community), [manjaro](https://extras.show//tags/manjaro), [nextcloud](https://extras.show//tags/nextcloud), [nextcloud tips](https://extras.show//tags/nextcloud%20tips), [office hours with chris](https://extras.show//tags/office%20hours%20with%20chris), [pro user](https://extras.show//tags/pro%20user)
+[apple](https://extras.show/tags/apple), [enthusiast trap](https://extras.show/tags/enthusiast%20trap), [external storage](https://extras.show/tags/external%20storage), [free office](https://extras.show/tags/free%20office), [linux community](https://extras.show/tags/linux%20community), [manjaro](https://extras.show/tags/manjaro), [nextcloud](https://extras.show/tags/nextcloud), [nextcloud tips](https://extras.show/tags/nextcloud%20tips), [office hours with chris](https://extras.show/tags/office%20hours%20with%20chris), [pro user](https://extras.show/tags/pro%20user)

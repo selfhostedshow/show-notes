@@ -10,8 +10,8 @@
 Nothing is worse than your past self. So we play old clips of LINUX Unplugged and react.
 
 ## Your hosts
-* [Wes Payne](https://extras.show//hosts/wes)
-* [Chris Fisher](https://extras.show//hosts/chrislas)
+* [Wes Payne](https://extras.show/hosts/wes)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
 
 ## Sponsored by
 
@@ -27,4 +27,4 @@ None
 
 ## Tags
 
-[chris](https://extras.show//tags/chris), [linux unplugged](https://extras.show//tags/linux%20unplugged), [react](https://extras.show//tags/react), [wes](https://extras.show//tags/wes)
+[chris](https://extras.show/tags/chris), [linux unplugged](https://extras.show/tags/linux%20unplugged), [react](https://extras.show/tags/react), [wes](https://extras.show/tags/wes)

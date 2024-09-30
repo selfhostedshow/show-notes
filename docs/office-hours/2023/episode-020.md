@@ -10,10 +10,10 @@
 We're kicking off some new projects, catching up with old friends, and react to a new podcast app that automatically skips ads.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
-* [Alex Rodriguez](https://www.officehours.hair//guests/elrey)
-* [Stefan Schulte-Ortbeck](https://www.officehours.hair//guests/stefan)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
+* [Alex Rodriguez](https://www.officehours.hair/guests/elrey)
+* [Stefan Schulte-Ortbeck](https://www.officehours.hair/guests/stefan)
 
 ## Sponsored by
 
@@ -37,4 +37,4 @@ We're kicking off some new projects, catching up with old friends, and react to 
 
 ## Tags
 
-[archive](https://www.officehours.hair//tags/archive), [automatic ad skipping](https://www.officehours.hair//tags/automatic%20ad%20skipping), [chrislas](https://www.officehours.hair//tags/chrislas), [elrey](https://www.officehours.hair//tags/elrey), [geocaching](https://www.officehours.hair//tags/geocaching), [hugo](https://www.officehours.hair//tags/hugo), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair//tags/office%20hours), [podcast rss feeds](https://www.officehours.hair//tags/podcast%20rss%20feeds), [podcasting 2.0](https://www.officehours.hair//tags/podcasting%202.0), [sovereign feeds](https://www.officehours.hair//tags/sovereign%20feeds), [stefan](https://www.officehours.hair//tags/stefan), [webset](https://www.officehours.hair//tags/webset)
+[archive](https://www.officehours.hair/tags/archive), [automatic ad skipping](https://www.officehours.hair/tags/automatic%20ad%20skipping), [chrislas](https://www.officehours.hair/tags/chrislas), [elrey](https://www.officehours.hair/tags/elrey), [geocaching](https://www.officehours.hair/tags/geocaching), [hugo](https://www.officehours.hair/tags/hugo), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [office hours](https://www.officehours.hair/tags/office%20hours), [podcast rss feeds](https://www.officehours.hair/tags/podcast%20rss%20feeds), [podcasting 2.0](https://www.officehours.hair/tags/podcasting%202.0), [sovereign feeds](https://www.officehours.hair/tags/sovereign%20feeds), [stefan](https://www.officehours.hair/tags/stefan), [webset](https://www.officehours.hair/tags/webset)

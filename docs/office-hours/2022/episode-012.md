@@ -10,8 +10,8 @@
 Brent recounts a harrowing near miss on his road trip to the studio, and a surprise outage leaves Chris scrambling after launching the website.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
 
 ## Sponsored by
 
@@ -33,4 +33,4 @@ Brent recounts a harrowing near miss on his road trip to the studio, and a surpr
 
 ## Tags
 
-[alby](https://www.officehours.hair//tags/alby), [chrislas](https://www.officehours.hair//tags/chrislas), [fireside](https://www.officehours.hair//tags/fireside), [fountain.fm](https://www.officehours.hair//tags/fountain.fm), [highway 20](https://www.officehours.hair//tags/highway%2020), [hugo](https://www.officehours.hair//tags/hugo), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [member matrix room](https://www.officehours.hair//tags/member%20matrix%20room), [mountain kiss](https://www.officehours.hair//tags/mountain%20kiss), [office hours](https://www.officehours.hair//tags/office%20hours), [peertube api](https://www.officehours.hair//tags/peertube%20api), [podcasting](https://www.officehours.hair//tags/podcasting), [podcasting 2.0](https://www.officehours.hair//tags/podcasting%202.0), [podverse](https://www.officehours.hair//tags/podverse), [rss feeds](https://www.officehours.hair//tags/rss%20feeds), [saturn](https://www.officehours.hair//tags/saturn)
+[alby](https://www.officehours.hair/tags/alby), [chrislas](https://www.officehours.hair/tags/chrislas), [fireside](https://www.officehours.hair/tags/fireside), [fountain.fm](https://www.officehours.hair/tags/fountain.fm), [highway 20](https://www.officehours.hair/tags/highway%2020), [hugo](https://www.officehours.hair/tags/hugo), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [member matrix room](https://www.officehours.hair/tags/member%20matrix%20room), [mountain kiss](https://www.officehours.hair/tags/mountain%20kiss), [office hours](https://www.officehours.hair/tags/office%20hours), [peertube api](https://www.officehours.hair/tags/peertube%20api), [podcasting](https://www.officehours.hair/tags/podcasting), [podcasting 2.0](https://www.officehours.hair/tags/podcasting%202.0), [podverse](https://www.officehours.hair/tags/podverse), [rss feeds](https://www.officehours.hair/tags/rss%20feeds), [saturn](https://www.officehours.hair/tags/saturn)

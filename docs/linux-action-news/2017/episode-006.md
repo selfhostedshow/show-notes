@@ -7,7 +7,7 @@
 
 ## About this episode
 
-More competition in desktop Linux, Debian 9, Tails 3, Firefox 54, FreeNAS 11 & OpenMediaVault 3 get released. 
+More competition in desktop Linux, Debian 9, Tails 3, Firefox 54, FreeNAS 11 & OpenMediaVault 3 get released.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

@@ -7,7 +7,7 @@
 
 ## About this episode
 
-We get an update from Dell’s Barton George on their Linux initiative Sputnik, cover some important community news, and the uncomfortable questions raised by Krita’s new financial boost. 
+We get an update from Dell’s Barton George on their Linux initiative Sputnik, cover some important community news, and the uncomfortable questions raised by Krita’s new financial boost.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

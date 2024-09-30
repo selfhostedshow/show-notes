@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Free Software does what commercial can't this week, getting a Debian desktop on more Android devices gets closer and PureOS promises Convergence, but is there more beneath the surface? 
+Free Software does what commercial can't this week, getting a Debian desktop on more Android devices gets closer and PureOS promises Convergence, but is there more beneath the surface?
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

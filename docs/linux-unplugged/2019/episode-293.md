@@ -9,7 +9,6 @@
 
 Developers at Netflix are creating the next set of super powers for Linux, we'll get the details straight from the source.
 
-
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)

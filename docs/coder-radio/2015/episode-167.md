@@ -13,7 +13,6 @@ Has iPad peaked? Is it worth creating anything but consumption based apps for ta
 
 Plus Apple’s 30% cut, feedback & more!
 
-
 ## Your hosts
 * [Chris Fisher](https://coder.show/hosts/chrislas)
 * [Michael Dominick](https://coder.show/hosts/michael)

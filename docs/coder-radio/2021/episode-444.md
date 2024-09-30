@@ -16,7 +16,7 @@ The broader software problem the Log4Shell vulnerability reveals, and the story 
 ## Sponsored by
 
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
-  * [Network Membership Holiday Discount](http://jupiter.party): [Support the entire network, and get access to every member's special feed for every show on the network. Sign-up before the end of the year and save $2/m for a year!](http://jupiter.party)
+  * [Network Membership Holiday Discount](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024): [Support the entire network, and get access to every member's special feed for every show on the network. Sign up now and save $3/m FOREVER!](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024) Promo Code: 2024
 
 
 

@@ -7,7 +7,7 @@
 
 ## About this episode
 
-The way we’ve been thinking about Desktop Linux is all wrong. We start by defining Desktop Linux, and where it might be going in the future. 
+The way we’ve been thinking about Desktop Linux is all wrong. We start by defining Desktop Linux, and where it might be going in the future.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

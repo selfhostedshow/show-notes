@@ -10,13 +10,13 @@
 Brent's in the hot seat and plays to win 1000 Satoshis, while Wes adds a little color commentary.
 
 ## Your hosts
-* [Wes Payne](https://extras.show//hosts/wes)
-* [Chris Fisher](https://extras.show//hosts/chrislas)
-* [Brent Gervais](https://extras.show//hosts/brent)
+* [Wes Payne](https://extras.show/hosts/wes)
+* [Chris Fisher](https://extras.show/hosts/chrislas)
+* [Brent Gervais](https://extras.show/hosts/brent)
 
 ## Sponsored by
 
-  * [Support JB Directly ](http://jupiter.party): [Support the network directly with our new network membership.](http://jupiter.party)
+  * [Join the Party! The Jupiter Membership Party](http://jupiter.party): [Join the party and get exclusive content. ](http://jupiter.party)
 
 
 
@@ -28,4 +28,4 @@ None
 
 ## Tags
 
-[satoshionaire](https://extras.show//tags/satoshionaire), [satoshis](https://extras.show//tags/satoshis), [who wants to be a millionaire](https://extras.show//tags/who%20wants%20to%20be%20a%20millionaire)
+[satoshionaire](https://extras.show/tags/satoshionaire), [satoshis](https://extras.show/tags/satoshis), [who wants to be a millionaire](https://extras.show/tags/who%20wants%20to%20be%20a%20millionaire)

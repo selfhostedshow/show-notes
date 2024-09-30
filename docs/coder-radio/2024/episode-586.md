@@ -22,7 +22,7 @@ How Mike plans to win the Clone Wars with Dokku, we review some shocking develop
 ## Episode links
 
   * [💥 Gets Sats Quick and Easy with Strike](https://strike.me/ "💥 Gets Sats Quick and Easy with Strike") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.
-  * [📻 Boost with Fountain.FM](https://fountain.fm/features "📻 Boost with Fountain.FM") — Boost from Fountain.FM's website and keep your current Podcast app. Or kick the tires on the Podcasting 2.0 revolution and try out Fountain.FM the app! 🚀
+  * [📻 Boost with Fountain.FM](https://fountain.fm/ "📻 Boost with Fountain.FM") — Boost from Fountain.FM's website and keep your current Podcast app. Or kick the tires on the Podcasting 2.0 revolution and try out Fountain.FM the app! 🚀
   * [AWS CEO Says Most Developers Could Stop Coding Soon As AI Takes Over ](https://www.businessinsider.com/aws-ceo-developers-stop-coding-ai-takes-over-2024-8 "AWS CEO Says Most Developers Could Stop Coding Soon As AI Takes Over ") — "If you go forward 24 months from now, or some amount of time — I can't exactly predict where it is — it's possible that most developers are not coding," said Garman, who became AWS's CEO in June.
   * [Amazon S3 now supports conditional writes ](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-conditional-writes/ "Amazon S3 now supports conditional writes ") — Using conditional writes, you can simplify how distributed applications with multiple clients concurrently update data in parallel across shared datasets. Each client can conditionally write objects, making sure that it does not overwrite any objects already written by another client. This means you no longer need to build any client-side consensus mechanisms to coordinate updates or use additional API requests to check for the presence of an object before uploading data.
   * [Syncing Prod & Staging Data With Dokku ](https://dominickm.com/1691-2/ "Syncing Prod & Staging Data With Dokku ") — Dokku’s apps:clone command is a fantastic utility that allows you to replicate an entire app, including all code, databases and environment variables.
@@ -31,6 +31,8 @@ How Mike plans to win the Clone Wars with Dokku, we review some shocking develop
   * [macos: OSX (macOS) inside a Docker container.](https://github.com/dockur/macos "macos: OSX \(macOS\) inside a Docker container.") — By default, macOS Ventura will be installed. But you can add the VERSION environment variable to your compose file, in order to specify an alternative macOS version to be downloaded
   * [A long, weird FOSS circle ends as Microsoft donates Mono to Wine project ](https://arstechnica.com/gadgets/2024/08/a-long-weird-foss-circle-ends-as-microsoft-donates-mono-to-wine-project/ "A long, weird FOSS circle ends as Microsoft donates Mono to Wine project ") — Mono had many homes over 23 years, but Wine's repos might be its final stop.
   * [Thank you to all the Mono developers! ](https://github.com/mono/mono/issues/21796 "Thank you to all the Mono developers! ")
+  * [Start9](https://start9.com/ "Start9") — Opt out by running a private server.
+  * [Start9 | Lightning](https://docs.start9.com/0.3.4.x/guides/service-guides/lightning/index "Start9 | Lightning") — The following guide will get you up and running with a lightning node and walk you through opening your first channel.
 
 
 

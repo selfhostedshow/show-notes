@@ -7,7 +7,7 @@
 
 ## About this episode
 
-
+We kick off the new year with new apps in our home lab you’ll want to try and a new way to do networking.
 
 ## Your hosts
 * [Alex Kretzschmar](https://selfhosted.show/hosts/alexktz)

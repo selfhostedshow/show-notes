@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Apple M1 Linux development reaches a key milestone and boots a useable desktop; Ubuntu reveals a new product, and the secret SUSE project that leaked this week.
+Apple M1 Linux development reaches a key milestone and boots a usable desktop; Ubuntu reveals a new product, and the secret SUSE project that leaked this week.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

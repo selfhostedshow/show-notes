@@ -10,9 +10,9 @@
 The community is quick at work; we share major updates on our new website project, and chat with the "Official" Podcasting 2.0 consultant to find out what he's developing next for podcast listeners.
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
-* [Brent Gervais](https://www.officehours.hair//hosts/brentgervais)
-* [Alecks Gates](https://www.officehours.hair//guests/agates)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
+* [Brent Gervais](https://www.officehours.hair/hosts/brentgervais)
+* [Alecks Gates](https://www.officehours.hair/guests/agates)
 
 ## Sponsored by
 
@@ -38,4 +38,4 @@ The community is quick at work; we share major updates on our new website projec
 
 ## Tags
 
-[activitypub](https://www.officehours.hair//tags/activitypub), [alecks gates](https://www.officehours.hair//tags/alecks%20gates), [chrislas](https://www.officehours.hair//tags/chrislas), [cross app comments](https://www.officehours.hair//tags/cross%20app%20comments), [embedded player](https://www.officehours.hair//tags/embedded%20player), [git](https://www.officehours.hair//tags/git), [github](https://www.officehours.hair//tags/github), [hugo](https://www.officehours.hair//tags/hugo), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [linux foundation uses drm](https://www.officehours.hair//tags/linux%20foundation%20uses%20drm), [office hours](https://www.officehours.hair//tags/office%20hours), [open source website](https://www.officehours.hair//tags/open%20source%20website), [peertube](https://www.officehours.hair//tags/peertube), [podcasting 2.0](https://www.officehours.hair//tags/podcasting%202.0), [podverse](https://www.officehours.hair//tags/podverse)
+[activitypub](https://www.officehours.hair/tags/activitypub), [alecks gates](https://www.officehours.hair/tags/alecks%20gates), [chrislas](https://www.officehours.hair/tags/chrislas), [cross app comments](https://www.officehours.hair/tags/cross%20app%20comments), [embedded player](https://www.officehours.hair/tags/embedded%20player), [git](https://www.officehours.hair/tags/git), [github](https://www.officehours.hair/tags/github), [hugo](https://www.officehours.hair/tags/hugo), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [linux foundation uses drm](https://www.officehours.hair/tags/linux%20foundation%20uses%20drm), [office hours](https://www.officehours.hair/tags/office%20hours), [open source website](https://www.officehours.hair/tags/open%20source%20website), [peertube](https://www.officehours.hair/tags/peertube), [podcasting 2.0](https://www.officehours.hair/tags/podcasting%202.0), [podverse](https://www.officehours.hair/tags/podverse)

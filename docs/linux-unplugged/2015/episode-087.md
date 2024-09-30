@@ -11,7 +11,6 @@ After yet another gotcha takes down a critical Linux workstation, is it official
 
 Plus what happened to the Evolve OS project & why they are now called Solus.
 
-
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)

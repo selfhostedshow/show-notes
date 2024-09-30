@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Adopting a distro like it’s a religion is stupid. That’s one of many hard lessons we take away from Texas Linux Fest this week; we’ll share some of the best. 
+Adopting a distro like it’s a religion is stupid. That’s one of many hard lessons we take away from Texas Linux Fest this week; we’ll share some of the best.
 
 ## Your hosts
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)

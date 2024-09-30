@@ -10,7 +10,7 @@
 Texas LinuxFest day two live from the floor. It's a busy one, and we have some great guests sit down and chat. Then we send out Brent to walk the show expo hall.
 
 ## Your hosts
-* [Friends of Jupiter Broadcasting](https://extras.show//hosts/friends)
+* [Friends of Jupiter Broadcasting](https://extras.show/hosts/friends)
 
 ## Sponsored by
 
@@ -27,4 +27,4 @@ None
 
 ## Tags
 
-[austin](https://extras.show//tags/austin), [texas linuxfest](https://extras.show//tags/texas%20linuxfest)
+[austin](https://extras.show/tags/austin), [texas linuxfest](https://extras.show/tags/texas%20linuxfest)

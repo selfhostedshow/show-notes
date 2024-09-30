@@ -16,7 +16,7 @@ The Internet is going crazy with AI-generated media. What's the open-source stor
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 20 devices for free for a personal account. ](http://tailscale.com/)
+  * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
   * [Linode Cloud Hosting](https://linode.com/unplugged): [A special offer for all Linux Unplugged Podcast listeners and new Linode customers, visit linode.com/unplugged, and receive $100 towards your new account. ](https://linode.com/unplugged)
   * [Bitwarden](https://bitwarden.com/linux): [Bitwarden is the easiest way for businesses and individuals to store, share, and sync sensitive data.](https://bitwarden.com/linux)
 
@@ -24,7 +24,7 @@ The Internet is going crazy with AI-generated media. What's the open-source stor
 
 ## Episode links
 
-  * [KDE neon on Twitter: "KDE neon Rebased on Jammy…](https://twitter.com/KdeNeon/status/1583460224635375617 "KDE neon on Twitter: "KDE neon Rebased on Jammy…")
+  * [KDE neon on Twitter: "KDE neon Rebased on Jammy…](https://twitter.com/KdeNeon/status/1583460224635375617 "KDE neon on Twitter: ")
   * [Ubuntu 22.10 - Kinetic Kudu](https://discourse.ubuntu.com/t/ubuntu-22-10-kinetic-kudu-released/31649 "Ubuntu 22.10 - Kinetic Kudu") — Ubuntu Desktop 22.10 users will benefit from the refinements in GNOME 43, including GTK4 theming for improved performance and consistency. Quick Settings now provide faster access to commonly used options such as wifi, bluetooth, dark mode and power settings.
   * [ODROID-H3+](https://www.hardkernel.com/shop/odroid-h3-plus/ "ODROID-H3+") — Intel® Quad-Core Jasper Lake N6005, Up to 64GB Dual-channel Memory DDR4, PCIe 3.0 x 4 lanes, 2 x 2.5Gbit Ethernet ports, 2 x SATA 3.0 ports, and more!
   * [AI is taking over the iconic voice of Darth Vader, with the blessing of James Earl Jones | TechCrunch](https://techcrunch.com/2022/09/26/ai-is-taking-over-the-iconic-voice-of-darth-vader-with-the-blessing-of-james-earl-jones "AI is taking over the iconic voice of Darth Vader, with the blessing of James Earl Jones | TechCrunch")

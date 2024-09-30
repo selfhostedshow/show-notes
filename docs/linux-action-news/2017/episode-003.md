@@ -7,7 +7,7 @@
 
 ## About this episode
 
-NextCloud goes global, Devuan hits one, Solus keeps expanding, Firefox is trying, but Chrome has won. And more progress on Coreboot. 
+NextCloud goes global, Devuan hits one, Solus keeps expanding, Firefox is trying, but Chrome has won. And more progress on Coreboot.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

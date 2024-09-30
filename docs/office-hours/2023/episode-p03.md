@@ -10,7 +10,7 @@
 We're testing a new Podcasting 2.0 feature and need your ears!
 
 ## Your hosts
-* [Chris Fisher](https://www.officehours.hair//hosts/chrislas)
+* [Chris Fisher](https://www.officehours.hair/hosts/chrislas)
 
 ## Sponsored by
 
@@ -32,4 +32,4 @@ We're testing a new Podcasting 2.0 feature and need your ears!
 
 ## Tags
 
-[chrislas](https://www.officehours.hair//tags/chrislas), [classic episodes](https://www.officehours.hair//tags/classic%20episodes), [improvement proposal](https://www.officehours.hair//tags/improvement%20proposal), [jupiter broadcasting](https://www.officehours.hair//tags/jupiter%20broadcasting), [jupiter station](https://www.officehours.hair//tags/jupiter%20station), [lit](https://www.officehours.hair//tags/lit), [live feed](https://www.officehours.hair//tags/live%20feed), [live status](https://www.officehours.hair//tags/live%20status), [metadata](https://www.officehours.hair//tags/metadata), [office hours](https://www.officehours.hair//tags/office%20hours), [podcasting 2.0](https://www.officehours.hair//tags/podcasting%202.0), [push notification](https://www.officehours.hair//tags/push%20notification), [value block](https://www.officehours.hair//tags/value%20block), [weekly live streams](https://www.officehours.hair//tags/weekly%20live%20streams)
+[chrislas](https://www.officehours.hair/tags/chrislas), [classic episodes](https://www.officehours.hair/tags/classic%20episodes), [improvement proposal](https://www.officehours.hair/tags/improvement%20proposal), [jupiter broadcasting](https://www.officehours.hair/tags/jupiter%20broadcasting), [jupiter station](https://www.officehours.hair/tags/jupiter%20station), [lit](https://www.officehours.hair/tags/lit), [live feed](https://www.officehours.hair/tags/live%20feed), [live status](https://www.officehours.hair/tags/live%20status), [metadata](https://www.officehours.hair/tags/metadata), [office hours](https://www.officehours.hair/tags/office%20hours), [podcasting 2.0](https://www.officehours.hair/tags/podcasting%202.0), [push notification](https://www.officehours.hair/tags/push%20notification), [value block](https://www.officehours.hair/tags/value%20block), [weekly live streams](https://www.officehours.hair/tags/weekly%20live%20streams)

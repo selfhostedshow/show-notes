@@ -16,7 +16,7 @@ We learned some really hard lessons this week, and reflect. Then Chris finds the
 ## Sponsored by
 
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [Humio](https://humio.com/hce): [Take logs from any source and make them usable. Get started with Humio Community Edition for free.](https://humio.com/hce)
+  * [LogScale](https://crowdstrike.com/lce): [Take logs from any source and make them usable. Get started with LogScale Community Edition for free.](https://crowdstrike.com/lce)
 
 
 

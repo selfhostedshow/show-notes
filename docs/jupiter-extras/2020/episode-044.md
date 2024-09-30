@@ -10,8 +10,8 @@
 Brent sits down with Joe Ressington, Jupiter Broadcasting Podcast Content Director, Late Night Linux host, and musician, for an exploration of his journey in podcasting, a behind-the-scenes of User Error and Linux Action News, how music led to Linux, the origins of Brunch with Brent's theme music, and more.
 
 ## Your hosts
-* [Brent Gervais](https://extras.show//hosts/brent)
-* [Joe Ressington](https://extras.show//guests/joe)
+* [Brent Gervais](https://extras.show/hosts/brent)
+* [Joe Ressington](https://extras.show/guests/joe)
 
 ## Sponsored by
 
@@ -55,4 +55,4 @@ None
 
 ## Tags
 
-[brunch with brent](https://extras.show//tags/brunch%20with%20brent), [choose linux](https://extras.show//tags/choose%20linux), [community](https://extras.show//tags/community), [critical thinking](https://extras.show//tags/critical%20thinking), [extras](https://extras.show//tags/extras), [interview podcast](https://extras.show//tags/interview%20podcast), [joe ressington](https://extras.show//tags/joe%20ressington), [jupiter broadcasting](https://extras.show//tags/jupiter%20broadcasting), [kde](https://extras.show//tags/kde), [late night linux](https://extras.show//tags/late%20night%20linux), [linux](https://extras.show//tags/linux), [linux action news](https://extras.show//tags/linux%20action%20news), [linux action show](https://extras.show//tags/linux%20action%20show), [linux unplugged](https://extras.show//tags/linux%20unplugged), [linuxfest northwest](https://extras.show//tags/linuxfest%20northwest), [mastodon](https://extras.show//tags/mastodon), [music](https://extras.show//tags/music), [musician](https://extras.show//tags/musician), [oggcamp](https://extras.show//tags/oggcamp), [open source](https://extras.show//tags/open%20source), [plasma](https://extras.show//tags/plasma), [taylor swift](https://extras.show//tags/taylor%20swift), [ubuntu](https://extras.show//tags/ubuntu), [user error](https://extras.show//tags/user%20error), [xfce](https://extras.show//tags/xfce)
+[brunch with brent](https://extras.show/tags/brunch%20with%20brent), [choose linux](https://extras.show/tags/choose%20linux), [community](https://extras.show/tags/community), [critical thinking](https://extras.show/tags/critical%20thinking), [extras](https://extras.show/tags/extras), [interview podcast](https://extras.show/tags/interview%20podcast), [joe ressington](https://extras.show/tags/joe%20ressington), [jupiter broadcasting](https://extras.show/tags/jupiter%20broadcasting), [kde](https://extras.show/tags/kde), [late night linux](https://extras.show/tags/late%20night%20linux), [linux](https://extras.show/tags/linux), [linux action news](https://extras.show/tags/linux%20action%20news), [linux action show](https://extras.show/tags/linux%20action%20show), [linux unplugged](https://extras.show/tags/linux%20unplugged), [linuxfest northwest](https://extras.show/tags/linuxfest%20northwest), [mastodon](https://extras.show/tags/mastodon), [music](https://extras.show/tags/music), [musician](https://extras.show/tags/musician), [oggcamp](https://extras.show/tags/oggcamp), [open source](https://extras.show/tags/open%20source), [plasma](https://extras.show/tags/plasma), [taylor swift](https://extras.show/tags/taylor%20swift), [ubuntu](https://extras.show/tags/ubuntu), [user error](https://extras.show/tags/user%20error), [xfce](https://extras.show/tags/xfce)

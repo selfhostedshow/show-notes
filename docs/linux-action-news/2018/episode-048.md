@@ -7,7 +7,7 @@
 
 ## About this episode
 
-The Linux kernel gets a spring cleaning, things are going well for RISC-V, and Linux-Libre is clearly prioritizing freedom over security with their recent update. 
+The Linux kernel gets a spring cleaning, things are going well for RISC-V, and Linux-Libre is clearly prioritizing freedom over security with their recent update.
 
 ## Your hosts
 * [Chris Fisher](https://linuxactionnews.com/hosts/chris)

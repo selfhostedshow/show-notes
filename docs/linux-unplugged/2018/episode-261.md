@@ -15,7 +15,7 @@ GNOME is discussing big changes, Elementary OS has big news, and a big bug has b
 * [Brent Gervais](https://linuxunplugged.com/hosts/brent)
 * [Alan Pope](https://linuxunplugged.com/guests/alanpope)
 * [Cassidy James Blaede](https://linuxunplugged.com/guests/cassidyjames)
-* [Daniel Fore](https://linuxunplugged.com/guests/danielfore)
+* [Danielle Foré](https://linuxunplugged.com/guests/daniellefore)
 * [Eric Hendricks](https://linuxunplugged.com/guests/erichendricks)
 
 ## Sponsored by
