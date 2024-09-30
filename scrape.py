@@ -83,10 +83,6 @@ def create_episode(api_episode, show_config, output_dir):
 
         mkdir_safe(f"{output_dir}/{publish_date.year}")
 
-        if os.path.isfile(output_file):
-            print("Skipping", api_episode['url'], "as it already exists")
-            return
-
         api_soup = BeautifulSoup(api_episode["content_html"], "html.parser")
 
         blurb = api_episode["summary"]
