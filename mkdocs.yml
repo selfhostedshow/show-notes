@@ -74,10 +74,10 @@ extra:
       fireside_url: https://linuxunplugged.com
       acronym: LUP
     jupiter-extras:
-      fireside_url: https://extras.show/
+      fireside_url: https://extras.show
       acronym: JE
     office-hours:
-      fireside_url: https://www.officehours.hair/
+      fireside_url: https://www.officehours.hair
       acronym: OFH
       use_fireside_json: true
   social:
