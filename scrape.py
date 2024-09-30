@@ -4,6 +4,7 @@ import html2text
 import operator
 import os
 import re
+import traceback
 import xml.etree.ElementTree
 
 import requests
@@ -79,7 +80,7 @@ def create_episode(api_episode, show_config, output_dir):
         try:
             episode_number = int(api_episode["url"].split("/")[-1])
             episode_number_padded = f"{episode_number:03}"
-        except Exception as e:
+        except Exception:
             # Attempt to handle non-integer slugs.
             episode_number = episode_number_padded = api_episode["url"].split("/")[-1]
         publish_date = date_parse(api_episode['date_published'])
@@ -212,9 +213,9 @@ def main():
                 )
                 for api_episode in api_data:
                     futures.append(executor.submit(create_episode, api_episode, show_config, output_dir))
-            except:
+            except Exception as e:
                 print("ERROR: An error occurred somewhere.")
-
+                traceback.print_exception(e)
 
         # Drain to get exceptions. Still have to mash CTRL-C, though.
         for future in concurrent.futures.as_completed(futures):
