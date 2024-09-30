@@ -3,6 +3,7 @@ import datetime
 import html2text
 import operator
 import os
+import re
 import xml.etree.ElementTree
 
 import requests
@@ -10,6 +11,13 @@ from bs4 import BeautifulSoup
 from jinja2 import Template
 import yaml
 from dateutil.parser import parse as date_parse
+
+TITLE_REPLACERS = [
+    re.compile(r"^\d+: "),  # eg "101: "
+    re.compile(r"^episode \d+: ", flags=re.IGNORECASE),  # eg "Episode 101: "
+    re.compile(r"\| \w{1,3} ?\d+$"),  # eg "| CR 70" or "| LU1"
+    re.compile(r"\| \w+ \w+ \d+$")  # eg "| Coder Radio 70"
+]
 
 
 with open("templates/episode.md.j2") as f:
@@ -57,13 +65,9 @@ def get_plain_title(title: str):
     """
     Get just the show title, without any numbering etc
     """
-    # Remove number before colon
-    title = title.split(":", 1)[-1]
+    for replacer in TITLE_REPLACERS:
+        title = replacer.sub("", title)
 
-    # Remove data after the pipe
-    title = title.rsplit("|", 1)[0]
-
-    # Strip any stray spaces
     return title.strip()
 
 
