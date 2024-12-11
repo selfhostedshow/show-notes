@@ -17,7 +17,7 @@ We geek out over Brian Moses's 2025 DIY NAS build guide, contemplate future buil
 ## Sponsored by
 
   * [Keebio](https://keeb.io/selfhosted): [Sign up for their newsletter to get 5% off your first order.](https://keeb.io/selfhosted)
-  * [Unraid](https://unraid.net/selfhosted): [Unraid: A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.](https://unraid.net/selfhosted)
+  * [Unraid](https://unraid.net/selfhosted): [A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.](https://unraid.net/selfhosted)
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
 
 

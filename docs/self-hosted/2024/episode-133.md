@@ -16,7 +16,7 @@ Ditching Google Search for an entire month!  We reveal the tool that's helping u
 ## Sponsored by
 
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
-  * [Unraid](https://unraid.net/selfhosted): [Unraid: A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.](https://unraid.net/selfhosted)
+  * [Unraid](https://unraid.net/selfhosted): [A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.](https://unraid.net/selfhosted)
 
 
 

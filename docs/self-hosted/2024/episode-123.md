@@ -16,7 +16,7 @@ Alex benchmarks Intel CPUs (and an Arc GPU) to find the ideal balance of age, po
 ## Sponsored by
 
   * [Grist](https://getgrist.com/selfhosted): [Grist - the open-source alternative to Airtable and Google Sheets. ](https://getgrist.com/selfhosted)
-  * [Unraid](https://unraid.net/selfhosted): [Unraid: A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.](https://unraid.net/selfhosted)
+  * [Unraid](https://unraid.net/selfhosted): [A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.](https://unraid.net/selfhosted)
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
 
 
