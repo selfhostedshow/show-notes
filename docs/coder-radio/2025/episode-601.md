@@ -15,7 +15,7 @@ Some debates never die, and this week, we’re reigniting one of our spiciest fr
 
 ## Sponsored by
 
-  * [Bitcoin Well](https://coder.show/bitcoin): [Bitcoin sent directly to your wallet is the safest way to buy Bitcoin. Immediate settlement, direct to self-custody. Supports the Lightning Network.](https://coder.show/bitcoin)
+  * [Bitcoin Well](https://bitcoinwell.com/jupiter): [Bitcoin sent directly to your wallet is the safest way to buy Bitcoin. Immediate settlement, direct to self-custody. Supports the Lightning Network.](https://bitcoinwell.com/jupiter)
   * [Coder QA](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar): [Take $2 a month off for the lifetime of your membership and contribute to our show directly](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar) Promo Code: jarjar
 
 
