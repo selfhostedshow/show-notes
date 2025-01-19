@@ -142,7 +142,8 @@ def create_episode(api_episode, show_config, output_dir):
             print("Saving", api_episode["url"])
             f.write(output)
     except Exception as e:
-        print(f"Skipping {api_episode['url']} because of error: {e}")
+        print(f"Skipping {api_episode['url']} because of error")
+        traceback.print_exception(e)
 
 
 def api_data_from_rss_item(item):
