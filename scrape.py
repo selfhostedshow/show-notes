@@ -144,9 +144,11 @@ def create_episode(api_episode, show_config, output_dir):
         with open(output_file, "w") as f:
             print("Saving", api_episode["url"])
             f.write(output)
+        return True
     except Exception as e:
         print(f"Skipping {api_episode['url']} because of error")
         traceback.print_exception(e)
+        return False
 
 
 def api_data_from_rss_item(item):
@@ -202,6 +204,8 @@ def main():
     with open("mkdocs.yml") as f:
         shows = yaml.load(f, Loader=yaml.SafeLoader)['extra']['shows']
 
+    exit_code = 0
+
     with concurrent.futures.ThreadPoolExecutor() as executor:
         futures = []
         for show_slug, show_config in shows.items():
@@ -223,7 +227,12 @@ def main():
 
         # Drain to get exceptions. Still have to mash CTRL-C, though.
         for future in concurrent.futures.as_completed(futures):
-            future.result()
+            success = future.result()
+
+            if not success:
+                exit_code = 1
+
+    exit(exit_code)
 
 
 if __name__ == "__main__":
