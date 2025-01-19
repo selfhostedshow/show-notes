@@ -96,7 +96,10 @@ def create_episode(api_episode, show_config, output_dir):
 
         links = html2text.html2text(str(get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:")))
 
-        page_soup = BeautifulSoup(requests.get(api_episode["url"]).content, "html.parser")
+        page_request = requests.get(api_episode["url"], headers={"Accept": "text/html"})
+        page_request.raise_for_status()
+
+        page_soup = BeautifulSoup(page_request.content, "html.parser")
 
         tags = []
         for link in page_soup.find_all("a", class_="tag"):
