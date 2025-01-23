@@ -15,8 +15,8 @@ NextCloud makes some significant changes, and we share our reaction; IBM is plan
 
 ## Sponsored by
 
-  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
   * [System76](https://system76.com/): [System76 is better than ever, check out all the great stuff they're doing today and tell them Linux Action News sent you.](https://system76.com/)
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
 
 
 

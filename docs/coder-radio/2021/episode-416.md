@@ -15,10 +15,10 @@ Mike's unique take on the bold promises made at MS Build this year, and the one 
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
-  * [System76](https://system76.com/accessories/launch): [Engineered to be comfortable and fully customizable.](https://system76.com/accessories/launch)
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
   * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [System76](https://system76.com/accessories/launch): [Engineered to be comfortable and fully customizable.](https://system76.com/accessories/launch)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 

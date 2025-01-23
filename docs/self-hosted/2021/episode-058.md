@@ -15,9 +15,9 @@ This week we unlock the "Pi"tential of the Compute Module 4 and turn it into a d
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze.](https://www.backblaze.com/ssh)
   * [A Cloud Guru](https://acloud.guru/overview/108f9d35-6966-4fb6-a6cd-7af135329bba?utm_source=jupiter&utm_medium=cpc): [Go through a series of hands-on labs picked to showcase Docker and gain experience with it.](https://acloud.guru/overview/108f9d35-6966-4fb6-a6cd-7af135329bba?utm_source=jupiter&utm_medium=cpc)
+  * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze.](https://www.backblaze.com/ssh)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

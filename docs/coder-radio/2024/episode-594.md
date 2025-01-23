@@ -15,8 +15,8 @@ Malicious NPM packages are sneaking into codebases while FFmpeg devs prove old-s
 
 ## Sponsored by
 
-  * [Annual Membership - Jupiter Party](https://jupitersignal.memberful.com/checkout?plan=117630): [Put your support on auto-pilot and get one month for free!](https://jupitersignal.memberful.com/checkout?plan=117630)
   * [Coder QA](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar): [Take $2 a month off for the lifetime of your membership and contribute to our show directly](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar) Promo Code: jarjar
+  * [Annual Membership - Jupiter Party](https://jupitersignal.memberful.com/checkout?plan=117630): [Put your support on auto-pilot and get one month for free!](https://jupitersignal.memberful.com/checkout?plan=117630)
 
 
 

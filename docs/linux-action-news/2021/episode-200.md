@@ -15,9 +15,9 @@ Microsoft's next kernel patch fixes a long-standing Linux issue, we'll share the
 
 ## Sponsored by
 
-  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
   * [Linux Action News Sticker](https://www.jupitergarage.com/product/lansticker): [Celebrate 200 episodes of your favorite Linux news podcast!](https://www.jupitergarage.com/product/lansticker)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
 
 
 

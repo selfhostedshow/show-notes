@@ -15,8 +15,8 @@ Sometimes your best upgrades are unplanned;  Chris just got his Home Assistant Y
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

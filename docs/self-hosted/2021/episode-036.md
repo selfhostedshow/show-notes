@@ -15,9 +15,9 @@ Our favorite Google Docs killer with markdown support has a big update. We expla
 
 ## Sponsored by
 
+  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [A Cloud Guru](https://acloud.guru/overview/108f9d35-6966-4fb6-a6cd-7af135329bba?utm_source=jupiter&utm_medium=cpc): [Go through a series of hands-on labs picked to showcase Docker and gain experience with it.](https://acloud.guru/overview/108f9d35-6966-4fb6-a6cd-7af135329bba?utm_source=jupiter&utm_medium=cpc)
-  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
 
 
 

@@ -17,8 +17,8 @@ We're kicking off some new projects, catching up with old friends, and react to 
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
   * [Join the Party! The Jupiter Membership Party](https://www.jupiter.party/): [Join the party and get exclusive content. ](https://www.jupiter.party/)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
 
 
 

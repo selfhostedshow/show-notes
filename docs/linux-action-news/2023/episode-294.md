@@ -15,8 +15,8 @@ Microsoft's new Linux server distro, Red Hat Summit 2023 highlights, big changes
 
 ## Sponsored by
 
-  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
   * [Kolide](https://l.kolide.co/3klbWzr): [Kolide can help you nail third-party audits and internal compliance goals with endpoint security for your entire fleet. ](https://l.kolide.co/3klbWzr)
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
 
 
 

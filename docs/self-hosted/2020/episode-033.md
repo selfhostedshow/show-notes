@@ -15,8 +15,8 @@ Alex puts the fantastic-looking, ARM-powered NAS known as the Helios64 to the te
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [A Cloud Guru](https://acloudguru.com/pricing/?utm_source=jupiter&utm_medium=cpc&utm_campaign=2020_blackfriday): [Take advantage of your last chance to get a discount this year.](https://acloudguru.com/pricing/?utm_source=jupiter&utm_medium=cpc&utm_campaign=2020_blackfriday)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

@@ -11,8 +11,8 @@ Some old friends of JB join Alex to discuss 3D printing.
 
 ## Your hosts
 * [Alex Kretzschmar](https://selfhosted.show/hosts/alexktz)
-* [chzbacon](https://selfhosted.show/guests/chzbacon)
 * [Drew DeVore](https://selfhosted.show/guests/drewofdoom)
+* [chzbacon](https://selfhosted.show/guests/chzbacon)
 
 ## Sponsored by
 

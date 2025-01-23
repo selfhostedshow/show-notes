@@ -15,8 +15,8 @@ Our road trip machine is loaded up from solar to networking, the tech that made 
 
 ## Sponsored by
 
-  * [Join the Party! The Jupiter Membership Party](http://jupiter.party): [Join the party and get exclusive content. ](http://jupiter.party)
   * [Linode](https://linode.com/jupiter): [See why we and Linux users around the world love Linode, and get a $100 credit](https://linode.com/jupiter)
+  * [Join the Party! The Jupiter Membership Party](http://jupiter.party): [Join the party and get exclusive content. ](http://jupiter.party)
 
 
 

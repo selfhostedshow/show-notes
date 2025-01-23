@@ -29,7 +29,7 @@ None
   * [Home Assistant - Open source home automation](https://www.home-assistant.io/ "Home Assistant - Open source home automation")
   * [WireGuard: fast, modern, secure VPN tunnel](https://www.wireguard.com/ "WireGuard: fast, modern, secure VPN tunnel")
   * [Linux Unplugged 331: apt install arch-linux](https://linuxunplugged.com/331 "Linux Unplugged 331: apt install arch-linux") — Brent's first WireGuard project
-  * [Linux Unplugged - Episodes tagged "WireGuard"](https://linuxunplugged.com/tags/wireguard "Linux Unplugged - Episodes tagged ")
+  * [Linux Unplugged - Episodes tagged "WireGuard"](https://linuxunplugged.com/tags/wireguard "Linux Unplugged - Episodes tagged "WireGuard"")
   * [Self-Hosted 7: Why We Love Home Assistant](https://selfhosted.show/7 "Self-Hosted 7: Why We Love Home Assistant")
   * [Elementary OS](https://elementary.io/ "Elementary OS")
   * [PINE64](https://www.pine64.org/ "PINE64")

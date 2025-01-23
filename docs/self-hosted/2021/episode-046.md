@@ -15,9 +15,9 @@ We'll share how we deployed a painless, Self-Hosted Pastebin replacement, and wh
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [PrivadoVPN](https://privadovpn.com/ssh): [PrivadoVPN is a ZERO-LOG VPN, with crazy fast speeds and P2P support. So visit privadovpn.com/ssh and try it out for free.](https://privadovpn.com/ssh)
   * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
+  * [PrivadoVPN](https://privadovpn.com/ssh): [PrivadoVPN is a ZERO-LOG VPN, with crazy fast speeds and P2P support. So visit privadovpn.com/ssh and try it out for free.](https://privadovpn.com/ssh)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

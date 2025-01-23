@@ -15,9 +15,9 @@ With rage in our hearts, we proclaim a Self-Hosted Google Photos replacement, an
 
 ## Sponsored by
 
+  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
+  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
   * [Datadog](http://datadog.com/selfhosted): [Try Datadog today by starting a free 14-day trial and receive a Datadog t-shirt after creating just one dashboard.](http://datadog.com/selfhosted)
-  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
-  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
 
 
 

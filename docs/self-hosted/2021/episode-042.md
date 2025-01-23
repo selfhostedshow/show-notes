@@ -16,8 +16,8 @@ A record is broken, a life goal is achieved, and why we are going long on Linksy
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [A Cloud Guru](https://acloud.guru/overview/fa9c6558-85bb-4c14-b6a6-1b32a9c54232): [This intermediate-level course teaches the concepts of using PowerShell Core with Linux.](https://acloud.guru/overview/fa9c6558-85bb-4c14-b6a6-1b32a9c54232)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

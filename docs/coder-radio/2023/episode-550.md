@@ -15,9 +15,9 @@ We reflect on how our work has changed over the last year and get some sage advi
 
 ## Sponsored by
 
+  * [Network Membership Holiday Discount](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024): [Support the entire network, and get access to every member's special feed for every show on the network. Sign up now and save $3/m FOREVER!](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024) Promo Code: 2024
   * [Alderon Games](https://alderon.games/coder): [Alderon Games is looking to hire talented remote workers. They believe in the power of play and the magic of immersive worlds and are looking for passionate individuals.](https://alderon.games/coder)
   * [Tailscale](https://tailscale.com/coder): [Tailscale is the easiest way to create a peer-to-peer network with the power of Wireguard. ](https://tailscale.com/coder)
-  * [Network Membership Holiday Discount](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024): [Support the entire network, and get access to every member's special feed for every show on the network. Sign up now and save $3/m FOREVER!](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024) Promo Code: 2024
 
 
 

@@ -15,8 +15,8 @@ We try out a couple of very popular Docker GUI's and report back, and discuss ou
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze.](https://www.backblaze.com/ssh)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

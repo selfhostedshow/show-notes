@@ -15,9 +15,9 @@ Troubleshooting goes very wrong for Alex, and he puts his backups to the ultimat
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze.](https://www.backblaze.com/ssh)
   * [A Cloud Guru](https://learn.acloud.guru/course/21d201a8-1ec5-4076-bd74-8836d87cb9f1/overview/?utm_source=jupiter&utm_medium=cpc): [This course covers the various software, tools, and utilities used to configure web services on a Linux host.](https://learn.acloud.guru/course/21d201a8-1ec5-4076-bd74-8836d87cb9f1/overview/?utm_source=jupiter&utm_medium=cpc)
+  * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze.](https://www.backblaze.com/ssh)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

@@ -16,8 +16,8 @@ A special friend of the show joins us to discuss C++ in 2020 and the growing ado
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 

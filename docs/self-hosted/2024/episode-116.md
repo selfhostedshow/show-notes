@@ -15,9 +15,9 @@ Alex has been deep-diving into container networking, and Chris is trying to stee
 
 ## Sponsored by
 
+  * [The Launch 🚀](https://www.weeklylaunch.rocks/): [Chris guides you through the most interesting stories and clips that set the stage for the rest of the week, while playing some of his favorite value 4 value tracks. ](https://www.weeklylaunch.rocks/)
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
   * [Trusteebook](https://trusteebook.com/selfhosted): [TrusteeBook - a simple, easy-to-use workbook that helps you take control of your digital legacy. Get started today, and take $10 off.](https://trusteebook.com/selfhosted) Promo Code: SELFHOSTED
-  * [The Launch 🚀](https://www.weeklylaunch.rocks/): [Chris guides you through the most interesting stories and clips that set the stage for the rest of the week, while playing some of his favorite value 4 value tracks. ](https://www.weeklylaunch.rocks/)
 
 
 

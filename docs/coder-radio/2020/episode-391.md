@@ -15,8 +15,8 @@ Time to talk business, and Chris reveals his biggest mistake since going indepen
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 

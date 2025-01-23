@@ -17,9 +17,9 @@ Plus, an update on our new bounty release format!
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
-  * [Join the Party! The Jupiter Membership Party](https://www.jupiter.party/): [Join the party and get exclusive content. ](https://www.jupiter.party/)
   * [Send us a Boost w/a new Podcast App](http://newpodcastapps.com/): [Send a boost into the show, try out a new app, and help keep podcasting independent. ](http://newpodcastapps.com/)
+  * [Join the Party! The Jupiter Membership Party](https://www.jupiter.party/): [Join the party and get exclusive content. ](https://www.jupiter.party/)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
 
 
 

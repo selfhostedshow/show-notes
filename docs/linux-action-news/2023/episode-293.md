@@ -15,9 +15,9 @@ Bcachefs hits a major milestone, how the Red Hat cuts impact Fedora, Plasma 6 pl
 
 ## Sponsored by
 
-  * [Jupiter Network Membership](http://jupiter.party): [Support the entire network, and get access to every member's special feed for every show on the network.](http://jupiter.party) Promo Code: thesignal
-  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
   * [Kolide](https://l.kolide.co/3klbWzr): [Kolide can help you nail third-party audits and internal compliance goals with endpoint security for your entire fleet. ](https://l.kolide.co/3klbWzr)
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
+  * [Jupiter Network Membership](http://jupiter.party): [Support the entire network, and get access to every member's special feed for every show on the network.](http://jupiter.party) Promo Code: thesignal
 
 
 

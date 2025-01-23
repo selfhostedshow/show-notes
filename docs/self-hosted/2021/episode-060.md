@@ -15,8 +15,8 @@ Recent AWS outages sent Alex on a hunt to find more self-hosted alternatives, an
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze.](https://www.backblaze.com/ssh)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

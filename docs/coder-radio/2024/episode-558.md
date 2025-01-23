@@ -15,8 +15,8 @@ We embrace the dad bod lifestyle and find out if Apple's Vision Pro demo sold Mi
 
 ## Sponsored by
 
-  * [Trusteebook](https://trusteebook.com/coder): [TrusteeBook - a simple, easy-to-use workbook that helps you take control of your digital legacy. Get started today, and take $10 off.](https://trusteebook.com/coder) Promo Code: CODER
   * [Coder QA](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar): [Take $2 a month off for the lifetime of your membership and contribute to our show directly](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar) Promo Code: jarjar
+  * [Trusteebook](https://trusteebook.com/coder): [TrusteeBook - a simple, easy-to-use workbook that helps you take control of your digital legacy. Get started today, and take $10 off.](https://trusteebook.com/coder) Promo Code: CODER
 
 
 

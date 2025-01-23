@@ -15,9 +15,9 @@ Updates gone wrong, surprise hardware failures, and flooding out all our electro
 
 ## Sponsored by
 
+  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [A Cloud Guru](https://acloud.guru/overview/red-hat-ex447-ansible-best-practices/?utm_source=jupiter&utm_medium=cpc): [When you’ve finished this course, you’ll have a better understanding of the topics on the exam, including installing Ansible Tower, managing Ansible inventory, managing Tower templates, and additional functions.](https://acloud.guru/overview/red-hat-ex447-ansible-best-practices/?utm_source=jupiter&utm_medium=cpc)
-  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
 
 
 

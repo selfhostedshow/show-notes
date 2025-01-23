@@ -15,10 +15,10 @@ We visit an alternate reality where Epic wins in their fight against Apple, COBO
 
 ## Sponsored by
 
-  * [System76](https://system76.com/desktops/thelio-mira): [Thelio Mira empowers your workflow with high-end components backed by quiet, effective cooling—a great value that proves its worth in any professional setting.](https://system76.com/desktops/thelio-mira)
-  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
+  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
+  * [System76](https://system76.com/desktops/thelio-mira): [Thelio Mira empowers your workflow with high-end components backed by quiet, effective cooling—a great value that proves its worth in any professional setting.](https://system76.com/desktops/thelio-mira)
 
 
 

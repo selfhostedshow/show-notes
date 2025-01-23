@@ -15,9 +15,9 @@ We take a look at a self-hosted TeamViewer alternative, give you our take on som
 
 ## Sponsored by
 
-  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [A Cloud Guru](https://acloud.guru/overview/hands-on-with-podman-containers/?utm_source=jupiter&utm_medium=cpc): [You will learn what containers are and why use them; how to manage containers, pods, and images using Podman.](https://acloud.guru/overview/hands-on-with-podman-containers/?utm_source=jupiter&utm_medium=cpc)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
+  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
 
 
 

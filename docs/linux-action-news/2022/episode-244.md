@@ -15,8 +15,8 @@ SUSE Enterprise is already switching to the new NVIDIA open kernel driver, a Mat
 
 ## Sponsored by
 
-  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
   * [Jupiter Network Membership](http://jupiter.party): [Support the entire network, and get access to every member's special feed for every show on the network.](http://jupiter.party) Promo Code: thesignal
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
 
 
 

@@ -16,8 +16,8 @@ Alex's new Epyc server build, and Jon Seager from Canonical joins us to chat abo
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
   * [This Week in Bitcoin](https://www.thisweekinbitcoin.show/): [A high-signal Bitcoin news podcast focused on analysis you'll find valuable.](https://www.thisweekinbitcoin.show/)
+  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
 
 
 

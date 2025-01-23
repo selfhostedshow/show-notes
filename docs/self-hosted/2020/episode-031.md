@@ -15,9 +15,9 @@ We have a philosophical debate on cloud vs local and Alex experiences full-blown
 
 ## Sponsored by
 
+  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [Datadog](http://datadog.com/selfhosted): [Try Datadog today by starting a free 14-day trial and receive a Datadog t-shirt after creating just one dashboard.](http://datadog.com/selfhosted)
-  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
 
 
 

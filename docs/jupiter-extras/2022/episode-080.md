@@ -15,8 +15,8 @@ During our summer road trip to Denver we had the microphone's recording and capt
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/jupiter): [See why we and Linux users around the world love Linode, and get a $100 credit](https://linode.com/jupiter)
   * [Join the Party! The Jupiter Membership Party](http://jupiter.party): [Join the party and get exclusive content. ](http://jupiter.party)
+  * [Linode](https://linode.com/jupiter): [See why we and Linux users around the world love Linode, and get a $100 credit](https://linode.com/jupiter)
 
 
 

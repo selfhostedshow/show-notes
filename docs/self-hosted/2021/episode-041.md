@@ -16,9 +16,9 @@ Special guest Jeff Geerling tells us how he got 16 drives connected to one Pi.
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [Datadog](http://datadog.com/selfhosted): [Try Datadog today by starting a free 14-day trial and receive a Datadog t-shirt after creating just one dashboard.](http://datadog.com/selfhosted)
   * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
+  * [Datadog](http://datadog.com/selfhosted): [Try Datadog today by starting a free 14-day trial and receive a Datadog t-shirt after creating just one dashboard.](http://datadog.com/selfhosted)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

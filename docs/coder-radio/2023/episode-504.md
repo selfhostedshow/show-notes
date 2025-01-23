@@ -15,9 +15,9 @@ We get spicy about the state of hybrid app development and then dig into the App
 
 ## Sponsored by
 
+  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [The Coder is made from 100% cotton terry velour for soft, cozy wear and is embroidered on the left chest with a classic white-on-black Coder Radio logo. Save $10 with code SWIFT.](https://www.jupitergarage.com/product/the-coder-robe) Promo Code: SWIFT
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [Tailscale](https://tailscale.com/coder): [Tailscale is the easiest way to create a peer-to-peer network with the power of Wireguard. ](https://tailscale.com/coder)
-  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [The Coder is made from 100% cotton terry velour for soft, cozy wear and is embroidered on the left chest with a classic white-on-black Coder Radio logo. Save $10 with code SWIFT.](https://www.jupitergarage.com/product/the-coder-robe) Promo Code: SWIFT
 
 
 

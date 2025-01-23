@@ -15,9 +15,9 @@ Alex has a new trick for local and remote backups, and shares his thoughts on Sy
 
 ## Sponsored by
 
+  * [A Cloud Guru](https://acloud.guru/overview/fa9c6558-85bb-4c14-b6a6-1b32a9c54232): [This intermediate-level course teaches the concepts of using PowerShell Core with Linux.](https://acloud.guru/overview/fa9c6558-85bb-4c14-b6a6-1b32a9c54232)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [Synology](http://selfhosted.show/synology): [DSM is like using a desktop session inside your browser. Visit selfhosted.show/synology for a live demo.](http://selfhosted.show/synology)
-  * [A Cloud Guru](https://acloud.guru/overview/fa9c6558-85bb-4c14-b6a6-1b32a9c54232): [This intermediate-level course teaches the concepts of using PowerShell Core with Linux.](https://acloud.guru/overview/fa9c6558-85bb-4c14-b6a6-1b32a9c54232)
 
 
 

@@ -15,8 +15,8 @@ We kick off a new show and chat about the rapid centralization facing the podcas
 
 ## Sponsored by
 
-  * [Send us a Boost w/a new Podcast App](http://newpodcastapps.com/): [Send a boost into the show, try out a new app, and help keep podcasting independent. ](http://newpodcastapps.com/)
   * [Join the Party! The Jupiter Membership Party](https://www.jupiter.party/): [Join the party and get exclusive content. ](https://www.jupiter.party/)
+  * [Send us a Boost w/a new Podcast App](http://newpodcastapps.com/): [Send a boost into the show, try out a new app, and help keep podcasting independent. ](http://newpodcastapps.com/)
 
 
 

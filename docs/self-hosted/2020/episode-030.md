@@ -15,9 +15,9 @@ Chris gets left out in the cold after a Home Assistant glitch, and Alex puts a b
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [A Cloud Guru](https://acloud.guru/learn/023b7235-ba2d-41a8-9273-9c955c47715a/?utm_source=jupiter&utm_medium=cpc): [Demystify the sometimes difficult and deep topic of systemd, the most widely used service management scheme in Linux today.](https://acloud.guru/learn/023b7235-ba2d-41a8-9273-9c955c47715a/?utm_source=jupiter&utm_medium=cpc)
   * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
+  * [A Cloud Guru](https://acloud.guru/learn/023b7235-ba2d-41a8-9273-9c955c47715a/?utm_source=jupiter&utm_medium=cpc): [Demystify the sometimes difficult and deep topic of systemd, the most widely used service management scheme in Linux today.](https://acloud.guru/learn/023b7235-ba2d-41a8-9273-9c955c47715a/?utm_source=jupiter&utm_medium=cpc)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

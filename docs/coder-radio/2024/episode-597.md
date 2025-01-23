@@ -15,8 +15,8 @@ A survey found that nearly 10% of developers are ghosts doing nothing - our thou
 
 ## Sponsored by
 
-  * [Mission Control](https://www.mcntrl.com/): [UK-based Mission Control can build Flutter and React Apps for companies big and small, including Fortune 500 companies or startups getting their first project off the ground. Reach out and tell them Coder sent you!](https://www.mcntrl.com/) Promo Code: Tell them Coder Radio Sent You!
   * [Coder QA](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=blackfriday): [30% off the lifetime of your membership!](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=blackfriday) Promo Code: blackfriday
+  * [Mission Control](https://www.mcntrl.com/): [UK-based Mission Control can build Flutter and React Apps for companies big and small, including Fortune 500 companies or startups getting their first project off the ground. Reach out and tell them Coder sent you!](https://www.mcntrl.com/) Promo Code: Tell them Coder Radio Sent You!
 
 
 

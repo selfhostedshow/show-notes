@@ -15,9 +15,9 @@ After a decade long fight, no one feels like a winner.
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
   * [A Cloud Guru](https://acloud.guru/overview/fa9c6558-85bb-4c14-b6a6-1b32a9c54232): [This intermediate-level course teaches the concepts of using PowerShell Core with Linux.](https://acloud.guru/overview/fa9c6558-85bb-4c14-b6a6-1b32a9c54232)
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 

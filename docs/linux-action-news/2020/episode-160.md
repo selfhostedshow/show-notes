@@ -15,9 +15,9 @@ Ubuntu 20.10 is out, with official Raspberry Pi 4 desktop support. We try it out
 
 ## Sponsored by
 
-  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [System76](https://system76.com/): [System76 is better than ever, check out all the great stuff they're doing today and tell them Linux Action News sent you.](https://system76.com/)
   * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [System76](https://system76.com/): [System76 is better than ever, check out all the great stuff they're doing today and tell them Linux Action News sent you.](https://system76.com/)
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
 
 
 

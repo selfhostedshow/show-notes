@@ -15,8 +15,8 @@ We have a different take on the Oracle v. Google case that may usher in an API c
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [A Cloud Guru](https://acloud.guru/learn/eacc77f8-54c2-427f-8c5c-e32e98123f5c/?utm_source=jupiter&utm_medium=cpc): [Learn about some intermediate to advanced Python topics and see how to apply concepts you’ve already learned to solve different problems.](https://acloud.guru/learn/eacc77f8-54c2-427f-8c5c-e32e98123f5c/?utm_source=jupiter&utm_medium=cpc)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 

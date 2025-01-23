@@ -15,8 +15,8 @@ Some big news for Jupiter Broadcasting and a picture-perfect app-pick with Lyche
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

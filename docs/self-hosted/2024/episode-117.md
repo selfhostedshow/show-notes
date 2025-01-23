@@ -16,9 +16,9 @@ We chat about VMware's rug pull with Bret, aka Raid Owl, and then get into Unrai
 
 ## Sponsored by
 
+  * [The Launch 🚀](https://www.weeklylaunch.rocks/): [Chris guides you through the most interesting stories and clips that set the stage for the rest of the week, while playing some of his favorite value 4 value tracks. ](https://www.weeklylaunch.rocks/)
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
   * [Trusteebook](https://trusteebook.com/selfhosted): [TrusteeBook - a simple, easy-to-use workbook that helps you take control of your digital legacy. Get started today, and take $10 off.](https://trusteebook.com/selfhosted) Promo Code: SELFHOSTED
-  * [The Launch 🚀](https://www.weeklylaunch.rocks/): [Chris guides you through the most interesting stories and clips that set the stage for the rest of the week, while playing some of his favorite value 4 value tracks. ](https://www.weeklylaunch.rocks/)
 
 
 
@@ -28,7 +28,7 @@ We chat about VMware's rug pull with Bret, aka Raid Owl, and then get into Unrai
   * [🎉 Boost with Fountain FM](https://www.fountain.fm/ "🎉 Boost with Fountain FM") — Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts.
   * [Raid Owl - YouTube](https://www.youtube.com/@RaidOwl "Raid Owl - YouTube") — Hi there, my name is Brett and I'm just a nerdy dude who is passionate about home lab stuff, networking, pc builds, and tech in general. I created Raid Owl to provide a creative outlet for my passion and hopefully help people along the way. 
   * [Broadcom terminates VMware's free ESXi hypervisor](https://www.theregister.com/2024/02/13/broadcom_ends_free_esxi_vsphere/ "Broadcom terminates VMware's free ESXi hypervisor") — Broadcom has discontinued the free version of VMware's ESXi hypervisor.
-  * [VMware is "killing off" 56 products amid "tectonic" infrastructure shift](https://www.thestack.technology/vmware-is-killing-off-56-products-including-vsphere-hypervisor-and-nsx/ "VMware is ")
+  * [VMware is "killing off" 56 products amid "tectonic" infrastructure shift](https://www.thestack.technology/vmware-is-killing-off-56-products-including-vsphere-hypervisor-and-nsx/ "VMware is "killing off" 56 products amid "tectonic" infrastructure shift")
   * [Raid Owl on X](https://twitter.com/RaidOwlTweets/status/1760323115953836138 "Raid Owl on X") — This #30DaysOfLinux challenge is not going as expected…
   * [Unraid | Upcoming Changes to Unraid OS Pricing](https://unraid.net/blog/pricing-change "Unraid | Upcoming Changes to Unraid OS Pricing") — Again, this change does not apply to any current license holders. You will still be able to access all updates for life, as promised. 
   * [Core NGINX Developer Forks Web Server Into Freenginx](https://www.phoronix.com/news/Nginx-Forked-To-Freenginx "Core NGINX Developer Forks Web Server Into Freenginx") — As such, starting from today, I will no longer participate in nginx development as run by F5. Instead, I’m starting an alternative project, which is going to be run by developers, and not corporate entities: 

@@ -16,8 +16,8 @@ Mike reveals his secret project to Chris, who has several probing questions.
 ## Sponsored by
 
   * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 

@@ -15,8 +15,8 @@ Sometimes we get a bit carried away; we dial it back and share some self-hosting
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

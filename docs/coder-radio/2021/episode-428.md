@@ -15,8 +15,8 @@ Things are worse than we ever thought, but that doesn't prevent us from taking a
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 

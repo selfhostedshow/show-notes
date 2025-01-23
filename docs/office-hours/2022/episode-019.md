@@ -15,8 +15,8 @@ We have some big plans for 2023, and we share the next steps to fully host our p
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
   * [Join the Party! The Jupiter Membership Party](https://www.jupiter.party/): [Join the party and get exclusive content. ](https://www.jupiter.party/)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
 
 
 

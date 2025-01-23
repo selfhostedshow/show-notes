@@ -17,8 +17,8 @@ Live from Denver, we chat with old friends and new. We get the inside scope on w
 * [Brent Gervais](https://linuxunplugged.com/guests/brentgervais)
 * [Carl Richell](https://linuxunplugged.com/guests/carl-richell)
 * [Cassidy James Blaede](https://linuxunplugged.com/guests/cassidyjames)
-* [chzbacon](https://linuxunplugged.com/guests/chzbacon)
 * [Ian Santopietro](https://linuxunplugged.com/guests/iansantopietro)
+* [chzbacon](https://linuxunplugged.com/guests/chzbacon)
 
 ## Sponsored by
 

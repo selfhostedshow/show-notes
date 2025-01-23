@@ -15,8 +15,8 @@ Alex shocks Chris with his latest project, then lays down some quick-fire picks.
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [A Cloud Guru](https://linuxacademy.com/cp/modules/view/id/262/?utm_source=jupiter&utm_medium=cpc): [This course will provide you the fundamentals, tools, techniques, and use case examples to configure, manage and troubleshoot Linux networking](https://linuxacademy.com/cp/modules/view/id/262/?utm_source=jupiter&utm_medium=cpc)
+  * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 

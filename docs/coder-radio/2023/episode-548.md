@@ -15,9 +15,9 @@ The fantastic opportunity Google is letting slip through its hands, and why Appl
 
 ## Sponsored by
 
+  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [The Coder is made from 100% cotton terry velour for soft, cozy wear and is embroidered on the left chest with a classic white-on-black Coder Radio logo. Save $10 with code SWIFT.](https://www.jupitergarage.com/product/the-coder-robe) Promo Code: SWIFT
   * [Alderon Games](https://alderon.games/coder): [Alderon Games is looking to hire talented remote workers. They believe in the power of play and the magic of immersive worlds and are looking for passionate individuals.](https://alderon.games/coder)
   * [Tailscale](https://tailscale.com/coder): [Tailscale is the easiest way to create a peer-to-peer network with the power of Wireguard. ](https://tailscale.com/coder)
-  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [The Coder is made from 100% cotton terry velour for soft, cozy wear and is embroidered on the left chest with a classic white-on-black Coder Radio logo. Save $10 with code SWIFT.](https://www.jupitergarage.com/product/the-coder-robe) Promo Code: SWIFT
 
 
 

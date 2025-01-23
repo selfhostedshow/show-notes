@@ -15,9 +15,9 @@ Mike and Chris discuss the recent JetBrains FUD and ponder the impact of recent 
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
   * [A Cloud Guru](https://acloud.guru/overview/red-hat-certified-system-administrator-ex200-exam-prep/?utm_source=jupiter&utm_medium=cpc): [In this course, we cover the skills and concepts necessary to pass the Red Hat RHCSA exam, using a mix of lessons and hands-on labs.](https://acloud.guru/overview/red-hat-certified-system-administrator-ex200-exam-prep/?utm_source=jupiter&utm_medium=cpc)
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 

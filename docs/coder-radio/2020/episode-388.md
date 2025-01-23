@@ -15,9 +15,9 @@ The guys deploy their sage wisdom to answer your age-old questions and solve why
 
 ## Sponsored by
 
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [A Cloud Guru](https://acloud.guru/learn/167515da-d23b-49e6-9919-4d0c23e7fc1c/?utm_source=jupiter&utm_medium=cpc)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
 
 
 

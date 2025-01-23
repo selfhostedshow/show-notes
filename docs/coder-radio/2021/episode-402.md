@@ -15,10 +15,10 @@ We open the robe and share some vintage career origin stories.
 
 ## Sponsored by
 
-  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [The Coder is made from 100% cotton terry velour for soft, cozy wear and is embroidered on the left chest with a classic white-on-black Coder Radio logo. Save $10 with code SWIFT.](https://www.jupitergarage.com/product/the-coder-robe) Promo Code: SWIFT
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
   * [A Cloud Guru](https://acloudguru.com/pricing?utm_source=jupiter&utm_medium=cpc&utm_campaign=2021_springintocloud): [ACG's spring sale is the perfect time to plant the seeds for your digital transformation. Fast track to cloud with the most effective and comprehensive cloud learning platform. ](https://acloudguru.com/pricing?utm_source=jupiter&utm_medium=cpc&utm_campaign=2021_springintocloud) Promo Code: springintocloud21
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
+  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [The Coder is made from 100% cotton terry velour for soft, cozy wear and is embroidered on the left chest with a classic white-on-black Coder Radio logo. Save $10 with code SWIFT.](https://www.jupitergarage.com/product/the-coder-robe) Promo Code: SWIFT
 
 
 

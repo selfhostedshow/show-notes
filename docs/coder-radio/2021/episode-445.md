@@ -15,8 +15,8 @@ We're both impressed by Rails 7 and how an old foe got us down again.
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [Shortcut.com](https://shortcut.com/coder): [Shortcut, because you shouldn’t have to project manage your project management.](https://shortcut.com/coder)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 

@@ -15,10 +15,10 @@ After reflecting on more than 8 years of the show, we get into solving problems 
 
 ## Sponsored by
 
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
-  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [The Coder is made from 100% cotton terry velour for soft, cozy wear and is embroidered on the left chest with a classic white-on-black Coder Radio logo. Save $10 with code SWIFT.](https://www.jupitergarage.com/product/the-coder-robe) Promo Code: SWIFT
-  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [A Cloud Guru](https://acloud.guru/overview/admin-guide-to-bash-scripting/?utm_source=jupiter&utm_medium=cpc): [In this course, you will develop all of the skills you need to write effective and complex shell scripts that can automate mundane tasks and complex implementations. ](https://acloud.guru/overview/admin-guide-to-bash-scripting/?utm_source=jupiter&utm_medium=cpc)
+  * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
+  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [The Coder is made from 100% cotton terry velour for soft, cozy wear and is embroidered on the left chest with a classic white-on-black Coder Radio logo. Save $10 with code SWIFT.](https://www.jupitergarage.com/product/the-coder-robe) Promo Code: SWIFT
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
 
 
 

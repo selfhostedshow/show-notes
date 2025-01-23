@@ -16,8 +16,8 @@ Brian Moses joins us and shares his most recent NAS build and love for 3D printe
 
 ## Sponsored by
 
-  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
   * [The Launch 🚀](https://www.weeklylaunch.rocks/): [Chris guides you through the most interesting stories and clips that set the stage for the rest of the week, while playing some of his favorite value 4 value tracks. ](https://www.weeklylaunch.rocks/)
+  * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
 
 
 

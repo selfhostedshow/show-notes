@@ -15,8 +15,8 @@ Significant changes at GitHub, Ubuntu starts work on a new desktop tool, why Wir
 
 ## Sponsored by
 
-  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
   * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
 
 
 
