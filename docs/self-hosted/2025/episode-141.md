@@ -7,7 +7,7 @@
 
 ## About this episode
 
-Bamboo teaches us how to lose friends and alienate people. Then, Alex Tran from Immich joins us for a project update, and we shared some dreams for a community RSS project.
+Bambu Labs teaches us how to lose friends and alienate people. Then, Alex Tran from Immich joins us for a project update, and we shared some dreams for a community RSS project.
 
 ## Your hosts
 * [Alex Kretzschmar](https://selfhosted.show/hosts/alexktz)
@@ -45,4 +45,4 @@ Bamboo teaches us how to lose friends and alienate people. Then, Alex Tran from 
 
 ## Tags
 
-[3d printing](https://selfhosted.show/tags/3d%20printing), [bamboo labs](https://selfhosted.show/tags/bamboo%20labs), [budgeting apps](https://selfhosted.show/tags/budgeting%20apps), [dashcams](https://selfhosted.show/tags/dashcams), [home assistant](https://selfhosted.show/tags/home%20assistant), [immich](https://selfhosted.show/tags/immich), [jailbreaking](https://selfhosted.show/tags/jailbreaking), [jellyfin](https://selfhosted.show/tags/jellyfin), [jupiter broadcasting](https://selfhosted.show/tags/jupiter%20broadcasting), [network security](https://selfhosted.show/tags/network%20security), [openzfs](https://selfhosted.show/tags/openzfs), [plex](https://selfhosted.show/tags/plex), [proprietary software](https://selfhosted.show/tags/proprietary%20software), [raid expansion](https://selfhosted.show/tags/raid%20expansion), [rss project](https://selfhosted.show/tags/rss%20project), [self-hosted nvr](https://selfhosted.show/tags/self-hosted%20nvr), [self-hosting podcast](https://selfhosted.show/tags/self-hosting%20podcast), [tinyfeed](https://selfhosted.show/tags/tinyfeed), [transcoding](https://selfhosted.show/tags/transcoding), [wyze cams](https://selfhosted.show/tags/wyze%20cams)
+[3d printing](https://selfhosted.show/tags/3d%20printing), [bambu labs](https://selfhosted.show/tags/bambu%20labs), [budgeting apps](https://selfhosted.show/tags/budgeting%20apps), [dashcams](https://selfhosted.show/tags/dashcams), [home assistant](https://selfhosted.show/tags/home%20assistant), [immich](https://selfhosted.show/tags/immich), [jailbreaking](https://selfhosted.show/tags/jailbreaking), [jellyfin](https://selfhosted.show/tags/jellyfin), [jupiter broadcasting](https://selfhosted.show/tags/jupiter%20broadcasting), [network security](https://selfhosted.show/tags/network%20security), [openzfs](https://selfhosted.show/tags/openzfs), [plex](https://selfhosted.show/tags/plex), [proprietary software](https://selfhosted.show/tags/proprietary%20software), [raid expansion](https://selfhosted.show/tags/raid%20expansion), [rss project](https://selfhosted.show/tags/rss%20project), [self-hosted nvr](https://selfhosted.show/tags/self-hosted%20nvr), [self-hosting podcast](https://selfhosted.show/tags/self-hosting%20podcast), [tinyfeed](https://selfhosted.show/tags/tinyfeed), [transcoding](https://selfhosted.show/tags/transcoding), [wyze cams](https://selfhosted.show/tags/wyze%20cams)
