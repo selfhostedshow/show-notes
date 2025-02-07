@@ -21,7 +21,6 @@ None
 ## Episode links
 
   * [Michael Dominick on X](https://x.com/dominucco "Michael Dominick on X")
-  * [Tuba: Browse the Fediverse](https://github.com/GeopJr/Tuba "Tuba: Browse the Fediverse")
 
 
 
