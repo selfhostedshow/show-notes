@@ -2,7 +2,7 @@
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+dqF_m9vS?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-* Air Date: 2019-08-26
+* Air Date: 2019-08-27
 * Duration: 54 mins 1 secs
 
 ## About this episode

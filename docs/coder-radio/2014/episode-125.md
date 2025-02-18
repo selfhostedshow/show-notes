@@ -2,7 +2,7 @@
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+CMsXgv_-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-* Air Date: 2014-10-27
+* Air Date: 2014-10-28
 * Duration: 58 mins 23 secs
 
 ## About this episode

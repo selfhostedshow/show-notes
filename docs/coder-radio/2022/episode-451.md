@@ -2,7 +2,7 @@
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+_VO-JhQn?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-* Air Date: 2022-02-02
+* Air Date: 2022-02-03
 * Duration: 47 mins 54 secs
 
 ## About this episode

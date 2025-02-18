@@ -2,7 +2,7 @@
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+ZhLp7pj9?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-* Air Date: 2021-06-23
+* Air Date: 2021-06-24
 * Duration: 43 mins 59 secs
 
 ## About this episode
