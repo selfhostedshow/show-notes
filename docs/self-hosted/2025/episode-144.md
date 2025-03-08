@@ -7,7 +7,7 @@
 
 ## About this episode
 
-
+Alex’s server meets a tragic end—but its replacement is shaping up to be a beast. Meanwhile, Chris experiments with budget CO₂ detectors, sirens, and smart integrations. Plus some surprises!
 
 ## Your hosts
 * [Alex Kretzschmar](https://selfhosted.show/hosts/alexktz)
