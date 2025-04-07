@@ -14,7 +14,7 @@ Even if you don't game, the data is in, and the impact of the Steam Deck on Linu
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)
 * [Brent Gervais](https://linuxunplugged.com/hosts/brent)
 * [Alex Kretzschmar](https://linuxunplugged.com/guests/alexktz)
-* [Listener Jeff](https://linuxunplugged.com/guests/jeff)
+* [Producer Jeff](https://linuxunplugged.com/guests/jeff)
 
 ## Sponsored by
 

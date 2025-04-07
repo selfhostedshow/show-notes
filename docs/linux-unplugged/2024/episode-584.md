@@ -13,7 +13,7 @@ After building nodes, climbing roofs, swapping antennas, and even some war drivi
 * [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
 * [Wes Payne](https://linuxunplugged.com/hosts/wes)
 * [Brent Gervais](https://linuxunplugged.com/hosts/brent)
-* [Listener Jeff](https://linuxunplugged.com/guests/jeff)
+* [Producer Jeff](https://linuxunplugged.com/guests/jeff)
 
 ## Sponsored by
 
