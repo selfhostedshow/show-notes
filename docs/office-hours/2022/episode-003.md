@@ -22,7 +22,7 @@ It's a summer of projects, we get into our plans to totally rebuild our website,
 
 ## Episode links
 
-  * [Podcastindex.org on Twitter](https://twitter.com/PodcastindexOrg/status/1518208009289277440 "Podcastindex.org on Twitter") — Using the  tag, Curiocaster’s feed generator (called Sovereign Feeds) can change the UI for feed/episode creation to make everything reflect the type of content you are creating (like a music album). This is another part of “the vision”.
+  * [Podcastindex.org on Twitter](https://twitter.com/PodcastindexOrg/status/1518208009289277440 "Podcastindex.org on Twitter") — Using the tag, Curiocaster’s feed generator (called Sovereign Feeds) can change the UI for feed/episode creation to make everything reflect the type of content you are creating (like a music album). This is another part of “the vision”.
   * [Website Rebuild Ideas & Explorations · Discussion](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/discussions/8 "Website Rebuild Ideas & Explorations · Discussion") — Join the discussion around our new website.
   * [Website issues for JupiterBroadcasting.com, et al.](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com "Website issues for JupiterBroadcasting.com, et al.")
   * [Grav](https://getgrav.org/ "Grav") — Grav is a modern open source flat-file CMS 
