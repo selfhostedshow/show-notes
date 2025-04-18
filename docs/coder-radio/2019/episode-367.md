@@ -30,7 +30,7 @@ None
   * [EmacsWiki: Evil](https://www.emacswiki.org/emacs/Evil "EmacsWiki: Evil") — Evil is an extensible vi layer for Emacs. It provides Vim features like Visual selection and text objects.
   * [A personal story about 10× development](http://nibblestew.blogspot.com/2019/07/a-personal-story-about-10-development.html "A personal story about 10× development") — The "×ness" of any developer does not exist in a vacuum but depends on many organizational things. The most obvious one is tooling.
   * [Shekhar Kirani on Twitter](https://twitter.com/skirani/status/1149302828420067328 "Shekhar Kirani on Twitter") — 10x engineers. Founders if you ever come across this rare breed of engineers, grab them. If you have a 10x engineer as part of your first few engineers, you increase the odds of your startup success significantly.
-  * [The mythical 10x programmer - <antirez>](http://antirez.com/news/112 "The mythical 10x programmer - <antirez>") — The following is a list of qualities that I believe make the most difference in programmers productivity. 
+  * [The mythical 10x programmer - ](http://antirez.com/news/112 "The mythical 10x programmer - <antirez>") — The following is a list of qualities that I believe make the most difference in programmers productivity. 
   * [rubocop](https://github.com/rubocop-hq/rubocop "rubocop") — RuboCop is a Ruby static code analyzer and code formatter. Out of the box it will enforce many of the guidelines outlined in the community Ruby Style Guide.
 
 
