@@ -1,13 +1,13 @@
-# CR 617: West Point's Sean McBride
+# CR 618: Github's Tim Rogers
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+FE5Db434?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+bRitX3yi?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-* Air Date: 2025-05-04
-* Duration: 48 mins 5 secs
+* Air Date: 2025-05-14
+* Duration: 28 mins 48 secs
 
 ## About this episode
 
-Mike sits down with Sean to discuss C++, the growing Cult of the Crab (Rust) and software development in general.
+Mike sits down with Github Product Manager to talk AI, vibe coding and dev in general.
 
 ## Your hosts
 * [Michael Dominick](https://coder.show/hosts/michael)
