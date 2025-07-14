@@ -18,7 +18,7 @@ We test the Linux-first, all-AMD Sirius 16 laptop, discuss the new Hyprland rele
 
   * [Tailscale](http://tailscale.com/linuxunplugged): [Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!](http://tailscale.com/linuxunplugged)
   * [FlakeHub.com](https://determinate.systems/unplugged): [FlakeHub.com is the all-in-one platform for secure, compliant, and transformative Nix development. Bring Nix to work the way you always wanted with FlakeHub.com. Register for the private beta and get a secure, compliance-friendly Nix and all the support you need.](https://determinate.systems/unplugged)
-  * [Kolide](https://kolide.com/unplugged): [Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn’t trusted and secure, it can’t log into your cloud apps.](https://kolide.com/unplugged)
+  * [Koide](https://kolide.com/unplugged): [Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn’t trusted and secure, it can’t log into your cloud apps.](https://kolide.com/unplugged)
 
 
 
