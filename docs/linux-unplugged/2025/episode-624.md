@@ -17,7 +17,6 @@ Everything wrong with our homelabs, and how we're finally fixing them. Plus: two
 ## Sponsored by
 
   * [Managed Nebula](https://defined.net/unplugged): [Meet Managed Nebula from Defined Networking. A decentralized VPN built on the open-source Nebula platform that we love.](https://defined.net/unplugged)
-  * [Unraid](https://unraid.net/unplugged): [A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.](https://unraid.net/unplugged)
   * [1Password Extended Access Management](https://1password.com/unplugged): [1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.](https://1password.com/unplugged)
   * [Unraid](https://unraid.net/unplugged): [A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.](https://unraid.net/unplugged)
 
