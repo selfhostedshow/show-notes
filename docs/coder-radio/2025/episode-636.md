@@ -1,4 +1,4 @@
-# CR 636: Red Hat's James Haung
+# CR 636: Red Hat's James Huang
 
 <iframe src="https://player.fireside.fm/v2/MLf2ZzhC+r7oox_By?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
