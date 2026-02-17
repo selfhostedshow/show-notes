@@ -72,6 +72,24 @@ def get_plain_title(title: str):
     return title.strip()
 
 
+def get_player_embed(page_soup):
+    embed_input = (
+        page_soup.find("input", class_="copy-share-embed")
+        or page_soup.find("input", attrs={"id": "embed"})
+        or page_soup.find("input", attrs={"name": "embed"})
+    )
+    if embed_input is not None:
+        embed_value = embed_input.get("value")
+        if embed_value:
+            return embed_value
+
+    player_iframe = page_soup.find("iframe", src=re.compile(r"player\.fireside\.fm"))
+    if player_iframe is not None:
+        return str(player_iframe)
+
+    raise ValueError("No player embed found on episode page")
+
+
 def create_episode(api_episode, show_config, output_dir):
     try:
         base_url = show_config['fireside_url']
@@ -117,7 +135,7 @@ def create_episode(api_episode, show_config, output_dir):
                     {"name": link.get("title"), "link": base_url + link.get("href")}
                 )
 
-        player_embed = page_soup.find("input", class_="copy-share-embed").get("value")
+        player_embed = get_player_embed(page_soup)
 
         show_attachment = api_episode["attachments"][0]
 
