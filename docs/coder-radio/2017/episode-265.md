@@ -1,6 +1,6 @@
 # CR 265: Rented Windows Theory
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+RX1XndcY?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+RX1XndcY?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-07-13
 * Duration: 53 mins 3 secs

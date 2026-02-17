@@ -1,6 +1,6 @@
 # LUP 460: CPU as a Service
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+jSu0LjK3?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+jSu0LjK3?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-05-29
 * Duration: 44 mins 11 secs

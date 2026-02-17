@@ -1,6 +1,6 @@
 # LUP 309: The Future is Open
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+v9m0-wFB?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+v9m0-wFB?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-07-09
 * Duration: 65 mins 52 secs

@@ -1,6 +1,6 @@
 # SSH 119: Why So Many Llamas?
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+d4u7slE5?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+d4u7slE5?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-03-20
 * Duration: 47 mins 30 secs

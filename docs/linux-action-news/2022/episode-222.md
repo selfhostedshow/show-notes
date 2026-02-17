@@ -1,6 +1,6 @@
 # LAN 222: Linux Action News 222
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+83-dhTF2?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+83-dhTF2?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-01-06
 * Duration: 18 mins 25 secs

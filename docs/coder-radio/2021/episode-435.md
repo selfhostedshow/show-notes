@@ -1,6 +1,6 @@
 # CR 435: Ask Alice
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+6xh5qljz?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+6xh5qljz?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-10-13
 * Duration: 59 mins 15 secs

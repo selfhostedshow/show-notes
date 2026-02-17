@@ -1,6 +1,6 @@
 # CR 602: Dude, You're Getting a Dell Pro Max Micro Plus!
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+745zZjeQ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+745zZjeQ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-01-08
 * Duration: 44 mins 30 secs

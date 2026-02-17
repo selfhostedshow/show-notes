@@ -1,6 +1,6 @@
 # SSH 088: Great Scott!
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+paF8NuOV?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+paF8NuOV?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-01-13
 * Duration: 57 mins 40 secs

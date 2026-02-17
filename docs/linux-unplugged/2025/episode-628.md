@@ -1,6 +1,6 @@
 # LUP 628: Don't Call it a Christro
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+A12mEG5c?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+A12mEG5c?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-08-17
 * Duration: 91 mins 28 secs

@@ -1,6 +1,6 @@
 # LUP 045: The Triple-Boot Phone
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+7_yAUkTD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+7_yAUkTD?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-06-17
 * Duration: 24 mins 46 secs

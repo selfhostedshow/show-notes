@@ -1,6 +1,6 @@
 # LUP 612: 25 Years of LinuxFest Northwest
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+MWK25cP5?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+MWK25cP5?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-04-27
 * Duration: 66 mins 30 secs

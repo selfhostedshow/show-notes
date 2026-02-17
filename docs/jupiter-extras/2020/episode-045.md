@@ -1,6 +1,6 @@
 # JE 045: Self-Hosted: Fixing Brent's WiFi
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+3h9s1vff?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+3h9s1vff?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-01-10
 * Duration: 13 mins 59 secs

@@ -1,6 +1,6 @@
 # CR 543: For Your Safety
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+21iHjXBL?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+21iHjXBL?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-11-08
 * Duration: 45 mins 13 secs

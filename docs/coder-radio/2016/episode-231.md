@@ -1,6 +1,6 @@
 # CR 231: Scrum Burger
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+iqeSeWQy?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+iqeSeWQy?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-11-14
 * Duration: 48 mins 55 secs

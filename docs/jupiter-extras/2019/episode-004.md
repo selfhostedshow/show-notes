@@ -1,6 +1,6 @@
 # JE 004: Dell's New Ubuntu Hardware for Late 2019
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+CwE4PH5N?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+CwE4PH5N?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-08-21
 * Duration: 2 mins 14 secs

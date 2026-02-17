@@ -1,6 +1,6 @@
 # CR 097: Open Source, Closed Wallets
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+zvLwpky8?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+zvLwpky8?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-04-14
 * Duration: 59 mins 5 secs

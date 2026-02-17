@@ -1,6 +1,6 @@
 # LUP 375: Wrong About Pop!
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+xx8zT_kl?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+xx8zT_kl?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-10-14
 * Duration: 65 mins 45 secs

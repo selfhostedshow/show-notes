@@ -1,6 +1,6 @@
 # CR 107: New Hotness Exhaustion
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+CL6AVSyY?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+CL6AVSyY?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-06-23
 * Duration: 52 mins 20 secs

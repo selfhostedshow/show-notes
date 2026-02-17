@@ -1,6 +1,6 @@
 # LUP 517: Caught Red-Hatted
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+F-JN7iL6?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+F-JN7iL6?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-07-02
 * Duration: 74 mins 31 secs

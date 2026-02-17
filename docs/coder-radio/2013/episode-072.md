@@ -1,6 +1,6 @@
 # CR 072: Relatively Laid Out
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+XSXOmkK2?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+XSXOmkK2?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2013-10-21
 * Duration: 77 mins 29 secs

@@ -1,6 +1,6 @@
 # JE 063: Brunch with Brent: Elizabeth K. Joseph
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+8wzpo6Mh?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+8wzpo6Mh?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-03-13
 * Duration: 43 mins 16 secs

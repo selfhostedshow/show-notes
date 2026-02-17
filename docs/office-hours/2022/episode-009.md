@@ -1,6 +1,6 @@
 # OFH 009: We Hate Crypto Too
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+lbzZJFkk?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+lbzZJFkk?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-08-05
 * Duration: 81 mins 55 secs

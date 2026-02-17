@@ -1,6 +1,6 @@
 # CR 619: Rogue Amoeba's Paul Kafasis
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+HCWvhqmC?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+HCWvhqmC?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-05-28
 * Duration: 32 mins 39 secs

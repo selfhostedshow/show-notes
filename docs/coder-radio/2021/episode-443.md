@@ -1,6 +1,6 @@
 # CR 443: Reptilian Power Play
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+sk8a0F6W?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+sk8a0F6W?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-12-08
 * Duration: 48 mins 23 secs

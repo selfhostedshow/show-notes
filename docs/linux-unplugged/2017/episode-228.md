@@ -1,6 +1,6 @@
 # LUP 228: rm -rf 2017
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+Ry8tYGHb?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+Ry8tYGHb?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-12-19
 * Duration: 76 mins 31 secs

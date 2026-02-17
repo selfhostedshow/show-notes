@@ -1,6 +1,6 @@
 # CR 303: Weapons of Mass Data
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+To2sL5eZ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+To2sL5eZ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-04-02
 * Duration: 71 mins 20 secs

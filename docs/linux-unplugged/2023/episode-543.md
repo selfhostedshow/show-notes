@@ -1,6 +1,6 @@
 # LUP 543: Profoundly Prophetic Prognostications
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+7-_uro_O?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+7-_uro_O?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-12-31
 * Duration: 47 mins 12 secs

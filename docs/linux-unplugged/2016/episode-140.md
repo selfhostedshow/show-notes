@@ -1,6 +1,6 @@
 # LUP 140: Blame Popey for ZFS
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+9smssOxb?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+9smssOxb?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-04-12
 * Duration: 81 mins 22 secs

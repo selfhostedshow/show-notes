@@ -1,6 +1,6 @@
 # SSH 124: The End of Ownership
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+ir-WXEnI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+ir-WXEnI?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-05-31
 * Duration: 64 mins 40 secs

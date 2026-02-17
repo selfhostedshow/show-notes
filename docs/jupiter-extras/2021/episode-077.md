@@ -1,6 +1,6 @@
 # JE 077: Cryptocurrency Chat with Chris
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+4Ni-b-r2?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+4Ni-b-r2?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-12-06
 * Duration: 24 mins 31 secs

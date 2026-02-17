@@ -1,6 +1,6 @@
 # LUP 179: Project Sputnik Interview
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+Z7qu2CDS?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+Z7qu2CDS?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-01-10
 * Duration: 64 mins 19 secs

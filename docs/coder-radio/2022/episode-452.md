@@ -1,6 +1,6 @@
 # CR 452: Shockingly Pragmatic
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+2gWbFzES?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+2gWbFzES?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-02-09
 * Duration: 54 mins 19 secs

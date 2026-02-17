@@ -1,6 +1,6 @@
 # CR 444: Mining the Logs
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+iGvo1j7n?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+iGvo1j7n?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-12-15
 * Duration: 40 mins 50 secs

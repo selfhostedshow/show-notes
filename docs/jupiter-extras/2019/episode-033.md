@@ -1,6 +1,6 @@
 # JE 033: Brunch with Brent: Emma Marshall
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+aUro6GGJ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+aUro6GGJ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-11-19
 * Duration: 55 mins 47 secs

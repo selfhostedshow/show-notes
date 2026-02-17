@@ -1,6 +1,6 @@
 # LUP 256: Peering Into the Future
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+Ye9FAz1y?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+Ye9FAz1y?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-07-04
 * Duration: 103 mins 50 secs

@@ -1,6 +1,6 @@
 # SSH 020: One is None
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+pywvrsnF?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+pywvrsnF?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-06-04
 * Duration: 36 mins 6 secs

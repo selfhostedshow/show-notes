@@ -1,6 +1,6 @@
 # JE 017: Self-Hosted Production Meeting
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+hKDDV6oB?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+hKDDV6oB?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-09-25
 * Duration: 10 mins 25 secs

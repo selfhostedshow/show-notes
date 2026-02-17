@@ -1,6 +1,6 @@
 # CR 568: The Junior Jump
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+XHJANL7O?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+XHJANL7O?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-05-01
 * Duration: 35 mins 15 secs

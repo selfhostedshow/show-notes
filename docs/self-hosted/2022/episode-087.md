@@ -1,6 +1,6 @@
 # SSH 087: Jellyfin January
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+B62wpyjN?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+B62wpyjN?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-12-30
 * Duration: 63 mins 58 secs

@@ -1,6 +1,6 @@
 # LUP 476: Canary in the Photo Mine
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+4wn6aKX7?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+4wn6aKX7?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-09-18
 * Duration: 87 mins 4 secs

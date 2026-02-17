@@ -1,6 +1,6 @@
 # JE 083: Who Wants to be a Satoshionaire Land of the Snow Edition
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+zWCsxGHx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+zWCsxGHx?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-02-02
 * Duration: 25 mins 56 secs

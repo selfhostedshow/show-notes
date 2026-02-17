@@ -1,6 +1,6 @@
 # CR 499: The Copy Paste Wars
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+owXnM-Ix?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+owXnM-Ix?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-01-04
 * Duration: 60 mins 50 secs

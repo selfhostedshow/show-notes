@@ -1,6 +1,6 @@
 # CR 300: Developers Rule the World
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+0SF1Xqt1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+0SF1Xqt1?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-03-15
 * Duration: 56 mins 57 secs

@@ -1,6 +1,6 @@
 # LUP 030: Talkin' Tox
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+8EwfZRq-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+8EwfZRq-?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-03-04
 * Duration: 60 mins 34 secs

@@ -1,6 +1,6 @@
 # CR 181: Code a Little Deeper
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+aPWQduUh?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+aPWQduUh?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-11-30
 * Duration: 53 mins 36 secs

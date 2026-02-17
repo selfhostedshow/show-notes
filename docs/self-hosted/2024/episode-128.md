@@ -1,6 +1,6 @@
 # SSH 128: To Update, or Not to Update?
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+PRmLQ8S5?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+PRmLQ8S5?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-07-26
 * Duration: 65 mins 14 secs

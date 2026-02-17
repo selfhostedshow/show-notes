@@ -1,6 +1,6 @@
 # JE 028: A Chat with mergerfs Developer Antonio Musumeci
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+NSbz5Jst?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+NSbz5Jst?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-10-31
 * Duration: 50 mins 47 secs

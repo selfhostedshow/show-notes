@@ -1,6 +1,6 @@
 # LAN 100: Linux Action News 100
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+jY6G40NJ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+jY6G40NJ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-04-07
 * Duration: 27 mins 7 secs

@@ -1,6 +1,6 @@
 # CR 158: Privileged Programmers
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+4C5-izTr?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+4C5-izTr?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-06-15
 * Duration: 59 mins 45 secs

@@ -1,6 +1,6 @@
 # CR 184: Mike’s Big Year
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+A7d2Be1-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+A7d2Be1-?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-12-21
 * Duration: 62 mins 31 secs

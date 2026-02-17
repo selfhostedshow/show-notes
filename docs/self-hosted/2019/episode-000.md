@@ -1,6 +1,6 @@
 # SSH 000: Self-Hosted Coming Soon
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+PuWsV5ht?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+PuWsV5ht?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-08-27
 * Duration: 2 mins 11 secs

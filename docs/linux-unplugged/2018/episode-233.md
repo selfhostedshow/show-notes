@@ -1,6 +1,6 @@
 # LUP 233: Living Inside the Shell
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+ZJmi2Bro?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+ZJmi2Bro?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-01-23
 * Duration: 94 mins 29 secs

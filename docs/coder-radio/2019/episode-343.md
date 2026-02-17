@@ -1,6 +1,6 @@
 # CR 343: Say My Functional Name
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+H80Qe16V?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+H80Qe16V?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-02-05
 * Duration: 50 mins 3 secs

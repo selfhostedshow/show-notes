@@ -1,6 +1,6 @@
 # LAN 144: Linux Action News 144
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+ulwmNMM4?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+ulwmNMM4?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-02-09
 * Duration: 22 mins 53 secs

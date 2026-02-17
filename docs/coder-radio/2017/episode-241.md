@@ -1,6 +1,6 @@
 # CR 241: Tricks of the Trade
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+d_kQEUyC?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+d_kQEUyC?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-01-23
 * Duration: 36 mins 25 secs

@@ -1,6 +1,6 @@
 # LUP 257: Security Amateur Hour
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+sPdu496Q?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+sPdu496Q?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-07-11
 * Duration: 76 mins 35 secs

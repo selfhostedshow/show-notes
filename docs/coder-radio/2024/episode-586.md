@@ -1,6 +1,6 @@
 # CR 586: Mike's Clone Army
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+uJARqIi9?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+uJARqIi9?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-09-04
 * Duration: 66 mins 3 secs

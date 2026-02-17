@@ -1,6 +1,6 @@
 # LUP 624: Tiny PC, Huge Problems
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+0AjKMgVl?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+0AjKMgVl?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-07-20
 * Duration: 82 mins 32 secs

@@ -1,6 +1,6 @@
 # CR 112: The Xamarin Solution
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+9EZVE5r2?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+9EZVE5r2?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-08-04
 * Duration: 63 mins 23 secs

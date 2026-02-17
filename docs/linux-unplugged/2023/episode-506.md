@@ -1,6 +1,6 @@
 # LUP 506: Three Wild and Crazy Topics
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+_2LB-aR2?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+_2LB-aR2?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-04-16
 * Duration: 76 mins 14 secs

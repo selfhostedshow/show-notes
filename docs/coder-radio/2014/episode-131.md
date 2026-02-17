@@ -1,6 +1,6 @@
 # CR 131: Dock Your Rocket
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+T9S3KE2w?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+T9S3KE2w?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-12-08
 * Duration: 41 mins 29 secs

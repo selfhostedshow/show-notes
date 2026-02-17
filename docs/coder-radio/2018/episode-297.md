@@ -1,6 +1,6 @@
 # CR 297: Lunch Break Coder
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+vBlSVd54?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+vBlSVd54?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-02-19
 * Duration: 57 mins 0 secs

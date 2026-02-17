@@ -1,6 +1,6 @@
 # SSH 015: Keeping Track of Stuff
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+exOe5pBE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+exOe5pBE?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-03-26
 * Duration: 30 mins 36 secs

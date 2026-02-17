@@ -1,6 +1,6 @@
 # LAN 001: Linux Action News 1
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+_UxTAP4h?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+_UxTAP4h?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-05-14
 * Duration: 32 mins 41 secs

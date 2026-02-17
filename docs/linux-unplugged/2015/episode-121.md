@@ -1,6 +1,6 @@
 # LUP 121: Raspberry Pi Does What?
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+ev-IA56Q?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+ev-IA56Q?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-12-01
 * Duration: 99 mins 46 secs

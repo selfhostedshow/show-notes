@@ -1,6 +1,6 @@
 # LUP 152: To .NET or to .NOT?
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+-GHzP22Z?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+-GHzP22Z?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-07-05
 * Duration: 88 mins 20 secs

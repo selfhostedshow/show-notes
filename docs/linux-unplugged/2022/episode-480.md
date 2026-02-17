@@ -1,6 +1,6 @@
 # LUP 480: Taming the Beast
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+5cOTBy3N?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+5cOTBy3N?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-10-16
 * Duration: 86 mins 41 secs

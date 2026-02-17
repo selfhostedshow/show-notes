@@ -1,6 +1,6 @@
 # LUP 603: All Your Kernels Belong to Rust
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+u-5CrDz8?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+u-5CrDz8?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-02-23
 * Duration: 60 mins 30 secs

@@ -1,6 +1,6 @@
 # OFH 035: No Payne No Gain
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+QDSHl351?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+QDSHl351?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-10-03
 * Duration: 66 mins 25 secs

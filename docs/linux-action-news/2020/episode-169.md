@@ -1,6 +1,6 @@
 # LAN 169: Linux Action News 169
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+x8yiEKwI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+x8yiEKwI?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-12-27
 * Duration: 27 mins 26 secs

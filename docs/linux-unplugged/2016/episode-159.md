@@ -1,6 +1,6 @@
 # LUP 159: All Wimpy's Vault!
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+VFauShnq?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+VFauShnq?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-08-23
 * Duration: 143 mins 24 secs

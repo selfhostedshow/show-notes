@@ -1,6 +1,6 @@
 # LUP 241: Snitching on SCaLE
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+ryAr_meA?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+ryAr_meA?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-03-20
 * Duration: 68 mins 31 secs

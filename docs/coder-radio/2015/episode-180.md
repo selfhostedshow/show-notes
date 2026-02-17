@@ -1,6 +1,6 @@
 # CR 180: Barkeep, Ionic, Please
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+kc6FC8hE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+kc6FC8hE?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-11-23
 * Duration: 54 mins 41 secs

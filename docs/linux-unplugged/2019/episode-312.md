@@ -1,6 +1,6 @@
 # LUP 312: What Modern Linux Looks Like
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+JgT1O16X?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+JgT1O16X?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-07-30
 * Duration: 57 mins 33 secs

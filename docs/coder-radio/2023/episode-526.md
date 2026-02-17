@@ -1,6 +1,6 @@
 # CR 526: The Closing Moment of Opportunity
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+H7jn9U9w?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+H7jn9U9w?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-07-12
 * Duration: 50 mins 45 secs

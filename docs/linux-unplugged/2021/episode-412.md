@@ -1,6 +1,6 @@
 # LUP 412: Going Deepin on Fuchsia
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+iIn0CNRY?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+iIn0CNRY?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-06-29
 * Duration: 51 mins 42 secs

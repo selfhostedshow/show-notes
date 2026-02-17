@@ -1,6 +1,6 @@
 # LUP 323: It's Pronounced 19.10
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+dCGi5448?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+dCGi5448?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-10-15
 * Duration: 72 mins 23 secs

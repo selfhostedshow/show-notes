@@ -1,6 +1,6 @@
 # LUP 128: Is that a server in your pocket?
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+cdIoNM69?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+cdIoNM69?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-01-19
 * Duration: 86 mins 34 secs

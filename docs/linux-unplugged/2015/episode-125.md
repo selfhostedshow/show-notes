@@ -1,6 +1,6 @@
 # LUP 125: Slaving for Red Star OS
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+056SMGYd?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+056SMGYd?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-12-29
 * Duration: 70 mins 43 secs

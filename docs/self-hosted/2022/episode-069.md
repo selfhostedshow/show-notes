@@ -1,6 +1,6 @@
 # SSH 069: Get Off My Lawn, The Robot's Got It
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+5tJtjsjj?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+5tJtjsjj?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-04-22
 * Duration: 47 mins 14 secs

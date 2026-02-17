@@ -1,6 +1,6 @@
 # SSH 078: We Should Know Better
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+O_pA8rKe?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+O_pA8rKe?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-08-26
 * Duration: 48 mins 51 secs

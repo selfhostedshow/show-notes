@@ -1,6 +1,6 @@
 # CR 266: Mike the Botter
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+K0dHbPb1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+K0dHbPb1?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-07-20
 * Duration: 71 mins 31 secs

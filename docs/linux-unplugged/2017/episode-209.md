@@ -1,6 +1,6 @@
 # LUP 209: LILO and Slack(ware)
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+1orf209e?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+1orf209e?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-08-08
 * Duration: 84 mins 0 secs

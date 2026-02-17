@@ -1,6 +1,6 @@
 # SSH 148: Homelab Disaster Prep
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+l15wFq8H?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+l15wFq8H?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-05-02
 * Duration: 62 mins 16 secs

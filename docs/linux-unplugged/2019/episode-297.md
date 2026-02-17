@@ -1,6 +1,6 @@
 # LUP 297: Release the Dingo
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+ZXOG4oJs?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+ZXOG4oJs?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-04-16
 * Duration: 57 mins 40 secs

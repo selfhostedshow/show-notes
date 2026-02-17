@@ -1,6 +1,6 @@
 # SSH 073: 100 Days of HomeLab
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+C94OvDOL?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+C94OvDOL?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-06-17
 * Duration: 49 mins 1 secs

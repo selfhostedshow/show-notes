@@ -1,6 +1,6 @@
 # LUP 169: Apple's Out Of Touch Bar
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+9MAuCxwx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+9MAuCxwx?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-11-01
 * Duration: 75 mins 52 secs

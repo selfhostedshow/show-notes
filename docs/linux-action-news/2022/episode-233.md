@@ -1,6 +1,6 @@
 # LAN 233: Linux Action News 233
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+5DFp9H_N?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+5DFp9H_N?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-03-23
 * Duration: 18 mins 43 secs

@@ -1,6 +1,6 @@
 # SSH 019: The Open Source Catch-22
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+1sPanolQ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+1sPanolQ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-05-21
 * Duration: 38 mins 38 secs

@@ -1,6 +1,6 @@
 # SSH 114: Unintended Consequences
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+0zbG2j32?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+0zbG2j32?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-01-12
 * Duration: 61 mins 48 secs

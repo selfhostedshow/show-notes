@@ -1,6 +1,6 @@
 # CR 062: FizzBuzzed!
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+om0CjiCX?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+om0CjiCX?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2013-08-12
 * Duration: 60 mins 38 secs

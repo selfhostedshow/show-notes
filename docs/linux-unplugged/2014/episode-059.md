@@ -1,6 +1,6 @@
 # LUP 059: Dead Desktop Walking
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+tBctnTNn?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+tBctnTNn?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-09-23
 * Duration: 76 mins 22 secs

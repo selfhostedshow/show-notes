@@ -1,6 +1,6 @@
 # LUP 518: Race To Immutability
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+wHwhG34Z?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+wHwhG34Z?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-07-09
 * Duration: 62 mins 26 secs

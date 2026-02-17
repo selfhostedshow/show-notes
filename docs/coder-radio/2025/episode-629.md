@@ -1,6 +1,6 @@
 # CR 629: Tom Totenberg from LaunchDarkly
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+cdSwdkz_?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+cdSwdkz_?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-09-29
 * Duration: 30 mins 46 secs

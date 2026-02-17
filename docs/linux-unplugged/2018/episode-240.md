@@ -1,6 +1,6 @@
 # LUP 240: Why This Theme Won’t Work
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+L7Tk6M2s?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+L7Tk6M2s?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-03-14
 * Duration: 80 mins 55 secs

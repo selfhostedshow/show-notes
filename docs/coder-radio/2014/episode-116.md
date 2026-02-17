@@ -1,6 +1,6 @@
 # CR 116: DOM Be Gone
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+N3rPu3Xn?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+N3rPu3Xn?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-08-25
 * Duration: 41 mins 41 secs

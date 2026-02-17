@@ -1,6 +1,6 @@
 # OFH 007: Podcasting is Back
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+zm3U3Qu7?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+zm3U3Qu7?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-07-08
 * Duration: 62 mins 14 secs

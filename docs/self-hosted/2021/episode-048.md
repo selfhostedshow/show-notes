@@ -1,6 +1,6 @@
 # SSH 048: A Solution Looking for a Problem
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+p2FnTk26?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+p2FnTk26?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-07-02
 * Duration: 36 mins 4 secs

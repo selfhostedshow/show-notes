@@ -1,6 +1,6 @@
 # LAN 217: Linux Action News 217
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+w1GUFWwt?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+w1GUFWwt?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-11-28
 * Duration: 18 mins 49 secs

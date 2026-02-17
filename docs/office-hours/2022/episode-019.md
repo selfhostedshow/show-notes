@@ -1,6 +1,6 @@
 # OFH 019: What We're Building Next
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+6V3x0Xr4?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+6V3x0Xr4?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-12-23
 * Duration: 61 mins 36 secs

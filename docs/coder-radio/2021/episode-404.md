@@ -1,6 +1,6 @@
 # CR 404: Not Found
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+5JGsAmud?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+5JGsAmud?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-03-10
 * Duration: 50 mins 31 secs

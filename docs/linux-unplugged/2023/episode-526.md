@@ -1,6 +1,6 @@
 # LUP 526: Canonical Wins by Default
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+HMSq9ihv?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+HMSq9ihv?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-09-03
 * Duration: 49 mins 20 secs

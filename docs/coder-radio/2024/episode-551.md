@@ -1,6 +1,6 @@
 # CR 551: The Workstation Lifestyle
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+-kk15bSx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+-kk15bSx?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-01-03
 * Duration: 44 mins 59 secs

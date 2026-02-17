@@ -1,6 +1,6 @@
 # CR 074: Justifying Java
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+uikSoUbY?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+uikSoUbY?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2013-11-04
 * Duration: 60 mins 10 secs

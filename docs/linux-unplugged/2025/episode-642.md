@@ -1,6 +1,6 @@
 # LUP 642: Tunneling Home for the Holidays
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+FL5rNK_8?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+FL5rNK_8?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-11-23
 * Duration: 56 mins 17 secs

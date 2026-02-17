@@ -1,6 +1,6 @@
 # CR 197: Rails Crazies React
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+jt97nuYI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+jt97nuYI?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-03-21
 * Duration: 60 mins 2 secs

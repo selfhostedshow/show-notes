@@ -1,6 +1,6 @@
 # LUP 436: Hop on Pop
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+HJ86w95F?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+HJ86w95F?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-12-14
 * Duration: 65 mins 42 secs

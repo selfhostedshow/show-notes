@@ -1,6 +1,6 @@
 # SSH 116: Making it all Connect
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+Ilt02MKb?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+Ilt02MKb?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-02-09
 * Duration: 55 mins 54 secs

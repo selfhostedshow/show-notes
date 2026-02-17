@@ -1,6 +1,6 @@
 # LUP 008: Cloud Guilt
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+J8N5Xpag?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+J8N5Xpag?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2013-10-01
 * Duration: 68 mins 31 secs

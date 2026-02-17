@@ -1,6 +1,6 @@
 # OFH 013: One Long Monday
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+TceYi1Qf?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+TceYi1Qf?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-09-30
 * Duration: 59 mins 57 secs

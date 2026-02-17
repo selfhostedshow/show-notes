@@ -1,6 +1,6 @@
 # CR 608: R With Eric Nantz
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+f0bJo9eX?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+f0bJo9eX?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-02-24
 * Duration: 55 mins 29 secs

@@ -1,6 +1,6 @@
 # LAN 039: Linux Action News 39
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+rXtLUZ2-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+rXtLUZ2-?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-02-03
 * Duration: 30 mins 57 secs

@@ -1,6 +1,6 @@
 # CR 071: Betting on Linux
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+AxgKgjuz?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+AxgKgjuz?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2013-10-14
 * Duration: 73 mins 19 secs

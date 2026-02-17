@@ -1,6 +1,6 @@
 # CR 485: Going All In on Linux
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+kSBQZB6H?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+kSBQZB6H?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-09-28
 * Duration: 51 mins 3 secs

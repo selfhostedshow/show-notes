@@ -1,6 +1,6 @@
 # CR 447: All Roads Lead to Clippy
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+5aKkyEyx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+5aKkyEyx?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-01-05
 * Duration: 38 mins 29 secs

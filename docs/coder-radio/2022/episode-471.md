@@ -1,6 +1,6 @@
 # CR 471: Technical Guardians of the Galaxy
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+8s4Hl36c?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+8s4Hl36c?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-06-22
 * Duration: 44 mins 42 secs

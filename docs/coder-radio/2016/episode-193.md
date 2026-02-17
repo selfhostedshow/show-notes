@@ -1,6 +1,6 @@
 # CR 193: Big Blue's Swift Move
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+gc-i6y0f?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+gc-i6y0f?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-02-22
 * Duration: 72 mins 51 secs

@@ -1,6 +1,6 @@
 # SSH 046: Pastebin Alternative
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+GKyNQ9q9?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+GKyNQ9q9?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-06-04
 * Duration: 42 mins 6 secs

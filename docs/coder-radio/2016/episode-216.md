@@ -1,6 +1,6 @@
 # CR 216: Mismatch Patterns in Productivity
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+ASZN3ulo?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+ASZN3ulo?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-08-01
 * Duration: 38 mins 7 secs

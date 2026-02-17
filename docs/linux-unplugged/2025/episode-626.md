@@ -1,6 +1,6 @@
 # LUP 626: The Btrfs Blues
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+s2einhEn?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+s2einhEn?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-08-03
 * Duration: 69 mins 30 secs

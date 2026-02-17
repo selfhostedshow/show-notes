@@ -1,6 +1,6 @@
 # LUP 076: Building a Better Gnome
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+oLGFM7E4?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+oLGFM7E4?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-01-20
 * Duration: 59 mins 4 secs

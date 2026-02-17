@@ -1,6 +1,6 @@
 # LAN 154: Linux Action News 154
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+zUuXMFD6?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+zUuXMFD6?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-09-13
 * Duration: 27 mins 31 secs

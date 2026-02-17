@@ -1,6 +1,6 @@
 # LAN 269: Linux Action News 269
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+NqqDcyIP?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+NqqDcyIP?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-12-01
 * Duration: 17 mins 29 secs

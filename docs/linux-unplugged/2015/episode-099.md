@@ -1,6 +1,6 @@
 # LUP 099: Finger on the Pulse of Video
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+PlYuGGdP?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+PlYuGGdP?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-06-30
 * Duration: 101 mins 11 secs

@@ -1,6 +1,6 @@
 # SSH 058: Pi Server Upgrade
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+KRXRFk0d?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+KRXRFk0d?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-11-19
 * Duration: 56 mins 37 secs

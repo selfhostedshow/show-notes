@@ -1,6 +1,6 @@
 # LAN 236: Linux Action News 236
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+oivlK9I5?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+oivlK9I5?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-04-14
 * Duration: 20 mins 49 secs

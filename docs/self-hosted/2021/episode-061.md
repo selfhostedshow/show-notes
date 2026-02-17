@@ -1,6 +1,6 @@
 # SSH 061: That First Layer Squish
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+XnGdF6nG?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+XnGdF6nG?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-12-31
 * Duration: 59 mins 54 secs

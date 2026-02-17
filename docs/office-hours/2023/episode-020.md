@@ -1,6 +1,6 @@
 # OFH 020: Breaking Brent
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+tPVr4PuP?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+tPVr4PuP?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-01-06
 * Duration: 60 mins 53 secs

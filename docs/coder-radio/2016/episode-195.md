@@ -1,6 +1,6 @@
 # CR 195: The Xamarin Hand
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+nh71mwxi?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+nh71mwxi?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-03-07
 * Duration: 60 mins 9 secs

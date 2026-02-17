@@ -1,6 +1,6 @@
 # CR 124: Underwhelming Apple
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+3vSiYA9J?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+3vSiYA9J?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-10-20
 * Duration: 60 mins 30 secs

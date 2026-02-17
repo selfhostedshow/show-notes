@@ -1,6 +1,6 @@
 # OFH 004: Finding Our Squeaky Wheels
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+KUvRqbBl?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+KUvRqbBl?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-05-13
 * Duration: 67 mins 39 secs

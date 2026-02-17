@@ -1,6 +1,6 @@
 # CR 308: The Nicheing Down Fallacy
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+4smOK4jv?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+4smOK4jv?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-05-07
 * Duration: 62 mins 17 secs

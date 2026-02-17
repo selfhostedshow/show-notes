@@ -1,6 +1,6 @@
 # CR 290: The Last Coder
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+77OKh0ll?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+77OKh0ll?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-01-01
 * Duration: 84 mins 58 secs

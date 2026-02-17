@@ -1,6 +1,6 @@
 # LAN 008: Linux Action News 8
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+Xb6IK1wI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+Xb6IK1wI?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-07-02
 * Duration: 25 mins 1 secs

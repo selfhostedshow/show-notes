@@ -1,6 +1,6 @@
 # LAN 067: Linux Action News 67
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+tTTaE5Z1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+tTTaE5Z1?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-08-19
 * Duration: 16 mins 29 secs

@@ -1,6 +1,6 @@
 # LAN 051: Linux Action News 51
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+MZ4fijMu?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+MZ4fijMu?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-04-29
 * Duration: 25 mins 38 secs

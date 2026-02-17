@@ -1,6 +1,6 @@
 # JE 034: popey on ThinkPads
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+YsvrU-3Y?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+YsvrU-3Y?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-11-22
 * Duration: 39 mins 40 secs

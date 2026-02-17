@@ -1,6 +1,6 @@
 # LAN 097: Linux Action News 97
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+B6vRW06A?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+B6vRW06A?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-03-17
 * Duration: 31 mins 24 secs

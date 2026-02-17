@@ -1,6 +1,6 @@
 # JE 071: Brunch with Brent: Sri Ramkrishna
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+sqNv8tXk?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+sqNv8tXk?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-04-21
 * Duration: 34 mins 38 secs

@@ -1,6 +1,6 @@
 # CR 163: Proprietary Stress Management
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+eN8f0NOl?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+eN8f0NOl?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-07-20
 * Duration: 57 mins 53 secs

@@ -1,6 +1,6 @@
 # LUP 481: Just a Prompt Away
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+0aycS804?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+0aycS804?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-10-23
 * Duration: 85 mins 4 secs

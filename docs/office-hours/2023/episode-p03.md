@@ -1,6 +1,6 @@
 # OFH p03: Pocket Office 3: We'll do it LIVE!
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+VEHoIu_r?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+VEHoIu_r?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-09-13
 * Duration: 8 mins 17 secs

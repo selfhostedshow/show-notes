@@ -1,6 +1,6 @@
 # LUP 332: The WSL Secrets
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+yJ1oXLrF?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+yJ1oXLrF?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-12-17
 * Duration: 61 mins 31 secs

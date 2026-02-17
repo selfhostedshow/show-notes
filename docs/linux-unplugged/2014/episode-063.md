@@ -1,6 +1,6 @@
 # LUP 063: For Forks Sake
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+5wQqS4Ob?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+5wQqS4Ob?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-10-21
 * Duration: 89 mins 56 secs

@@ -1,6 +1,6 @@
 # CR 353: A Week with WSL
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+Xn7_s0CN?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+Xn7_s0CN?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-04-17
 * Duration: 50 mins 7 secs

@@ -1,6 +1,6 @@
 # CR 078: Code Your Enthusiasm
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+1DvIf4dc?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+1DvIf4dc?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2013-12-02
 * Duration: 104 mins 52 secs

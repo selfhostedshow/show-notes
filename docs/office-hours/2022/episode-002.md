@@ -1,6 +1,6 @@
 # OFH 002: Podcasting Perils
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+8PKOGt1o?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+8PKOGt1o?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-04-21
 * Duration: 36 mins 39 secs

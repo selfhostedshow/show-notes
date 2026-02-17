@@ -1,6 +1,6 @@
 # CR 564: Re-Re-Rewrite it in Rust
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+su_oxgIM?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+su_oxgIM?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-04-03
 * Duration: 46 mins 36 secs

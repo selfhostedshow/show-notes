@@ -1,6 +1,6 @@
 # CR 442: Touched by the Bar
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+BCV29yj1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+BCV29yj1?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-12-01
 * Duration: 47 mins 52 secs

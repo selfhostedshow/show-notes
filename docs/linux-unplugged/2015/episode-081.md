@@ -1,6 +1,6 @@
 # LUP 081: Unplugging the Past
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+FYUkwuLa?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+FYUkwuLa?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-02-24
 * Duration: 87 mins 40 secs

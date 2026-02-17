@@ -1,6 +1,6 @@
 # SSH 144: Silence of the RAMs
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+vxp_2BX4?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+vxp_2BX4?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-03-07
 * Duration: 52 mins 21 secs

@@ -1,6 +1,6 @@
 # LUP 484: Fedora Falls Flat
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+ZoodguAA?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+ZoodguAA?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-11-13
 * Duration: 84 mins 46 secs

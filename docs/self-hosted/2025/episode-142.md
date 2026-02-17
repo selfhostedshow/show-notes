@@ -1,6 +1,6 @@
 # SSH 142: Cloud Your Judgment
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+-OBaSlP_?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+-OBaSlP_?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-02-07
 * Duration: 54 mins 19 secs

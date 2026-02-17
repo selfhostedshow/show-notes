@@ -1,6 +1,6 @@
 # CR 524: Apple's Blurry Vision
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+-qwU1loa?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+-qwU1loa?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-06-28
 * Duration: 52 mins 45 secs

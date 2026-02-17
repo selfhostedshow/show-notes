@@ -1,6 +1,6 @@
 # SSH 031: Industrial Grade Mobile Internet
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+nw3vci9n?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+nw3vci9n?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-11-06
 * Duration: 51 mins 25 secs

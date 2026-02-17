@@ -1,6 +1,6 @@
 # LUP 311: 32 Hours of Outrage
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+c1DmhEmJ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+c1DmhEmJ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-07-23
 * Duration: 68 mins 43 secs

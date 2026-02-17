@@ -1,6 +1,6 @@
 # LAN 059: Linux Action News 59
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+HWTQqvyY?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+HWTQqvyY?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-06-24
 * Duration: 30 mins 4 secs

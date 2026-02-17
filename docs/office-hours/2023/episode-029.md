@@ -1,6 +1,6 @@
 # OFH 029: Let's Play Doctor
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+lNx8Qj1F?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+lNx8Qj1F?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-05-12
 * Duration: 68 mins 40 secs

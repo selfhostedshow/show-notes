@@ -1,6 +1,6 @@
 # LAN 088: Linux Action News 88
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+jMDCLZYa?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+jMDCLZYa?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-01-13
 * Duration: 26 mins 39 secs

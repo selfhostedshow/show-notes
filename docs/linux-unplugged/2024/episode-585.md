@@ -1,6 +1,6 @@
 # LUP 585: Choosy Moms Choose Ubuntu
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+MWlZDQ6V?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+MWlZDQ6V?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-10-20
 * Duration: 74 mins 43 secs

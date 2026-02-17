@@ -1,6 +1,6 @@
 # LUP 433: The Lessons of Jellyfin
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+P__3kq-1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+P__3kq-1?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-11-23
 * Duration: 60 mins 19 secs

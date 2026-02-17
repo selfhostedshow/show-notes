@@ -1,6 +1,6 @@
 # JE 093: LinuxFest Northwest 2025 Day 1
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+8_LgJ1Pa?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+8_LgJ1Pa?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-04-26
 * Duration: 117 mins 5 secs

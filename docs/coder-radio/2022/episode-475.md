@@ -1,6 +1,6 @@
 # CR 475: I Do Declare
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+W2inYkh5?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+W2inYkh5?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-07-20
 * Duration: 59 mins 58 secs

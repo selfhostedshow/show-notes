@@ -1,6 +1,6 @@
 # CR 358: Batteries are Leaking
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+apeMfHP6?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+apeMfHP6?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-05-20
 * Duration: 46 mins 37 secs

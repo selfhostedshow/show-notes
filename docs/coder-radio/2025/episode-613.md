@@ -1,6 +1,6 @@
 # CR 613: Intel Aflame
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+lsGc9JFq?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+lsGc9JFq?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-03-31
 * Duration: 45 mins 57 secs

@@ -1,6 +1,6 @@
 # CR 349: Their Rules, Your Choice
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+Z8YUW4Qm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+Z8YUW4Qm?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-03-19
 * Duration: 44 mins 38 secs

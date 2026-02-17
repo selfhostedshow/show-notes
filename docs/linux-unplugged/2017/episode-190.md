@@ -1,6 +1,6 @@
 # LUP 190: Boot Free or Die Tryin’
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+8eusTnUc?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+8eusTnUc?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-03-28
 * Duration: 78 mins 1 secs

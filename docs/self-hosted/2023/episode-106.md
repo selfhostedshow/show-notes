@@ -1,6 +1,6 @@
 # SSH 106: The Plex Situation Just got Worse
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+ZhXnC444?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+ZhXnC444?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-09-22
 * Duration: 57 mins 33 secs

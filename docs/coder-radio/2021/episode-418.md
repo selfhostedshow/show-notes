@@ -1,6 +1,6 @@
 # CR 418: I'm a Teapot
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+GeFRD3Q5?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+GeFRD3Q5?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-06-16
 * Duration: 43 mins 40 secs

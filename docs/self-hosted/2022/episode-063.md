@@ -1,6 +1,6 @@
 # SSH 063: Pulling the Rug Out
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+lPVPMw3j?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+lPVPMw3j?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-01-28
 * Duration: 42 mins 51 secs

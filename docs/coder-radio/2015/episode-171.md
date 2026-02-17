@@ -1,6 +1,6 @@
 # CR 171: Coder Craftsmen
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+YBxSb4fX?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+YBxSb4fX?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-09-18
 * Duration: 55 mins 40 secs

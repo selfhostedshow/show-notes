@@ -1,6 +1,6 @@
 # LAN 010: Linux Action News 10
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+sNr71n0A?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+sNr71n0A?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-07-15
 * Duration: 30 mins 32 secs

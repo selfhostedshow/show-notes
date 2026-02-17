@@ -1,6 +1,6 @@
 # LUP 525: Beating Apple to the Sauce
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+Xz8fxCGl?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+Xz8fxCGl?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-08-27
 * Duration: 72 mins 20 secs

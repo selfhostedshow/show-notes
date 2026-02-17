@@ -1,6 +1,6 @@
 # CR 631: Aeroview's Marc Weiner
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+xUCzb0f7?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+xUCzb0f7?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-11-04
 * Duration: 29 mins 36 secs

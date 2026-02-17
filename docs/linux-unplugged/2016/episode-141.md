@@ -1,6 +1,6 @@
 # LUP 141: 16.04 and Shut Your Face
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+16nUjnGC?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+16nUjnGC?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-04-19
 * Duration: 126 mins 28 secs

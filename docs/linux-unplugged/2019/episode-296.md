@@ -1,6 +1,6 @@
 # LUP 296: Defining Desktop Linux
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+BescIgqJ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+BescIgqJ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-04-09
 * Duration: 67 mins 0 secs

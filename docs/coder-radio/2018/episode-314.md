@@ -1,6 +1,6 @@
 # CR 314: Microsoft's Electron Future
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+CbfFlmpI?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+CbfFlmpI?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-06-26
 * Duration: 60 mins 44 secs

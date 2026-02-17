@@ -1,6 +1,6 @@
 # SSH 002: Why Self-Host? With Wendell from Level1techs
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+aGtGAbih?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+aGtGAbih?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-09-26
 * Duration: 44 mins 9 secs

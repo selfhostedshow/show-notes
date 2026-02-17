@@ -1,6 +1,6 @@
 # SSH 083: Unintended Upgrades
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+OrF9ky5U?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+OrF9ky5U?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-11-04
 * Duration: 63 mins 31 secs

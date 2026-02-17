@@ -1,6 +1,6 @@
 # LUP 242: Debian on the Fly
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+dscNaQBD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+dscNaQBD?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-03-27
 * Duration: 62 mins 10 secs

@@ -1,6 +1,6 @@
 # LUP 467: All Hands on Deck
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+OJU38TRx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+OJU38TRx?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-07-17
 * Duration: 81 mins 27 secs

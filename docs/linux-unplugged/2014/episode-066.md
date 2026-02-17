@@ -1,6 +1,6 @@
 # LUP 066: Firefox gets Unplugged
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+jBa5SlLQ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+jBa5SlLQ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-11-11
 * Duration: 74 mins 48 secs

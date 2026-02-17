@@ -1,6 +1,6 @@
 # LUP 328: My Mighty Fine Pine
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+o_LOn-VG?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+o_LOn-VG?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-11-19
 * Duration: 52 mins 55 secs

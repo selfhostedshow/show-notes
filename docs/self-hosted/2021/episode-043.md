@@ -1,6 +1,6 @@
 # SSH 043: A New Solution for Backups
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+jh-L67ub?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+jh-L67ub?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-04-23
 * Duration: 47 mins 45 secs

@@ -1,6 +1,6 @@
 # OFH 001: The Enthusiast Trap
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+WdflZEEX?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+WdflZEEX?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-04-15
 * Duration: 11 mins 43 secs

@@ -1,6 +1,6 @@
 # LUP 611: Distro Double Trouble
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+gw9vYS9Z?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+gw9vYS9Z?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-04-20
 * Duration: 59 mins 41 secs

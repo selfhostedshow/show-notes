@@ -1,6 +1,6 @@
 # JE 078: elementary OS 6.1 Secrets with Founder and CEO Danielle Foré
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+oJ6Oq8yX?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+oJ6Oq8yX?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-12-21
 * Duration: 10 mins 8 secs

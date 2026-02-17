@@ -1,6 +1,6 @@
 # LUP 488: Revenge of the Lizard People
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+RyDB8caq?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+RyDB8caq?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-12-11
 * Duration: 80 mins 12 secs

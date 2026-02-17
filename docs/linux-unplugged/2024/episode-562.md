@@ -1,6 +1,6 @@
 # LUP 562: Red Hat Knows How to Party
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+s26nC5qr?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+s26nC5qr?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-05-12
 * Duration: 74 mins 45 secs

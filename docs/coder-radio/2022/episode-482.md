@@ -1,6 +1,6 @@
 # CR 482: Building Your Light Saber
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+bAkxfhws?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+bAkxfhws?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-09-07
 * Duration: 60 mins 31 secs

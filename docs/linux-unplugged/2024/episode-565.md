@@ -1,6 +1,6 @@
 # LUP 565: Mistakes That Made Us Love Linux
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+NKs9X6M8?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+NKs9X6M8?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-06-02
 * Duration: 83 mins 50 secs

@@ -1,6 +1,6 @@
 # OFH 027: It's About to Get Real
 
-<iframe src="https://player.fireside.fm/v2/MkcqFyfv+gGuiJ1p6?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MkcqFyfv+gGuiJ1p6?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-04-14
 * Duration: 46 mins 25 secs

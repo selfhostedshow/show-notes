@@ -1,6 +1,6 @@
 # CR 601: The 10X Exec
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+Di9-yK5Y?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+Di9-yK5Y?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-01-01
 * Duration: 58 mins 13 secs

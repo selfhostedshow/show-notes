@@ -1,6 +1,6 @@
 # LUP 106: Connecting the Docks
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+nHQ-Z3B-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+nHQ-Z3B-?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-08-19
 * Duration: 56 mins 26 secs

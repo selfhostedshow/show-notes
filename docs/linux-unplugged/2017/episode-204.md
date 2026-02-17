@@ -1,6 +1,6 @@
 # LUP 204: Awkward Distro Puberty
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+E2WVuaF4?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+E2WVuaF4?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-07-04
 * Duration: 102 mins 36 secs

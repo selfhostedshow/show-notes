@@ -1,6 +1,6 @@
 # LUP 505: Keep Your Darn Secrets
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+k8aCp2lV?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+k8aCp2lV?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-04-09
 * Duration: 73 mins 47 secs

@@ -1,6 +1,6 @@
 # JE 068: Brunch with Brent: Daniel Foré
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+MirueKba?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+MirueKba?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-04-03
 * Duration: 53 mins 8 secs

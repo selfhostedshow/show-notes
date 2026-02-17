@@ -1,6 +1,6 @@
 # JE 041: Brunch with Brent: Jason Spisak Part 2
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+GPJQCBBm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+GPJQCBBm?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-12-20
 * Duration: 63 mins 30 secs

@@ -1,6 +1,6 @@
 # LUP 399: No PRs Please
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+bqj6JAEQ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+bqj6JAEQ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-03-30
 * Duration: 70 mins 4 secs

@@ -1,6 +1,6 @@
 # LUP 385: The 2020 Tuxies
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+5iKo613O?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+5iKo613O?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-12-22
 * Duration: 84 mins 45 secs

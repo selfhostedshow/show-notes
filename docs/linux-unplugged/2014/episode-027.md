@@ -1,6 +1,6 @@
 # LUP 027: Debian's systemd Decision
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+DkZM3u4j?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+DkZM3u4j?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-02-11
 * Duration: 65 mins 27 secs

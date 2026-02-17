@@ -1,6 +1,6 @@
 # LUP 358: Our Fragmented Favorite
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+JyrUYmmm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+JyrUYmmm?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-06-16
 * Duration: 73 mins 47 secs

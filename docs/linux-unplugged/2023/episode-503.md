@@ -1,6 +1,6 @@
 # LUP 503: Berlin with Brent
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+tG1vFZQD?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+tG1vFZQD?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-03-26
 * Duration: 89 mins 4 secs

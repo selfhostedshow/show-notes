@@ -1,6 +1,6 @@
 # LUP 038: The Rest of the Fest
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+213tJ9xt?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+213tJ9xt?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-04-29
 * Duration: 47 mins 38 secs

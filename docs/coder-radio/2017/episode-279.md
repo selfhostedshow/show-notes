@@ -1,6 +1,6 @@
 # CR 279: Evolving Software Development
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+bLc9iuRP?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+bLc9iuRP?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-10-17
 * Duration: 55 mins 20 secs

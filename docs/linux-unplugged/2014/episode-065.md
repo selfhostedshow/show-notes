@@ -1,6 +1,6 @@
 # LUP 065: OpenSUSE Followup
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+eiTpowqx?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+eiTpowqx?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-11-04
 * Duration: 81 mins 8 secs

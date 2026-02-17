@@ -1,6 +1,6 @@
 # LAN 284: Linux Action News 284
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+AmFFNrPS?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+AmFFNrPS?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-03-16
 * Duration: 16 mins 57 secs

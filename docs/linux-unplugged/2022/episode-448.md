@@ -1,6 +1,6 @@
 # LUP 448: A Mystery in Plain Sight
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+o7i8yiaZ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+o7i8yiaZ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-03-06
 * Duration: 64 mins 36 secs

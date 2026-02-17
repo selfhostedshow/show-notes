@@ -1,6 +1,6 @@
 # SSH 065: Failing at Scale
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+hqMc47Ym?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+hqMc47Ym?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-02-25
 * Duration: 44 mins 59 secs

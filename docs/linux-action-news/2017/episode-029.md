@@ -1,6 +1,6 @@
 # LAN 029: Linux Action News 29
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+6Aj8emli?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+6Aj8emli?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-11-26
 * Duration: 23 mins 57 secs

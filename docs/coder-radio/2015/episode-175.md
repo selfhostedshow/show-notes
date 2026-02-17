@@ -1,6 +1,6 @@
 # CR 175: What The Zuck!
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+mK2-9bgJ?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+mK2-9bgJ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-10-19
 * Duration: 40 mins 10 secs

@@ -1,6 +1,6 @@
 # SSH 098: The One with 45Drives
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+V1lGW6ge?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+V1lGW6ge?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-06-02
 * Duration: 46 mins 19 secs

@@ -1,6 +1,6 @@
 # SSH 014: Embracing Automation
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+TajucWET?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+TajucWET?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-03-12
 * Duration: 43 mins 14 secs

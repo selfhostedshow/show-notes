@@ -1,6 +1,6 @@
 # CR 125: Behind the Schemes
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+CMsXgv_-?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+CMsXgv_-?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-10-28
 * Duration: 58 mins 23 secs

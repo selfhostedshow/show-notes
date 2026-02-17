@@ -1,6 +1,6 @@
 # JE 007: Brunch with Brent: Alex Kretzschmar
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+ymL_Vy_o?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+ymL_Vy_o?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-08-27
 * Duration: 73 mins 36 secs

@@ -1,6 +1,6 @@
 # LUP 133: Apollo Has Landed
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+8qWCo-xN?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+8qWCo-xN?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-02-23
 * Duration: 78 mins 40 secs

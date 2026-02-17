@@ -1,6 +1,6 @@
 # LUP 109: Who Will Build The Builders
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+vK42wT0X?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+vK42wT0X?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-09-08
 * Duration: 65 mins 41 secs

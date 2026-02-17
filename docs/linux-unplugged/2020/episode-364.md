@@ -1,6 +1,6 @@
 # LUP 364: Linux Arm Wrestling
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+52JVmLur?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+52JVmLur?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-07-28
 * Duration: 52 mins 42 secs

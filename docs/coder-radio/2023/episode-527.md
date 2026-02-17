@@ -1,6 +1,6 @@
 # CR 527: The Internet is for Stealing JPGs
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+mQhpJgvt?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+mQhpJgvt?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-07-19
 * Duration: 50 mins 57 secs

@@ -1,6 +1,6 @@
 # LUP 098: Not OK Google
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+TK2k_auS?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+TK2k_auS?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-06-23
 * Duration: 87 mins 26 secs

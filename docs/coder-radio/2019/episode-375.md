@@ -1,6 +1,6 @@
 # CR 375: The Grey Havens
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+Qg-li38w?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+Qg-li38w?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-09-16
 * Duration: 33 mins 16 secs

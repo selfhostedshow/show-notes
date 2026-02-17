@@ -1,6 +1,6 @@
 # LAN 288: Linux Action News 288
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+8cXf1N2r?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+8cXf1N2r?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-04-13
 * Duration: 14 mins 24 secs

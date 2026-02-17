@@ -1,6 +1,6 @@
 # CR 521: More Pro, More Problems
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+p-68QZzm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+p-68QZzm?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-06-07
 * Duration: 62 mins 34 secs

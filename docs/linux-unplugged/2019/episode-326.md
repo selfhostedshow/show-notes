@@ -1,6 +1,6 @@
 # LUP 326: Dell, elementary, Fedora, oh my!
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+HIfDTWmn?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+HIfDTWmn?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-11-05
 * Duration: 62 mins 14 secs

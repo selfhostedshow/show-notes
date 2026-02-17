@@ -1,6 +1,6 @@
 # LUP 230: Invest In Popcorn
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+jU5TbAQS?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+jU5TbAQS?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-01-02
 * Duration: 57 mins 2 secs

@@ -1,6 +1,6 @@
 # SSH 096: Outdoor Home Assistant
 
-<iframe src="https://player.fireside.fm/v2/dUlrHQih+lR6P-Y5Z?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+lR6P-Y5Z?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-05-05
 * Duration: 53 mins 6 secs

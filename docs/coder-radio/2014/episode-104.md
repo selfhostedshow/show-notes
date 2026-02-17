@@ -1,6 +1,6 @@
 # CR 104: Swift exit for Obj-C
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+Z7El7ws2?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+Z7El7ws2?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-06-02
 * Duration: 27 mins 0 secs

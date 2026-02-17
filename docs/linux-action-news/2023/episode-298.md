@@ -1,6 +1,6 @@
 # LAN 298: Linux Action News 298
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+qBjITvRd?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+qBjITvRd?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-06-29
 * Duration: 13 mins 55 secs

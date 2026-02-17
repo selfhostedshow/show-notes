@@ -1,6 +1,6 @@
 # LAN 166: Linux Action News 166
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+_9eh1_JP?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+_9eh1_JP?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-12-06
 * Duration: 29 mins 34 secs

@@ -1,6 +1,6 @@
 # JE 040: Brunch with Brent: Jason Spisak Part 1
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+D88P6gVk?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+D88P6gVk?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-12-17
 * Duration: 50 mins 22 secs

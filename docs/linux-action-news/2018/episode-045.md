@@ -1,6 +1,6 @@
 # LAN 045: Linux Action News 45
 
-<iframe src="https://player.fireside.fm/v2/DAcK9LdX+7YqqRmaC?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+7YqqRmaC?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-03-18
 * Duration: 25 mins 56 secs

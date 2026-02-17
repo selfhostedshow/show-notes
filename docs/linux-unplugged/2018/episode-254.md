@@ -1,6 +1,6 @@
 # LUP 254: Don’t Link to This
 
-<iframe src="https://player.fireside.fm/v2/RUkczH-V+3HDm-2PE?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+3HDm-2PE?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-06-20
 * Duration: 85 mins 31 secs

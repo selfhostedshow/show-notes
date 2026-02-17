@@ -1,6 +1,6 @@
 # CR 329: OpenJDK or Death
 
-<iframe src="https://player.fireside.fm/v2/MLf2ZzhC+WvJzBi-x?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+WvJzBi-x?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2018-10-15
 * Duration: 46 mins 42 secs

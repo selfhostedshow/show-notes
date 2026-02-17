@@ -1,6 +1,6 @@
 # JE 001: Thomas Cameron Texas LinuxFest Keynote
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+x8a3P9tq?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+x8a3P9tq?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-08-08
 * Duration: 42 mins 41 secs

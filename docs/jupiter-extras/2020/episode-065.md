@@ -1,6 +1,6 @@
 # JE 065: Brunch with Brent: Stuart Langridge
 
-<iframe src="https://player.fireside.fm/v2/WTrMvATU+Z07JrT5W?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+Z07JrT5W?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-03-20
 * Duration: 57 mins 51 secs
