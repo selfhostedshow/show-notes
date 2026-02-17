@@ -1,3 +1,4 @@
 -r requirements.txt
 
+importlib-metadata<5
 flake8==3.9.2
