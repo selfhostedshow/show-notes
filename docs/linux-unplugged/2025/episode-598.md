@@ -3,7 +3,7 @@
 <iframe src="https://player.fireside.fm/v3/RUkczH-V+7t-55GES?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-01-19
-* Duration: 83 mins 41 secs
+* Duration: 83 mins 40 secs
 
 ## About this episode
 

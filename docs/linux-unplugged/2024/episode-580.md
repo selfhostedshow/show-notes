@@ -3,7 +3,7 @@
 <iframe src="https://player.fireside.fm/v3/RUkczH-V+Q5GdvnY1?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-09-15
-* Duration: 71 mins 41 secs
+* Duration: 71 mins 40 secs
 
 ## About this episode
 
