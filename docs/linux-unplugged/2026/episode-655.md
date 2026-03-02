@@ -18,11 +18,8 @@ Planet Nix and SCaLE are just days away, and we're getting a head start with two
 
 ## Sponsored by
 
-    * [Jupiter Party Annual Membership](https://jupitersignal.memberful.com/checkout?plan=117630r): [Put your support on automatic with our annual plan, and get one month of membership for free!](https://jupitersignal.memberful.com/checkout?plan=117630r)
-    * [Managed Nebula](https://defined.net/unplugged): [Meet Managed Nebula from Defined Networking. A decentralized VPN built on the open-source Nebula platform that we love.](https://defined.net/unplugged)
-
-[Support LINUX
-Unplugged](https://jupitersignal.memberful.com/checkout?plan=52946)
+  * [Jupiter Party Annual Membership](https://jupitersignal.memberful.com/checkout?plan=117630r): [Put your support on automatic with our annual plan, and get one month of membership for free!](https://jupitersignal.memberful.com/checkout?plan=117630r)
+  * [Managed Nebula](https://defined.net/unplugged): [Meet Managed Nebula from Defined Networking. A decentralized VPN built on the open-source Nebula platform that we love.](https://defined.net/unplugged)
 
 
 
