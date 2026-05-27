@@ -15,16 +15,16 @@ The crew takes on a new challenge this week. How hard could it be? Very. Plus, t
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [LUP 500 Micro Brewery Meetup, Sat, Mar 4, 2023, 4:00 PM](https://www.meetup.com/jupiterbroadcasting/events/291582264/ "LUP 500 Micro Brewery Meetup, Sat, Mar 4, 2023, 4:00 PM") — Come celebrate episode 500 with some brews the night before! This venue has great beer and food, indoor and outdoor seating.
-  * [Mount Vernon Taproom - 192 Brewing Company](https://192brewing.com/mount-vernon-taproom/ "Mount Vernon Taproom - 192 Brewing Company")
-  * [Replace space with - in tags url by Balastrong - PR #507 - jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/507 "Replace space with - in tags url by Balastrong - PR #507 - jupiterbroadcasting.com")
-  * [giraffe emoji not rendering on website 🦒 · Issue #516 - jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues/516 "giraffe emoji not rendering on website 🦒 · Issue #516 - jupiterbroadcasting.com")
+  * [LUP 500 Micro Brewery Meetup, Sat, Mar 4, 2023, 4:00 PM ](https://www.meetup.com/jupiterbroadcasting/events/291582264/ "LUP 500 Micro Brewery Meetup, Sat, Mar 4, 2023, 4:00 PM") — Come celebrate episode 500 with some brews the night before! This venue has great beer and food, indoor and outdoor seating. 
+  * [Mount Vernon Taproom - 192 Brewing Company ](https://192brewing.com/mount-vernon-taproom/ "Mount Vernon Taproom - 192 Brewing Company")
+  * [Replace space with - in tags url by Balastrong - PR #507 - jupiterbroadcasting.com ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/507 "Replace space with - in tags url by Balastrong - PR #507 - jupiterbroadcasting.com")
+  * [giraffe emoji not rendering on website 🦒 · Issue #516 - jupiterbroadcasting.com ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues/516 "giraffe emoji not rendering on website 🦒 · Issue #516 - jupiterbroadcasting.com")
 
 
 

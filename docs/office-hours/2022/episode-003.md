@@ -22,12 +22,12 @@ It's a summer of projects, we get into our plans to totally rebuild our website,
 
 ## Episode links
 
-  * [Podcastindex.org on Twitter](https://twitter.com/PodcastindexOrg/status/1518208009289277440 "Podcastindex.org on Twitter") — Using the tag, Curiocaster’s feed generator (called Sovereign Feeds) can change the UI for feed/episode creation to make everything reflect the type of content you are creating (like a music album). This is another part of “the vision”.
-  * [Website Rebuild Ideas & Explorations · Discussion](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/discussions/8 "Website Rebuild Ideas & Explorations · Discussion") — Join the discussion around our new website.
-  * [Website issues for JupiterBroadcasting.com, et al.](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com "Website issues for JupiterBroadcasting.com, et al.")
-  * [Grav](https://getgrav.org/ "Grav") — Grav is a modern open source flat-file CMS 
-  * [Linux Foundation Shills NFTs and Spreads FUD about Bitcoin](https://www.youtube.com/watch?v=aOLZWVpT9Ec "Linux Foundation Shills NFTs and Spreads FUD about Bitcoin") — The Linux Foundation has started spreading FUD about free software projects in an attempt to sell the virtues of their centralized Proof of Work blockchain Hyperledger and shill "green" NFTs. 
-  * [From 1999: Dig more coal -- the PCs are coming](https://www.forbes.com/forbes/1999/0531/6311070a.html?sh=5a8971122580 "From 1999: Dig more coal -- the PCs are coming") — The current fuel-economy rating: about 1 pound of coal to create, package, store and move 2 megabytes of data. The digital age, it turns out, is very energy-intensive. The Internet may someday save us bricks, mortar and catalog paper, but it is burning up an awful lot of fossil fuel in the process.
+  * [Podcastindex.org on Twitter ](https://twitter.com/PodcastindexOrg/status/1518208009289277440 "Podcastindex.org on Twitter") — Using the <podcast:medium> tag, Curiocaster’s feed generator (called Sovereign Feeds) can change the UI for feed/episode creation to make everything reflect the type of content you are creating (like a music album). This is another part of “the vision”. 
+  * [Website Rebuild Ideas & Explorations · Discussion ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/discussions/8 "Website Rebuild Ideas & Explorations · Discussion") — Join the discussion around our new website. 
+  * [Website issues for JupiterBroadcasting.com, et al. ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com "Website issues for JupiterBroadcasting.com, et al.")
+  * [Grav ](https://getgrav.org/ "Grav") — Grav is a modern open source flat-file CMS 
+  * [Linux Foundation Shills NFTs and Spreads FUD about Bitcoin ](https://www.youtube.com/watch?v=aOLZWVpT9Ec "Linux Foundation Shills NFTs and Spreads FUD about Bitcoin") — The Linux Foundation has started spreading FUD about free software projects in an attempt to sell the virtues of their centralized Proof of Work blockchain Hyperledger and shill "green" NFTs. 
+  * [From 1999: Dig more coal -- the PCs are coming ](https://www.forbes.com/forbes/1999/0531/6311070a.html?sh=5a8971122580 "From 1999: Dig more coal -- the PCs are coming") — The current fuel-economy rating: about 1 pound of coal to create, package, store and move 2 megabytes of data. The digital age, it turns out, is very energy-intensive. The Internet may someday save us bricks, mortar and catalog paper, but it is burning up an awful lot of fossil fuel in the process. 
 
 
 

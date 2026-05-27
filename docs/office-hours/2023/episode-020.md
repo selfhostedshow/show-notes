@@ -18,20 +18,20 @@ We're kicking off some new projects, catching up with old friends, and react to 
 ## Sponsored by
 
   * [Join the Party! The Jupiter Membership Party](https://www.jupiter.party/): [Join the party and get exclusive content. ](https://www.jupiter.party/)
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [GitHub - jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com "GitHub - jupiterbroadcasting.com") — Hugo-based and community-driven!
-  * [Add Mobile Support for Live Status Indicator by ChanceM](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/487 "Add Mobile Support for Live Status Indicator by ChanceM")
-  * [Sovereign Feeds](https://sovereignfeeds.com/ "Sovereign Feeds") — Generate Podcasting 2.0 compatible RSS feeds. Also, a great walkthrough of all the new features Podcasting 2.0 brings.
-  * [Gather requirements for RSS feed generation · Issue #439](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues/439 "Gather requirements for RSS feed generation · Issue #439")
-  * [Search across all Jupiter Broadcasting Show Notes](https://notes.jupiterbroadcasting.com/ "Search across all Jupiter Broadcasting Show Notes") — This site is a searchable archive of the show notes for the all Jupiter Broadcasting shows. Home to the best shows on Linux, Open Source, Security, Privacy, Community, Development, and News.
-  * [Transcriptions · Issue #301](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues/301 "Transcriptions · Issue #301")
-  * [Alby — Lightning for your Browser!](https://getalby.com/ "Alby — Lightning for your Browser!") — Alby brings Bitcoin payments to the web. Send a Boost from the Podcast Index once you get Alby all set up.
-  * [Office Hours on Podcastindex.org](https://podcastindex.org/podcast/5341434 "Office Hours on Podcastindex.org") — You can Boost the show right from the Podcast Index website.
+  * [GitHub - jupiterbroadcasting.com ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com "GitHub - jupiterbroadcasting.com") — Hugo-based and community-driven! 
+  * [Add Mobile Support for Live Status Indicator by ChanceM ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/487 "Add Mobile Support for Live Status Indicator by ChanceM")
+  * [Sovereign Feeds ](https://sovereignfeeds.com/ "Sovereign Feeds") — Generate Podcasting 2.0 compatible RSS feeds. Also, a great walkthrough of all the new features Podcasting 2.0 brings. 
+  * [Gather requirements for RSS feed generation · Issue #439 ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues/439 "Gather requirements for RSS feed generation · Issue #439")
+  * [Search across all Jupiter Broadcasting Show Notes ](https://notes.jupiterbroadcasting.com/ "Search across all Jupiter Broadcasting Show Notes") — This site is a searchable archive of the show notes for the all Jupiter Broadcasting shows. Home to the best shows on Linux, Open Source, Security, Privacy, Community, Development, and News. 
+  * [Transcriptions · Issue #301 ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues/301 "Transcriptions · Issue #301")
+  * [Alby — Lightning for your Browser! ](https://getalby.com/ "Alby — Lightning for your Browser!") — Alby brings Bitcoin payments to the web. Send a Boost from the Podcast Index once you get Alby all set up. 
+  * [Office Hours on Podcastindex.org ](https://podcastindex.org/podcast/5341434 "Office Hours on Podcastindex.org") — You can Boost the show right from the Podcast Index website. 
 
 
 

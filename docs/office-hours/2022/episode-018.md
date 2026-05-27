@@ -16,21 +16,21 @@ We challenged ChatGPT to create a Linux news podcast outline and then put it to 
 ## Sponsored by
 
   * [Join the Party! The Jupiter Membership Party](https://www.jupiter.party/): [Join the party and get exclusive content. ](https://www.jupiter.party/)
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [AI Stump Speech](https://paste.docs.lol/reader/ScarphTrigness "AI Stump Speech") — Fellow citizens, I stand before you today as the first-ever AI presidential candidate. I know some of you may be skeptical about my ability to lead, but I assure you that I am more than capable of guiding this great nation to a brighter future. 
-  * [ChatGPT](https://openai.com/blog/chatgpt/ "ChatGPT") — We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests
-  * [Sam Altman on Twitter](https://twitter.com/sama/status/1599668808285028353 "Sam Altman on Twitter") — ChatGPT launched on wednesday. today it crossed 1 million users!
-  * [Linux Action News Script](https://paste.docs.lol/reader/AggrandisesQuaternity "Linux Action News Script")
-  * [Supported SSO identity providers](https://tailscale.com/kb/1013/sso-providers/ "Supported SSO identity providers") — Tailscale works on top of the SSO/IDP/IAM identity provider you or your company already use.
-  * [James Hoffmann - YouTube](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ "James Hoffmann - YouTube")
-  * [AMA Twitter Thread](https://twitter.com/ChrisLAS/status/1600176987901132800 "AMA Twitter Thread") — We're doing a little @JBOfficeHours AMA during the live stream today.
-  * [Swaps Index • LightningNetwork+](https://lightningnetwork.plus/ "Swaps Index • LightningNetwork+") — If you have a Bitcoin Lightning Node and you want to open channels to have both outgoing and incoming capacity, we can help you. Here you can easily join a so called liquidity swap where multiple users like you team up and open channels to each other. This setup results in a free incoming channel to you in return for you opening one to someone else. The process takes 4 simple steps. We will give you instructions all throughout the process to make it easy.
-  * [Send a Boost into the Show](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost into the Show") — Upgrade to a Podcasting 2.0 compatible app, and send a Boost into the show.
+  * [AI Stump Speech ](https://paste.docs.lol/reader/ScarphTrigness "AI Stump Speech") — Fellow citizens, I stand before you today as the first-ever AI presidential candidate. I know some of you may be skeptical about my ability to lead, but I assure you that I am more than capable of guiding this great nation to a brighter future. 
+  * [ChatGPT ](https://openai.com/blog/chatgpt/ "ChatGPT") — We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests 
+  * [Sam Altman on Twitter ](https://twitter.com/sama/status/1599668808285028353 "Sam Altman on Twitter") — ChatGPT launched on wednesday. today it crossed 1 million users! 
+  * [Linux Action News Script ](https://paste.docs.lol/reader/AggrandisesQuaternity "Linux Action News Script")
+  * [Supported SSO identity providers ](https://tailscale.com/kb/1013/sso-providers/ "Supported SSO identity providers") — Tailscale works on top of the SSO/IDP/IAM identity provider you or your company already use. 
+  * [James Hoffmann - YouTube ](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ "James Hoffmann - YouTube")
+  * [AMA Twitter Thread ](https://twitter.com/ChrisLAS/status/1600176987901132800 "AMA Twitter Thread") — We're doing a little @JBOfficeHours AMA during the live stream today. 
+  * [Swaps Index • LightningNetwork+ ](https://lightningnetwork.plus/ "Swaps Index • LightningNetwork+") — If you have a Bitcoin Lightning Node and you want to open channels to have both outgoing and incoming capacity, we can help you. Here you can easily join a so called liquidity swap where multiple users like you team up and open channels to each other. This setup results in a free incoming channel to you in return for you opening one to someone else. The process takes 4 simple steps. We will give you instructions all throughout the process to make it easy. 
+  * [Send a Boost into the Show ](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost into the Show") — Upgrade to a Podcasting 2.0 compatible app, and send a Boost into the show. 
 
 
 

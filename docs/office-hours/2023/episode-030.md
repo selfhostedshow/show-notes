@@ -15,22 +15,22 @@ We travel 10 years into the future and report back on how podcasts and Jupiter B
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [Spotify Developing AI Ads Using Podcast Hosts' Voices](https://www.businessinsider.com/spotify-developing-ai-bots-ads-based-on-podcast-hosts-report-2023-5?r=US&IR=T&utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net:2023-05-23 "Spotify Developing AI Ads Using Podcast Hosts' Voices") — He said that the streaming service is working on technology for AI-generated ads.
-  * [Dave Jones Taking Count!](https://podcastindex.social/@dave/110415775925652308 "Dave Jones Taking Count!") — I’m really thinking it’s time to stop ingesting Anchor feeds automatically and only accept them into the index if they are tied to an iTunes ID or manually submitted.
-  * [Podverse | F-Droid](https://f-droid.org/en/packages/com.podverse.fdroid/ "Podverse | F-Droid") — Podcast app with clips, video, livestreams, playlists, profiles, and cross-platf 
-  * [Podverse - on Google Play](https://play.google.com/store/apps/details?id=com.podverse&hl=en_US&gl=US "Podverse - on Google Play")
-  * [Podverse.fm](https://podverse.fm/ "Podverse.fm")
-  * [Franco (Castamatic) on Podcast Index Social](https://podcastindex.social/@francosolerio/110412540208683629 "Franco \(Castamatic\) on Podcast Index Social") — Castamatic 8.7.0 with the new Alby integration is available now on the AppStore.
-  * [Oak - Scheduled Boosts](https://oak-node.net/doc/trunk/README.md "Oak - Scheduled Boosts") — Scheduled LN Payments (demo) - Stream sats from your own node. Setup a schedule to support your favorite content creators. All they need is a Lightning Address, and they keep 100% of what you send them. 
-  * [The Remix Bros - YouTube](https://www.youtube.com/WTFBrahh/videos "The Remix Bros - YouTube")
-  * [Alby: Your Boost companion for the web](https://getalby.com/ "Alby: Your Boost companion for the web") — Your Boost companion for the web 
-  * [Office Hours on the Podcastindex.org](https://podcastindex.org/podcast/5341434 "Office Hours on the Podcastindex.org") — Send a Boost into the show via the web. First, top-up Alby, then head over to our entry on the Podcast Index.
+  * [Spotify Developing AI Ads Using Podcast Hosts' Voices ](https://www.businessinsider.com/spotify-developing-ai-bots-ads-based-on-podcast-hosts-report-2023-5?r=US&IR=T&utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net:2023-05-23 "Spotify Developing AI Ads Using Podcast Hosts' Voices") — He said that the streaming service is working on technology for AI-generated ads. 
+  * [Dave Jones Taking Count! ](https://podcastindex.social/@dave/110415775925652308 "Dave Jones Taking Count!") — I’m really thinking it’s time to stop ingesting Anchor feeds automatically and only accept them into the index if they are tied to an iTunes ID or manually submitted. 
+  * [Podverse | F-Droid ](https://f-droid.org/en/packages/com.podverse.fdroid/ "Podverse | F-Droid") — Podcast app with clips, video, livestreams, playlists, profiles, and cross-platf 
+  * [Podverse - on Google Play ](https://play.google.com/store/apps/details?id=com.podverse&hl=en_US&gl=US "Podverse - on Google Play")
+  * [Podverse.fm ](https://podverse.fm/ "Podverse.fm")
+  * [Franco (Castamatic) on Podcast Index Social ](https://podcastindex.social/@francosolerio/110412540208683629 "Franco \(Castamatic\) on Podcast Index Social") — Castamatic 8.7.0 with the new Alby integration is available now on the AppStore. 
+  * [Oak - Scheduled Boosts ](https://oak-node.net/doc/trunk/README.md "Oak - Scheduled Boosts") — Scheduled LN Payments (demo) - Stream sats from your own node. Setup a schedule to support your favorite content creators. All they need is a Lightning Address, and they keep 100% of what you send them. 
+  * [The Remix Bros - YouTube ](https://www.youtube.com/WTFBrahh/videos "The Remix Bros - YouTube")
+  * [Alby: Your Boost companion for the web ](https://getalby.com/ "Alby: Your Boost companion for the web") — Your Boost companion for the web 
+  * [Office Hours on the Podcastindex.org ](https://podcastindex.org/podcast/5341434 "Office Hours on the Podcastindex.org") — Send a Boost into the show via the web. First, top-up Alby, then head over to our entry on the Podcast Index. 
 
 
 

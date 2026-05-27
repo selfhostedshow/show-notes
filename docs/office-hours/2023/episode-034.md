@@ -22,17 +22,17 @@ Behind-the-scenes details of a new show in the works, our thoughts on a new genr
 
 ## Episode links
 
-  * [🎉 Alby](https://getalby.com/ "🎉 Alby") — Boost into the show, first grab Alby, top it off, and then head over to the Podcast Index.
-  * [⚡️ Office Hours 2.0 on the Podcast Index](https://podcastindex.org/podcast/5341434 "⚡️ Office Hours 2.0 on the Podcast Index") — You can boost from the web. Once Alby is topped off, visit our page on the Podcast Index.
-  * [Two Jupiter Broadcasting Meetups](https://www.meetup.com/jupiterbroadcasting/ "Two Jupiter Broadcasting Meetups") — Berlin w/Brent and Linux Love in Spokane. 
-  * [Value Time Split - the latest innovation in Podcasting 2.0](https://blog.getalby.com/value-time-split-the-latest-innovation-in-podcasting-2-0/ "Value Time Split - the latest innovation in Podcasting 2.0") — The value time split is the latest innovation in Podcasting 2.0 allowing alternating payment recipients and cross referencing of content.
-  * [BEHIND THE SCH3M3S](https://behindthesch3m3s.com/ "BEHIND THE SCH3M3S") — Behind the Sch3m3s delves behind the obscure memes, behind the cryptic screams, and behind the conspiracy dreams. Distilling our understanding of Wizards behind the curtain, with zero answers guaranteed is certain. Truth denying can be just as fun as bullshit subscription; indubitably.
-  * [S01E166: The Demon of Deadlines – BEHIND THE SCH3M3S](https://behindthesch3m3s.com/2023/08/22/s01e166-the-demon-of-deadlines/ "S01E166: The Demon of Deadlines – BEHIND THE SCH3M3S")
-  * [The Boostagram Ball](https://www.boostagramball.com/ "The Boostagram Ball") — The First Podcast with Value4Value Music hosted by Adam Curry 
-  * [How To Access V4V Music | The Hurdles To Supporting Musicians & Artists - YouTube](https://www.youtube.com/watch?v=nZyb9mq4ECU "How To Access V4V Music | The Hurdles To Supporting Musicians & Artists - YouTube") — V4V Music is awesome, but there are some complex things under the surface. We're going to have a look at the current V4V Music apps/services, the social & tech hurdles to hosting/playing music and the big elephant in the room.
-  * [Looking For You (Feat. Kellin Quinn) • Jeremy Oliveria](https://www.wavlake.com/track/ba1796d0-5c80-4ccf-9c75-24c87c6dbad4 "Looking For You \(Feat. Kellin Quinn\) • Jeremy Oliveria") — This song is ultimately one of the best written arrangements, which I've got heared for a long while since years... 
-  * [Website Chat on Matrix](https://bit.ly/jbwebchat "Website Chat on Matrix") — Join the chat in our Website Matrix room :)
-  * [YSSY - The Mandalorian Theme Song (80s Retro Synthwave) - YouTube](https://www.youtube.com/watch?v=7zDkniNTeZg "YSSY - The Mandalorian Theme Song \(80s Retro Synthwave\) - YouTube") — "The Mandalorian" composed by Ludwig Göransson Arranged, produced, and performed by YSSY (Elliot Caroll & Simeon Abbott)
+  * [🎉 Alby ](https://getalby.com/ "🎉 Alby") — Boost into the show, first grab Alby, top it off, and then head over to the Podcast Index. 
+  * [⚡️ Office Hours 2.0 on the Podcast Index ](https://podcastindex.org/podcast/5341434 "⚡️ Office Hours 2.0 on the Podcast Index") — You can boost from the web. Once Alby is topped off, visit our page on the Podcast Index. 
+  * [Two Jupiter Broadcasting Meetups ](https://www.meetup.com/jupiterbroadcasting/ "Two Jupiter Broadcasting Meetups") — Berlin w/Brent and Linux Love in Spokane. 
+  * [Value Time Split - the latest innovation in Podcasting 2.0 ](https://blog.getalby.com/value-time-split-the-latest-innovation-in-podcasting-2-0/ "Value Time Split - the latest innovation in Podcasting 2.0") — The value time split is the latest innovation in Podcasting 2.0 allowing alternating payment recipients and cross referencing of content. 
+  * [BEHIND THE SCH3M3S ](https://behindthesch3m3s.com/ "BEHIND THE SCH3M3S") — Behind the Sch3m3s delves behind the obscure memes, behind the cryptic screams, and behind the conspiracy dreams. Distilling our understanding of Wizards behind the curtain, with zero answers guaranteed is certain. Truth denying can be just as fun as bullshit subscription; indubitably. 
+  * [S01E166: The Demon of Deadlines – BEHIND THE SCH3M3S ](https://behindthesch3m3s.com/2023/08/22/s01e166-the-demon-of-deadlines/ "S01E166: The Demon of Deadlines – BEHIND THE SCH3M3S")
+  * [The Boostagram Ball ](https://www.boostagramball.com/ "The Boostagram Ball") — The First Podcast with Value4Value Music hosted by Adam Curry 
+  * [How To Access V4V Music | The Hurdles To Supporting Musicians & Artists - YouTube ](https://www.youtube.com/watch?v=nZyb9mq4ECU "How To Access V4V Music | The Hurdles To Supporting Musicians & Artists - YouTube") — V4V Music is awesome, but there are some complex things under the surface. We're going to have a look at the current V4V Music apps/services, the social & tech hurdles to hosting/playing music and the big elephant in the room. 
+  * [Looking For You (Feat. Kellin Quinn) • Jeremy Oliveria ](https://www.wavlake.com/track/ba1796d0-5c80-4ccf-9c75-24c87c6dbad4 "Looking For You \(Feat. Kellin Quinn\) • Jeremy Oliveria") — This song is ultimately one of the best written arrangements, which I've got heared for a long while since years... 
+  * [Website Chat on Matrix ](https://bit.ly/jbwebchat "Website Chat on Matrix") — Join the chat in our Website Matrix room :) 
+  * [YSSY - The Mandalorian Theme Song (80s Retro Synthwave) - YouTube ](https://www.youtube.com/watch?v=7zDkniNTeZg "YSSY - The Mandalorian Theme Song \(80s Retro Synthwave\) - YouTube") — "The Mandalorian" composed by Ludwig Göransson Arranged, produced, and performed by YSSY (Elliot Caroll & Simeon Abbott) 
 
 
 

@@ -22,10 +22,10 @@ We kick off a new show and chat about the rapid centralization facing the podcas
 
 ## Episode links
 
-  * [THE machine for lady jups !](https://paste.docs.lol/code/HawsRealty "THE machine for lady jups !") — A perfect low-power x86 box for my RV.
-  * [GitHub Issues · JupiterBroadcasting/matrix](https://github.com/JupiterBroadcasting/matrix/issues "GitHub Issues · JupiterBroadcasting/matrix")
-  * [Policy recommendations for addressing content moderation in podcasts](https://www.brookings.edu/techstream/policy-recommendations-for-addressing-content-moderation-in-podcasts/ "Policy recommendations for addressing content moderation in podcasts") — A great reckoning has arrived for content moderation in podcasts. 
-  * [Spotify’s acquisition of podcast analytics firms has some in the industry concerned](https://www.morningbrew.com/marketing/stories/2022/04/15/spotify-s-acquisition-of-podcast-analytics-firms-has-some-in-the-industry-concerned "Spotify’s acquisition of podcast analytics firms has some in the industry concerned") — Since Spotify bought Podsights and Chartable, others in the industry have expressed concerns that the move significantly reduces the third-party measurement capabilities available.
+  * [THE machine for lady jups ! ](https://paste.docs.lol/code/HawsRealty "THE machine for lady jups !") — A perfect low-power x86 box for my RV. 
+  * [GitHub Issues · JupiterBroadcasting/matrix ](https://github.com/JupiterBroadcasting/matrix/issues "GitHub Issues · JupiterBroadcasting/matrix")
+  * [Policy recommendations for addressing content moderation in podcasts ](https://www.brookings.edu/techstream/policy-recommendations-for-addressing-content-moderation-in-podcasts/ "Policy recommendations for addressing content moderation in podcasts") — A great reckoning has arrived for content moderation in podcasts. 
+  * [Spotify’s acquisition of podcast analytics firms has some in the industry concerned ](https://www.morningbrew.com/marketing/stories/2022/04/15/spotify-s-acquisition-of-podcast-analytics-firms-has-some-in-the-industry-concerned "Spotify’s acquisition of podcast analytics firms has some in the industry concerned") — Since Spotify bought Podsights and Chartable, others in the industry have expressed concerns that the move significantly reduces the third-party measurement capabilities available. 
 
 
 

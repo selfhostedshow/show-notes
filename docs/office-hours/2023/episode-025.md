@@ -16,18 +16,18 @@ Disaster strikes the studio, and Chris jumps into action while Brent battles the
 ## Sponsored by
 
   * [Send us a Boost w/a new Podcast App](http://newpodcastapps.com/): [Send a boost into the show, try out a new app, and help keep podcasting independent. ](http://newpodcastapps.com/)
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [LinuxFest Northwest 2023](https://linuxfestnorthwest.org/ "LinuxFest Northwest 2023") — October 20-22, 2023 Bellingham Technical College
-  * [Dipstick Check Pic](https://imgur.com/a/UPuGph2 "Dipstick Check Pic") — Gotta check that stick.
-  * [Can overfilling oil cause a misfire?](https://www.quora.com/Can-overfilling-oil-cause-a-misfire "Can overfilling oil cause a misfire?") — If there’s enough getting past the piston rings, yes.
-  * [PeerTube-Headless-Seeder](https://github.com/tyrsarm/peertube-headless-seeder "PeerTube-Headless-Seeder") — This container uses Python, Selenium, and Firefox to monitor and seed live streams of a PeerTube channel headlessly.
+  * [LinuxFest Northwest 2023 ](https://linuxfestnorthwest.org/ "LinuxFest Northwest 2023") — October 20-22, 2023 Bellingham Technical College 
+  * [Dipstick Check Pic ](https://imgur.com/a/UPuGph2 "Dipstick Check Pic") — Gotta check that stick. 
+  * [Can overfilling oil cause a misfire? ](https://www.quora.com/Can-overfilling-oil-cause-a-misfire "Can overfilling oil cause a misfire?") — If there’s enough getting past the piston rings, yes. 
+  * [PeerTube-Headless-Seeder ](https://github.com/tyrsarm/peertube-headless-seeder "PeerTube-Headless-Seeder") — This container uses Python, Selenium, and Firefox to monitor and seed live streams of a PeerTube channel headlessly. 
   * [Value for Value: Free Webinar, March 30th ](https://rss.com/blog/free-webinar-value-for-value-building-unbreakable-relationships-with-your-listeners/ "Value for Value: Free Webinar, March 30th ")
-  * [Alby — Lightning for your Browser!](https://getalby.com/ "Alby — Lightning for your Browser!") — Alby brings Boosts to the web.
+  * [Alby — Lightning for your Browser! ](https://getalby.com/ "Alby — Lightning for your Browser!") — Alby brings Boosts to the web. 
 
 
 

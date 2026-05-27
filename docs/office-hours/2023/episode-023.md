@@ -15,25 +15,25 @@ We throw Office Hours into the middle of our biggest beta test yet!
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [Mount Vernon Taproom - 192 Brewing Company](https://192brewing.com/mount-vernon-taproom/ "Mount Vernon Taproom - 192 Brewing Company")
-  * [Cleaning, commuting and cooking: when do Americans listen to podcasts?](https://business.yougov.com/content/45191-what-situations-do-americans-listen-podcasts "Cleaning, commuting and cooking: when do Americans listen to podcasts?")
-  * [USB C Charger, GaN 65W 4-Port Desktop USB Charging Station](https://www.amazon.com/Charger-Desktop-Charging-Station-MacBook/dp/B09JZG32SW/ref=sr_1_3?crid=4OKPR60QF8NQ&keywords=65w+usb+c+charger+desktop+fast+charge&qid=1676414578&sprefix=65w+usb+c+charger+desktop+fast+charg%2Caps%2C271&sr=8-3 "USB C Charger, GaN 65W 4-Port Desktop USB Charging Station")
-  * [Anker 8-in-1 555 USB-C Hub](https://www.amazon.com/gp/product/B087QZVQJX/ "Anker 8-in-1 555 USB-C Hub")
-  * [PINEBOOK Pro USB-C Docking Deck - PINE STORE](https://pine64.com/product/pinebook-pro-usb-c-docking-deck/ "PINEBOOK Pro USB-C Docking Deck - PINE STORE")
-  * [Thunderbolt 4 USB-C Hub Technical Review - MattGranger/YouTube](https://www.youtube.com/watch?v=ILVWppYy2Q8 "Thunderbolt 4 USB-C Hub Technical Review - MattGranger/YouTube")
-  * [Insignia 112W 3-Port USB-C/USB-A Wall Charger - Best Buy Canada](https://www.bestbuy.ca/en-ca/product/insignia-112w-3-port-usb-c-usb-a-wall-charger-with-usb-cable-ns-pw3x1a1c2b22b-c-only-at-best-buy/16039508 "Insignia 112W 3-Port USB-C/USB-A Wall Charger - Best Buy Canada")
-  * [Insignia 112W Wall Charger with 2 USB-C and 1 USB Port - Best Buy USA](https://www.bestbuy.com/site/insignia-112w-wall-charger-with-2-usb-c-and-1-usb-port-white/6500638.p?skuId=6500638 "Insignia 112W Wall Charger with 2 USB-C and 1 USB Port  - Best Buy USA")
-  * [Technical Review: USB Power Adapters 5W-100W USB A and C - AllThingsOnePlace/YouTube](https://www.youtube.com/watch?v=Aa4SLWXtwi0 "Technical Review: USB Power Adapters 5W-100W USB A and C - AllThingsOnePlace/YouTube")
-  * [Pinecil | PINE64](https://www.pine64.org/pinecil/ "Pinecil | PINE64") — A RISC-V Soldering Iron Running an Open Firmware
-  * [PinePower - Desktop | PINE64](https://www.pine64.org/pinepowerdesktop/ "PinePower - Desktop | PINE64") — A 120W Desktop Power Supply with voltage and status displays for each port
-  * [VOSK Offline Speech Recognition API](https://alphacephei.com/vosk/ "VOSK Offline Speech Recognition API")
-  * [Mere Mortals Podcast](https://www.meremortalspodcast.com/ "Mere Mortals Podcast")
+  * [Mount Vernon Taproom - 192 Brewing Company ](https://192brewing.com/mount-vernon-taproom/ "Mount Vernon Taproom - 192 Brewing Company")
+  * [Cleaning, commuting and cooking: when do Americans listen to podcasts? ](https://business.yougov.com/content/45191-what-situations-do-americans-listen-podcasts "Cleaning, commuting and cooking: when do Americans listen to podcasts?")
+  * [USB C Charger, GaN 65W 4-Port Desktop USB Charging Station ](https://www.amazon.com/Charger-Desktop-Charging-Station-MacBook/dp/B09JZG32SW/ref=sr_1_3?crid=4OKPR60QF8NQ&keywords=65w+usb+c+charger+desktop+fast+charge&qid=1676414578&sprefix=65w+usb+c+charger+desktop+fast+charg%2Caps%2C271&sr=8-3 "USB C Charger, GaN 65W 4-Port Desktop USB Charging Station")
+  * [Anker 8-in-1 555 USB-C Hub ](https://www.amazon.com/gp/product/B087QZVQJX/ "Anker 8-in-1 555 USB-C Hub")
+  * [PINEBOOK Pro USB-C Docking Deck - PINE STORE ](https://pine64.com/product/pinebook-pro-usb-c-docking-deck/ "PINEBOOK Pro USB-C Docking Deck - PINE STORE")
+  * [Thunderbolt 4 USB-C Hub Technical Review - MattGranger/YouTube ](https://www.youtube.com/watch?v=ILVWppYy2Q8 "Thunderbolt 4 USB-C Hub Technical Review - MattGranger/YouTube")
+  * [Insignia 112W 3-Port USB-C/USB-A Wall Charger - Best Buy Canada ](https://www.bestbuy.ca/en-ca/product/insignia-112w-3-port-usb-c-usb-a-wall-charger-with-usb-cable-ns-pw3x1a1c2b22b-c-only-at-best-buy/16039508 "Insignia 112W 3-Port USB-C/USB-A Wall Charger - Best Buy Canada")
+  * [Insignia 112W Wall Charger with 2 USB-C and 1 USB Port - Best Buy USA ](https://www.bestbuy.com/site/insignia-112w-wall-charger-with-2-usb-c-and-1-usb-port-white/6500638.p?skuId=6500638 "Insignia 112W Wall Charger with 2 USB-C and 1 USB Port  - Best Buy USA")
+  * [Technical Review: USB Power Adapters 5W-100W USB A and C - AllThingsOnePlace/YouTube ](https://www.youtube.com/watch?v=Aa4SLWXtwi0 "Technical Review: USB Power Adapters 5W-100W USB A and C - AllThingsOnePlace/YouTube")
+  * [Pinecil | PINE64 ](https://www.pine64.org/pinecil/ "Pinecil | PINE64") — A RISC-V Soldering Iron Running an Open Firmware 
+  * [PinePower - Desktop | PINE64 ](https://www.pine64.org/pinepowerdesktop/ "PinePower - Desktop | PINE64") — A 120W Desktop Power Supply with voltage and status displays for each port 
+  * [VOSK Offline Speech Recognition API ](https://alphacephei.com/vosk/ "VOSK Offline Speech Recognition API")
+  * [Mere Mortals Podcast ](https://www.meremortalspodcast.com/ "Mere Mortals Podcast")
 
 
 

@@ -16,17 +16,17 @@ The worst part about being a Podcaster; our pitch to eliminate nearly all holida
 ## Sponsored by
 
   * [Join the Party! The Jupiter Membership Party](https://www.jupiter.party/): [Join the party and get exclusive content. ](https://www.jupiter.party/)
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [Podcasting listening up in the US](https://podnews.net/update/daily-podcast-reach "Podcasting listening up in the US") — Podcasting’s daily reach continues to rise: Edison Research posts a 20% y-on-y increase
-  * [Weekly Insights 11.10.22 The Steady Climb of Podcasting's Reach in the U.S. - Edison Research](https://www.edisonresearch.com/weekly-insights-11-10-22-the-steady-climb-of-podcastings-reach-in-the-u-s/?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net:2022-11-14 "Weekly Insights 11.10.22 The Steady Climb of Podcasting's Reach in the U.S. - Edison Research")
-  * [Fountain on Twitter](https://twitter.com/fountain_app/status/1592938299282554880 "Fountain on Twitter") — In the latest version (0.5.6) your playback speed no longer affects your rate - so make sure you update
-  * [Join us in the Matrix](https://www.jupiterbroadcasting.com/community/matrix/ "Join us in the Matrix") — Jupiter Broadcasting’s Rooms are organized into groups called “spaces”.
-  * [Send a Boost into the Show](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost into the Show") — Upgrade to a Podcast 2.0 compatible app and send a Boost into the show :)
+  * [Podcasting listening up in the US ](https://podnews.net/update/daily-podcast-reach "Podcasting listening up in the US") — Podcasting’s daily reach continues to rise: Edison Research posts a 20% y-on-y increase 
+  * [Weekly Insights 11.10.22 The Steady Climb of Podcasting's Reach in the U.S. - Edison Research ](https://www.edisonresearch.com/weekly-insights-11-10-22-the-steady-climb-of-podcastings-reach-in-the-u-s/?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net:2022-11-14 "Weekly Insights 11.10.22 The Steady Climb of Podcasting's Reach in the U.S. - Edison Research")
+  * [Fountain on Twitter ](https://twitter.com/fountain_app/status/1592938299282554880 "Fountain on Twitter") — In the latest version (0.5.6) your playback speed no longer affects your rate - so make sure you update 
+  * [Join us in the Matrix ](https://www.jupiterbroadcasting.com/community/matrix/ "Join us in the Matrix") — Jupiter Broadcasting’s Rooms are organized into groups called “spaces”. 
+  * [Send a Boost into the Show ](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost into the Show") — Upgrade to a Podcast 2.0 compatible app and send a Boost into the show :) 
 
 
 

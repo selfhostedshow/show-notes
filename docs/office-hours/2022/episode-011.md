@@ -17,16 +17,16 @@ We're pushing our new website to production live on the show today. We have no i
 ## Sponsored by
 
   * [Join the Party! The Jupiter Membership Party](https://www.jupiter.party/): [Join the party and get exclusive content. ](https://www.jupiter.party/)
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [Twitter is becoming a podcast app](https://www.theverge.com/2022/8/25/23321940/twitter-podcast-spaces-spotify-apple "Twitter is becoming a podcast app") — Twitter is officially getting into podcasts. The app will launch a test version of Twitter Spaces today that includes podcasts, letting you listen to full shows through curated playlists based on your interests.
-  * [Alby partners with Podverse to accelerate Podcasting 2.0](https://blog.getalby.com/alby-partnership-announcement-with-podverse/ "Alby partners with Podverse to accelerate Podcasting 2.0") — Alby is pleased to announce a new partnership with Podverse; a cross-platform podcast player available on iOS, Android, F-Droid, and web.
-  * [Submit a Website Issue](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues "Submit a Website Issue")
-  * [Grab a new Podcast App that Supports Podcasting 2.0](http://newpodcastapps.com/ "Grab a new Podcast App that Supports Podcasting 2.0") — Grab a Podcasting 2.0 compatible app that supports boost, or try out Breez and keep your app!
+  * [Twitter is becoming a podcast app ](https://www.theverge.com/2022/8/25/23321940/twitter-podcast-spaces-spotify-apple "Twitter is becoming a podcast app") — Twitter is officially getting into podcasts. The app will launch a test version of Twitter Spaces today that includes podcasts, letting you listen to full shows through curated playlists based on your interests. 
+  * [Alby partners with Podverse to accelerate Podcasting 2.0 ](https://blog.getalby.com/alby-partnership-announcement-with-podverse/ "Alby partners with Podverse to accelerate Podcasting 2.0") — Alby is pleased to announce a new partnership with Podverse; a cross-platform podcast player available on iOS, Android, F-Droid, and web. 
+  * [Submit a Website Issue ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues "Submit a Website Issue")
+  * [Grab a new Podcast App that Supports Podcasting 2.0 ](http://newpodcastapps.com/ "Grab a new Podcast App that Supports Podcasting 2.0") — Grab a Podcasting 2.0 compatible app that supports boost, or try out Breez and keep your app! 
 
 
 

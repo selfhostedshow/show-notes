@@ -21,12 +21,12 @@ We're testing a new Podcasting 2.0 feature and need your ears!
 
 ## Episode links
 
-  * [⚡ Alby: Your Boost companion for the web](https://getalby.com/ "⚡ Alby: Your Boost companion for the web")
-  * [🎉 Office Hours on the Podcastindex.org](https://podcastindex.org/podcast/5341434 "🎉 Office Hours on the Podcastindex.org") — Boost from the Web. Once you have Alby topped off, you can Boost from our page on the Podcast Index.
-  * [Podverse: Jupiter Station](https://podverse.fm/podcast/Z3WCCOxYBB "Podverse: Jupiter Station")
-  * [Fountain: Jupiter Station](https://fountain.fm/show/o4cajw7EtkLUiVktdEHU "Fountain: Jupiter Station")
-  * [Podfriend: Jupiter Station](https://www.podfriend.com/podcast/jupiter-station/ "Podfriend: Jupiter Station")
-  * [jblive.fm Direct Link](http://jblive.fm/ "jblive.fm Direct Link")
+  * [⚡ Alby: Your Boost companion for the web ](https://getalby.com/ "⚡ Alby: Your Boost companion for the web")
+  * [🎉 Office Hours on the Podcastindex.org ](https://podcastindex.org/podcast/5341434 "🎉 Office Hours on the Podcastindex.org") — Boost from the Web. Once you have Alby topped off, you can Boost from our page on the Podcast Index. 
+  * [Podverse: Jupiter Station ](https://podverse.fm/podcast/Z3WCCOxYBB "Podverse: Jupiter Station")
+  * [Fountain: Jupiter Station ](https://fountain.fm/show/o4cajw7EtkLUiVktdEHU "Fountain: Jupiter Station")
+  * [Podfriend: Jupiter Station ](https://www.podfriend.com/podcast/jupiter-station/ "Podfriend: Jupiter Station")
+  * [jblive.fm Direct Link ](http://jblive.fm/ "jblive.fm Direct Link")
 
 
 

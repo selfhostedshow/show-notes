@@ -20,11 +20,11 @@ A quick Pocket Office from "the field" on the new tech inbound to Office Hours a
 
 ## Episode links
 
-  * [Sovereign Feeds](https://sovereignfeeds.com/ "Sovereign Feeds")
-  * [IPFS Podcasting](https://ipfspodcasting.net "IPFS Podcasting")
-  * [IPFS Podcasting | Umbrel App Store](https://apps.umbrel.com/app/ipfs-podcasting "IPFS Podcasting | Umbrel App Store") — Turn your Umbrel into an IPFS node for self-hosting, crowd-hosting, and archiving of your favorite podcasts to the IPFS network.
-  * [IPFS Podcast Prefix | IPFS Podcasting](https://ipfspodcasting.net/Help/Prefix "IPFS Podcast Prefix | IPFS Podcasting") — You can configure your feed to load episodes from IPFS using a podcast prefix in your enclosure url.
-  * [Run a Node | IPFS Podcasting](https://ipfspodcasting.net/RunNode "Run a Node | IPFS Podcasting") — If you have a mini-PC (i.e. Raspberry Pi), an old computer, or an advanced server, you can run a node to host podcast episodes. 
+  * [Sovereign Feeds ](https://sovereignfeeds.com/ "Sovereign Feeds")
+  * [IPFS Podcasting ](https://ipfspodcasting.net "IPFS Podcasting")
+  * [IPFS Podcasting | Umbrel App Store ](https://apps.umbrel.com/app/ipfs-podcasting "IPFS Podcasting | Umbrel App Store") — Turn your Umbrel into an IPFS node for self-hosting, crowd-hosting, and archiving of your favorite podcasts to the IPFS network. 
+  * [IPFS Podcast Prefix | IPFS Podcasting ](https://ipfspodcasting.net/Help/Prefix "IPFS Podcast Prefix | IPFS Podcasting") — You can configure your feed to load episodes from IPFS using a podcast prefix in your enclosure url. 
+  * [Run a Node | IPFS Podcasting ](https://ipfspodcasting.net/RunNode "Run a Node | IPFS Podcasting") — If you have a mini-PC (i.e. Raspberry Pi), an old computer, or an advanced server, you can run a node to host podcast episodes. 
 
 
 

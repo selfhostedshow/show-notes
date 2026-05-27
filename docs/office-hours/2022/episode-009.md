@@ -16,21 +16,21 @@ Why we hate crypto more than you, plus a frank conversation about boosts in our 
 ## Sponsored by
 
   * [Send us a Boost w/a new Podcast App](http://newpodcastapps.com/): [Send a boost into the show, try out a new app, and help keep podcasting independent. ](http://newpodcastapps.com/)
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [All fireside sites are down for all our podcasts · Issue #157](https://github.com/firesidelabs/fireside-features/issues/157 "All fireside sites are down for all our podcasts · Issue #157")
-  * [The disproportionate influence of early tech decisions](https://brandur.org/fragments/early-tech-decisions "The disproportionate influence of early tech decisions") — A common theme is that all of these were known to be very imperfect implementations even when they were originally added, but they were added anyway in the name of velocity, with an implicit assumption baked in that they’d be shored up and improved later when there were more resources and slack time to do so
-  * [London Meetup, Fri, Aug 5, 2022](https://www.meetup.com/jupiterbroadcasting/events/286056077/ "London Meetup, Fri, Aug 5, 2022") — Alex from Self-Hosted will be in the UK in August and is proposing a meetup in London on August 5th at 6pm GMT (meetup.com is based off JBs Pacific Time). To confirm when I say 6pm GMT I mean 6pm as you look your watch - time savings and all that be damned - you know what I mean when I say 6pm GMT :)
-  * [Podcasting 2.0 - Episode 94: Bells Out](https://fountain.fm/episode/9098790353 "Podcasting 2.0 - Episode 94: Bells Out") — Adam & Dave discuss the week's developments on podcastindex.org with Chris Fisher from Jupiter Broadcasting 
-  * [Check out our New Site: JupiterBroadcasting.net](https://jupiterbroadcasting.net/ "Check out our New Site: JupiterBroadcasting.net")
-  * [jupiterbroadcasting.com on GitHub](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/ "jupiterbroadcasting.com on GitHub")
-  * [Jupiter Broadcasting Website Insights](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pulse/monthly "Jupiter Broadcasting Website Insights")
-  * [Matrix Meetup Space](https://bit.ly/meetupmatrix "Matrix Meetup Space") — Find all our meetup chat rooms in one pace.
-  * [Grab a New Podcast App](https://podcastindex.org/apps?appTypes=app&elements=Value "Grab a New Podcast App") — Try out a Podcasting 2.0 compatible app, and Boost the show!
+  * [All fireside sites are down for all our podcasts · Issue #157 ](https://github.com/firesidelabs/fireside-features/issues/157 "All fireside sites are down for all our podcasts · Issue #157")
+  * [The disproportionate influence of early tech decisions ](https://brandur.org/fragments/early-tech-decisions "The disproportionate influence of early tech decisions") — A common theme is that all of these were known to be very imperfect implementations even when they were originally added, but they were added anyway in the name of velocity, with an implicit assumption baked in that they’d be shored up and improved later when there were more resources and slack time to do so 
+  * [London Meetup, Fri, Aug 5, 2022 ](https://www.meetup.com/jupiterbroadcasting/events/286056077/ "London Meetup, Fri, Aug 5, 2022") — Alex from Self-Hosted will be in the UK in August and is proposing a meetup in London on August 5th at 6pm GMT (meetup.com is based off JBs Pacific Time). To confirm when I say 6pm GMT I mean 6pm as you look your watch - time savings and all that be damned - you know what I mean when I say 6pm GMT :) 
+  * [Podcasting 2.0 - Episode 94: Bells Out ](https://fountain.fm/episode/9098790353 "Podcasting 2.0 - Episode 94: Bells Out") — Adam & Dave discuss the week's developments on podcastindex.org with Chris Fisher from Jupiter Broadcasting 
+  * [Check out our New Site: JupiterBroadcasting.net ](https://jupiterbroadcasting.net/ "Check out our New Site: JupiterBroadcasting.net")
+  * [jupiterbroadcasting.com on GitHub ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/ "jupiterbroadcasting.com on GitHub")
+  * [Jupiter Broadcasting Website Insights ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pulse/monthly "Jupiter Broadcasting Website Insights")
+  * [Matrix Meetup Space ](https://bit.ly/meetupmatrix "Matrix Meetup Space") — Find all our meetup chat rooms in one pace. 
+  * [Grab a New Podcast App ](https://podcastindex.org/apps?appTypes=app&elements=Value "Grab a New Podcast App") — Try out a Podcasting 2.0 compatible app, and Boost the show! 
 
 
 

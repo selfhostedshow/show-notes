@@ -16,18 +16,18 @@ A change is in the air.
 ## Sponsored by
 
   * [Send us a Boost w/a new Podcast App](http://newpodcastapps.com/): [Send a boost into the show, try out a new app, and help keep podcasting independent. ](http://newpodcastapps.com/)
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [BONUS EPISODE - AI Review: Rear Window with Robob - Mission 250 Filmcast](https://podverse.fm/episode/krSBNtvBU "BONUS EPISODE - AI Review: Rear Window with Robob - Mission 250 Filmcast") — This week, we introduce Robob (Pronounced row-bob. You know, like robot Bob). 
-  * [Hacker News Recap AI Pod](https://hackernewsrecap.buzzsprout.com/2170103/12620404-hacker-news-recap-april-9th-2023?t=0 "Hacker News Recap AI Pod") — This is a recap of the top 10 posts on Hacker News on April 9th, 2023. 
-  * [Wondercraft AI](https://podcast.wondercraft.ai/ "Wondercraft AI") — Where we bring your words to life! Turn blog posts, articles, or any written content into engaging, studio quality podcasts in 3 minutes. Choose a voice and music that fits your brand, and let the wonders happen.
-  * [Value for Value: Building Unbreakable Relationships with Your Listeners | RSS.com](https://rss.com/blog/value-for-value-building-unbreakable-relationships-with-your-listeners/ "Value for Value: Building Unbreakable Relationships with Your Listeners | RSS.com") — Join Fountain Co-Founder Nick Malster for an interactive webinar for both new and experienced podcasters who are interested in Value for Value and seeking practical guidance on how to harness it’s true potential. We were joined by special guest and podcasting veteran Chris Fisher, who hosts some of the most listener supported shows on Fountain.
-  * [Alby: Your Boost companion for the web](https://getalby.com/ "Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
-  * [Office Hours on the Podcastindex.org](https://podcastindex.org/podcast/5341434 "Office Hours on the Podcastindex.org") — Send a Boost into the show via the web. First, top-up Alby, then head over to our entry on the Podcast Index.
+  * [BONUS EPISODE - AI Review: Rear Window with Robob - Mission 250 Filmcast ](https://podverse.fm/episode/krSBNtvBU "BONUS EPISODE - AI Review: Rear Window with Robob - Mission 250 Filmcast") — This week, we introduce Robob (Pronounced row-bob. You know, like robot Bob). 
+  * [Hacker News Recap AI Pod ](https://hackernewsrecap.buzzsprout.com/2170103/12620404-hacker-news-recap-april-9th-2023?t=0 "Hacker News Recap AI Pod") — This is a recap of the top 10 posts on Hacker News on April 9th, 2023. 
+  * [Wondercraft AI ](https://podcast.wondercraft.ai/ "Wondercraft AI") — Where we bring your words to life! Turn blog posts, articles, or any written content into engaging, studio quality podcasts in 3 minutes. Choose a voice and music that fits your brand, and let the wonders happen. 
+  * [Value for Value: Building Unbreakable Relationships with Your Listeners | RSS.com ](https://rss.com/blog/value-for-value-building-unbreakable-relationships-with-your-listeners/ "Value for Value: Building Unbreakable Relationships with Your Listeners | RSS.com") — Join Fountain Co-Founder Nick Malster for an interactive webinar for both new and experienced podcasters who are interested in Value for Value and seeking practical guidance on how to harness it’s true potential. We were joined by special guest and podcasting veteran Chris Fisher, who hosts some of the most listener supported shows on Fountain. 
+  * [Alby: Your Boost companion for the web ](https://getalby.com/ "Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
+  * [Office Hours on the Podcastindex.org ](https://podcastindex.org/podcast/5341434 "Office Hours on the Podcastindex.org") — Send a Boost into the show via the web. First, top-up Alby, then head over to our entry on the Podcast Index. 
 
 
 

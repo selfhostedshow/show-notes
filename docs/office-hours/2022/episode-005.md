@@ -23,18 +23,18 @@ We have a laugh at Spotify, then check out a minimum viable project for the new 
 
 ## Episode links
 
-  * [London Meetup *PROVISIONAL*, Sat, Aug 6, 2022](https://www.meetup.com/jupiterbroadcasting/events/286056077/ "London Meetup *PROVISIONAL*, Sat, Aug 6, 2022") — No venue confirmed atm, this event is currently 100% provisional. Location most likely in London area - probably central and probably outdoors for obvious reasons. If you're interested in attending please indicate by RSVPing yes to this event.
-  * [Spotify error puts ads for booze on podcasts](https://podnews.net/update/spotify-booze "Spotify error puts ads for booze on podcasts") — Spotify added advertising banners to many podcasts on Saturday for Wild Turkey, a bourbon whiskey. The ad, which on some platforms included an “order now” button for the liqour, was even placed on a podcast for recovering alcoholics. 
-  * [YouTube Reach Whitepaper - Podtrac](https://analytics.podtrac.com/videopodcastsyoutube "YouTube Reach Whitepaper - Podtrac") — In this analysis, we’ll provide a complete audience view across all sources of podcast traffic for a sample of weekly Audio + Video Podcasts that post audio via RSS and video to YouTube.
-  * [Conan O’Brien’s Podcast Company Sells to SiriusXM in Deal Valued Around $150 Million](https://www.wsj.com/articles/conan-obriens-podcast-company-sells-to-siriusxm-in-deal-valued-around-150-million-11653306900 "Conan O’Brien’s Podcast Company Sells to SiriusXM in Deal Valued Around $150 Million") — The US’s largest podcast publisher SiriusXM has acquired podcast producer Team Coco, and its podcast Conan O’Brien Needs A Friend. Conan has entered into a five year talent agreement with the company. The Wall Street Journal reports the deal is valued at $150m.
-  * [OpenSats](https://opensats.org/ "OpenSats") — Support contributors to Bitcoin and other free and open source projects.
-  * [What about Castopod](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/discussions/8#discussioncomment-2806785 "What about Castopod")
-  * [Stefan’s Hugo MVP - implementation details](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/discussions/8#discussioncomment-2735876 "Stefan’s Hugo MVP - implementation details")
-  * [Stefan's Hugo MVP](https://jb.codefighters.net/ "Stefan's Hugo MVP")
+  * [London Meetup _PROVISIONAL_ , Sat, Aug 6, 2022 ](https://www.meetup.com/jupiterbroadcasting/events/286056077/ "London Meetup *PROVISIONAL*, Sat, Aug 6, 2022") — No venue confirmed atm, this event is currently 100% provisional. Location most likely in London area - probably central and probably outdoors for obvious reasons. If you're interested in attending please indicate by RSVPing yes to this event. 
+  * [Spotify error puts ads for booze on podcasts ](https://podnews.net/update/spotify-booze "Spotify error puts ads for booze on podcasts") — Spotify added advertising banners to many podcasts on Saturday for Wild Turkey, a bourbon whiskey. The ad, which on some platforms included an “order now” button for the liqour, was even placed on a podcast for recovering alcoholics. 
+  * [YouTube Reach Whitepaper - Podtrac ](https://analytics.podtrac.com/videopodcastsyoutube "YouTube Reach Whitepaper - Podtrac") — In this analysis, we’ll provide a complete audience view across all sources of podcast traffic for a sample of weekly Audio + Video Podcasts that post audio via RSS and video to YouTube. 
+  * [Conan O’Brien’s Podcast Company Sells to SiriusXM in Deal Valued Around $150 Million ](https://www.wsj.com/articles/conan-obriens-podcast-company-sells-to-siriusxm-in-deal-valued-around-150-million-11653306900 "Conan O’Brien’s Podcast Company Sells to SiriusXM in Deal Valued Around $150 Million") — The US’s largest podcast publisher SiriusXM has acquired podcast producer Team Coco, and its podcast Conan O’Brien Needs A Friend. Conan has entered into a five year talent agreement with the company. The Wall Street Journal reports the deal is valued at $150m. 
+  * [OpenSats ](https://opensats.org/ "OpenSats") — Support contributors to Bitcoin and other free and open source projects. 
+  * [What about Castopod ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/discussions/8#discussioncomment-2806785 "What about Castopod")
+  * [Stefan’s Hugo MVP - implementation details ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/discussions/8#discussioncomment-2735876 "Stefan’s Hugo MVP - implementation details")
+  * [Stefan's Hugo MVP ](https://jb.codefighters.net/ "Stefan's Hugo MVP")
   * [Jupiter Broadcasting Website GitHub Discussion ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/discussions/8 "Jupiter Broadcasting Website GitHub Discussion ")
-  * [JupiterTube](https://jupiter.tube/ "JupiterTube")
-  * [New Podcast Apps.com](https://podcastindex.org/apps?appTypes=app&elements=Chapters%2CValue "New Podcast Apps.com")
-  * [Office Hours on Podverse](https://podverse.fm/podcast/GLuztlxs0- "Office Hours on Podverse")
+  * [JupiterTube ](https://jupiter.tube/ "JupiterTube")
+  * [New Podcast Apps.com ](https://podcastindex.org/apps?appTypes=app&elements=Chapters%2CValue "New Podcast Apps.com")
+  * [Office Hours on Podverse ](https://podverse.fm/podcast/GLuztlxs0- "Office Hours on Podverse")
 
 
 

@@ -20,9 +20,9 @@ None
 
 ## Episode links
 
-  * [The Talk Show Live From WWDC 2019](https://daringfireball.net/2019/06/the_talk_show_live_from_wwdc_2019 "The Talk Show Live From WWDC 2019") — Recorded in front of a live audience at The California Theater in San Jose on Tuesday, 4 June 2019
-  * [Why Enthusiast Brands will Betray You - YouTube](https://www.youtube.com/watch?v=FJgTKx-rg18 "Why Enthusiast Brands will Betray You - YouTube") — Pebble, Nextbit, OnePlus, Cyanogen, OPPO and the others are bound to betray you! 
-  * [Why is Oculus the only one still trying to make VR cheaper? (Oculus Quest and Oculus Rift S) - YouTube](https://www.youtube.com/watch?v=YpVLmME2n1M "Why is Oculus the only one still trying to make VR cheaper? \(Oculus Quest and Oculus Rift S\) - YouTube")
+  * [The Talk Show Live From WWDC 2019 ](https://daringfireball.net/2019/06/the_talk_show_live_from_wwdc_2019 "The Talk Show Live From WWDC 2019") — Recorded in front of a live audience at The California Theater in San Jose on Tuesday, 4 June 2019 
+  * [Why Enthusiast Brands will Betray You - YouTube ](https://www.youtube.com/watch?v=FJgTKx-rg18 "Why Enthusiast Brands will Betray You - YouTube") — Pebble, Nextbit, OnePlus, Cyanogen, OPPO and the others are bound to betray you! 
+  * [Why is Oculus the only one still trying to make VR cheaper? (Oculus Quest and Oculus Rift S) - YouTube ](https://www.youtube.com/watch?v=YpVLmME2n1M "Why is Oculus the only one still trying to make VR cheaper? \(Oculus Quest and Oculus Rift S\) - YouTube")
 
 
 

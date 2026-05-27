@@ -15,25 +15,25 @@ We get you caught up on one heck of a trip.
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [Weekend Beer Company](https://www.weekendbeercompany.com/ "Weekend Beer Company")
-  * [Urban Roots Brewery/Smokehouse](https://www.urbanrootsbrewing.com/ "Urban Roots Brewery/Smokehouse")
-  * [42°56'37.9"N 123°17'42.9"W](https://maps.app.goo.gl/vhVUm5En7RqdsLUn8?g_st=it "42°56'37.9"N 123°17'42.9"W")
-  * [38°40'50.7"N 121°10'36.1"W](https://maps.app.goo.gl/adrdJY1NJv7n3p6s6?g_st=it "38°40'50.7"N 121°10'36.1"W")
-  * [Bitrefill](https://www.bitrefill.com/ "Bitrefill")
+  * [Weekend Beer Company ](https://www.weekendbeercompany.com/ "Weekend Beer Company")
+  * [Urban Roots Brewery/Smokehouse ](https://www.urbanrootsbrewing.com/ "Urban Roots Brewery/Smokehouse")
+  * [42°56'37.9"N 123°17'42.9"W ](https://maps.app.goo.gl/vhVUm5En7RqdsLUn8?g_st=it "42°56'37.9"N 123°17'42.9"W")
+  * [38°40'50.7"N 121°10'36.1"W ](https://maps.app.goo.gl/adrdJY1NJv7n3p6s6?g_st=it "38°40'50.7"N 121°10'36.1"W")
+  * [Bitrefill ](https://www.bitrefill.com/ "Bitrefill")
   * [Add 404 page by CGBassPlayer - Pull Request #427 ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/427 "Add 404 page by CGBassPlayer - Pull Request #427
 ")
 
-  * [404 Page not found 🦄🦄](https://www.jupiterbroadcasting.com/test "404 Page not found 🦄🦄")
-  * [Testing develop branch workflow #432](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues/432 "Testing develop branch workflow #432")
-  * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow "Gitflow Workflow")
-  * [User Error](https://error.show/ "User Error")
-  * [Fountain 0.4.8 - Referrals, Search Editorial and …](https://explore.fountain.fm/blog/fountain-0-4-8 "Fountain 0.4.8 - Referrals, Search Editorial and …")
+  * [404 Page not found 🦄🦄 ](https://www.jupiterbroadcasting.com/test "404 Page not found 🦄🦄")
+  * [Testing develop branch workflow #432 ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues/432 "Testing develop branch workflow #432")
+  * [Gitflow Workflow ](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow "Gitflow Workflow")
+  * [User Error ](https://error.show/ "User Error")
+  * [Fountain 0.4.8 - Referrals, Search Editorial and … ](https://explore.fountain.fm/blog/fountain-0-4-8 "Fountain 0.4.8 - Referrals, Search Editorial and …")
 
 
 

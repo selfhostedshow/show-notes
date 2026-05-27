@@ -16,14 +16,14 @@ We share some recent adventures, and the tale of how water got dumped into Chris
 ## Sponsored by
 
   * [Send us a Boost w/a new Podcast App](http://newpodcastapps.com/): [Send a boost into the show, try out a new app, and help keep podcasting independent. ](http://newpodcastapps.com/)
-  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show!](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [Get $100 to check out a rocking Linode system, and support the show! ](https://linode.com/jupiter)
 
 
 
 ## Episode links
 
-  * [Alby: Your Boost companion for the web](https://getalby.com/ "Alby: Your Boost companion for the web") — Get Alby, top it off, and then head over to the Podcast Index to send a Boost.
-  * [Office Hours on the Podcastindex.org](https://podcastindex.org/podcast/5341434 "Office Hours on the Podcastindex.org") — You can boost from the web, once Alby is ready to go, visit our entry on the podcast index, and the boost area will automatically show up!
+  * [Alby: Your Boost companion for the web ](https://getalby.com/ "Alby: Your Boost companion for the web") — Get Alby, top it off, and then head over to the Podcast Index to send a Boost. 
+  * [Office Hours on the Podcastindex.org ](https://podcastindex.org/podcast/5341434 "Office Hours on the Podcastindex.org") — You can boost from the web, once Alby is ready to go, visit our entry on the podcast index, and the boost area will automatically show up! 
 
 
 
