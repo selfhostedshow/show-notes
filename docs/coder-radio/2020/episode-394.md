@@ -15,17 +15,17 @@ Services and subscriptions get a bad wrap, so we flip the script and talk about 
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
+  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips. ](https://acloudguru.com)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 
 ## Episode links
 
-  * [Variety-slideshow](https://github.com/peterlevi/variety-slideshow "Variety-slideshow") — A pan-and-zoom image slideshow in Python, using Clutter. Integrates nicely with Variety.
-  * [JÄRVFJÄLLET Gunnared beige, white, Office chair with armrests - IKEA](https://www.ikea.com/gb/en/p/jaervfjaellet-office-chair-with-armrests-gunnared-beige-white-s99297196/ "JÄRVFJÄLLET Gunnared beige, white, Office chair with armrests - IKEA") — All bodies are different. JÄRVFJÄLLET swivel chair is designed so that you can adjust the headrest, lumbar support and the seat height and depth.
-  * [SaaS we happily pay for](https://francescodilorenzo.com/saas-we-pay-for "SaaS we happily pay for") — We try to run a lean operation at Mailbrew, but we are suckers for great tools that improve our daily workflows, so we pay for quite a few of them each month.
-  * [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020#overview "Stack Overflow Developer Survey 2020") — In February 2020 nearly 65,000 developers told us how they learn and level up, which tools they’re using, and what they want.
+  * [Variety-slideshow ](https://github.com/peterlevi/variety-slideshow "Variety-slideshow") — A pan-and-zoom image slideshow in Python, using Clutter. Integrates nicely with Variety. 
+  * [JÄRVFJÄLLET Gunnared beige, white, Office chair with armrests - IKEA ](https://www.ikea.com/gb/en/p/jaervfjaellet-office-chair-with-armrests-gunnared-beige-white-s99297196/ "JÄRVFJÄLLET Gunnared beige, white, Office chair with armrests - IKEA") — All bodies are different. JÄRVFJÄLLET swivel chair is designed so that you can adjust the headrest, lumbar support and the seat height and depth. 
+  * [SaaS we happily pay for ](https://francescodilorenzo.com/saas-we-pay-for "SaaS we happily pay for") — We try to run a lean operation at Mailbrew, but we are suckers for great tools that improve our daily workflows, so we pay for quite a few of them each month. 
+  * [Stack Overflow Developer Survey 2020 ](https://insights.stackoverflow.com/survey/2020#overview "Stack Overflow Developer Survey 2020") — In February 2020 nearly 65,000 developers told us how they learn and level up, which tools they’re using, and what they want. 
 
 
 

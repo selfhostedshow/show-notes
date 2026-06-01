@@ -22,11 +22,11 @@ None
 
 ## Episode links
 
-  * [Michael Dominick on Twitter](https://twitter.com/dominucco/status/1005843509558022144 "Michael Dominick on Twitter") — "The more I did into the #WWDC sessions and docs, the happier I am with it. They keynote was just bad or perhaps more directed at consumers. @ChrisLAS #CoderRadio #Apple"
-  * [Michael Dominick on Twitter](https://twitter.com/dominucco/status/1007007731386146821 "Michael Dominick on Twitter") — @ChrisLAS is going to have a lot of fun making fun of me on the next #CoderRadio… I gave up on the onsite thing already. #remotework"
-  * [Sid Sijbrandij (@sytses)](https://twitter.com/sytses?lang=en "Sid Sijbrandij \(@sytses\)")
-  * [Sid presenting Remote Work Best Practices](https://www.youtube.com/watch?v=UFhHetf7kHM "Sid presenting Remote Work Best Practices")
-  * [Team Handbook | GitLab](https://about.gitlab.com/handbook/ "Team Handbook | GitLab")
+  * [Michael Dominick on Twitter ](https://twitter.com/dominucco/status/1005843509558022144 "Michael Dominick on Twitter") — "The more I did into the #WWDC sessions and docs, the happier I am with it. They keynote was just bad or perhaps more directed at consumers. @ChrisLAS #CoderRadio #Apple" 
+  * [Michael Dominick on Twitter ](https://twitter.com/dominucco/status/1007007731386146821 "Michael Dominick on Twitter") — @ChrisLAS is going to have a lot of fun making fun of me on the next #CoderRadio… I gave up on the onsite thing already. #remotework" 
+  * [Sid Sijbrandij (@sytses) ](https://twitter.com/sytses?lang=en "Sid Sijbrandij \(@sytses\)")
+  * [Sid presenting Remote Work Best Practices ](https://www.youtube.com/watch?v=UFhHetf7kHM "Sid presenting Remote Work Best Practices")
+  * [Team Handbook | GitLab ](https://about.gitlab.com/handbook/ "Team Handbook | GitLab")
 
 
 

@@ -15,16 +15,16 @@ Time to talk business, and Chris reveals his biggest mistake since going indepen
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
+  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips. ](https://acloudguru.com)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 
 ## Episode links
 
-  * [Ultimate Hacking Keyboard – The keyboard. For professionals.](https://ultimatehackingkeyboard.com/ "Ultimate Hacking Keyboard – The keyboard. For professionals.")
-  * [Unicomp Inc: New Model M](https://www.pckeyboard.com/page/product/NEW_M "Unicomp Inc: New Model M")
-  * [Keychron K3 Ultra-slim Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard "Keychron K3 Ultra-slim Wireless Mechanical Keyboard")
+  * [Ultimate Hacking Keyboard – The keyboard. For professionals. ](https://ultimatehackingkeyboard.com/ "Ultimate Hacking Keyboard – The keyboard. For professionals.")
+  * [Unicomp Inc: New Model M ](https://www.pckeyboard.com/page/product/NEW_M "Unicomp Inc: New Model M")
+  * [Keychron K3 Ultra-slim Wireless Mechanical Keyboard ](https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard "Keychron K3 Ultra-slim Wireless Mechanical Keyboard")
 
 
 

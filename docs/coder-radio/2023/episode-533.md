@@ -21,13 +21,13 @@ U.S. officials are warning open-source software could be a cyber security threat
 
 ## Episode links
 
-  * [⚡ Alby: Your Boost companion for the web](https://getalby.com/ "⚡ Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
-  * [🎉 Coder Radio on the Podcastindex.org](https://podcastindex.org/podcast/487548 "🎉 Coder Radio on the Podcastindex.org") — Boost from the Web. Once you have Alby topped off, you can Boost from our page on the Podcast Index.
-  * [Harnessing Generative AI for Application Modernization at Speed and Scale](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/kyle-charlet/2023/08/22/harnessing-generative-ai-for-modernization "Harnessing Generative AI for Application Modernization at Speed and Scale") — hat happens when you have applications that have been curated and maintained by different authors of different elements over decades? 
-  * [2023 Speakers - OLF Conference](https://olfconference.org/speakers/ "2023 Speakers - OLF Conference") — We are excited about our lineup of speakers for the 2023 OLF Conference! Read on to learn more about what they have to say.
-  * [U.S. officials warning of potential cyber threat to U.S. infrastructure and power grid - YouTube](https://www.youtube.com/watch?v=Sj-h9aR35CQ "U.S. officials warning of potential cyber threat to U.S. infrastructure and power grid - YouTube") — CNBC's Eamon Javers reports on exclusive reporting around a cybersecurity threat. 
-  * [Cursor - The AI-first Code Editor](https://www.cursor.so/ "Cursor - The AI-first Code Editor") — Build software faster in an editor designed for pair-programming with AI
-  * [A Study on Robustness and Reliability of Large Language Model Code Generation](https://arxiv.org/abs/2308.10335 "A Study on Robustness and Reliability of Large Language Model Code Generation") — The evaluation results show that evenfor GPT-4, 62% of the generated code contains API misuses,which would cause unexpected consequences if the code isintroduced into real-world software. 
+  * [⚡ Alby: Your Boost companion for the web ](https://getalby.com/ "⚡ Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
+  * [🎉 Coder Radio on the Podcastindex.org ](https://podcastindex.org/podcast/487548 "🎉 Coder Radio on the Podcastindex.org") — Boost from the Web. Once you have Alby topped off, you can Boost from our page on the Podcast Index. 
+  * [Harnessing Generative AI for Application Modernization at Speed and Scale ](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/kyle-charlet/2023/08/22/harnessing-generative-ai-for-modernization "Harnessing Generative AI for Application Modernization at Speed and Scale") — hat happens when you have applications that have been curated and maintained by different authors of different elements over decades? 
+  * [2023 Speakers - OLF Conference ](https://olfconference.org/speakers/ "2023 Speakers - OLF Conference") — We are excited about our lineup of speakers for the 2023 OLF Conference! Read on to learn more about what they have to say. 
+  * [U.S. officials warning of potential cyber threat to U.S. infrastructure and power grid - YouTube ](https://www.youtube.com/watch?v=Sj-h9aR35CQ "U.S. officials warning of potential cyber threat to U.S. infrastructure and power grid - YouTube") — CNBC's Eamon Javers reports on exclusive reporting around a cybersecurity threat. 
+  * [Cursor - The AI-first Code Editor ](https://www.cursor.so/ "Cursor - The AI-first Code Editor") — Build software faster in an editor designed for pair-programming with AI 
+  * [A Study on Robustness and Reliability of Large Language Model Code Generation ](https://arxiv.org/abs/2308.10335 "A Study on Robustness and Reliability of Large Language Model Code Generation") — The evaluation results show that evenfor GPT-4, 62% of the generated code contains API misuses,which would cause unexpected consequences if the code isintroduced into real-world software. 
 
 
 

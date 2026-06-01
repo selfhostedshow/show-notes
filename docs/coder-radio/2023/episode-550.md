@@ -15,26 +15,26 @@ We reflect on how our work has changed over the last year and get some sage advi
 
 ## Sponsored by
 
-  * [Network Membership Holiday Discount](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024): [Support the entire network, and get access to every member's special feed for every show on the network. Sign up now and save $3/m FOREVER!](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024) Promo Code: 2024
-  * [Alderon Games](https://alderon.games/coder): [Alderon Games is looking to hire talented remote workers. They believe in the power of play and the magic of immersive worlds and are looking for passionate individuals.](https://alderon.games/coder)
+  * [Network Membership Holiday Discount](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024): [Support the entire network, and get access to every member's special feed for every show on the network. Sign up now and save $3/m FOREVER! ](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024) Promo Code: 2024
+  * [Alderon Games](https://alderon.games/coder): [Alderon Games is looking to hire talented remote workers. They believe in the power of play and the magic of immersive worlds and are looking for passionate individuals. ](https://alderon.games/coder)
   * [Tailscale](https://tailscale.com/coder): [Tailscale is the easiest way to create a peer-to-peer network with the power of Wireguard. ](https://tailscale.com/coder)
 
 
 
 ## Episode links
 
-  * [⚡ Send Sats with Strike from Around the World](https://strike.me/download/ "⚡ Send Sats with Strike from Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply send sats in over 36 countries 🌎. 
-  * [💸 Cash App](https://cash.app/ "💸 Cash App") — The Cash App can quickly send sats just by scanning a QR code. It's a great app loaded with features and a simple UI.
-  * [🎉 Boost from Fountain's Website](https://www.fountain.fm/show/OWdse4h3MzNbS8Og5RJk "🎉 Boost from Fountain's Website") — Use Strike, Cash App, or your favorite app with Lightning support and Boost via QR Code right from Fountain's website. No other app is needed! 
-  * [The Coder Robe ](https://www.jupitergarage.com/product/the-coder-robe "The Coder Robe ") — Look and feel comfortable, life is better in a robe.
-  * [2023's Online 'Advent Calendars'](https://developers.slashdot.org/story/23/12/18/0457249/2023s-online-advent-calendars-challenge-programmers-with-tips-and-puzzles "2023's Online 'Advent Calendars'") — Challenge Programmers With Tips and Puzzles
-  * [The shady world of Brave selling copyrighted data for AI training](https://stacker.news/items/258621 "The shady world of Brave selling copyrighted data for AI training") — After reading this, will you continue using Brave Browser?
-  * [Texas LinuxFest on X](https://twitter.com/texaslinuxfest/status/1736445379812667610 "Texas LinuxFest on X") — The CFP deadline for #TXLF has been extended until December 30, 2023, 05:00 UTC (December 29, 2023, 23:00 CST)! 
-  * [The Epic question: how Google lost its antitrust case while Apple won ](https://www.theverge.com/24003500/epic-v-google-loss-apple-win-fortnite-trial-monopoly "The Epic question: how Google lost its antitrust case while Apple won ") — How is Google running an illegal monopoly with the Play store — while Apple’s App Store is in the clear?
-  * [Epic Games chief concerned Google will ‘get away’ with app store charges](https://www.ft.com/content/a2ad4277-13a9-411e-ad59-230d5bea626c "Epic Games chief concerned Google will ‘get away’ with app store charges")
-  * [How the Maker of ‘Fortnite’ Beat Google and Got Its Mojo Back ](https://www.wsj.com/tech/epic-games-tim-sweeney-fortnite-d5476972?mod=followamazon "How the Maker of ‘Fortnite’ Beat Google and Got Its Mojo Back  ") — Epic’s CEO founded the company in his parents’ basement. He isn’t done challenging tech giants.
-  * [Epic: 7 reasons Google lost](https://www.ped30.com/2023/12/16/apple-google-7-reasons/ "Epic: 7 reasons Google lost")
-  * [FXPAK PRO](https://krikzz.com/our-products/cartridges/fxpak-pro.html "FXPAK PRO") — This is the best flash cart you can get for your SNES. Super Gameboy 2 works wonderfully on it as well. 
+  * [⚡ Send Sats with Strike from Around the World ](https://strike.me/download/ "⚡ Send Sats with Strike from Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply send sats in over 36 countries 🌎. 
+  * [💸 Cash App ](https://cash.app/ "💸 Cash App") — The Cash App can quickly send sats just by scanning a QR code. It's a great app loaded with features and a simple UI. 
+  * [🎉 Boost from Fountain's Website ](https://www.fountain.fm/show/OWdse4h3MzNbS8Og5RJk "🎉 Boost from Fountain's Website") — Use Strike, Cash App, or your favorite app with Lightning support and Boost via QR Code right from Fountain's website. No other app is needed! 
+  * [The Coder Robe ](https://www.jupitergarage.com/product/the-coder-robe "The Coder Robe ") — Look and feel comfortable, life is better in a robe. 
+  * [2023's Online 'Advent Calendars' ](https://developers.slashdot.org/story/23/12/18/0457249/2023s-online-advent-calendars-challenge-programmers-with-tips-and-puzzles "2023's Online 'Advent Calendars'") — Challenge Programmers With Tips and Puzzles 
+  * [The shady world of Brave selling copyrighted data for AI training ](https://stacker.news/items/258621 "The shady world of Brave selling copyrighted data for AI training") — After reading this, will you continue using Brave Browser? 
+  * [Texas LinuxFest on X ](https://twitter.com/texaslinuxfest/status/1736445379812667610 "Texas LinuxFest on X") — The CFP deadline for #TXLF has been extended until December 30, 2023, 05:00 UTC (December 29, 2023, 23:00 CST)! 
+  * [The Epic question: how Google lost its antitrust case while Apple won ](https://www.theverge.com/24003500/epic-v-google-loss-apple-win-fortnite-trial-monopoly "The Epic question: how Google lost its antitrust case while Apple won ") — How is Google running an illegal monopoly with the Play store — while Apple’s App Store is in the clear? 
+  * [Epic Games chief concerned Google will ‘get away’ with app store charges ](https://www.ft.com/content/a2ad4277-13a9-411e-ad59-230d5bea626c "Epic Games chief concerned Google will ‘get away’ with app store charges")
+  * [How the Maker of ‘Fortnite’ Beat Google and Got Its Mojo Back ](https://www.wsj.com/tech/epic-games-tim-sweeney-fortnite-d5476972?mod=followamazon "How the Maker of ‘Fortnite’ Beat Google and Got Its Mojo Back  ") — Epic’s CEO founded the company in his parents’ basement. He isn’t done challenging tech giants. 
+  * [Epic: 7 reasons Google lost ](https://www.ped30.com/2023/12/16/apple-google-7-reasons/ "Epic: 7 reasons Google lost")
+  * [FXPAK PRO ](https://krikzz.com/our-products/cartridges/fxpak-pro.html "FXPAK PRO") — This is the best flash cart you can get for your SNES. Super Gameboy 2 works wonderfully on it as well. 
 
 
 

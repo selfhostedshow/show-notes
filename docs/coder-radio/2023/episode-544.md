@@ -16,21 +16,21 @@ Yet another thing Microsoft was early to, and still somehow missed the boat.
 ## Sponsored by
 
   * [Tailscale](https://tailscale.com/coder): [Tailscale is the easiest way to create a peer-to-peer network with the power of Wireguard. ](https://tailscale.com/coder)
-  * [Alderon Games](https://alderon.games/coder): [Alderon Games is looking to hire talented remote workers. They believe in the power of play and the magic of immersive worlds and are looking for passionate individuals.](https://alderon.games/coder)
+  * [Alderon Games](https://alderon.games/coder): [Alderon Games is looking to hire talented remote workers. They believe in the power of play and the magic of immersive worlds and are looking for passionate individuals. ](https://alderon.games/coder)
 
 
 
 ## Episode links
 
-  * [⚡ Alby: Your Boost companion for the web](https://getalby.com/ "⚡ Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
-  * [🎉 Coder Radio on the Podcastindex.org](https://podcastindex.org/podcast/487548 "🎉 Coder Radio on the Podcastindex.org") — Boost from the Web. Once you have Alby topped off, you can Boost from our page on the Podcast Index.
-  * [Apple Gets 36% of Google Revenue From Search Deal, Witness Says ](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says#xj4y7vzkg "Apple Gets 36% of Google Revenue From Search Deal, Witness Says ") — Revenue sharing amount was supposed to remain confidential
-  * [Alderon Matt on X](https://twitter.com/Deathlyrage/status/1721261618711949336 "Alderon Matt on X") — Apple needs to stop breaking games in macOS Operating System Updates. Imagine writing code that works for a decade and in a macOS update having it throw a NSInternalInconsistencyException. This is going to break thousands of Unreal Engine and other games on Steam.
-  * [A Coder Considers the Waning Days of the Craft | The New Yorker](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft?currentPage=all "A Coder Considers the Waning Days of the Craft | The New Yorker") — Coding has always felt to me like an endlessly deep and rich domain. Now I find myself wanting to write a eulogy for it.
-  * [OM on X](https://twitter.com/om/status/1721595687895449828 "OM on X") — Can you hear the air leaking from the "App Store" ecosystem? #OpenAIDevDay
-  * [OpenAI announces platform for making custom ChatGPTs](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform "OpenAI announces platform for making custom ChatGPTs") — The GPT platform is a no-code way to make custom AI agents for all sorts of tasks, and it’s available exclusively for ChatGPT Plus subscribers.
-  * [Nick St. Pierre on X](https://twitter.com/nickfloats/status/1721607017901572543?s=12&t=E9EIlRX-vHxbQ8g23lQU3A "Nick St. Pierre on X") — You'll soon be able to get PAID for building GPTs!!! 🔥
-  * [Announcing Grok](https://x.ai/ "Announcing Grok") — Grok is designed to answer questions with a bit of wit and has a rebellious streak, so please don’t use it if you hate humor!
+  * [⚡ Alby: Your Boost companion for the web ](https://getalby.com/ "⚡ Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
+  * [🎉 Coder Radio on the Podcastindex.org ](https://podcastindex.org/podcast/487548 "🎉 Coder Radio on the Podcastindex.org") — Boost from the Web. Once you have Alby topped off, you can Boost from our page on the Podcast Index. 
+  * [Apple Gets 36% of Google Revenue From Search Deal, Witness Says ](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says#xj4y7vzkg "Apple Gets 36% of Google Revenue From Search Deal, Witness Says ") — Revenue sharing amount was supposed to remain confidential 
+  * [Alderon Matt on X ](https://twitter.com/Deathlyrage/status/1721261618711949336 "Alderon Matt on X") — Apple needs to stop breaking games in macOS Operating System Updates. Imagine writing code that works for a decade and in a macOS update having it throw a NSInternalInconsistencyException. This is going to break thousands of Unreal Engine and other games on Steam. 
+  * [A Coder Considers the Waning Days of the Craft | The New Yorker ](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft?currentPage=all "A Coder Considers the Waning Days of the Craft | The New Yorker") — Coding has always felt to me like an endlessly deep and rich domain. Now I find myself wanting to write a eulogy for it. 
+  * [OM on X ](https://twitter.com/om/status/1721595687895449828 "OM on X") — Can you hear the air leaking from the "App Store" ecosystem? #OpenAIDevDay 
+  * [OpenAI announces platform for making custom ChatGPTs ](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform "OpenAI announces platform for making custom ChatGPTs") — The GPT platform is a no-code way to make custom AI agents for all sorts of tasks, and it’s available exclusively for ChatGPT Plus subscribers. 
+  * [Nick St. Pierre on X ](https://twitter.com/nickfloats/status/1721607017901572543?s=12&t=E9EIlRX-vHxbQ8g23lQU3A "Nick St. Pierre on X") — You'll soon be able to get PAID for building GPTs!!! 🔥 
+  * [Announcing Grok ](https://x.ai/ "Announcing Grok") — Grok is designed to answer questions with a bit of wit and has a rebellious streak, so please don’t use it if you hate humor! 
 
 
 

@@ -22,14 +22,14 @@ None
 
 ## Episode links
 
-  * [I just went on a coder binge](https://pastebin.com/pw6pdDKF "I just went on a coder binge")
-  * [Python for Kids: A Playful Introduction To Programming](https://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076 "Python for Kids: A Playful Introduction To Programming")
-  * [No Escaping an Echo Chamber](https://pastebin.com/inQ1A7Dc "No Escaping an Echo Chamber")
-  * [Mailspring - The best free email app](https://getmailspring.com/ "Mailspring - The best free email app")
-  * [Spark Email](https://sparkmailapp.com/features "Spark Email")
-  * [Uno](http://platform.uno/ "Uno")
-  * [Uno Playground](http://platform.uno/Playground/index.html "Uno Playground")
-  * [Currents](https://www.digitalocean.com/currents/june-2018/ "Currents")
+  * [I just went on a coder binge ](https://pastebin.com/pw6pdDKF "I just went on a coder binge")
+  * [Python for Kids: A Playful Introduction To Programming ](https://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076 "Python for Kids: A Playful Introduction To Programming")
+  * [No Escaping an Echo Chamber ](https://pastebin.com/inQ1A7Dc "No Escaping an Echo Chamber")
+  * [Mailspring - The best free email app ](https://getmailspring.com/ "Mailspring - The best free email app")
+  * [Spark Email ](https://sparkmailapp.com/features "Spark Email")
+  * [Uno ](http://platform.uno/ "Uno")
+  * [Uno Playground ](http://platform.uno/Playground/index.html "Uno Playground")
+  * [Currents ](https://www.digitalocean.com/currents/june-2018/ "Currents")
 
 
 

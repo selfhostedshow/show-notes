@@ -22,16 +22,16 @@ The shiny userbase flocking to WebAssembly, our thoughts on the "openAI scam", a
 
 ## Episode links
 
-  * [pop-os core: WIP immutable base](https://github.com/pop-os/core "pop-os core: WIP immutable base") — POP working on an immutable base? We're interested. 
-  * [The Blocksize War](https://www.amazon.com/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM "The Blocksize War") — This book covers Bitcoin’s blocksize war, which was waged from August 2015 to November 2017. 
-  * [Jupiter Broadcasting Jobs Matrix Room](https://matrix.to/#/%23jobs:jupiterbroadcasting.com "Jupiter Broadcasting Jobs Matrix Room") — Hiring? Looking for work? Make a connection in our Jobs chat room.
-  * [What's New in Ruby 3.2](https://nithinbekal.com/posts/ruby-3-2/ "What's New in Ruby 3.2") — The highlights this year are the performance gains from YJIT, WebAssembly support, faster regular expressions, and a new way to define immutable value objects.
-  * [Rails on Docker](https://fly.io/ruby-dispatch/rails-on-docker/ "Rails on Docker") — Rails 7.1 is getting an official Dockerfile, which should make it easier to deploy Rails applications to production environments that support Docker. Think of it as a pre-configured Linux box that will work for most Rails applications.
-  * [The Fed - Meeting calendars and information](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm "The Fed - Meeting calendars and information") — The FOMC holds eight regularly scheduled meetings during the year and other meetings as needed. 
-  * [unusual_whales on Twitter](https://twitter.com/unusual_whales/status/1619923611166318592 "unusual_whales on Twitter") — “If Powell keeps hiking rates, he risks the entire financial stability of the [global economic] system,” per Barry Sternlicht.
-  * [Alby — Lightning for your Browser!](https://getalby.com/ "Alby — Lightning for your Browser!") — Alby brings Boosts to the web. 
-  * [Coder Radio on the Podcastindex.org](https://podcastindex.org/podcast/487548 "Coder Radio on the Podcastindex.org") — You can boost the show from your web browser, top-up Alby, then head over to our listing on the Podcast Index.
-  * [Google announces ChatGPT rival Bard](https://www.theverge.com/2023/2/6/23588033/google-chatgpt-rival-bard-testing-rollout-features "Google announces ChatGPT rival Bard") — Google is working on a competitor to OpenAI’s chatbot ChatGPT. The ‘experimental conversational AI service’ is called Bard and is only being tested by a limited group. 
+  * [pop-os core: WIP immutable base ](https://github.com/pop-os/core "pop-os core: WIP immutable base") — POP working on an immutable base? We're interested. 
+  * [The Blocksize War ](https://www.amazon.com/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM "The Blocksize War") — This book covers Bitcoin’s blocksize war, which was waged from August 2015 to November 2017. 
+  * [Jupiter Broadcasting Jobs Matrix Room ](https://matrix.to/#/%23jobs:jupiterbroadcasting.com "Jupiter Broadcasting Jobs Matrix Room") — Hiring? Looking for work? Make a connection in our Jobs chat room. 
+  * [What's New in Ruby 3.2 ](https://nithinbekal.com/posts/ruby-3-2/ "What's New in Ruby 3.2") — The highlights this year are the performance gains from YJIT, WebAssembly support, faster regular expressions, and a new way to define immutable value objects. 
+  * [Rails on Docker ](https://fly.io/ruby-dispatch/rails-on-docker/ "Rails on Docker") — Rails 7.1 is getting an official Dockerfile, which should make it easier to deploy Rails applications to production environments that support Docker. Think of it as a pre-configured Linux box that will work for most Rails applications. 
+  * [The Fed - Meeting calendars and information ](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm "The Fed - Meeting calendars and information") — The FOMC holds eight regularly scheduled meetings during the year and other meetings as needed. 
+  * [unusual_whales on Twitter ](https://twitter.com/unusual_whales/status/1619923611166318592 "unusual_whales on Twitter") — “If Powell keeps hiking rates, he risks the entire financial stability of the [global economic] system,” per Barry Sternlicht. 
+  * [Alby — Lightning for your Browser! ](https://getalby.com/ "Alby — Lightning for your Browser!") — Alby brings Boosts to the web. 
+  * [Coder Radio on the Podcastindex.org ](https://podcastindex.org/podcast/487548 "Coder Radio on the Podcastindex.org") — You can boost the show from your web browser, top-up Alby, then head over to our listing on the Podcast Index. 
+  * [Google announces ChatGPT rival Bard ](https://www.theverge.com/2023/2/6/23588033/google-chatgpt-rival-bard-testing-rollout-features "Google announces ChatGPT rival Bard") — Google is working on a competitor to OpenAI’s chatbot ChatGPT. The ‘experimental conversational AI service’ is called Bard and is only being tested by a limited group. 
 
 
 

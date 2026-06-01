@@ -23,7 +23,7 @@ None
 
   * [Michael Dominick on Twitter: I seem to be melting machines at an alarming rate ](https://twitter.com/dominucco/status/1022829329842098177?ref_src=twsrc%5Etfw "Michael Dominick on Twitter: I seem to be melting machines at an alarming rate ")
   * [Michael Dominick on Twitter: So with a little help from my kid, my #GalagoPro was broken today. ](https://twitter.com/dominucco/status/1023009490042597377?ref_src=twsrc%5Etfw "Michael Dominick on Twitter: So with a little help from my kid, my #GalagoPro was broken today. ")
-  * [GUI Automated testing framework : CoderRadio](https://www.reddit.com/r/CoderRadio/comments/9351g4/gui_automated_testing_framework/ "GUI Automated testing framework : CoderRadio")
+  * [GUI Automated testing framework : CoderRadio ](https://www.reddit.com/r/CoderRadio/comments/9351g4/gui_automated_testing_framework/ "GUI Automated testing framework : CoderRadio")
 
 
 

@@ -21,10 +21,10 @@ None
 
 ## Episode links
 
-  * [Java in a Nutshell: A Desktop Quick Reference: Ben Evans, David Flanagan: 9781492037255: Amazon.com: Books](https://www.amazon.com/Java-Nutshell-Desktop-Quick-Reference/dp/1492037257/ref=sr_1_2?ie=UTF8&qid=1529957015&sr=8-2&keywords=Java+10 "Java in a Nutshell: A Desktop Quick Reference: Ben Evans, David Flanagan: 9781492037255: Amazon.com: Books")
-  * [Java: The Complete Reference, Eleventh Edition: Herbert Schildt: 9781260440232: Amazon.com: Books](https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/1260440230/ref=sr_1_1?ie=UTF8&qid=1529957015&sr=8-1&keywords=Java+10 "Java: The Complete Reference, Eleventh Edition: Herbert Schildt: 9781260440232: Amazon.com: Books")
-  * [Modular Programming in Java 9 - O'Reilly Media](http://shop.oreilly.com/product/9781787126909.do "Modular Programming in Java 9 - O'Reilly Media")
-  * [Java 9 Modularity - O'Reilly Media](http://shop.oreilly.com/product/0636920049494.do "Java 9 Modularity - O'Reilly Media")
+  * [Java in a Nutshell: A Desktop Quick Reference: Ben Evans, David Flanagan: 9781492037255: Amazon.com: Books ](https://www.amazon.com/Java-Nutshell-Desktop-Quick-Reference/dp/1492037257/ref=sr_1_2?ie=UTF8&qid=1529957015&sr=8-2&keywords=Java+10 "Java in a Nutshell: A Desktop Quick Reference: Ben Evans, David Flanagan: 9781492037255: Amazon.com: Books")
+  * [Java: The Complete Reference, Eleventh Edition: Herbert Schildt: 9781260440232: Amazon.com: Books ](https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/1260440230/ref=sr_1_1?ie=UTF8&qid=1529957015&sr=8-1&keywords=Java+10 "Java: The Complete Reference, Eleventh Edition: Herbert Schildt: 9781260440232: Amazon.com: Books")
+  * [Modular Programming in Java 9 - O'Reilly Media ](http://shop.oreilly.com/product/9781787126909.do "Modular Programming in Java 9 - O'Reilly Media")
+  * [Java 9 Modularity - O'Reilly Media ](http://shop.oreilly.com/product/0636920049494.do "Java 9 Modularity - O'Reilly Media")
 
 
 

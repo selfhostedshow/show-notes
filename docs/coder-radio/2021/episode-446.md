@@ -16,16 +16,16 @@ Mike finds a new normal and doubles down on what works. Chris meanwhile is stran
 ## Sponsored by
 
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
-  * [Shortcut.com](https://shortcut.com/coder): [Shortcut, because you shouldn’t have to project manage your project management.](https://shortcut.com/coder)
+  * [Shortcut.com](https://shortcut.com/coder): [Shortcut, because you shouldn’t have to project manage your project management. ](https://shortcut.com/coder)
 
 
 
 ## Episode links
 
-  * [GitHub Sponsors](https://github.com/sponsors "GitHub Sponsors") — Invest in the open source projects you depend on
-  * [We Just Gave $154,999.89 to Open Source Maintainers](https://blog.sentry.io/2021/10/21/we-just-gave-154-999-dollars-and-89-cents-to-open-source-maintainers "We Just Gave $154,999.89 to Open Source Maintainers") — Indeed’s generous $10,000 donation to us was part of an industry initiative they launched called FOSS Fund Adopters; Microsoft and Salesforce are also on board. 
-  * [Problem solver: Tech entrepreneur excels through adaptation](https://www.businessobserverfl.com/article/problem-solver-tech-entrepreneur-excels-through-adaptation "Problem solver: Tech entrepreneur excels through adaptation") — For The Mad Botter, a company that relies heavily on in-person trade shows to sell its unique products and services, 2020-21 could have been disastrous. But true to form, it evolved on the fly.
-  * [System 76 Pangolin Review - dominickm.com](https://dominickm.com/system-76-pangolin-review/ "System 76 Pangolin Review - dominickm.com") — My most recent dip back into the Linux desktop world has been their Pangolin laptop. It’s a 15″ laptop with a full AMD chip-set. 
+  * [GitHub Sponsors ](https://github.com/sponsors "GitHub Sponsors") — Invest in the open source projects you depend on 
+  * [We Just Gave $154,999.89 to Open Source Maintainers ](https://blog.sentry.io/2021/10/21/we-just-gave-154-999-dollars-and-89-cents-to-open-source-maintainers "We Just Gave $154,999.89 to Open Source Maintainers") — Indeed’s generous $10,000 donation to us was part of an industry initiative they launched called FOSS Fund Adopters; Microsoft and Salesforce are also on board. 
+  * [Problem solver: Tech entrepreneur excels through adaptation ](https://www.businessobserverfl.com/article/problem-solver-tech-entrepreneur-excels-through-adaptation "Problem solver: Tech entrepreneur excels through adaptation") — For The Mad Botter, a company that relies heavily on in-person trade shows to sell its unique products and services, 2020-21 could have been disastrous. But true to form, it evolved on the fly. 
+  * [System 76 Pangolin Review - dominickm.com ](https://dominickm.com/system-76-pangolin-review/ "System 76 Pangolin Review - dominickm.com") — My most recent dip back into the Linux desktop world has been their Pangolin laptop. It’s a 15″ laptop with a full AMD chip-set. 
 
 
 

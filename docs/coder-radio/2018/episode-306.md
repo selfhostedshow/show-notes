@@ -21,7 +21,7 @@ None
 
 ## Episode links
 
-  * [Design Universal Windows Platform (UWP) apps - UWP app developer](https://developer.microsoft.com/en-us/windows/apps/design "Design Universal Windows Platform \(UWP\) apps - UWP app developer") — Fluent Design guidelines and UI code examples for creating app experiences on Windows 10
+  * [Design Universal Windows Platform (UWP) apps - UWP app developer ](https://developer.microsoft.com/en-us/windows/apps/design "Design Universal Windows Platform \(UWP\) apps - UWP app developer") — Fluent Design guidelines and UI code examples for creating app experiences on Windows 10 
 
 
 

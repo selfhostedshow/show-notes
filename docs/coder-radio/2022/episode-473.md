@@ -17,19 +17,19 @@ Mike's Linux Toolchain for 2022, and his first week with CoPilot. Then we chat a
 
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
   * [Tailscale](https://tailscale.com/coder): [Tailscale is the easiest way to create a peer-to-peer network with the power of Wireguard. ](https://tailscale.com/coder)
-  * [System76](https://system76.com/specials): [Receive the Tinkerer’s Toolkit which includes an iFixit Minnow with your computer purchase until the supply of Tinkerer’s Toolkits runs out!](https://system76.com/specials)
+  * [System76](https://system76.com/specials): [Receive the Tinkerer’s Toolkit which includes an iFixit Minnow with your computer purchase until the supply of Tinkerer’s Toolkits runs out! ](https://system76.com/specials)
 
 
 
 ## Episode links
 
-  * [Michael Dominick on Twitter](https://twitter.com/dominucco/status/1542994048855703553 "Michael Dominick on Twitter") — Is this tweet too corny? ;)
-  * [Matrix Meetup Space](https://bit.ly/meetupmatrix "Matrix Meetup Space")
-  * [Calagator](https://github.com/calagator/calagator "Calagator") — Calagator is an open-source community calendaring platform.
-  * [My Linux Toolbox '22 - dominickm.com](https://dominickm.com/my-dev-tools-on-linux/ "My Linux Toolbox '22 - dominickm.com") — I got some request for what my work stack is like on Linux compared to what it was on macOS. Some of these applications I use on both systems but am listing anyway because they have some feature that facilitates that.
-  * [Junction: Application/browser chooser](https://github.com/sonnyp/Junction "Junction: Application/browser chooser") — Junction lets you choose the application to open files and links. 
-  * [Check out Fountain a Podcasting 2.0 App](https://fountain.fm/refer/chrislas-e72160c3c5 "Check out Fountain a Podcasting 2.0 App") — Send a boost into the show with Fountain. 
-  * [Grab a New Podcast App](https://podcastindex.org/apps?appTypes=app&elements=Value "Grab a New Podcast App") — Check out the Podcasting 2.0 compatible apps with new features and Boost support.
+  * [Michael Dominick on Twitter ](https://twitter.com/dominucco/status/1542994048855703553 "Michael Dominick on Twitter") — Is this tweet too corny? ;) 
+  * [Matrix Meetup Space ](https://bit.ly/meetupmatrix "Matrix Meetup Space")
+  * [Calagator ](https://github.com/calagator/calagator "Calagator") — Calagator is an open-source community calendaring platform. 
+  * [My Linux Toolbox '22 - dominickm.com ](https://dominickm.com/my-dev-tools-on-linux/ "My Linux Toolbox '22 - dominickm.com") — I got some request for what my work stack is like on Linux compared to what it was on macOS. Some of these applications I use on both systems but am listing anyway because they have some feature that facilitates that. 
+  * [Junction: Application/browser chooser ](https://github.com/sonnyp/Junction "Junction: Application/browser chooser") — Junction lets you choose the application to open files and links. 
+  * [Check out Fountain a Podcasting 2.0 App ](https://fountain.fm/refer/chrislas-e72160c3c5 "Check out Fountain a Podcasting 2.0 App") — Send a boost into the show with Fountain. 
+  * [Grab a New Podcast App ](https://podcastindex.org/apps?appTypes=app&elements=Value "Grab a New Podcast App") — Check out the Podcasting 2.0 compatible apps with new features and Boost support. 
 
 
 

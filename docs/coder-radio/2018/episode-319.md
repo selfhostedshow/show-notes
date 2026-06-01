@@ -21,11 +21,11 @@ None
 
 ## Episode links
 
-  * [The Core i9 MacBook Pro Has a Serious Throttling Problem](https://www.laptopmag.com/articles/macbook-pro-2018-throttling "The Core i9 MacBook Pro Has a Serious Throttling Problem")
-  * [Apple confirms MacBook Pro thermal throttling, software fix coming today - The Verge](https://www.theverge.com/2018/7/24/17605652/macbook-pro-thermal-throttling-apple-software-fix "Apple confirms MacBook Pro thermal throttling, software fix coming today - The Verge")
-  * [Linux Academy - Microsoft Azure Training Architect (Remote)](https://jobs.lever.co/linuxacademy/86257f21-f201-4458-a5aa-7a0a9ab280da "Linux Academy - Microsoft Azure Training Architect \(Remote\)")
-  * [Pallet Town: Async / Await - dominickm.com](http://dominickm.com/pallet-town-async-await/ "Pallet Town: Async / Await - dominickm.com")
-  * [Asynchronous Programming with async and await (C#) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/ "Asynchronous Programming with async and await \(C#\) | Microsoft Docs")
+  * [The Core i9 MacBook Pro Has a Serious Throttling Problem ](https://www.laptopmag.com/articles/macbook-pro-2018-throttling "The Core i9 MacBook Pro Has a Serious Throttling Problem")
+  * [Apple confirms MacBook Pro thermal throttling, software fix coming today - The Verge ](https://www.theverge.com/2018/7/24/17605652/macbook-pro-thermal-throttling-apple-software-fix "Apple confirms MacBook Pro thermal throttling, software fix coming today - The Verge")
+  * [Linux Academy - Microsoft Azure Training Architect (Remote) ](https://jobs.lever.co/linuxacademy/86257f21-f201-4458-a5aa-7a0a9ab280da "Linux Academy - Microsoft Azure Training Architect \(Remote\)")
+  * [Pallet Town: Async / Await - dominickm.com ](http://dominickm.com/pallet-town-async-await/ "Pallet Town: Async / Await - dominickm.com")
+  * [Asynchronous Programming with async and await (C#) | Microsoft Docs ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/ "Asynchronous Programming with async and await \(C#\) | Microsoft Docs")
 
 
 

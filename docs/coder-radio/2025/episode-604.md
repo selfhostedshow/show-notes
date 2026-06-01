@@ -15,19 +15,19 @@ We dig into the Rails 8 Solid Trifecta, our thoughts on why fewer developers are
 
 ## Sponsored by
 
-  * [Coder QA](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar): [Take $2 a month off for the lifetime of your membership and contribute to our show directly](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar) Promo Code: jarjar
-  * [Bitcoin Well](https://bitcoinwell.com/jupiter): [Bitcoin sent directly to your wallet is the safest way to buy Bitcoin. Immediate settlement, direct to self-custody. Supports the Lightning Network.](https://bitcoinwell.com/jupiter)
+  * [Coder QA](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar): [Take $2 a month off for the lifetime of your membership and contribute to our show directly ](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar) Promo Code: jarjar
+  * [Bitcoin Well](https://bitcoinwell.com/jupiter): [Bitcoin sent directly to your wallet is the safest way to buy Bitcoin. Immediate settlement, direct to self-custody. Supports the Lightning Network. ](https://bitcoinwell.com/jupiter)
 
 
 
 ## Episode links
 
-  * [💥 Gets Sats with Strike](https://strike.me/ "💥 Gets Sats with Strike") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.
-  * [🇨🇦 Bitcoin Well](https://bitcoinwell.com/jupiter "🇨🇦  Bitcoin Well") — The fastest and safest way to buy Bitcoin in Canada and the USA. With self-custody built in. 🥇
-  * [📻 Boost with Fountain.FM](https://fountain.fm/ "📻 Boost with Fountain.FM") — Boost with Fountain.FM and kick the tires on the Podcasting 2.0 revolution! 🚀
-  * [Startup Winter: Hacker News Lost its Faith ](https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/ "Startup Winter: Hacker News Lost its Faith ") — I believe we're entering what might be called a "Startup Winter" - not because startups have stopped being created, but because the mythology around them has frozen over.
-  * [Introducing the Solid Trifecta | Rails 8 Unpacked - YouTube](https://www.youtube.com/watch?v=FpfAu20I00A "Introducing the Solid Trifecta | Rails 8 Unpacked - YouTube") — The Solid Trifecta is a set of database adapters in Rails 8 that simplifies app development by replacing traditional RAM-based solutions like Redis with efficient, cost-effective database-backed tools. Solid Cable handles WebSocket messages, Solid Cache powers caching, and Solid Queue manages job queues, all using databases like MySQL, PostgreSQL, or SQLite. 
-  * [Framework Fatigue: The Real Reason Developers Get Angry About New Tech](https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech "Framework Fatigue: The Real Reason Developers Get Angry About New Tech") — As a developer trying to keep up with the latest tech, you find yourself in a familiar loop: check the landing page, watch the demo, star the GitHub repo “just in case,” and move on with your life. There’s only so much mental bandwidth to go around.
+  * [💥 Gets Sats with Strike ](https://strike.me/ "💥 Gets Sats with Strike") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats. 
+  * [🇨🇦 Bitcoin Well ](https://bitcoinwell.com/jupiter "🇨🇦  Bitcoin Well") — The fastest and safest way to buy Bitcoin in Canada and the USA. With self-custody built in. 🥇 
+  * [📻 Boost with Fountain.FM ](https://fountain.fm/ "📻 Boost with Fountain.FM") — Boost with Fountain.FM and kick the tires on the Podcasting 2.0 revolution! 🚀 
+  * [Startup Winter: Hacker News Lost its Faith ](https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/ "Startup Winter: Hacker News Lost its Faith ") — I believe we're entering what might be called a "Startup Winter" - not because startups have stopped being created, but because the mythology around them has frozen over. 
+  * [Introducing the Solid Trifecta | Rails 8 Unpacked - YouTube ](https://www.youtube.com/watch?v=FpfAu20I00A "Introducing the Solid Trifecta | Rails 8 Unpacked - YouTube") — The Solid Trifecta is a set of database adapters in Rails 8 that simplifies app development by replacing traditional RAM-based solutions like Redis with efficient, cost-effective database-backed tools. Solid Cable handles WebSocket messages, Solid Cache powers caching, and Solid Queue manages job queues, all using databases like MySQL, PostgreSQL, or SQLite. 
+  * [Framework Fatigue: The Real Reason Developers Get Angry About New Tech ](https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech "Framework Fatigue: The Real Reason Developers Get Angry About New Tech") — As a developer trying to keep up with the latest tech, you find yourself in a familiar loop: check the landing page, watch the demo, star the GitHub repo “just in case,” and move on with your life. There’s only so much mental bandwidth to go around. 
 
 
 

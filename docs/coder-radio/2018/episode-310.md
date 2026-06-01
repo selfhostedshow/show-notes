@@ -21,11 +21,11 @@ None
 
 ## Episode links
 
-  * [veritanuda says we missed the ROM Prob](https://pastebin.com/0fixm7jT "veritanuda says we missed the ROM Prob")
-  * [Peter is ready for a change of job](https://pastebin.com/SkpB8FA1 "Peter is ready for a change of job")
-  * [Microsoft acquires AI company to make Cortana and bots sound more human](https://www.theverge.com/2018/5/21/17375482/microsoft-semantic-machines-acquisition-bots-cortana-human "Microsoft acquires AI company to make Cortana and bots sound more human")
-  * [The End of Third-Party Twitter Clients?](https://daringfireball.net/2018/05/the_end_of_third_party_twitter_clients "The End of Third-Party Twitter Clients?")
-  * [1Password 7 Going Subs](https://blog.agilebits.com/2018/05/10/getting-1password-7-ready-for-the-mac-app-store/ "1Password 7 Going Subs")
+  * [veritanuda says we missed the ROM Prob ](https://pastebin.com/0fixm7jT "veritanuda says we missed the ROM Prob")
+  * [Peter is ready for a change of job ](https://pastebin.com/SkpB8FA1 "Peter is ready for a change of job")
+  * [Microsoft acquires AI company to make Cortana and bots sound more human ](https://www.theverge.com/2018/5/21/17375482/microsoft-semantic-machines-acquisition-bots-cortana-human "Microsoft acquires AI company to make Cortana and bots sound more human")
+  * [The End of Third-Party Twitter Clients? ](https://daringfireball.net/2018/05/the_end_of_third_party_twitter_clients "The End of Third-Party Twitter Clients?")
+  * [1Password 7 Going Subs ](https://blog.agilebits.com/2018/05/10/getting-1password-7-ready-for-the-mac-app-store/ "1Password 7 Going Subs")
 
 
 

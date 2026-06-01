@@ -15,23 +15,23 @@ Chris tries out Spatial Computing using a $3,200 trick, and Mike has a Rails tre
 
 ## Sponsored by
 
-  * [Coder QA](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar): [Take $2 a month off for the lifetime of your membership and contribute to our show directly](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar) Promo Code: jarjar
-  * [Trusteebook](https://trusteebook.com/coder): [TrusteeBook - a simple, easy-to-use workbook that helps you take control of your digital legacy. Get started today, and take $10 off.](https://trusteebook.com/coder) Promo Code: CODER
+  * [Coder QA](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar): [Take $2 a month off for the lifetime of your membership and contribute to our show directly ](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=jarjar) Promo Code: jarjar
+  * [Trusteebook](https://trusteebook.com/coder): [TrusteeBook - a simple, easy-to-use workbook that helps you take control of your digital legacy. Get started today, and take $10 off. ](https://trusteebook.com/coder) Promo Code: CODER
 
 
 
 ## Episode links
 
-  * [💥 Gets Sats Quick and Easy with Strike](https://strike.me/ "💥 Gets Sats Quick and Easy with Strike") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 36 countries.
-  * [📻 Boost with Fountain.FM](https://www.fountain.fm/ "📻 Boost with Fountain.FM") — Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts.
-  * [Microsoft to share details on bringing Xbox games to PlayStation in mid-February](https://www.theverge.com/2024/2/5/24062058/microsoft-xbox-playstation-games-announcement "Microsoft to share details on bringing Xbox games to PlayStation in mid-February") — Microsoft has news to share about the future of Xbox in an event next week.
-  * [Michael Dominick on X](https://twitter.com/dominucco/status/1754514958564352083 "Michael Dominick on X") — The vital #VisionPro question: “what is this for?” I’m just not seeing it. Am I missing something. #AppleVisionPro
-  * [Meta Quest 3](https://www.meta.com/quest/quest-3/ "Meta Quest 3") — New Mixed Reality VR Headset
-  * [Immersed on Meta Quest](https://www.meta.com/experiences/2849273531812512/ "Immersed on Meta Quest") — VR Offices! FREE app for *multiple* Virtual Screens in VR for Mac/PC/Linux (with no extra hardware) in stunning virtual worlds. Immersed is great for solo work with multiple screens in a virtual cafe, or for collaborating with your team around even more screens and whiteboards!
-  * [Meta Quest 3 - Swappa](https://swappa.com/listings/meta-quest-3 "Meta Quest 3 - Swappa")
-  * [Visor](https://www.visor.com/ "Visor") — The world's smallest 4K headset.
-  * [Rails 7.1 expands its support for ActiveRecord asynchronous queries](https://www.shakacode.com/blog/rails-7-1-active-record-api-for-general-async-queries/ "Rails 7.1 expands its support for ActiveRecord asynchronous queries") — ActiveRecord async queries are a way to execute Active Record queries in parallel, which can improve the performance of your Rails application. This is especially useful for slow or complex queries or for applications that need to handle a lot of concurrent requests.
-  * [In-depth Guide to ActiveRecord load_async in Rails 7](https://pawelurbanek.com/rails-load-async "In-depth Guide to ActiveRecord load_async in Rails 7") — This seemingly simple change of just adding a single new method that takes no arguments has profound implications for database layer interactions. In this tutorial, we’ll deep dive into the intricacies of this new load async API. We’ll discuss lazy-loaded queries, Ruby threading model, blocking IO, database pool vs. max connections limit, and performance impact of concurrent database clients.
+  * [💥 Gets Sats Quick and Easy with Strike ](https://strike.me/ "💥 Gets Sats Quick and Easy with Strike") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 36 countries. 
+  * [📻 Boost with Fountain.FM ](https://www.fountain.fm/ "📻 Boost with Fountain.FM") — Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts. 
+  * [Microsoft to share details on bringing Xbox games to PlayStation in mid-February ](https://www.theverge.com/2024/2/5/24062058/microsoft-xbox-playstation-games-announcement "Microsoft to share details on bringing Xbox games to PlayStation in mid-February") — Microsoft has news to share about the future of Xbox in an event next week. 
+  * [Michael Dominick on X ](https://twitter.com/dominucco/status/1754514958564352083 "Michael Dominick on X") — The vital #VisionPro question: “what is this for?” I’m just not seeing it. Am I missing something. #AppleVisionPro 
+  * [Meta Quest 3 ](https://www.meta.com/quest/quest-3/ "Meta Quest 3") — New Mixed Reality VR Headset 
+  * [Immersed on Meta Quest ](https://www.meta.com/experiences/2849273531812512/ "Immersed on Meta Quest") — VR Offices! FREE app for _multiple_ Virtual Screens in VR for Mac/PC/Linux (with no extra hardware) in stunning virtual worlds. Immersed is great for solo work with multiple screens in a virtual cafe, or for collaborating with your team around even more screens and whiteboards! 
+  * [Meta Quest 3 - Swappa ](https://swappa.com/listings/meta-quest-3 "Meta Quest 3 - Swappa")
+  * [Visor ](https://www.visor.com/ "Visor") — The world's smallest 4K headset. 
+  * [Rails 7.1 expands its support for ActiveRecord asynchronous queries ](https://www.shakacode.com/blog/rails-7-1-active-record-api-for-general-async-queries/ "Rails 7.1 expands its support for ActiveRecord asynchronous queries") — ActiveRecord async queries are a way to execute Active Record queries in parallel, which can improve the performance of your Rails application. This is especially useful for slow or complex queries or for applications that need to handle a lot of concurrent requests. 
+  * [In-depth Guide to ActiveRecord load_async in Rails 7 ](https://pawelurbanek.com/rails-load-async "In-depth Guide to ActiveRecord load_async in Rails 7") — This seemingly simple change of just adding a single new method that takes no arguments has profound implications for database layer interactions. In this tutorial, we’ll deep dive into the intricacies of this new load async API. We’ll discuss lazy-loaded queries, Ruby threading model, blocking IO, database pool vs. max connections limit, and performance impact of concurrent database clients. 
 
 
 

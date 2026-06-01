@@ -15,17 +15,17 @@ Has Google already started its decline? Our surprising take.
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
+  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips. ](https://acloudguru.com)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 
 ## Episode links
 
-  * [(Most) Programmers are losing our jobs very soon](https://maximilianocontieri.com/most-programmers-are-losing-our-jobs-very-soon "\(Most\) Programmers are losing our jobs very soon") — Instead of program computers we will show them our needs and they will figure out what to do.
-  * [ Armin Ronacher on Twitter](https://twitter.com/mitsuhiko/status/1410886329924194309 " Armin Ronacher on Twitter") — I don't want to say anything but that's not the right license Mr Copilot.
-  * [Salt Lake City | Meetup](https://www.meetup.com/jupiterbroadcasting/events/278854904/ "Salt Lake City | Meetup")
-  * [Denver Meetup | Meetup](https://www.meetup.com/jupiterbroadcasting/events/278855088/ "Denver Meetup | Meetup")
+  * [(Most) Programmers are losing our jobs very soon ](https://maximilianocontieri.com/most-programmers-are-losing-our-jobs-very-soon "\(Most\) Programmers are losing our jobs very soon") — Instead of program computers we will show them our needs and they will figure out what to do. 
+  * [Armin Ronacher on Twitter ](https://twitter.com/mitsuhiko/status/1410886329924194309 " Armin Ronacher on Twitter") — I don't want to say anything but that's not the right license Mr Copilot. 
+  * [Salt Lake City | Meetup ](https://www.meetup.com/jupiterbroadcasting/events/278854904/ "Salt Lake City | Meetup")
+  * [Denver Meetup | Meetup ](https://www.meetup.com/jupiterbroadcasting/events/278855088/ "Denver Meetup | Meetup")
 
 
 

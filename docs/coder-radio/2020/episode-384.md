@@ -15,20 +15,20 @@ It's confession hour on the podcast, and your hosts surprise each other with sev
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloud.guru/learn/eacc77f8-54c2-427f-8c5c-e32e98123f5c/?utm_source=jupiter&utm_medium=cpc): [Learn about some intermediate to advanced Python topics and see how to apply concepts you’ve already learned to solve different problems.](https://acloud.guru/learn/eacc77f8-54c2-427f-8c5c-e32e98123f5c/?utm_source=jupiter&utm_medium=cpc)
+  * [A Cloud Guru](https://acloud.guru/learn/eacc77f8-54c2-427f-8c5c-e32e98123f5c/?utm_source=jupiter&utm_medium=cpc): [Learn about some intermediate to advanced Python topics and see how to apply concepts you’ve already learned to solve different problems. ](https://acloud.guru/learn/eacc77f8-54c2-427f-8c5c-e32e98123f5c/?utm_source=jupiter&utm_medium=cpc)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 
 ## Episode links
 
-  * [Michael Dominick on Twitter](https://twitter.com/dominucco/status/1318267278883016706 "Michael Dominick on Twitter") — "Today's @CoderRadioShow is brought to you by the Lizard people who love @openSUSE! #Linux #SUSE thanks for the SWAG!
-  * [Follow up on Oracle v Google](https://slexy.org/view/s20wcy8wS3 "Follow up on Oracle v Google") — Oracle's best claim for copying of actual code is a complaint that Google improperly combined GPL code into an Apache-licensed software suite, but not even that - it is that Apache Harmony did this and Google copied it inadvertently.
-  * [Top Stories: iPhone 12, HomePod Mini, MagSafe Accessories, and More](https://www.macrumors.com/2020/10/17/top-stories-iphone-12-homepod-mini/ "Top Stories: iPhone 12, HomePod Mini, MagSafe Accessories, and More") — Apple's media event obviously dominated the news this week
-  * [Apple Announces HomePod mini With Spherical Design](https://www.macrumors.com/2020/10/13/apple-announces-homepod-mini/ "Apple Announces HomePod mini With Spherical Design") — Apple today announced the HomePod mini with a new spherical design and the S5 chip at its "Hi, Speed" event.
-  * [Dropbox is letting all employees work from home permanently](https://www.businessinsider.com/dropbox-letting-all-employees-work-from-home-permanently-2020-10 "Dropbox is letting all employees work from home permanently") — The company plans to convert its existing offices to coworking spaces to aid in team building and collaboration.
-  * [Mike's .vimrc](https://gist.github.com/dominickm/9df2330348f4b45422c4f5d669a788ea "Mike's .vimrc")
-  * [Micro - Text editor](https://micro-editor.github.io/ "Micro - Text editor") — A modern and intuitive terminal-based text editor
+  * [Michael Dominick on Twitter ](https://twitter.com/dominucco/status/1318267278883016706 "Michael Dominick on Twitter") — "Today's @CoderRadioShow is brought to you by the Lizard people who love @openSUSE! #Linux #SUSE thanks for the SWAG! 
+  * [Follow up on Oracle v Google ](https://slexy.org/view/s20wcy8wS3 "Follow up on Oracle v Google") — Oracle's best claim for copying of actual code is a complaint that Google improperly combined GPL code into an Apache-licensed software suite, but not even that - it is that Apache Harmony did this and Google copied it inadvertently. 
+  * [Top Stories: iPhone 12, HomePod Mini, MagSafe Accessories, and More ](https://www.macrumors.com/2020/10/17/top-stories-iphone-12-homepod-mini/ "Top Stories: iPhone 12, HomePod Mini, MagSafe Accessories, and More") — Apple's media event obviously dominated the news this week 
+  * [Apple Announces HomePod mini With Spherical Design ](https://www.macrumors.com/2020/10/13/apple-announces-homepod-mini/ "Apple Announces HomePod mini With Spherical Design") — Apple today announced the HomePod mini with a new spherical design and the S5 chip at its "Hi, Speed" event. 
+  * [Dropbox is letting all employees work from home permanently ](https://www.businessinsider.com/dropbox-letting-all-employees-work-from-home-permanently-2020-10 "Dropbox is letting all employees work from home permanently") — The company plans to convert its existing offices to coworking spaces to aid in team building and collaboration. 
+  * [Mike's .vimrc ](https://gist.github.com/dominickm/9df2330348f4b45422c4f5d669a788ea "Mike's .vimrc")
+  * [Micro - Text editor ](https://micro-editor.github.io/ "Micro - Text editor") — A modern and intuitive terminal-based text editor 
 
 
 

@@ -15,16 +15,16 @@ Mike and Chris spend a little time chatting about one of their loves in life, gr
 
 ## Sponsored by
 
-  * [Network Membership Holiday Discount](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024): [Support the entire network, and get access to every member's special feed for every show on the network. Sign up now and save $3/m FOREVER!](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024) Promo Code: 2024
+  * [Network Membership Holiday Discount](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024): [Support the entire network, and get access to every member's special feed for every show on the network. Sign up now and save $3/m FOREVER! ](https://jupitersignal.memberful.com/checkout?plan=74364&coupon=2024) Promo Code: 2024
 
 
 
 ## Episode links
 
-  * [Super Mario All-Stars - Full Game Walkthrough - YouTube](https://www.youtube.com/watch?v=SNl6WJygciw "Super Mario All-Stars - Full Game Walkthrough - YouTube")
-  * [Dash, Inventor Extraordinaire](https://fabtcg.com/heroes/dash/ "Dash, Inventor Extraordinaire")
-  * [Dark Castle (1986) - Original Macintosh Version!](https://www.youtube.com/watch?v=KCkbp4wurW0 "Dark Castle \(1986\) - Original Macintosh Version!")
-  * [GRUUL Mid // Pioneer deck list mtg // Moxfield — An mtg deck builder site for Magic: the Gathering®](https://www.moxfield.com/decks/zio9pL7rAUec_3SamQEnrA "GRUUL Mid // Pioneer deck list mtg // Moxfield — An mtg deck builder site for Magic: the Gathering®")
+  * [Super Mario All-Stars - Full Game Walkthrough - YouTube ](https://www.youtube.com/watch?v=SNl6WJygciw "Super Mario All-Stars - Full Game Walkthrough - YouTube")
+  * [Dash, Inventor Extraordinaire ](https://fabtcg.com/heroes/dash/ "Dash, Inventor Extraordinaire")
+  * [Dark Castle (1986) - Original Macintosh Version! ](https://www.youtube.com/watch?v=KCkbp4wurW0 "Dark Castle \(1986\) - Original Macintosh Version!")
+  * [GRUUL Mid // Pioneer deck list mtg // Moxfield — An mtg deck builder site for Magic: the Gathering® ](https://www.moxfield.com/decks/zio9pL7rAUec_3SamQEnrA "GRUUL Mid // Pioneer deck list mtg // Moxfield — An mtg deck builder site for Magic: the Gathering®")
 
 
 

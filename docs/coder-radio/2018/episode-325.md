@@ -21,16 +21,16 @@ None
 
 ## Episode links
 
-  * [Fortnite 15 Mil downloads sans Google Play](https://arstechnica.com/gaming/2018/09/fortnite-reaches-15-million-android-downloads-without-google-play/ "Fortnite 15 Mil downloads sans Google Play")
-  * [Project Loom](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html "Project Loom")
-  * [What Color is Your Function](http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/ "What Color is Your Function")
-  * [Generics in Go](https://blog.merovius.de/2018/09/05/scrapping_contracts.html "Generics in Go")
-  * [Elixir](https://elixir-lang.org/ "Elixir")
-  * [Clojure - Deps and CLI Guide](https://clojure.org/guides/deps_and_cli "Clojure - Deps and CLI Guide")
-  * [Clojure - Getting Started](https://clojure.org/guides/getting_started "Clojure - Getting Started")
-  * [Reitit, Data-Driven Routing with Clojure(Script)](https://www.metosin.fi/blog/reitit/ "Reitit, Data-Driven Routing with Clojure\(Script\)")
-  * [core.async Walkthrough](https://github.com/clojure/core.async/blob/master/examples/walkthrough.clj "core.async Walkthrough")
-  * [Understanding Homoiconicity, the Power Behind Clojure Macros](https://spin.atomicobject.com/2013/07/23/homoiconicity-clojure-macros/ "Understanding Homoiconicity, the Power Behind Clojure Macros")
+  * [Fortnite 15 Mil downloads sans Google Play ](https://arstechnica.com/gaming/2018/09/fortnite-reaches-15-million-android-downloads-without-google-play/ "Fortnite 15 Mil downloads sans Google Play")
+  * [Project Loom ](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html "Project Loom")
+  * [What Color is Your Function ](http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/ "What Color is Your Function")
+  * [Generics in Go ](https://blog.merovius.de/2018/09/05/scrapping_contracts.html "Generics in Go")
+  * [Elixir ](https://elixir-lang.org/ "Elixir")
+  * [Clojure - Deps and CLI Guide ](https://clojure.org/guides/deps_and_cli "Clojure - Deps and CLI Guide")
+  * [Clojure - Getting Started ](https://clojure.org/guides/getting_started "Clojure - Getting Started")
+  * [Reitit, Data-Driven Routing with Clojure(Script) ](https://www.metosin.fi/blog/reitit/ "Reitit, Data-Driven Routing with Clojure\(Script\)")
+  * [core.async Walkthrough ](https://github.com/clojure/core.async/blob/master/examples/walkthrough.clj "core.async Walkthrough")
+  * [Understanding Homoiconicity, the Power Behind Clojure Macros ](https://spin.atomicobject.com/2013/07/23/homoiconicity-clojure-macros/ "Understanding Homoiconicity, the Power Behind Clojure Macros")
 
 
 

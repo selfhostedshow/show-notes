@@ -21,9 +21,9 @@ None
 
 ## Episode links
 
-  * [Ferrite Recording Studio](https://www.wooji-juice.com/products/ferrite/ "Ferrite Recording Studio") — Ferrite is the tool many podcasters and journalists reach for when they’re away from the studio.
-  * [‎LumaFusion video editor](https://itunes.apple.com/us/app/lumafusion/id1062022008?mt=8&ign-mpt=uo%3D4 "‎LumaFusion video editor") — Pro video editing and effects
-  * [Michael Dominick on Twitter](https://twitter.com/dominucco/status/1067045648787230720 "Michael Dominick on Twitter") — "Was running out of drive storage on my desktop, so I did the unthinkable @ChrisLAS. I opened it up and installed an additional HDD! What madness is that? #CoderRadio"
+  * [Ferrite Recording Studio ](https://www.wooji-juice.com/products/ferrite/ "Ferrite Recording Studio") — Ferrite is the tool many podcasters and journalists reach for when they’re away from the studio. 
+  * [‎LumaFusion video editor ](https://itunes.apple.com/us/app/lumafusion/id1062022008?mt=8&ign-mpt=uo%3D4 "‎LumaFusion video editor") — Pro video editing and effects 
+  * [Michael Dominick on Twitter ](https://twitter.com/dominucco/status/1067045648787230720 "Michael Dominick on Twitter") — "Was running out of drive storage on my desktop, so I did the unthinkable @ChrisLAS. I opened it up and installed an additional HDD! What madness is that? #CoderRadio" 
 
 
 

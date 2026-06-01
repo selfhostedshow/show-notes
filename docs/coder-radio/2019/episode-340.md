@@ -21,18 +21,18 @@ None
 
 ## Episode links
 
-  * [Mark's IoT Feedback](https://pastebin.com/ACsC28u1 "Mark's IoT Feedback")
-  * [IOKit](https://developer.apple.com/documentation/iokit "IOKit") — The I/O Kit framework implements non-kernel access to I/O Kit objects (drivers and nubs) through the device-interface mechanism.
-  * [Does iPad Pro (2018) support IOKit?](https://forums.developer.apple.com/thread/110317 "Does iPad Pro \(2018\) support IOKit?") — IOKit has included iOS support since 2.0
-  * [Elixir](https://elixir-lang.org/ "Elixir") — Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
-  * [Craft and deploy bulletproof embedded software in Elixir](https://nerves-project.org/ "Craft and deploy bulletproof embedded software in Elixir")
-  * [NervesHub](https://www.nerves-hub.org/ "NervesHub") — NervesHub helps you manage firmware updates for Nerves devices.
-  * [Elixir Mix Podcast](https://devchat.tv/elixir-mix/ "Elixir Mix Podcast") — A weekly discussion with Elixir developers.
-  * [Optional - Swift Standard Library](https://developer.apple.com/documentation/swift/optional "Optional - Swift Standard Library") — A type that represents either a wrapped value or nil, the absence of a value.
-  * [Swift optionals explained simply](https://hackernoon.com/swift-optionals-explained-simply-e109a4297298 "Swift optionals explained simply")
-  * [F# Software Foundation](https://fsharp.org/ "F# Software Foundation") — F# is a mature, open source, cross-platform, functional-first programming language
-  * [Datomic Ions](https://docs.datomic.com/cloud/ions/ions.html "Datomic Ions") — Ions let you develop applications for the cloud by deploying your code to a running Datomic cluster. 
-  * [Rich Hickey on Datomic Ions](https://www.youtube.com/watch?v=thpzXjmYyGk "Rich Hickey on Datomic Ions")
+  * [Mark's IoT Feedback ](https://pastebin.com/ACsC28u1 "Mark's IoT Feedback")
+  * [IOKit ](https://developer.apple.com/documentation/iokit "IOKit") — The I/O Kit framework implements non-kernel access to I/O Kit objects (drivers and nubs) through the device-interface mechanism. 
+  * [Does iPad Pro (2018) support IOKit? ](https://forums.developer.apple.com/thread/110317 "Does iPad Pro \(2018\) support IOKit?") — IOKit has included iOS support since 2.0 
+  * [Elixir ](https://elixir-lang.org/ "Elixir") — Elixir is a dynamic, functional language designed for building scalable and maintainable applications. 
+  * [Craft and deploy bulletproof embedded software in Elixir ](https://nerves-project.org/ "Craft and deploy bulletproof embedded software in Elixir")
+  * [NervesHub ](https://www.nerves-hub.org/ "NervesHub") — NervesHub helps you manage firmware updates for Nerves devices. 
+  * [Elixir Mix Podcast ](https://devchat.tv/elixir-mix/ "Elixir Mix Podcast") — A weekly discussion with Elixir developers. 
+  * [Optional - Swift Standard Library ](https://developer.apple.com/documentation/swift/optional "Optional - Swift Standard Library") — A type that represents either a wrapped value or nil, the absence of a value. 
+  * [Swift optionals explained simply ](https://hackernoon.com/swift-optionals-explained-simply-e109a4297298 "Swift optionals explained simply")
+  * [F# Software Foundation ](https://fsharp.org/ "F# Software Foundation") — F# is a mature, open source, cross-platform, functional-first programming language 
+  * [Datomic Ions ](https://docs.datomic.com/cloud/ions/ions.html "Datomic Ions") — Ions let you develop applications for the cloud by deploying your code to a running Datomic cluster. 
+  * [Rich Hickey on Datomic Ions ](https://www.youtube.com/watch?v=thpzXjmYyGk "Rich Hickey on Datomic Ions")
 
 
 

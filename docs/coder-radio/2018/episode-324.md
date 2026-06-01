@@ -21,8 +21,8 @@ None
 
 ## Episode links
 
-  * [Gitpod](https://www.gitpod.io/ "Gitpod") — In a blink of an eye from any GitHub project, pull request, or issue to a ready-configured, fully-featured online IDE and terminal.
-  * [Nativefier](https://github.com/jiahaog/nativefier "Nativefier") — Make any web page a desktop application
+  * [Gitpod ](https://www.gitpod.io/ "Gitpod") — In a blink of an eye from any GitHub project, pull request, or issue to a ready-configured, fully-featured online IDE and terminal. 
+  * [Nativefier ](https://github.com/jiahaog/nativefier "Nativefier") — Make any web page a desktop application 
 
 
 

@@ -15,20 +15,20 @@ We get nerdy about Blueprints, and then wary about the future of software distri
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
+  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips. ](https://acloudguru.com)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 
 ## Episode links
 
-  * [jblive_radio: A simple stream listener](https://github.com/dontcallmebrownie/jblive_radio "jblive_radio: A simple stream listener") — This is a simple, dumb, stream listener I made in a few minutes as an exploration into electron. 
-  * [Trump admin orders TikTok, WeChat gone from app stores on Sunday](https://arstechnica.com/tech-policy/2020/09/tiktok-wechat-to-be-pulled-from-us-app-stores-as-of-september-20/ "Trump admin orders TikTok, WeChat gone from app stores on Sunday") — Turns out the list of “transactions” is “anything that makes the app function.”
-  * [Apple asks to block iOS Unreal Engine development in new court filing](https://arstechnica.com/gaming/2020/09/apple-asks-to-block-ios-unreal-engine-development-in-new-court-filing/ "Apple asks to block iOS Unreal Engine development in new court filing") — iOS maker says it's worried Epic could insert another "trojan horse" if allowed.
-  * [YouTube’s website now blocks iOS 14’s picture-in-picture mode unless you pay for Premium](https://www.theverge.com/2020/9/18/21445912/youtube-videos-website-picture-in-picture-ios-14-google-apple-premium "YouTube’s website now blocks iOS 14’s picture-in-picture mode unless you pay for Premium") — Picture-in-picture still works on iPad for free and paid users, though
-  * [There Are No Silver Bullets For This Werewolf](https://hackernoon.com/there-are-no-silver-bullets-for-this-werewolf-2t213woi "There Are No Silver Bullets For This Werewolf") — The phrase “No Silver Bullet” is widely used in the industry. 
-  * [People Powered Book](https://www.amazon.com/dp/B07R4YN5JR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 "People Powered Book") — How Communities Can Supercharge Your Business, Brand, and Teams
-  * [The Mike Dominick Show Episode 37: Jono Bacon](https://www.automator.show/37 "The Mike Dominick Show Episode 37: Jono Bacon")
+  * [jblive_radio: A simple stream listener ](https://github.com/dontcallmebrownie/jblive_radio "jblive_radio: A simple stream listener") — This is a simple, dumb, stream listener I made in a few minutes as an exploration into electron. 
+  * [Trump admin orders TikTok, WeChat gone from app stores on Sunday ](https://arstechnica.com/tech-policy/2020/09/tiktok-wechat-to-be-pulled-from-us-app-stores-as-of-september-20/ "Trump admin orders TikTok, WeChat gone from app stores on Sunday") — Turns out the list of “transactions” is “anything that makes the app function.” 
+  * [Apple asks to block iOS Unreal Engine development in new court filing ](https://arstechnica.com/gaming/2020/09/apple-asks-to-block-ios-unreal-engine-development-in-new-court-filing/ "Apple asks to block iOS Unreal Engine development in new court filing") — iOS maker says it's worried Epic could insert another "trojan horse" if allowed. 
+  * [YouTube’s website now blocks iOS 14’s picture-in-picture mode unless you pay for Premium ](https://www.theverge.com/2020/9/18/21445912/youtube-videos-website-picture-in-picture-ios-14-google-apple-premium "YouTube’s website now blocks iOS 14’s picture-in-picture mode unless you pay for Premium") — Picture-in-picture still works on iPad for free and paid users, though 
+  * [There Are No Silver Bullets For This Werewolf ](https://hackernoon.com/there-are-no-silver-bullets-for-this-werewolf-2t213woi "There Are No Silver Bullets For This Werewolf") — The phrase “No Silver Bullet” is widely used in the industry. 
+  * [People Powered Book ](https://www.amazon.com/dp/B07R4YN5JR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 "People Powered Book") — How Communities Can Supercharge Your Business, Brand, and Teams 
+  * [The Mike Dominick Show Episode 37: Jono Bacon ](https://www.automator.show/37 "The Mike Dominick Show Episode 37: Jono Bacon")
 
 
 

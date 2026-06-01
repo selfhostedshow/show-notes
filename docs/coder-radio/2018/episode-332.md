@@ -21,11 +21,11 @@ None
 
 ## Episode links
 
-  * [Mac mini](https://www.apple.com/mac-mini/ "Mac mini")
-  * [Thelio](https://system76.com/desktops "Thelio")
-  * [ASP.NET Core Ditching .NET Framework](https://visualstudiomagazine.com/articles/2018/10/30/aspnet-core-plans.aspx?m=1 "ASP.NET Core Ditching .NET Framework") — Microsoft yesterday (Oct. 29) said that going forward, ASP.NET Core 3.0 -- the Web framework part of the "Core" platform offerings -- will only run on the base NET Core 3.0 platform, not the traditional .NET Framework that has been a Windows-only mainstay for some 16 years. 
-  * [Erick Roberts on Twitter](https://twitter.com/ErickLrob/status/1057977837636980736 "Erick Roberts on Twitter") — "@dominucco I went way back in the @coderradioshow archives hoping to get some back story on how you and Chris both started your independent contractor lives. Can you or @ChrisLAS point me to a blog post or a podcast episode. It cuts me off at episode 55."
-  * [Gogh](https://github.com/Mayccoll/Gogh "Gogh") — Color Scheme for Gnome Terminal and Pantheon Terminal 
+  * [Mac mini ](https://www.apple.com/mac-mini/ "Mac mini")
+  * [Thelio ](https://system76.com/desktops "Thelio")
+  * [ASP.NET Core Ditching .NET Framework ](https://visualstudiomagazine.com/articles/2018/10/30/aspnet-core-plans.aspx?m=1 "ASP.NET Core Ditching .NET Framework") — Microsoft yesterday (Oct. 29) said that going forward, ASP.NET Core 3.0 -- the Web framework part of the "Core" platform offerings -- will only run on the base NET Core 3.0 platform, not the traditional .NET Framework that has been a Windows-only mainstay for some 16 years. 
+  * [Erick Roberts on Twitter ](https://twitter.com/ErickLrob/status/1057977837636980736 "Erick Roberts on Twitter") — "@dominucco I went way back in the @coderradioshow archives hoping to get some back story on how you and Chris both started your independent contractor lives. Can you or @ChrisLAS point me to a blog post or a podcast episode. It cuts me off at episode 55." 
+  * [Gogh ](https://github.com/Mayccoll/Gogh "Gogh") — Color Scheme for Gnome Terminal and Pantheon Terminal 
 
 
 

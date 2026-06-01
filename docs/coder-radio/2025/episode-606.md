@@ -20,7 +20,7 @@ None
 
 ## Episode links
 
-  * [Michael Dominick on X](https://x.com/dominucco "Michael Dominick on X")
+  * [Michael Dominick on X ](https://x.com/dominucco "Michael Dominick on X")
 
 
 

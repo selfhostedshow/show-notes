@@ -22,14 +22,14 @@ Mike's spent 90+ days with GitHub Co-Pilot, and shares the surprising conclusion
 
 ## Episode links
 
-  * [90+ Days With Github Co-Pilo](https://dominickm.com/90-days-with-github-co-pilot/ "90+ Days With Github Co-Pilo") — Today, I want to talk about a tool that has been making waves in the programming community lately – Github Co-Pilot.
-  * [Introducing GitHub Copilot X](https://github.com/features/preview/copilot-x "Introducing GitHub Copilot X") — With chat and terminal interfaces, support for pull requests, and early adoption of OpenAI’s GPT-4, GitHub Copilot X is our vision for the future of AI-powered software development. Integrated into every part of your workflow.
+  * [90+ Days With Github Co-Pilo ](https://dominickm.com/90-days-with-github-co-pilot/ "90+ Days With Github Co-Pilo") — Today, I want to talk about a tool that has been making waves in the programming community lately – Github Co-Pilot. 
+  * [Introducing GitHub Copilot X ](https://github.com/features/preview/copilot-x "Introducing GitHub Copilot X") — With chat and terminal interfaces, support for pull requests, and early adoption of OpenAI’s GPT-4, GitHub Copilot X is our vision for the future of AI-powered software development. Integrated into every part of your workflow. 
   * [Nextcloud Ethical AI Rating ](https://nextcloud.com/blog/nextcloud-ethical-ai-rating/ "Nextcloud Ethical AI Rating ") — Now that Hub 4 has been released, it’s time to introduce the Nextcloud Ethical AI Rating. 
-  * [RadioGPT](https://listen.streamon.fm/radiogpt "RadioGPT") — GPT powered Radio DJ
-  * [Alby — Lightning for your Browser!](https://getalby.com/ "Alby — Lightning for your Browser!") — Alby brings Boosts to the web.
-  * [Coder Radio on the Podcastindex.org](https://podcastindex.org/podcast/487548 "Coder Radio on the Podcastindex.org") — Send a Boost into the show via the web. First, top-up Alby, then head over to our entry on the Podcast Index.
-  * [LinuxFest Northwest 2023](https://linuxfestnorthwest.org/ "LinuxFest Northwest 2023") — October 20-22, 2023 Bellingham Technical College 
-  * [Podverse](https://github.com/podverse "Podverse") — Open source podcast app. Available for iOS, Android, F-Droid, and web. #FOSS #AGPLv3
+  * [RadioGPT ](https://listen.streamon.fm/radiogpt "RadioGPT") — GPT powered Radio DJ 
+  * [Alby — Lightning for your Browser! ](https://getalby.com/ "Alby — Lightning for your Browser!") — Alby brings Boosts to the web. 
+  * [Coder Radio on the Podcastindex.org ](https://podcastindex.org/podcast/487548 "Coder Radio on the Podcastindex.org") — Send a Boost into the show via the web. First, top-up Alby, then head over to our entry on the Podcast Index. 
+  * [LinuxFest Northwest 2023 ](https://linuxfestnorthwest.org/ "LinuxFest Northwest 2023") — October 20-22, 2023 Bellingham Technical College 
+  * [Podverse ](https://github.com/podverse "Podverse") — Open source podcast app. Available for iOS, Android, F-Droid, and web. #FOSS #AGPLv3 
 
 
 

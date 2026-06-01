@@ -21,11 +21,11 @@ None
 
 ## Episode links
 
-  * [Home Page - ABC-Deploy](http://abc-deploy.com/abc-update/ "Home Page - ABC-Deploy") — ABC-Update is an easy to use tool that sets you in control of MS Update operations.
-  * [On logic in a Rails app, revisited 6 years later](https://alisnic.github.io/posts/rails-logic-revisited/ "On logic in a Rails app, revisited 6 years later") — My argument was that Rails is just an UI layer, and business logic should be put in domain objects instead of keeping somewhere in Model, View or Controller.
-  * [Python Software Foundation](https://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html "Python Software Foundation")
-  * [Batteries Included, But They're Leaking](http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html?m=1 "Batteries Included, But They're Leaking") — Amber Brown of the Twisted project shared her criticisms of the Python standard library.
-  * [Twisted: Event-driven networking engine written in Python.](https://github.com/twisted/twisted "Twisted: Event-driven networking engine written in Python.") — Twisted is an event-based framework for internet applications
+  * [Home Page - ABC-Deploy ](http://abc-deploy.com/abc-update/ "Home Page - ABC-Deploy") — ABC-Update is an easy to use tool that sets you in control of MS Update operations. 
+  * [On logic in a Rails app, revisited 6 years later ](https://alisnic.github.io/posts/rails-logic-revisited/ "On logic in a Rails app, revisited 6 years later") — My argument was that Rails is just an UI layer, and business logic should be put in domain objects instead of keeping somewhere in Model, View or Controller. 
+  * [Python Software Foundation ](https://pyfound.blogspot.com/2019/05/the-2019-python-language-summit.html "Python Software Foundation")
+  * [Batteries Included, But They're Leaking ](http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html?m=1 "Batteries Included, But They're Leaking") — Amber Brown of the Twisted project shared her criticisms of the Python standard library. 
+  * [Twisted: Event-driven networking engine written in Python. ](https://github.com/twisted/twisted "Twisted: Event-driven networking engine written in Python.") — Twisted is an event-based framework for internet applications 
 
 
 

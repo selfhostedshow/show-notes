@@ -16,19 +16,19 @@ Ruby has gone off the rails this week, and Wes is here to explain what’s happe
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips. ](https://acloudguru.com)
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent. ](http://datadog.com/coderradio)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 
 ## Episode links
 
-  * [Sacrificing acts of heroism, big and small - YouTube](https://www.youtube.com/watch?v=L42GCAX9EFg#t=6m30s "Sacrificing acts of heroism, big and small - YouTube")
-  * [Ruby off the Rails](https://www.theregister.com/2021/03/25/ruby_rails_code/ "Ruby off the Rails") — On Wednesday, Bastien Nocera, the maintainer of a software library called shared-mime-info, informed Daniel Mendler, maintainer of a Ruby library called mimemagic, which incorporates Nocera's code, that he was shipping mimemagic under an incompatible software license. 
-  * [Announcing the Deno Company](https://deno.com/blog/the-deno-company "Announcing the Deno Company") — Deno is our attempt to breathe new life into this ecosystem.
-  * [Deno Deploy](https://deno.com/deploy "Deno Deploy")
-  * [Chip shortage could benefit Apple with better component pricing](https://appleinsider.com/articles/21/03/27/chip-shortage-could-benefit-apple-with-better-component-pricing "Chip shortage could benefit Apple with better component pricing") — The global chip shortage will become a problem for devices like iPhones and Macs requiring chips for storage, but Wedbush believes it could be beneficial to Apple and its suppliers by improving the pricing of components.
+  * [Sacrificing acts of heroism, big and small - YouTube ](https://www.youtube.com/watch?v=L42GCAX9EFg#t=6m30s "Sacrificing acts of heroism, big and small - YouTube")
+  * [Ruby off the Rails ](https://www.theregister.com/2021/03/25/ruby_rails_code/ "Ruby off the Rails") — On Wednesday, Bastien Nocera, the maintainer of a software library called shared-mime-info, informed Daniel Mendler, maintainer of a Ruby library called mimemagic, which incorporates Nocera's code, that he was shipping mimemagic under an incompatible software license. 
+  * [Announcing the Deno Company ](https://deno.com/blog/the-deno-company "Announcing the Deno Company") — Deno is our attempt to breathe new life into this ecosystem. 
+  * [Deno Deploy ](https://deno.com/deploy "Deno Deploy")
+  * [Chip shortage could benefit Apple with better component pricing ](https://appleinsider.com/articles/21/03/27/chip-shortage-could-benefit-apple-with-better-component-pricing "Chip shortage could benefit Apple with better component pricing") — The global chip shortage will become a problem for devices like iPhones and Macs requiring chips for storage, but Wedbush believes it could be beneficial to Apple and its suppliers by improving the pricing of components. 
 
 
 

@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [Microsoft partners with DJI on a new Windows 10 drone SDK - The Verge](https://www.theverge.com/2018/5/7/17318328/microsoft-dji-drone-sdk-announced-ai-machine-vision-build-2018 "Microsoft partners with DJI on a new Windows 10 drone SDK - The Verge")
-  * [Microsoft's Visual Studio Live Share collaboration service available to testers | ZDNet](https://www.zdnet.com/article/microsofts-visual-studio-live-share-collaboration-service-available-to-testers/ "Microsoft's Visual Studio Live Share collaboration service available to testers | ZDNet")
-  * [Visual Studio Live Share](https://www.visualstudio.com/services/live-share/ "Visual Studio Live Share")
-  * [Android Jetpack | Android Developers](https://developer.android.com/jetpack/ "Android Jetpack  |  Android Developers") — Jetpack is a set of libraries, tools and architectural guidance to help make it quick and easy to build great Android apps. It provides common infrastructure code so you can focus on what makes your app unique. 
-  * [Google Developers Blog: Introducing ML Kit](https://developers.googleblog.com/2018/05/introducing-ml-kit.html "Google Developers Blog: Introducing ML Kit")
-  * [What's new in Android security (Google I/O '18) - YouTube](https://www.youtube.com/watch?time_continue=156&v=r54roADX2MI "What's new in Android security \(Google I/O '18\) - YouTube") — Attend this session to learn about security features in Android and how they affect your apps. It will cover new APIs and best practices for protecting the integrity of your app and the privacy of your data.
-  * [Google will soon require OEMs to roll out ‘regular’ Android security patches | 9to5Google](https://9to5google.com/2018/05/11/google-android-security-patch-requirement/ "Google will soon require OEMs to roll out ‘regular’ Android security patches | 9to5Google")
+  * [Microsoft partners with DJI on a new Windows 10 drone SDK - The Verge ](https://www.theverge.com/2018/5/7/17318328/microsoft-dji-drone-sdk-announced-ai-machine-vision-build-2018 "Microsoft partners with DJI on a new Windows 10 drone SDK - The Verge")
+  * [Microsoft's Visual Studio Live Share collaboration service available to testers | ZDNet ](https://www.zdnet.com/article/microsofts-visual-studio-live-share-collaboration-service-available-to-testers/ "Microsoft's Visual Studio Live Share collaboration service available to testers | ZDNet")
+  * [Visual Studio Live Share ](https://www.visualstudio.com/services/live-share/ "Visual Studio Live Share")
+  * [Android Jetpack | Android Developers ](https://developer.android.com/jetpack/ "Android Jetpack  |  Android Developers") — Jetpack is a set of libraries, tools and architectural guidance to help make it quick and easy to build great Android apps. It provides common infrastructure code so you can focus on what makes your app unique. 
+  * [Google Developers Blog: Introducing ML Kit ](https://developers.googleblog.com/2018/05/introducing-ml-kit.html "Google Developers Blog: Introducing ML Kit")
+  * [What's new in Android security (Google I/O '18) - YouTube ](https://www.youtube.com/watch?time_continue=156&v=r54roADX2MI "What's new in Android security \(Google I/O '18\) - YouTube") — Attend this session to learn about security features in Android and how they affect your apps. It will cover new APIs and best practices for protecting the integrity of your app and the privacy of your data. 
+  * [Google will soon require OEMs to roll out ‘regular’ Android security patches | 9to5Google ](https://9to5google.com/2018/05/11/google-android-security-patch-requirement/ "Google will soon require OEMs to roll out ‘regular’ Android security patches | 9to5Google")
 
 
 

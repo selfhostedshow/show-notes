@@ -15,23 +15,23 @@ OpenAI has pulled a fast one, and everyone is eating it up.
 
 ## Sponsored by
 
-  * [Coder QA](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=darthjarjar): [Take $1 a month off your membership for a year, and contribute to our show directly!](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=darthjarjar) Promo Code: darthjarjar
+  * [Coder QA](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=darthjarjar): [Take $1 a month off your membership for a year, and contribute to our show directly! ](https://jupitersignal.memberful.com/checkout?plan=53334&coupon=darthjarjar) Promo Code: darthjarjar
 
 
 
 ## Episode links
 
-  * [💥 Gets Sats Quick and Easy with Strike](https://strike.me/ "💥 Gets Sats Quick and Easy with Strike") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 36 countries.
-  * [📻 Boost with Fountain.FM](https://www.fountain.fm/ "📻 Boost with Fountain.FM") — Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts.
-  * [Internet package | Invitation Homes](https://www.invitationhomes.com/internet-package "Internet package | Invitation Homes") — This package is only available for homes within the service area and will be required in the lease. 
-  * [Darth Jar Jar Strikes in Lego's Crazy New Star Wars Series](https://gizmodo.com/darth-jar-jar-lego-new-star-wars-series-disney-plus-1851458578 "Darth Jar Jar Strikes in Lego's Crazy New Star Wars Series") — The four-part special gets released September 13 only on Disney+.
-  * [Stack Overflow signs deal with OpenAI to supply data to its models | TechCrunch](https://techcrunch.com/2024/05/06/stack-overflow-signs-deal-with-openai-to-supply-data-to-its-models/?guccounter=1 "Stack Overflow signs deal with OpenAI to supply data to its models | TechCrunch") — OpenAI is collaborating with Stack Overflow, the Q&A forum for software developers, to improve its generative AI models’ performance on programming-related tasks.
-  * [ArDev on X](https://twitter.com/ArDeved/status/1789332430685352281 "ArDev on X") — Altman emphasizes that OpenAI is focused on quality and impact rather than deadlines. They are taking their time with releasing major updates and may even opt for a different naming convention.
-  * [Framework Laptop 16 DIY Edition](https://frame.work/products/laptop16-diy-amd-7040 "Framework Laptop 16 DIY Edition") — Powered by AMD Ryzen™ 7040HS and Radeon™ RX 7700S
+  * [💥 Gets Sats Quick and Easy with Strike ](https://strike.me/ "💥 Gets Sats Quick and Easy with Strike") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 36 countries. 
+  * [📻 Boost with Fountain.FM ](https://www.fountain.fm/ "📻 Boost with Fountain.FM") — Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts. 
+  * [Internet package | Invitation Homes ](https://www.invitationhomes.com/internet-package "Internet package | Invitation Homes") — This package is only available for homes within the service area and will be required in the lease. 
+  * [Darth Jar Jar Strikes in Lego's Crazy New Star Wars Series ](https://gizmodo.com/darth-jar-jar-lego-new-star-wars-series-disney-plus-1851458578 "Darth Jar Jar Strikes in Lego's Crazy New Star Wars Series") — The four-part special gets released September 13 only on Disney+. 
+  * [Stack Overflow signs deal with OpenAI to supply data to its models | TechCrunch ](https://techcrunch.com/2024/05/06/stack-overflow-signs-deal-with-openai-to-supply-data-to-its-models/?guccounter=1 "Stack Overflow signs deal with OpenAI to supply data to its models | TechCrunch") — OpenAI is collaborating with Stack Overflow, the Q&A forum for software developers, to improve its generative AI models’ performance on programming-related tasks. 
+  * [ArDev on X ](https://twitter.com/ArDeved/status/1789332430685352281 "ArDev on X") — Altman emphasizes that OpenAI is focused on quality and impact rather than deadlines. They are taking their time with releasing major updates and may even opt for a different naming convention. 
+  * [Framework Laptop 16 DIY Edition ](https://frame.work/products/laptop16-diy-amd-7040 "Framework Laptop 16 DIY Edition") — Powered by AMD Ryzen™ 7040HS and Radeon™ RX 7700S 
   * [OpenAI Announces ChatGPT App for Mac, GPT-4 for Free, and More ](https://www.macrumors.com/2024/05/13/chatgpt-mac-app/ "OpenAI Announces ChatGPT App for Mac, GPT-4 for Free, and More ")
-  * [Google and Apple still in talks to use Gemini for iPhone AI features](https://9to5google.com/2024/05/10/google-apple-gemini-discussions-report/ "Google and Apple still in talks to use Gemini for iPhone AI features") — Meanwhile, a deal between Apple and Google over AI isn’t off the table, the report says.
-  * [iOS 18: Apple finalizing deal to bring ChatGPT to iPhone ](https://9to5mac.com/2024/05/10/ios-18-chatgpt-features-apple-openai/ "iOS 18: Apple finalizing deal to bring ChatGPT to iPhone ") — While Apple is also still in talks with Google about an AI partnership, tonight’s report says Apple has “closed in on an agreement with OpenAI.”
-  * [Docker | FacilMap](https://docs.facilmap.org/developers/server/docker.html#docker-compose "Docker | FacilMap") — To run FacilMap with MariaDB using docker-compose
+  * [Google and Apple still in talks to use Gemini for iPhone AI features ](https://9to5google.com/2024/05/10/google-apple-gemini-discussions-report/ "Google and Apple still in talks to use Gemini for iPhone AI features") — Meanwhile, a deal between Apple and Google over AI isn’t off the table, the report says. 
+  * [iOS 18: Apple finalizing deal to bring ChatGPT to iPhone ](https://9to5mac.com/2024/05/10/ios-18-chatgpt-features-apple-openai/ "iOS 18: Apple finalizing deal to bring ChatGPT to iPhone ") — While Apple is also still in talks with Google about an AI partnership, tonight’s report says Apple has “closed in on an agreement with OpenAI.” 
+  * [Docker | FacilMap ](https://docs.facilmap.org/developers/server/docker.html#docker-compose "Docker | FacilMap") — To run FacilMap with MariaDB using docker-compose 
 
 
 

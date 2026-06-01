@@ -15,22 +15,22 @@ Mike recalls how he accidentally converted his development shop into a Python ho
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
+  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips. ](https://acloudguru.com)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 
 ## Episode links
 
-  * [Men's Rugby Robe, Flannel-Lined, Hooded](https://www.llbean.com/llb/shop/120248 "Men's Rugby Robe, Flannel-Lined, Hooded") — Perfect for lounging around the house, this flannel-lined robe offers incredible comfort and warmth.
-  * [Model 01 Keyboard – Keyboardio](https://shop.keyboard.io/products/model-01-keyboard?variant=30996744405065 "Model 01 Keyboard – Keyboardio") — The Model 01 is not like other keyboards. We mill the Model 01's enclosure from solid maple
-  * [Keyboardio Atreus](https://shop.keyboard.io/products/keyboardio-atreus "Keyboardio Atreus") — Until you see an Atreus in person, it's hard to comprehend just how compact it is.
-  * [ErgoDox EZ: An Incredible Mechanical Ergonomic Keyboard](https://ergodox-ez.com/ "ErgoDox EZ: An Incredible Mechanical Ergonomic Keyboard") — The world's most powerful ergonomic keyboard
-  * [QMK Firmware - An open source firmware for AVR and ARM based keyboards](https://qmk.fm/ "QMK Firmware - An open source firmware for AVR and ARM based keyboards") — The goal of the QMK software project is to develop a completely customizable, powerful, and enjoyable firmware experience for any project - keyboard or otherwise
-  * [Qt 6.0 Released](https://www.qt.io/blog/qt-6.0-released "Qt 6.0 Released") — The mission of Qt 6 is to enable Qt to be the productivity platform for the future. 
-  * [New Features in Qt 6.0 - Qt Wiki](https://wiki.qt.io/New_Features_in_Qt_6.0 "New Features in Qt 6.0 - Qt Wiki")
-  * [Qt for Python 6 released](https://www.qt.io/blog/qt-for-python-6-released "Qt for Python 6 released")
-  * [Corsair Void RGB Elite Wireless Premium Gaming Headset ](https://www.amazon.com/Corsair-Wireless-Premium-Headset-Surround/dp/B07X8SJ8HM "Corsair Void RGB Elite Wireless Premium Gaming Headset ") — RF Gaming Headphones
+  * [Men's Rugby Robe, Flannel-Lined, Hooded ](https://www.llbean.com/llb/shop/120248 "Men's Rugby Robe, Flannel-Lined, Hooded") — Perfect for lounging around the house, this flannel-lined robe offers incredible comfort and warmth. 
+  * [Model 01 Keyboard – Keyboardio ](https://shop.keyboard.io/products/model-01-keyboard?variant=30996744405065 "Model 01 Keyboard – Keyboardio") — The Model 01 is not like other keyboards. We mill the Model 01's enclosure from solid maple 
+  * [Keyboardio Atreus ](https://shop.keyboard.io/products/keyboardio-atreus "Keyboardio Atreus") — Until you see an Atreus in person, it's hard to comprehend just how compact it is. 
+  * [ErgoDox EZ: An Incredible Mechanical Ergonomic Keyboard ](https://ergodox-ez.com/ "ErgoDox EZ: An Incredible Mechanical Ergonomic Keyboard") — The world's most powerful ergonomic keyboard 
+  * [QMK Firmware - An open source firmware for AVR and ARM based keyboards ](https://qmk.fm/ "QMK Firmware - An open source firmware for AVR and ARM based keyboards") — The goal of the QMK software project is to develop a completely customizable, powerful, and enjoyable firmware experience for any project - keyboard or otherwise 
+  * [Qt 6.0 Released ](https://www.qt.io/blog/qt-6.0-released "Qt 6.0 Released") — The mission of Qt 6 is to enable Qt to be the productivity platform for the future. 
+  * [New Features in Qt 6.0 - Qt Wiki ](https://wiki.qt.io/New_Features_in_Qt_6.0 "New Features in Qt 6.0 - Qt Wiki")
+  * [Qt for Python 6 released ](https://www.qt.io/blog/qt-for-python-6-released "Qt for Python 6 released")
+  * [Corsair Void RGB Elite Wireless Premium Gaming Headset ](https://www.amazon.com/Corsair-Wireless-Premium-Headset-Surround/dp/B07X8SJ8HM "Corsair Void RGB Elite Wireless Premium Gaming Headset ") — RF Gaming Headphones 
 
 
 

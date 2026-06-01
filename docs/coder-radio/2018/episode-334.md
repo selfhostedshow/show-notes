@@ -21,9 +21,9 @@ None
 
 ## Episode links
 
-  * [To old to start?](https://pastebin.com/4x8xJrwX "To old to start?")
-  * [How to Evaluate open source libs/frames/software?](https://pastebin.com/RKx2cbSJ "How to Evaluate open source libs/frames/software?")
-  * [Top programming languages of 2018](https://blog.github.com/2018-11-15-state-of-the-octoverse-top-programming-languages/ "Top programming languages of 2018")
+  * [To old to start? ](https://pastebin.com/4x8xJrwX "To old to start?")
+  * [How to Evaluate open source libs/frames/software? ](https://pastebin.com/RKx2cbSJ "How to Evaluate open source libs/frames/software?")
+  * [Top programming languages of 2018 ](https://blog.github.com/2018-11-15-state-of-the-octoverse-top-programming-languages/ "Top programming languages of 2018")
 
 
 

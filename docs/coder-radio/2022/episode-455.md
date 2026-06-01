@@ -15,18 +15,18 @@ Mike and Chris eat some crow as they change their tune on a recent spicy take.
 
 ## Sponsored by
 
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent. ](http://datadog.com/coderradio)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 
 ## Episode links
 
-  * [Windows 11 Guide](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro "Windows 11 Guide")
-  * [Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide "Steam Deck Guide")
-  * [Win32 is the stable Linux userland ABI](https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/ "Win32 is the stable Linux userland ABI") — Linux won’t rule the world just from games, even if some people really want it to be true. 
-  * [Activision CEO set for $15M “golden parachute” in Microsoft deal](https://www.axios.com/activision-blizzard-microsoft-sec-filing-d0fdf84f-c402-4136-97d8-da8da039ad67.html "Activision CEO set for $15M “golden parachute” in Microsoft deal") — The filing reveals that Microsoft gaming executive Phil Spencer began talks with Kotick about a potential acquisition on Nov. 19, three days after a Wall Street Journal expose that said Kotick knew of sexual misconduct at the company for years.
-  * [Michael Dominick on Twitter](https://twitter.com/dominucco/status/1496987126252163079 "Michael Dominick on Twitter") — I was totally wrong on #VR. @ChrisLAS has shown me the light, I absolutely love the #OculusQuest2
+  * [Windows 11 Guide ](https://github.com/mikeroyal/Windows-11-Guide#Creating-a-Local-Account-on-Windows-11-Home-and-Pro "Windows 11 Guide")
+  * [Steam Deck Guide ](https://github.com/mikeroyal/Steam-Deck-Guide "Steam Deck Guide")
+  * [Win32 is the stable Linux userland ABI ](https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/ "Win32 is the stable Linux userland ABI") — Linux won’t rule the world just from games, even if some people really want it to be true. 
+  * [Activision CEO set for $15M “golden parachute” in Microsoft deal ](https://www.axios.com/activision-blizzard-microsoft-sec-filing-d0fdf84f-c402-4136-97d8-da8da039ad67.html "Activision CEO set for $15M “golden parachute” in Microsoft deal") — The filing reveals that Microsoft gaming executive Phil Spencer began talks with Kotick about a potential acquisition on Nov. 19, three days after a Wall Street Journal expose that said Kotick knew of sexual misconduct at the company for years. 
+  * [Michael Dominick on Twitter ](https://twitter.com/dominucco/status/1496987126252163079 "Michael Dominick on Twitter") — I was totally wrong on #VR. @ChrisLAS has shown me the light, I absolutely love the #OculusQuest2 
 
 
 

@@ -15,19 +15,19 @@ We both fall for a new fancy keyboard; then we get philosophical about free soft
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips. ](https://acloudguru.com)
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent. ](http://datadog.com/coderradio)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 
 ## Episode links
 
-  * [Launch Keyboard - System76](https://system76.com/accessories/launch "Launch Keyboard - System76") — The Launch Configurable Keyboard is engineered to be comfortable, fully customizable, and make your workflow more efficient.
-  * [Panic Blog » The Future of Code Editor](https://panic.com/blog/the-future-of-code-editor/ "Panic Blog » The Future of Code Editor") — We’ll stop selling our Code Editor app for iOS soon
-  * [Developing in the Windows Subsystem for Linux with Visual Studio Code](https://code.visualstudio.com/docs/remote/wsl "Developing in the Windows Subsystem for Linux with Visual Studio Code") — The Visual Studio Code Remote - WSL extension lets you use the Windows Subsystem for Linux (WSL) as your full-time development environment right from VS Code. 
-  * [Work in Windows Subsystem for Linux with Visual Studio Code](https://code.visualstudio.com/docs/remote/wsl-tutorial "Work in Windows Subsystem for Linux with Visual Studio Code") — This tutorial walks you through enabling Windows Subsystem for Linux (WSL) and running Visual Studio Code in WSL using the Remote - WSL extension. 
-  * [An In Depth Tutorial on Linux Development on Windows with WSL and Visual Studio Code | Windows Command Line](https://devblogs.microsoft.com/commandline/an-in-depth-tutorial-on-linux-development-on-windows-with-wsl-and-visual-studio-code/ "An In Depth Tutorial on Linux Development on Windows with WSL and Visual Studio Code | Windows Command Line")
+  * [Launch Keyboard - System76 ](https://system76.com/accessories/launch "Launch Keyboard - System76") — The Launch Configurable Keyboard is engineered to be comfortable, fully customizable, and make your workflow more efficient. 
+  * [Panic Blog » The Future of Code Editor ](https://panic.com/blog/the-future-of-code-editor/ "Panic Blog » The Future of Code Editor") — We’ll stop selling our Code Editor app for iOS soon 
+  * [Developing in the Windows Subsystem for Linux with Visual Studio Code ](https://code.visualstudio.com/docs/remote/wsl "Developing in the Windows Subsystem for Linux with Visual Studio Code") — The Visual Studio Code Remote - WSL extension lets you use the Windows Subsystem for Linux (WSL) as your full-time development environment right from VS Code. 
+  * [Work in Windows Subsystem for Linux with Visual Studio Code ](https://code.visualstudio.com/docs/remote/wsl-tutorial "Work in Windows Subsystem for Linux with Visual Studio Code") — This tutorial walks you through enabling Windows Subsystem for Linux (WSL) and running Visual Studio Code in WSL using the Remote - WSL extension. 
+  * [An In Depth Tutorial on Linux Development on Windows with WSL and Visual Studio Code | Windows Command Line ](https://devblogs.microsoft.com/commandline/an-in-depth-tutorial-on-linux-development-on-windows-with-wsl-and-visual-studio-code/ "An In Depth Tutorial on Linux Development on Windows with WSL and Visual Studio Code | Windows Command Line")
 
 
 

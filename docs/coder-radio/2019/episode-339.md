@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [Year of Structure Feedback](https://pastebin.com/VPKBzUt6 "Year of Structure Feedback")
-  * [Sleep Feedback](https://pastebin.com/m3scFbpH "Sleep Feedback")
-  * [Can PWAs Do This?](https://pastebin.com/HFBzDCFz "Can PWAs Do This?")
-  * [Ionic Native - BLE](https://ionicframework.com/docs/native/ble/ "Ionic Native - BLE")
-  * [Swift - Apple Developer](https://developer.apple.com/swift/ "Swift - Apple Developer")
-  * [Michael Dominick on Twitter](https://twitter.com/dominucco/status/1080347505773154310 "Michael Dominick on Twitter") — "Well I am starting the new year with a bang it seemed I nuked another laptop @ChrisLAS #CoderRadio"
-  * [Michael Dominick on Twitter](https://twitter.com/dominucco/status/1080553031601668098 "Michael Dominick on Twitter") — "With Apple Care protection this time... #macBookAir #CoderRadio @ChrisLAS… "
+  * [Year of Structure Feedback ](https://pastebin.com/VPKBzUt6 "Year of Structure Feedback")
+  * [Sleep Feedback ](https://pastebin.com/m3scFbpH "Sleep Feedback")
+  * [Can PWAs Do This? ](https://pastebin.com/HFBzDCFz "Can PWAs Do This?")
+  * [Ionic Native - BLE ](https://ionicframework.com/docs/native/ble/ "Ionic Native - BLE")
+  * [Swift - Apple Developer ](https://developer.apple.com/swift/ "Swift - Apple Developer")
+  * [Michael Dominick on Twitter ](https://twitter.com/dominucco/status/1080347505773154310 "Michael Dominick on Twitter") — "Well I am starting the new year with a bang it seemed I nuked another laptop @ChrisLAS #CoderRadio" 
+  * [Michael Dominick on Twitter ](https://twitter.com/dominucco/status/1080553031601668098 "Michael Dominick on Twitter") — "With Apple Care protection this time... #macBookAir #CoderRadio @ChrisLAS… " 
 
 
 

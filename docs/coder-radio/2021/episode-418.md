@@ -15,21 +15,21 @@ We get a bit skeptical about Stripe Identity, how it works, and precisely why we
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloud.guru/overview/hands-on-with-podman-containers/?utm_source=jupiter&utm_medium=cpc): [In this course, you will learn what containers are and why use them; how to manage containers, pods, and images using Podman.](https://acloud.guru/overview/hands-on-with-podman-containers/?utm_source=jupiter&utm_medium=cpc)
+  * [A Cloud Guru](https://acloud.guru/overview/hands-on-with-podman-containers/?utm_source=jupiter&utm_medium=cpc): [In this course, you will learn what containers are and why use them; how to manage containers, pods, and images using Podman. ](https://acloud.guru/overview/hands-on-with-podman-containers/?utm_source=jupiter&utm_medium=cpc)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent. ](http://datadog.com/coderradio)
 
 
 
 ## Episode links
 
-  * [Ultimate Road Warrior Bundle](https://www.mobilemusthave.com/Ultimate-Road-Warrior-Bundle-with-Poynting_p_168.html "Ultimate Road Warrior Bundle") — Complete Mobile Internet Solution with Dual LTE-A Pro CAT-12 Cellular and 2.4/5.8ghz WiFi Designed for Power Users
-  * [Cellular Data Plans - Mobile Internet Resource Center](https://www.rvmobileinternet.com/gear/cellular-data-plans/ "Cellular Data Plans - Mobile Internet Resource Center") — Cellular data plans are offered for smartphones, mobile hotspot devices and cellular embedded routers. They come direct from the carriers, prepaid & postpaid and through 3rd parties. Unlimited doesn't always mean unlimited either.
-  * [Stripe Identity: Verify identities with confidence](https://stripe.com/identity "Stripe Identity: Verify identities with confidence") — Stripe Identity lets you programmatically confirm the identity of global users so you can prevent attacks from fraudsters while minimizing friction for legitimate customers.
-  * [Zhuowei Zhang on Twitter](https://twitter.com/zhuowei/status/1402114361754259456?s=20 "Zhuowei Zhang on Twitter") — Virtualization.framework even emulates DFU mode when booting macOS 12 Apple Silicon as a guest, over virtio-usb, using AVPBooter.
-  * [These macOS 12 Monterey features do not work on Intel](https://arstechnica.com/gadgets/2021/06/these-macos-monterey-features-wont-work-on-intel-macs/ "These macOS 12 Monterey features do not work on Intel") — According to Apple, here are the macOS 12 Monterey features available only on Mac computers with Apple Silicon (currently, the M1 chip)
-  * [Clippy - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=fleshywaffles.vs-code-clippy "Clippy - Visual Studio Marketplace") — It shows you your mistakes! It's annoying! it moves!
-  * [Sublimerge](https://www.sublimerge.com/ "Sublimerge") — The professional diff & merge tool for Sublime Text 
+  * [Ultimate Road Warrior Bundle ](https://www.mobilemusthave.com/Ultimate-Road-Warrior-Bundle-with-Poynting_p_168.html "Ultimate Road Warrior Bundle") — Complete Mobile Internet Solution with Dual LTE-A Pro CAT-12 Cellular and 2.4/5.8ghz WiFi Designed for Power Users 
+  * [Cellular Data Plans - Mobile Internet Resource Center ](https://www.rvmobileinternet.com/gear/cellular-data-plans/ "Cellular Data Plans - Mobile Internet Resource Center") — Cellular data plans are offered for smartphones, mobile hotspot devices and cellular embedded routers. They come direct from the carriers, prepaid & postpaid and through 3rd parties. Unlimited doesn't always mean unlimited either. 
+  * [Stripe Identity: Verify identities with confidence ](https://stripe.com/identity "Stripe Identity: Verify identities with confidence") — Stripe Identity lets you programmatically confirm the identity of global users so you can prevent attacks from fraudsters while minimizing friction for legitimate customers. 
+  * [Zhuowei Zhang on Twitter ](https://twitter.com/zhuowei/status/1402114361754259456?s=20 "Zhuowei Zhang on Twitter") — Virtualization.framework even emulates DFU mode when booting macOS 12 Apple Silicon as a guest, over virtio-usb, using AVPBooter. 
+  * [These macOS 12 Monterey features do not work on Intel ](https://arstechnica.com/gadgets/2021/06/these-macos-monterey-features-wont-work-on-intel-macs/ "These macOS 12 Monterey features do not work on Intel") — According to Apple, here are the macOS 12 Monterey features available only on Mac computers with Apple Silicon (currently, the M1 chip) 
+  * [Clippy - Visual Studio Marketplace ](https://marketplace.visualstudio.com/items?itemName=fleshywaffles.vs-code-clippy "Clippy - Visual Studio Marketplace") — It shows you your mistakes! It's annoying! it moves! 
+  * [Sublimerge ](https://www.sublimerge.com/ "Sublimerge") — The professional diff & merge tool for Sublime Text 
 
 
 

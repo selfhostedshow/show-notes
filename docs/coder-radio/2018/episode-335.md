@@ -22,12 +22,12 @@ None
 
 ## Episode links
 
-  * [Electron](https://github.com/electron/electron "Electron") — The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps.
-  * [Visual Studio 2019](https://visualstudio.microsoft.com/vs/preview/ "Visual Studio 2019")
-  * [Connect(); 2018 Xamarin Announcements](https://blog.xamarin.com/connect-2018-xamarin-announcements/ "Connect\(\); 2018 Xamarin Announcements")
-  * [The case against #NoEstimates: the bottom line](http://www.peterkretzman.com/2014/10/15/the-case-against-noestimates-the-bottom-line/ "The case against #NoEstimates: the bottom line")
-  * [Recommended reading for the CTO/CIO](http://www.peterkretzman.com/reading-list-for-the-ctocio/ "Recommended reading for the CTO/CIO")
-  * [LinuxFest Northwest](https://linuxfestnorthwest.org/conferences/2019 "LinuxFest Northwest")
+  * [Electron ](https://github.com/electron/electron "Electron") — The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on Node.js and Chromium and is used by the Atom editor and many other apps. 
+  * [Visual Studio 2019 ](https://visualstudio.microsoft.com/vs/preview/ "Visual Studio 2019")
+  * [Connect(); 2018 Xamarin Announcements ](https://blog.xamarin.com/connect-2018-xamarin-announcements/ "Connect\(\); 2018 Xamarin Announcements")
+  * [The case against #NoEstimates: the bottom line ](http://www.peterkretzman.com/2014/10/15/the-case-against-noestimates-the-bottom-line/ "The case against #NoEstimates: the bottom line")
+  * [Recommended reading for the CTO/CIO ](http://www.peterkretzman.com/reading-list-for-the-ctocio/ "Recommended reading for the CTO/CIO")
+  * [LinuxFest Northwest ](https://linuxfestnorthwest.org/conferences/2019 "LinuxFest Northwest")
 
 
 

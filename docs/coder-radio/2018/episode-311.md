@@ -21,12 +21,12 @@ None
 
 ## Episode links
 
-  * [CoffeeScript](https://coffeescript.org/ "CoffeeScript")
-  * [Thoughts on Dart?](https://pastebin.com/Xb3LMXPg "Thoughts on Dart?")
-  * [Google Facebook Face GDPR Privacy Complaints on 1st Day](http://fortune.com/2018/05/25/google-facebook-gdpr-forced-consent/ "Google Facebook Face GDPR Privacy Complaints on 1st Day") — Europe’s sweeping new data privacy regime came into effect this morning, and privacy activists are not wasting time in flexing their muscles. One organization has already made official data protection complaints about Google, Facebook, WhatsApp and Instagram, while another is going after the shadowy data brokers that trade people’s information behind the scenes.
-  * [Android Creator Puts Essential Up for Sale, Cancels Next Phone](https://www.bloomberg.com/news/articles/2018-05-24/andy-rubin-s-phone-maker-essential-is-said-to-consider-sale "Android Creator Puts Essential Up for Sale, Cancels Next Phone") — Company cancels development of second version of smartphone 
-  * [Google Home Outsells Amazon's Echo for the First Time Ever](https://gizmodo.com/google-just-turned-a-huge-corner-in-the-smart-speaker-g-1826290334 "Google Home Outsells Amazon's Echo for the First Time Ever") — Google knocked Amazon out of the top spot for the first time by increasing sales of Google Homes a staggering 483 percent year-over-year to 3.2 million units versus 2.5 million Echo devices for Amazon
-  * [Data and design are tools that, together, build great experiences for your users](https://www.oreilly.com/ideas/data-and-design-are-tools-that-together-build-great-experiences-for-your-users "Data and design are tools that, together, build great experiences for your users")
+  * [CoffeeScript ](https://coffeescript.org/ "CoffeeScript")
+  * [Thoughts on Dart? ](https://pastebin.com/Xb3LMXPg "Thoughts on Dart?")
+  * [Google Facebook Face GDPR Privacy Complaints on 1st Day ](http://fortune.com/2018/05/25/google-facebook-gdpr-forced-consent/ "Google Facebook Face GDPR Privacy Complaints on 1st Day") — Europe’s sweeping new data privacy regime came into effect this morning, and privacy activists are not wasting time in flexing their muscles. One organization has already made official data protection complaints about Google, Facebook, WhatsApp and Instagram, while another is going after the shadowy data brokers that trade people’s information behind the scenes. 
+  * [Android Creator Puts Essential Up for Sale, Cancels Next Phone ](https://www.bloomberg.com/news/articles/2018-05-24/andy-rubin-s-phone-maker-essential-is-said-to-consider-sale "Android Creator Puts Essential Up for Sale, Cancels Next Phone") — Company cancels development of second version of smartphone 
+  * [Google Home Outsells Amazon's Echo for the First Time Ever ](https://gizmodo.com/google-just-turned-a-huge-corner-in-the-smart-speaker-g-1826290334 "Google Home Outsells Amazon's Echo for the First Time Ever") — Google knocked Amazon out of the top spot for the first time by increasing sales of Google Homes a staggering 483 percent year-over-year to 3.2 million units versus 2.5 million Echo devices for Amazon 
+  * [Data and design are tools that, together, build great experiences for your users ](https://www.oreilly.com/ideas/data-and-design-are-tools-that-together-build-great-experiences-for-your-users "Data and design are tools that, together, build great experiences for your users")
 
 
 

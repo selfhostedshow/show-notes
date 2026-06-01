@@ -22,11 +22,11 @@ None
 ## Episode links
 
   * [The VHS of Software... ](https://slexy.org/view/s2j5NxoNZg "The VHS of Software... ")
-  * [OmniGraffle](https://www.omnigroup.com/omnigraffle/ "OmniGraffle") — Create beautiful diagrams and designs with this powerful and easy to use app.
-  * [iA Writer](https://ia.net/writer "iA Writer") — iA Writer removes distractions, giving you a calm, focused writing space.
-  * [Working Copy, Git on iOS](https://workingcopyapp.com/ "Working Copy, Git on iOS") — The powerful Git client for iOS that clones, edits, commits, pushes & more.
-  * [Year of Theme inspired by the Cortex Podcast](https://www.youtube.com/channel/UCqoy014xOu7ICwgLWHd9BzQ/videos "Year of Theme inspired by the Cortex Podcast")
-  * [Turning Pro (Audiobook) by Steven Pressfield](https://www.audible.com/pd/Turning-Pro-Audiobook/B07FWJ4QBZ?ref=a_lib_c4_libItem_5_B07FWJ4QBZ&pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=09W4MFAT9TTBQGXNA5RF& "Turning Pro \(Audiobook\) by Steven Pressfield") — Tap Your Inner Power and Create Your Life's Work
+  * [OmniGraffle ](https://www.omnigroup.com/omnigraffle/ "OmniGraffle") — Create beautiful diagrams and designs with this powerful and easy to use app. 
+  * [iA Writer ](https://ia.net/writer "iA Writer") — iA Writer removes distractions, giving you a calm, focused writing space. 
+  * [Working Copy, Git on iOS ](https://workingcopyapp.com/ "Working Copy, Git on iOS") — The powerful Git client for iOS that clones, edits, commits, pushes & more. 
+  * [Year of Theme inspired by the Cortex Podcast ](https://www.youtube.com/channel/UCqoy014xOu7ICwgLWHd9BzQ/videos "Year of Theme inspired by the Cortex Podcast")
+  * [Turning Pro (Audiobook) by Steven Pressfield ](https://www.audible.com/pd/Turning-Pro-Audiobook/B07FWJ4QBZ?ref=a_lib_c4_libItem_5_B07FWJ4QBZ&pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=09W4MFAT9TTBQGXNA5RF& "Turning Pro \(Audiobook\) by Steven Pressfield") — Tap Your Inner Power and Create Your Life's Work 
 
 
 

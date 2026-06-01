@@ -22,10 +22,10 @@ It seems AI isn't replacing developers just yet, and why we think you shouldn’
 
 ## Episode links
 
-  * [Salt Lake City | Meetup](https://www.meetup.com/jupiterbroadcasting/events/278854904/ "Salt Lake City | Meetup")
-  * [Denver Meetup | Meetup](https://www.meetup.com/jupiterbroadcasting/events/278855088/ "Denver Meetup | Meetup")
-  * [Risk Assessment of GitHub Copilot](https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902 "Risk Assessment of GitHub Copilot")
-  * [Live Share with Visual Studio Code](https://visualstudio.microsoft.com/services/live-share/ "Live Share with Visual Studio Code")
+  * [Salt Lake City | Meetup ](https://www.meetup.com/jupiterbroadcasting/events/278854904/ "Salt Lake City | Meetup")
+  * [Denver Meetup | Meetup ](https://www.meetup.com/jupiterbroadcasting/events/278855088/ "Denver Meetup | Meetup")
+  * [Risk Assessment of GitHub Copilot ](https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902 "Risk Assessment of GitHub Copilot")
+  * [Live Share with Visual Studio Code ](https://visualstudio.microsoft.com/services/live-share/ "Live Share with Visual Studio Code")
 
 
 

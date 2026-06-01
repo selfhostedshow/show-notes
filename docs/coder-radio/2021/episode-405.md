@@ -15,20 +15,20 @@ Mike goes straight for the attack and hits Chris where it hurts, then it's probl
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips. ](https://acloudguru.com)
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent. ](http://datadog.com/coderradio)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 
 ## Episode links
 
-  * [Common Lisp](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode "Common Lisp") — Common Lisp Editing Extension for vscode
-  * [USB Video Capture Card](https://www.amazon.com/gp/product/B08QCR5C5Z/ "USB Video Capture Card") — The video capture cards is up to 4K@60Hz High Definition Input, output max resolution 1920×1080@60Hz. 
-  * [Adium](https://adium.im/ "Adium") — Adium is a free instant messaging application for macOS that can connect to XMPP (Jabber), IRC and more. 
-  * [Farewell HomePod, Apple's most misunderstood product](https://9to5mac.com/2021/03/15/farewell-homepod/ "Farewell HomePod, Apple's most misunderstood product") — There was a huge chasm between what it really was, and what most people thought it was – and Apple’s marketing didn’t help …
-  * [Mike's CrowdSourced Trolling of Chris](https://twitter.com/dominucco/status/1371104319668428805 "Mike's CrowdSourced Trolling of Chris")
-  * [Employees Actually Work Less Than 3 Hours a Day](https://www.vouchercloud.com/resources/office-worker-productivity "Employees Actually Work Less Than 3 Hours a Day") — New research from the UK’s largest money saving brand has revealed that the average UK office worker is only productive for 2 hours and 53 minutes out of the working day.
+  * [Common Lisp ](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode "Common Lisp") — Common Lisp Editing Extension for vscode 
+  * [USB Video Capture Card ](https://www.amazon.com/gp/product/B08QCR5C5Z/ "USB Video Capture Card") — The video capture cards is up to 4K@60Hz High Definition Input, output max resolution 1920×[1080@60Hz](mailto:1080@60Hz). 
+  * [Adium ](https://adium.im/ "Adium") — Adium is a free instant messaging application for macOS that can connect to XMPP (Jabber), IRC and more. 
+  * [Farewell HomePod, Apple's most misunderstood product ](https://9to5mac.com/2021/03/15/farewell-homepod/ "Farewell HomePod, Apple's most misunderstood product") — There was a huge chasm between what it really was, and what most people thought it was – and Apple’s marketing didn’t help … 
+  * [Mike's CrowdSourced Trolling of Chris ](https://twitter.com/dominucco/status/1371104319668428805 "Mike's CrowdSourced Trolling of Chris")
+  * [Employees Actually Work Less Than 3 Hours a Day ](https://www.vouchercloud.com/resources/office-worker-productivity "Employees Actually Work Less Than 3 Hours a Day") — New research from the UK’s largest money saving brand has revealed that the average UK office worker is only productive for 2 hours and 53 minutes out of the working day. 
 
 
 

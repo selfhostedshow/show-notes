@@ -21,7 +21,7 @@ None
 
 ## Episode links
 
-  * [Thelio - System76](https://system76.com/desktops "Thelio - System76")
+  * [Thelio - System76 ](https://system76.com/desktops "Thelio - System76")
 
 
 

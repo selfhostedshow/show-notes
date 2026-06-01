@@ -21,17 +21,17 @@ Our unique take on the Unity outrage, thoughts on RustRover, and Mike shares a v
 
 ## Episode links
 
-  * [⚡ Alby: Your Boost companion for the web](https://getalby.com/ "⚡ Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
-  * [🎉 Coder Radio on the Podcastindex.org](https://podcastindex.org/podcast/487548 "🎉 Coder Radio on the Podcastindex.org") — Boost from the Web. Once you have Alby topped off, you can Boost from our page on the Podcast Index.
-  * [A montage of snippets from Jupiter Broadcasting’s CoderRadio Show](https://gigatexal.blog/pages/coder/coder.html "A montage of snippets from Jupiter Broadcasting’s CoderRadio Show") — Alex is bloggin 'bout Coder.
-  * [RustRover: Rust IDE by JetBrains](https://www.jetbrains.com/rust/ "RustRover: Rust IDE by JetBrains") — A brand new JetBrains IDE for Rust Developers
-  * [Introducing RustRover – A Standalone Rust IDE by JetBrains | The IntelliJ Rust Blog](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/ "Introducing RustRover – A Standalone Rust IDE by JetBrains | The IntelliJ Rust Blog") — Today we’re opening the RustRover Early Access Program (EAP) and we’d love for you to try it, give us feedback, and help us shape the product. 
-  * [Adobe launches Photoshop for the web with its popular desktop AI tools](https://www.theverge.com/2023/9/27/23892889/adobe-photoshop-for-the-web-firefly-ai-generative-fill-full-release-price-date "Adobe launches Photoshop for the web with its popular desktop AI tools") — Photoshop for the web is now generally available as part of all Photoshop paid plans and includes Firefly-powered features like Generative Fill.
-  * [Epic Games cuts around 830 jobs ](https://www.theverge.com/2023/9/28/23894266/epic-games-layoffs-fortnite-unreal-engine "Epic Games cuts around 830 jobs ") — According to a Bloomberg report, Epic is cutting roughly 16 percent of its workforce.
-  * [Unity has updated its controversial pricing policy again](https://www.polygon.com/23885373/unity-technologies-install-fee-pricing-change "Unity has updated its controversial pricing policy again") — A troublesome rollout of new policy changes had left developers frustrated and angry
-  * [An open letter to our community | Unity Blog](https://blog.unity.com/news/open-letter-on-runtime-fee?utm_source=twitter&utm_medium=social&utm_campaign=company_global_generalpromo_2023-09-22_penguinblogupdate "An open letter to our community | Unity Blog") — I want to start with this: I am sorry. 
-  * [Godot Engine](https://godotengine.org/ "Godot Engine") — Free and open source 2D and 3D game engine
-  * [Torque3D](https://torque3d.org/ "Torque3D")
+  * [⚡ Alby: Your Boost companion for the web ](https://getalby.com/ "⚡ Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
+  * [🎉 Coder Radio on the Podcastindex.org ](https://podcastindex.org/podcast/487548 "🎉 Coder Radio on the Podcastindex.org") — Boost from the Web. Once you have Alby topped off, you can Boost from our page on the Podcast Index. 
+  * [A montage of snippets from Jupiter Broadcasting’s CoderRadio Show ](https://gigatexal.blog/pages/coder/coder.html "A montage of snippets from Jupiter Broadcasting’s CoderRadio Show") — Alex is bloggin 'bout Coder. 
+  * [RustRover: Rust IDE by JetBrains ](https://www.jetbrains.com/rust/ "RustRover: Rust IDE by JetBrains") — A brand new JetBrains IDE for Rust Developers 
+  * [Introducing RustRover – A Standalone Rust IDE by JetBrains | The IntelliJ Rust Blog ](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/ "Introducing RustRover – A Standalone Rust IDE by JetBrains | The IntelliJ Rust Blog") — Today we’re opening the RustRover Early Access Program (EAP) and we’d love for you to try it, give us feedback, and help us shape the product. 
+  * [Adobe launches Photoshop for the web with its popular desktop AI tools ](https://www.theverge.com/2023/9/27/23892889/adobe-photoshop-for-the-web-firefly-ai-generative-fill-full-release-price-date "Adobe launches Photoshop for the web with its popular desktop AI tools") — Photoshop for the web is now generally available as part of all Photoshop paid plans and includes Firefly-powered features like Generative Fill. 
+  * [Epic Games cuts around 830 jobs ](https://www.theverge.com/2023/9/28/23894266/epic-games-layoffs-fortnite-unreal-engine "Epic Games cuts around 830 jobs ") — According to a Bloomberg report, Epic is cutting roughly 16 percent of its workforce. 
+  * [Unity has updated its controversial pricing policy again ](https://www.polygon.com/23885373/unity-technologies-install-fee-pricing-change "Unity has updated its controversial pricing policy again") — A troublesome rollout of new policy changes had left developers frustrated and angry 
+  * [An open letter to our community | Unity Blog ](https://blog.unity.com/news/open-letter-on-runtime-fee?utm_source=twitter&utm_medium=social&utm_campaign=company_global_generalpromo_2023-09-22_penguinblogupdate "An open letter to our community | Unity Blog") — I want to start with this: I am sorry. 
+  * [Godot Engine ](https://godotengine.org/ "Godot Engine") — Free and open source 2D and 3D game engine 
+  * [Torque3D ](https://torque3d.org/ "Torque3D")
 
 
 

@@ -22,7 +22,7 @@ None
 ## Episode links
 
   * [Making rent in Silicon Valley ](https://www.youtube.com/watch?v=6dLo8ES4Bac "Making rent in Silicon Valley ")
-  * [How Tech Companies Conquered America’s Cities - The New York Times](https://www.nytimes.com/2018/06/20/technology/tech-companies-conquered-cities.html "How Tech Companies Conquered America’s Cities - The New York Times")
+  * [How Tech Companies Conquered America’s Cities - The New York Times ](https://www.nytimes.com/2018/06/20/technology/tech-companies-conquered-cities.html "How Tech Companies Conquered America’s Cities - The New York Times")
 
 
 

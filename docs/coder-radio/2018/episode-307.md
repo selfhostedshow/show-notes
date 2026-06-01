@@ -21,9 +21,9 @@ None
 
 ## Episode links
 
-  * [Azure Sphere PDF](https://www.microsoft.com/en-us/azure-sphere/wp-content/uploads/sites/7/2018/04/AzureSphere_OpenCloud.pdf "Azure Sphere PDF")
-  * [Kubuntu 18.04 has been released, featuring the beautiful KDE Plasma 5.12 LTS | Kubuntu](https://kubuntu.org/news/kubuntu-18-04-has-been-released/ "Kubuntu 18.04 has been released, featuring the beautiful KDE Plasma 5.12 LTS | Kubuntu")
-  * [Pop!_OS by System76](https://system76.com/pop "Pop!_OS by System76")
+  * [Azure Sphere PDF ](https://www.microsoft.com/en-us/azure-sphere/wp-content/uploads/sites/7/2018/04/AzureSphere_OpenCloud.pdf "Azure Sphere PDF")
+  * [Kubuntu 18.04 has been released, featuring the beautiful KDE Plasma 5.12 LTS | Kubuntu ](https://kubuntu.org/news/kubuntu-18-04-has-been-released/ "Kubuntu 18.04 has been released, featuring the beautiful KDE Plasma 5.12 LTS | Kubuntu")
+  * [Pop!_OS by System76 ](https://system76.com/pop "Pop!_OS by System76")
 
 
 

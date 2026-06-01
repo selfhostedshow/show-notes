@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [Jacob's lookin for a change](https://pastebin.com/UpaJryqA "Jacob's lookin for a change")
-  * [Mark's Travel Bag Hack](https://pastebin.com/er5ZfqDr "Mark's Travel Bag Hack")
-  * [BAGSMART Travel Electronic Accessories Thicken Cable Organizer Bag Portable Case](https://www.amazon.com/BAGSMART-Electronic-Accessories-Organizer-Portable/dp/B01LZJ042Y "BAGSMART Travel Electronic Accessories Thicken Cable Organizer Bag Portable Case")
-  * [Devil’s Dictionary for Tech](https://vector623.github.io/humor/2018/06/25/devils-dictionary.html "Devil’s Dictionary for Tech")
-  * [The 2018 Top Programming Languages](https://spectrum.ieee.org/at-work/innovation/the-2018-top-programming-languages "The 2018 Top Programming Languages")
-  * [Tesla announces using Qt in their cars](https://twitter.com/qtproject/status/998902009922285568 "Tesla announces using Qt in their cars")
-  * [QML](https://en.wikipedia.org/wiki/QML "QML")
+  * [Jacob's lookin for a change ](https://pastebin.com/UpaJryqA "Jacob's lookin for a change")
+  * [Mark's Travel Bag Hack ](https://pastebin.com/er5ZfqDr "Mark's Travel Bag Hack")
+  * [BAGSMART Travel Electronic Accessories Thicken Cable Organizer Bag Portable Case ](https://www.amazon.com/BAGSMART-Electronic-Accessories-Organizer-Portable/dp/B01LZJ042Y "BAGSMART Travel Electronic Accessories Thicken Cable Organizer Bag Portable Case")
+  * [Devil’s Dictionary for Tech ](https://vector623.github.io/humor/2018/06/25/devils-dictionary.html "Devil’s Dictionary for Tech")
+  * [The 2018 Top Programming Languages ](https://spectrum.ieee.org/at-work/innovation/the-2018-top-programming-languages "The 2018 Top Programming Languages")
+  * [Tesla announces using Qt in their cars ](https://twitter.com/qtproject/status/998902009922285568 "Tesla announces using Qt in their cars")
+  * [QML ](https://en.wikipedia.org/wiki/QML "QML")
 
 
 

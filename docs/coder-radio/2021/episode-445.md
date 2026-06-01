@@ -15,15 +15,15 @@ We're both impressed by Rails 7 and how an old foe got us down again.
 
 ## Sponsored by
 
-  * [Shortcut.com](https://shortcut.com/coder): [Shortcut, because you shouldn’t have to project manage your project management.](https://shortcut.com/coder)
+  * [Shortcut.com](https://shortcut.com/coder): [Shortcut, because you shouldn’t have to project manage your project management. ](https://shortcut.com/coder)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
 
 
 
 ## Episode links
 
-  * [Rails 7.0: Fulfilling a vision](https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision "Rails 7.0: Fulfilling a vision") — This vision wasn’t possible even just a few years ago. We simply didn’t have the core technologies in place.
-  * [The One Person Framework](https://world.hey.com/dhh/the-one-person-framework-711e6318 "The One Person Framework") — The part that really excites me about this version, though, is how much closer it brings us to the ideal of The One Person Framework. A toolkit so powerful that it allows a single individual to create modern applications upon which they might build a competitive business. The way it used to be.
+  * [Rails 7.0: Fulfilling a vision ](https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision "Rails 7.0: Fulfilling a vision") — This vision wasn’t possible even just a few years ago. We simply didn’t have the core technologies in place. 
+  * [The One Person Framework ](https://world.hey.com/dhh/the-one-person-framework-711e6318 "The One Person Framework") — The part that really excites me about this version, though, is how much closer it brings us to the ideal of The One Person Framework. A toolkit so powerful that it allows a single individual to create modern applications upon which they might build a competitive business. The way it used to be. 
   * [Apple Releases Swift Playgrounds 4 ](https://forums.macrumors.com/threads/apple-releases-swift-playgrounds-4-with-support-for-creating-apps-on-ipad.2327738/ "Apple Releases Swift Playgrounds 4 ") — The newest version of the app allows iPhone and iPad apps to be created directly on an iPad without the need for a Mac. 
 
 

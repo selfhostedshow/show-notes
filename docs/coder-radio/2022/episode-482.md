@@ -22,11 +22,11 @@ We look back at how tools, processes, and developer trends have changed over nea
 
 ## Episode links
 
-  * [Michael Dominick on Twitter](https://twitter.com/dominucco/status/1566616687402778627?s=20&t=NaizTyRqZI8dKk1wdeRtcg "Michael Dominick on Twitter") — Hope my @PlayMTG & @MTG_Arena had a blast! For the first time out "for real" in a while, I think I did JarJar good :) Standard: 5-0 Sealed: 5-3 Thanks for all the great content to get me up to speed after years off of #MTG 
-  * [Upcoming Jupiter Broadcasting Meetups](https://www.meetup.com/jupiterbroadcasting/events/ "Upcoming Jupiter Broadcasting Meetups") — Check out our upcoming meetups, and join us!
-  * [Join the West Coast Crew Matrix Chatroom](http://bit.ly/westcoastcrew "Join the West Coast Crew Matrix Chatroom") — Join our chat room of west coasters for our upcoming road trip and future trips!
-  * [Apple’s iPhone overtakes Android with more than half of the US market share](https://www.imore.com/iphone/apples-iphone-overtakes-android-with-more-than-half-of-the-us-market-share "Apple’s iPhone overtakes Android with more than half of the US market share") — It's been a long road for Apple, but the iPhone finally overtakes Android in smartphone market share.
-  * [Xcode Cloud Subscriptions Now Available for Developers](https://www.macrumors.com/2022/08/30/xcode-cloud-subscription-developers/ "Xcode Cloud Subscriptions Now Available for Developers") — 25 compute hours per month is free at the current time, but will later cost $15 per month. 100 computer hours per month is priced at $50/month, 250 compute hours per month is priced at $100/month, and 1000 compute hours per month is priced at $400/month. 
+  * [Michael Dominick on Twitter ](https://twitter.com/dominucco/status/1566616687402778627?s=20&t=NaizTyRqZI8dKk1wdeRtcg "Michael Dominick on Twitter") — Hope my @PlayMTG & @MTG_Arena had a blast! For the first time out "for real" in a while, I think I did JarJar good :) Standard: 5-0 Sealed: 5-3 Thanks for all the great content to get me up to speed after years off of #MTG 
+  * [Upcoming Jupiter Broadcasting Meetups ](https://www.meetup.com/jupiterbroadcasting/events/ "Upcoming Jupiter Broadcasting Meetups") — Check out our upcoming meetups, and join us! 
+  * [Join the West Coast Crew Matrix Chatroom ](http://bit.ly/westcoastcrew "Join the West Coast Crew Matrix Chatroom") — Join our chat room of west coasters for our upcoming road trip and future trips! 
+  * [Apple’s iPhone overtakes Android with more than half of the US market share ](https://www.imore.com/iphone/apples-iphone-overtakes-android-with-more-than-half-of-the-us-market-share "Apple’s iPhone overtakes Android with more than half of the US market share") — It's been a long road for Apple, but the iPhone finally overtakes Android in smartphone market share. 
+  * [Xcode Cloud Subscriptions Now Available for Developers ](https://www.macrumors.com/2022/08/30/xcode-cloud-subscription-developers/ "Xcode Cloud Subscriptions Now Available for Developers") — 25 compute hours per month is free at the current time, but will later cost $15 per month. 100 computer hours per month is priced at $50/month, 250 compute hours per month is priced at $100/month, and 1000 compute hours per month is priced at $400/month. 
 
 
 

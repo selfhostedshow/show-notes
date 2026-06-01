@@ -15,19 +15,19 @@ Mike buys a laptop live on air while Chris worries about the turkey.
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips.](https://acloudguru.com)
+  * [A Cloud Guru](https://acloudguru.com): [A Cloud Guru now includes Cloud Playground. Azure, AWS, or GCP Sandboxes at your fingertips. ](https://acloudguru.com)
   * [Linode](https://linode.com/coder): [Receive a $100 60-day credit towards your new account. ](https://linode.com/coder) Promo Code: linode.com/coder
-  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent.](http://datadog.com/coderradio)
+  * [Datadog](http://datadog.com/coderradio): [Try Datadog free by starting a your 14-day trial and receive a free t-shirt once you install the agent. ](http://datadog.com/coderradio)
 
 
 
 ## Episode links
 
-  * [Michael Dominick on Twitter](https://twitter.com/dominucco/status/1330910331217055744 "Michael Dominick on Twitter") — "Live purchases are fun right?"
-  * [Thoughts of Linus Torvalds on M1 Macs](https://www.reddit.com/r/linux/comments/jz16o9/thoughts_of_linus_torvalds_on_m1_macs/ "Thoughts of Linus Torvalds on M1 Macs")
-  * [Apple will reduce App Store cut to 15 percent for most developers starting January 1st](https://www.theverge.com/2020/11/18/21572302/apple-app-store-small-business-program-commission-cut-15-percent-reduction "Apple will reduce App Store cut to 15 percent for most developers starting January 1st") — Any developer that earns less than $1 million in revenue per year is eligible
-  * [ThinkPad X1 Carbon Gen 8 with Linux](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/X1-Carbon-Gen-8-/p/20U9CTO1WWENUS2/customize "ThinkPad X1 Carbon Gen 8 with Linux")
-  * [Galago Pro - System76](https://system76.com/laptops/galago "Galago Pro - System76")
+  * [Michael Dominick on Twitter ](https://twitter.com/dominucco/status/1330910331217055744 "Michael Dominick on Twitter") — "Live purchases are fun right?" 
+  * [Thoughts of Linus Torvalds on M1 Macs ](https://www.reddit.com/r/linux/comments/jz16o9/thoughts_of_linus_torvalds_on_m1_macs/ "Thoughts of Linus Torvalds on M1 Macs")
+  * [Apple will reduce App Store cut to 15 percent for most developers starting January 1st ](https://www.theverge.com/2020/11/18/21572302/apple-app-store-small-business-program-commission-cut-15-percent-reduction "Apple will reduce App Store cut to 15 percent for most developers starting January 1st") — Any developer that earns less than $1 million in revenue per year is eligible 
+  * [ThinkPad X1 Carbon Gen 8 with Linux ](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/X1-Carbon-Gen-8-/p/20U9CTO1WWENUS2/customize "ThinkPad X1 Carbon Gen 8 with Linux")
+  * [Galago Pro - System76 ](https://system76.com/laptops/galago "Galago Pro - System76")
 
 
 

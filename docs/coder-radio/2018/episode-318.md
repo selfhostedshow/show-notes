@@ -21,12 +21,12 @@ None
 
 ## Episode links
 
-  * [PyCharm CE](https://pastebin.com/dSqGQTJY "PyCharm CE")
-  * [​Python language founder steps down](https://www.zdnet.com/article/python-language-founder-steps-down/ "​Python language founder steps down")
-  * [Google’s new ‘Seedbank’](https://9to5google.com/2018/07/16/seedbank-google-machine-learning-tensorflow/ "Google’s new ‘Seedbank’")
-  * [Living with the new 15-inch MacBook Pro](https://techcrunch.com/2018/07/16/living-with-the-new-15-inch-macbook-pro/ "Living with the new 15-inch MacBook Pro")
-  * [Instapaper is going independent](http://blog.instapaper.com/post/175953870856 "Instapaper is going independent")
-  * [Instapaper is temporarily shutting off access for European users due to GDPR](https://www.theverge.com/2018/5/23/17387146/instapaper-gdpr-europe-access-shut-down-privacy-changes "Instapaper is temporarily shutting off access for European users due to GDPR")
+  * [PyCharm CE ](https://pastebin.com/dSqGQTJY "PyCharm CE")
+  * [​Python language founder steps down ](https://www.zdnet.com/article/python-language-founder-steps-down/ "​Python language founder steps down")
+  * [Google’s new ‘Seedbank’ ](https://9to5google.com/2018/07/16/seedbank-google-machine-learning-tensorflow/ "Google’s new ‘Seedbank’")
+  * [Living with the new 15-inch MacBook Pro ](https://techcrunch.com/2018/07/16/living-with-the-new-15-inch-macbook-pro/ "Living with the new 15-inch MacBook Pro")
+  * [Instapaper is going independent ](http://blog.instapaper.com/post/175953870856 "Instapaper is going independent")
+  * [Instapaper is temporarily shutting off access for European users due to GDPR ](https://www.theverge.com/2018/5/23/17387146/instapaper-gdpr-europe-access-shut-down-privacy-changes "Instapaper is temporarily shutting off access for European users due to GDPR")
 
 
 

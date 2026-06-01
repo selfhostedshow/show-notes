@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [Matthew's Thoughts on Students and Linux](https://pastebin.com/y1E1GNau "Matthew's Thoughts on Students and Linux")
-  * [u/HCharlesB on Unit Testing](https://www.reddit.com/r/CoderRadio/comments/9mivv7/in_testing_we_trust_coder_radio_328/e7j0k4d/ "u/HCharlesB on Unit Testing")
-  * [Michael Dominick on Twitter](https://twitter.com/dominucco/status/1051303275557998593 "Michael Dominick on Twitter") — "Well, lookie here -> through the power of #dotnetcore, I have #Microsoft #Bot Framework working on #Linux in #csharp instead of JS. The more I learn about .Net Core & .Net Standard, the more impressed I am.… https://t.co/jBeQLB48c0"
-  * [Help us plan the future of .NET! | .NET Blog](https://blogs.msdn.microsoft.com/dotnet/2018/04/20/help-us-plan-the-future-of-net/ "Help us plan the future of .NET! | .NET Blog")
-  * [Did Microsoft Really Just “Open Source All Its Patents”??](https://hackernoon.com/did-microsoft-really-just-open-source-all-its-patents-3e419ae1a439 "Did Microsoft Really Just “Open Source All Its Patents”??")
-  * [​Redis Labs and Common Clause attacked where it hurts: With open-source code](https://www.zdnet.com/article/redis-labs-and-common-clause-attacked-where-it-hurts-with-open-source-code/ "​Redis Labs and Common Clause attacked where it hurts: With open-source code")
-  * [Adobe announces full Photoshop CC for iPad shipping 2019](https://9to5mac.com/2018/10/15/adobe-photoshop-cc-ipad-launching-2019/ "Adobe announces full Photoshop CC for iPad shipping 2019")
+  * [Matthew's Thoughts on Students and Linux ](https://pastebin.com/y1E1GNau "Matthew's Thoughts on Students and Linux")
+  * [u/HCharlesB on Unit Testing ](https://www.reddit.com/r/CoderRadio/comments/9mivv7/in_testing_we_trust_coder_radio_328/e7j0k4d/ "u/HCharlesB on Unit Testing")
+  * [Michael Dominick on Twitter ](https://twitter.com/dominucco/status/1051303275557998593 "Michael Dominick on Twitter") — "Well, lookie here -> through the power of #dotnetcore, I have #Microsoft #Bot Framework working on #Linux in #csharp instead of JS. The more I learn about .Net Core & .Net Standard, the more impressed I am.… <https://t.co/jBeQLB48c0>" 
+  * [Help us plan the future of .NET! | .NET Blog ](https://blogs.msdn.microsoft.com/dotnet/2018/04/20/help-us-plan-the-future-of-net/ "Help us plan the future of .NET! | .NET Blog")
+  * [Did Microsoft Really Just “Open Source All Its Patents”?? ](https://hackernoon.com/did-microsoft-really-just-open-source-all-its-patents-3e419ae1a439 "Did Microsoft Really Just “Open Source All Its Patents”??")
+  * [​Redis Labs and Common Clause attacked where it hurts: With open-source code ](https://www.zdnet.com/article/redis-labs-and-common-clause-attacked-where-it-hurts-with-open-source-code/ "​Redis Labs and Common Clause attacked where it hurts: With open-source code")
+  * [Adobe announces full Photoshop CC for iPad shipping 2019 ](https://9to5mac.com/2018/10/15/adobe-photoshop-cc-ipad-launching-2019/ "Adobe announces full Photoshop CC for iPad shipping 2019")
 
 
 
