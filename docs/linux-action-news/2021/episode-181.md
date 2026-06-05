@@ -16,23 +16,23 @@ Mobile Linux OSes are looking better than ever this week, a new effort to keep l
 
 ## Sponsored by
 
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
 
 
 
 ## Episode links
 
-  * [Ubuntu Touch OTA-16 Release](https://ubports.com/blog/ubport-blogs-news-1/post/ubuntu-touch-ota-16-release-3744 "Ubuntu Touch OTA-16 Release") — Today we are happy to announce the release of Ubuntu Touch OTA-16, our sixteenth stable update to the system!
-  * [Find your device: devices.ubuntu-touch.io](http://devices.ubuntu-touch.io/ "Find your device: devices.ubuntu-touch.io") — This list shows the devices which are currently under development in the Ubuntu Touch ecosystem. Mature devices have easy access to installation through the UBports Installer. Devices in an early state generally need to follow a manual installation procedure. 
-  * [Ubuntu Touch Q&A 96](https://ubports.com/blog/ubport-blogs-news-1/post/ubuntu-touch-q-a-96-3746 "Ubuntu Touch Q&A 96")
-  * [Extensions Rebooted: Porting your existing extensions to GNOME 40](https://blogs.gnome.org/shell-dev/2021/03/20/extensions-rebooted-porting-your-existing-extensions-to-gnome-40/ "Extensions Rebooted: Porting your existing extensions to GNOME 40") — Since there have been significant changes in GNOME Shell – it will be important to understand where those changes are and how they might affect the various extensions that are out there. 
-  * [Guide: Port Extensions to GNOME Shell 40](https://gjs.guide/extensions/upgrading/gnome-shell-40.html "Guide: Port Extensions to GNOME Shell 40")
-  * [XWayland 21.1 Standalone Released To Offer Better X11 Client On Wayland Experience](https://www.phoronix.com/scan.php?page=news_item&px=XWayland-21.1-Released "XWayland 21.1 Standalone Released To Offer Better X11 Client On Wayland Experience") — With no one willing to step up and manage the X.Org Server 1.21 release Red Hat engineers are now moving ahead with standalone XWayland releases. 
-  * [Cloud CPU Benchmarking Report](https://www.linode.com/content/cloud-cpu-benchmarking-report/?utm_medium=social&utm_source=twitter "Cloud CPU Benchmarking Report")
-  * [Google is preparing for Fuchsia’s first releases](https://9to5google.com/2021/03/19/fuchsia-friday-first-release-f1/ "Google is preparing for Fuchsia’s first releases") — For years now, we’ve been watching and waiting as Google has gradually developed their Fuchsia operating system from the ground up. Now evidence has appeared pointing to Google’s Fuchsia OS getting its first — and second — proper release. 
-  * [Raspberry Pi Imager Now Lets You Control Advanced OS Features When Flashing Images](https://9to5linux.com/raspberry-pi-imager-now-lets-you-control-advanced-os-features-when-flashing-images "Raspberry Pi Imager Now Lets You Control Advanced OS Features When Flashing Images") — The biggest new feature in this release is the implementation of a hidden advanced options panel which lets you control additional features for the operating system you’re about to flash on an SD card or SSD drive.
-  * [GitHub: rpi-imager v1.6](https://github.com/raspberrypi/rpi-imager/releases/tag/v1.6 "GitHub: rpi-imager v1.6")
+  * [Ubuntu Touch OTA-16 Release ](https://ubports.com/blog/ubport-blogs-news-1/post/ubuntu-touch-ota-16-release-3744 "Ubuntu Touch OTA-16 Release") — Today we are happy to announce the release of Ubuntu Touch OTA-16, our sixteenth stable update to the system! 
+  * [Find your device: devices.ubuntu-touch.io ](http://devices.ubuntu-touch.io/ "Find your device: devices.ubuntu-touch.io") — This list shows the devices which are currently under development in the Ubuntu Touch ecosystem. Mature devices have easy access to installation through the UBports Installer. Devices in an early state generally need to follow a manual installation procedure. 
+  * [Ubuntu Touch Q&A 96 ](https://ubports.com/blog/ubport-blogs-news-1/post/ubuntu-touch-q-a-96-3746 "Ubuntu Touch Q&A 96")
+  * [Extensions Rebooted: Porting your existing extensions to GNOME 40 ](https://blogs.gnome.org/shell-dev/2021/03/20/extensions-rebooted-porting-your-existing-extensions-to-gnome-40/ "Extensions Rebooted: Porting your existing extensions to GNOME 40") — Since there have been significant changes in GNOME Shell – it will be important to understand where those changes are and how they might affect the various extensions that are out there. 
+  * [Guide: Port Extensions to GNOME Shell 40 ](https://gjs.guide/extensions/upgrading/gnome-shell-40.html "Guide: Port Extensions to GNOME Shell 40")
+  * [XWayland 21.1 Standalone Released To Offer Better X11 Client On Wayland Experience ](https://www.phoronix.com/scan.php?page=news_item&px=XWayland-21.1-Released "XWayland 21.1 Standalone Released To Offer Better X11 Client On Wayland Experience") — With no one willing to step up and manage the X.Org Server 1.21 release Red Hat engineers are now moving ahead with standalone XWayland releases. 
+  * [Cloud CPU Benchmarking Report ](https://www.linode.com/content/cloud-cpu-benchmarking-report/?utm_medium=social&utm_source=twitter "Cloud CPU Benchmarking Report")
+  * [Google is preparing for Fuchsia’s first releases ](https://9to5google.com/2021/03/19/fuchsia-friday-first-release-f1/ "Google is preparing for Fuchsia’s first releases") — For years now, we’ve been watching and waiting as Google has gradually developed their Fuchsia operating system from the ground up. Now evidence has appeared pointing to Google’s Fuchsia OS getting its first — and second — proper release. 
+  * [Raspberry Pi Imager Now Lets You Control Advanced OS Features When Flashing Images ](https://9to5linux.com/raspberry-pi-imager-now-lets-you-control-advanced-os-features-when-flashing-images "Raspberry Pi Imager Now Lets You Control Advanced OS Features When Flashing Images") — The biggest new feature in this release is the implementation of a hidden advanced options panel which lets you control additional features for the operating system you’re about to flash on an SD card or SSD drive. 
+  * [GitHub: rpi-imager v1.6 ](https://github.com/raspberrypi/rpi-imager/releases/tag/v1.6 "GitHub: rpi-imager v1.6")
 
 
 

@@ -16,27 +16,27 @@ Local self-hosted video capture with AI object detection just got easy. Morgan j
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloud.guru/overview/red-hat-ex447-ansible-best-practices/?utm_source=jupiter&utm_medium=cpc): [When you’ve finished this course, you’ll have a better understanding of the topics on the exam, including installing Ansible Tower, managing Ansible inventory, managing Tower templates, and additional functions.](https://acloud.guru/overview/red-hat-ex447-ansible-best-practices/?utm_source=jupiter&utm_medium=cpc)
+  * [A Cloud Guru](https://acloud.guru/overview/red-hat-ex447-ansible-best-practices/?utm_source=jupiter&utm_medium=cpc): [When you’ve finished this course, you’ll have a better understanding of the topics on the exam, including installing Ansible Tower, managing Ansible inventory, managing Tower templates, and additional functions. ](https://acloud.guru/overview/red-hat-ex447-ansible-best-practices/?utm_source=jupiter&utm_medium=cpc)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze.](https://www.backblaze.com/ssh)
+  * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze. ](https://www.backblaze.com/ssh)
 
 
 
 ## Episode links
 
-  * [OPNsense Repo](https://www.routerperformance.net/opnsense-repo/ "OPNsense Repo") — Welcome to my custom community repository, offering a couple of packages and plugins which are not available in core and even wouldn’t fit.
-  * [Michael @mimu_muc](https://twitter.com/mimu_muc "Michael @mimu_muc")
-  * [Uptime Kuma](https://github.com/louislam/uptime-kuma "Uptime Kuma") — It is a self-hosted monitoring tool like "Uptime Robot".
-  * [Frigate](https://github.com/blakeblackshear/frigate "Frigate") — A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow to perform realtime object detection locally for IP cameras.
-  * [Frigate integration for Home Assistant](https://github.com/blakeblackshear/frigate-hass-integration "Frigate integration for Home Assistant")
-  * [Morgan's Config 1](https://paste.ktz.cloud/P4qS__u6P9IPLz8gcSjY7 "Morgan's Config 1")
-  * [Morgan's Config 2](https://paste.ktz.cloud/HnIn2C8BSas_-TeC4mQHR "Morgan's Config 2")
-  * [Morgan's Config 3](https://paste.ktz.cloud/i5h4Z8dI3R3Hdi2yakBCJ "Morgan's Config 3")
-  * [Wyze Doorbell Camera](https://wyze.com/wyze-video-doorbell-pro.html "Wyze Doorbell Camera")
-  * [WallPanel and Alarm Panel Application Maintainers Wanted](https://www.reddit.com/r/homeassistant/comments/qam4zw/wallpanel_and_alarm_panel_application_maintainers/ "WallPanel and Alarm Panel Application Maintainers Wanted") — I am looking for an individual or individuals to take over these projects. WallPanel is very popular for displaying the Home Assistant home page. Alarm Panel integrates with the Home Assistant Alarm component and the Alarmo integration.
-  * [Fully Kiosk Browser Lockdown](https://www.fully-kiosk.com/ "Fully Kiosk Browser Lockdown")
-  * [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager "Plex Meta Manager") — Plex Meta Manager is a Python 3 script that can be continuously run using YAML configuration files to update on a schedule the metadata of the movies, shows, and collections in your libraries as well as automatically build collections based on various methods all detailed in the wiki. 
-  * [ktz-plexmetamanager at master · IronicBadger/infra](https://github.com/IronicBadger/infra/tree/master/roles/ktz-plexmetamanager "ktz-plexmetamanager at master · IronicBadger/infra")
+  * [OPNsense Repo ](https://www.routerperformance.net/opnsense-repo/ "OPNsense Repo") — Welcome to my custom community repository, offering a couple of packages and plugins which are not available in core and even wouldn’t fit. 
+  * [Michael @mimu_muc ](https://twitter.com/mimu_muc "Michael @mimu_muc")
+  * [Uptime Kuma ](https://github.com/louislam/uptime-kuma "Uptime Kuma") — It is a self-hosted monitoring tool like "Uptime Robot". 
+  * [Frigate ](https://github.com/blakeblackshear/frigate "Frigate") — A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow to perform realtime object detection locally for IP cameras. 
+  * [Frigate integration for Home Assistant ](https://github.com/blakeblackshear/frigate-hass-integration "Frigate integration for Home Assistant")
+  * [Morgan's Config 1 ](https://paste.ktz.cloud/P4qS__u6P9IPLz8gcSjY7 "Morgan's Config 1")
+  * [Morgan's Config 2 ](https://paste.ktz.cloud/HnIn2C8BSas_-TeC4mQHR "Morgan's Config 2")
+  * [Morgan's Config 3 ](https://paste.ktz.cloud/i5h4Z8dI3R3Hdi2yakBCJ "Morgan's Config 3")
+  * [Wyze Doorbell Camera ](https://wyze.com/wyze-video-doorbell-pro.html "Wyze Doorbell Camera")
+  * [WallPanel and Alarm Panel Application Maintainers Wanted ](https://www.reddit.com/r/homeassistant/comments/qam4zw/wallpanel_and_alarm_panel_application_maintainers/ "WallPanel and Alarm Panel Application Maintainers Wanted") — I am looking for an individual or individuals to take over these projects. WallPanel is very popular for displaying the Home Assistant home page. Alarm Panel integrates with the Home Assistant Alarm component and the Alarmo integration. 
+  * [Fully Kiosk Browser Lockdown ](https://www.fully-kiosk.com/ "Fully Kiosk Browser Lockdown")
+  * [Plex Meta Manager ](https://github.com/meisnate12/Plex-Meta-Manager "Plex Meta Manager") — Plex Meta Manager is a Python 3 script that can be continuously run using YAML configuration files to update on a schedule the metadata of the movies, shows, and collections in your libraries as well as automatically build collections based on various methods all detailed in the wiki. 
+  * [ktz-plexmetamanager at master · IronicBadger/infra ](https://github.com/IronicBadger/infra/tree/master/roles/ktz-plexmetamanager "ktz-plexmetamanager at master · IronicBadger/infra")
 
 
 

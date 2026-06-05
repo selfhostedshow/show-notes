@@ -21,10 +21,10 @@ None
 
 ## Episode links
 
-  * [Photos From Texas Cyber Summit 2019](https://jupiter.gallery/#15710708287864 "Photos From Texas Cyber Summit 2019") — Jupiter Gallery
-  * [Texas Cyber Summit](https://www.texascybersummit.org/ "Texas Cyber Summit") — Texas Cyber Summit is a premier cyber security summit held in San Antonio Texas, with the mission of spreading knowledge and interest in the field of Cyber Security.
-  * [Red vs. Blue](https://threatgen.com/redblue/ "Red vs. Blue") — ThreatGEN™ Red vs. Blue is the industry's first multi-player strategy computer game where players compete against each other, head-to-head, to take control/maintain control of a computer network. 
-  * [Howdy Neighbor Smart House](https://blog.grimm-co.com/post/howdy-neighbor-smart-house/ "Howdy Neighbor Smart House") — “Howdy Neighbor” is GRIMM’s Internet of Things (IoT) Capture the Flag (CTF)-like challenge. 
+  * [Photos From Texas Cyber Summit 2019 ](https://jupiter.gallery/#15710708287864 "Photos From Texas Cyber Summit 2019") — Jupiter Gallery 
+  * [Texas Cyber Summit ](https://www.texascybersummit.org/ "Texas Cyber Summit") — Texas Cyber Summit is a premier cyber security summit held in San Antonio Texas, with the mission of spreading knowledge and interest in the field of Cyber Security. 
+  * [Red vs. Blue ](https://threatgen.com/redblue/ "Red vs. Blue") — ThreatGEN™ Red vs. Blue is the industry's first multi-player strategy computer game where players compete against each other, head-to-head, to take control/maintain control of a computer network. 
+  * [Howdy Neighbor Smart House ](https://blog.grimm-co.com/post/howdy-neighbor-smart-house/ "Howdy Neighbor Smart House") — “Howdy Neighbor” is GRIMM’s Internet of Things (IoT) Capture the Flag (CTF)-like challenge. 
 
 
 

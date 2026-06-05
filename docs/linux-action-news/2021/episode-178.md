@@ -16,27 +16,27 @@ Red Hat is still in damage control mode, a new hacker laptop called Framework ma
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Red Hat Announces Free “RHEL For Open-Source Infrastructure”](https://www.phoronix.com/scan.php?page=news_item&px=RHEL-For-Open-Infrastructure "Red Hat Announces Free “RHEL For Open-Source Infrastructure”") — Eligible organizations will be able to enjoy no-cost RHEL for use within their infrastructure for continuous integration, web servers, and more. 
-  * [Red Hat returns with another peace offering in the wake of the CentOS Stream affair: More free stuff](https://www.theregister.com/2021/02/26/rhel_open_source/ "Red Hat returns with another peace offering in the wake of the CentOS Stream affair: More free stuff")
-  * [Red Hat Announcement](https://www.redhat.com/en/blog/extending-no-cost-red-hat-enterprise-linux-open-source-organizations "Red Hat Announcement") — Extending no-cost Red Hat Enterprise Linux to open source organizations 
-  * [Red Hat opens the door for both VMs tand containers in its latest OpenShift release](https://www.zdnet.com/article/red-hat-opens-the-door-for-both-vms-and-containers-in-its-latest-openshift-release/ "Red Hat opens the door for both VMs tand containers in its latest OpenShift release")
-  * [Red Hat OpenShift 4.7 Blurs The Line Between VMs And Containers](https://www.forbes.com/sites/janakirammsv/2021/02/27/red-hat-openshift-47-blurs-the-line-between-vms-and-containers/ "Red Hat OpenShift 4.7 Blurs The Line Between VMs And Containers") — With OpenShift 4.7, Red Hat attempts to simplify the migration of virtual machines to containers.
-  * [Red Hat OpenShift 4.7 Is Now Available](https://www.openshift.com/blog/red-hat-openshift-4.7-is-now-available "Red Hat OpenShift 4.7 Is Now Available")
-  * [OpenShift Container Platform 4.7 release notes](https://docs.openshift.com/container-platform/4.7/release_notes/ocp-4-7-release-notes.html "OpenShift Container Platform 4.7 release notes")
-  * [[Video] What’s new in Red Hat OpenShift 4.7](https://youtu.be/74q5nO-VCRc?t=2794 "\[Video\] What’s new in Red Hat OpenShift 4.7")
-  * [Introducing the Framework Laptop](https://frame.work/blog/introducing-the-framework-laptop "Introducing the Framework Laptop") — We’re here to prove that designing products to last doesn’t require sacrificing performance, quality, or style. 
-  * [Framework Laptop](https://frame.work/ "Framework Laptop")
-  * [Google Funds Linux Kernel Developers to Focus Exclusively on Security](https://www.linuxfoundation.org/en/press-release/google-funds-linux-kernel-developers-to-focus-exclusively-on-security/ "Google Funds Linux Kernel Developers to Focus Exclusively on Security") — Silva and Chancellor’s exclusive focus is to maintain and improve kernel security and associated initiatives in order to ensure the world’s most pervasive open source software project is sustainable for decades to come.
-  * [Latest Firefox release includes Multiple Picture-in-Picture and Total Cookie Protection](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/ "Latest Firefox release includes Multiple Picture-in-Picture and Total Cookie Protection") — In today’s release, we added multiple picture-in-picture views, available on Mac, Linux and Windows, and includes keyboard controls for fast forward and rewind. Total Cookie Protection stops cookies from tracking you around the web by creating a separate cookie jar for every website. 
-  * [Firefox 86.0 released](https://www.reddit.com/r/linux/comments/lqj22m/firefox_860_released/ "Firefox 86.0 released")
-  * [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/ "Total Cookie Protection")
-  * [Firefox for Enterprise 86 Release Notes.](https://support.mozilla.org/kb/firefox-enterprise-86-release-notes "Firefox for Enterprise 86 Release Notes.")
+  * [Red Hat Announces Free “RHEL For Open-Source Infrastructure” ](https://www.phoronix.com/scan.php?page=news_item&px=RHEL-For-Open-Infrastructure "Red Hat Announces Free “RHEL For Open-Source Infrastructure”") — Eligible organizations will be able to enjoy no-cost RHEL for use within their infrastructure for continuous integration, web servers, and more. 
+  * [Red Hat returns with another peace offering in the wake of the CentOS Stream affair: More free stuff ](https://www.theregister.com/2021/02/26/rhel_open_source/ "Red Hat returns with another peace offering in the wake of the CentOS Stream affair: More free stuff")
+  * [Red Hat Announcement ](https://www.redhat.com/en/blog/extending-no-cost-red-hat-enterprise-linux-open-source-organizations "Red Hat Announcement") — Extending no-cost Red Hat Enterprise Linux to open source organizations 
+  * [Red Hat opens the door for both VMs tand containers in its latest OpenShift release ](https://www.zdnet.com/article/red-hat-opens-the-door-for-both-vms-and-containers-in-its-latest-openshift-release/ "Red Hat opens the door for both VMs tand containers in its latest OpenShift release")
+  * [Red Hat OpenShift 4.7 Blurs The Line Between VMs And Containers ](https://www.forbes.com/sites/janakirammsv/2021/02/27/red-hat-openshift-47-blurs-the-line-between-vms-and-containers/ "Red Hat OpenShift 4.7 Blurs The Line Between VMs And Containers") — With OpenShift 4.7, Red Hat attempts to simplify the migration of virtual machines to containers. 
+  * [Red Hat OpenShift 4.7 Is Now Available ](https://www.openshift.com/blog/red-hat-openshift-4.7-is-now-available "Red Hat OpenShift 4.7 Is Now Available")
+  * [OpenShift Container Platform 4.7 release notes ](https://docs.openshift.com/container-platform/4.7/release_notes/ocp-4-7-release-notes.html "OpenShift Container Platform 4.7 release notes")
+  * [[Video] What’s new in Red Hat OpenShift 4.7 ](https://youtu.be/74q5nO-VCRc?t=2794 "\[Video\] What’s new in Red Hat OpenShift 4.7")
+  * [Introducing the Framework Laptop ](https://frame.work/blog/introducing-the-framework-laptop "Introducing the Framework Laptop") — We’re here to prove that designing products to last doesn’t require sacrificing performance, quality, or style. 
+  * [Framework Laptop ](https://frame.work/ "Framework Laptop")
+  * [Google Funds Linux Kernel Developers to Focus Exclusively on Security ](https://www.linuxfoundation.org/en/press-release/google-funds-linux-kernel-developers-to-focus-exclusively-on-security/ "Google Funds Linux Kernel Developers to Focus Exclusively on Security") — Silva and Chancellor’s exclusive focus is to maintain and improve kernel security and associated initiatives in order to ensure the world’s most pervasive open source software project is sustainable for decades to come. 
+  * [Latest Firefox release includes Multiple Picture-in-Picture and Total Cookie Protection ](https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/ "Latest Firefox release includes Multiple Picture-in-Picture and Total Cookie Protection") — In today’s release, we added multiple picture-in-picture views, available on Mac, Linux and Windows, and includes keyboard controls for fast forward and rewind. Total Cookie Protection stops cookies from tracking you around the web by creating a separate cookie jar for every website. 
+  * [Firefox 86.0 released ](https://www.reddit.com/r/linux/comments/lqj22m/firefox_860_released/ "Firefox 86.0 released")
+  * [Total Cookie Protection ](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/ "Total Cookie Protection")
+  * [Firefox for Enterprise 86 Release Notes. ](https://support.mozilla.org/kb/firefox-enterprise-86-release-notes "Firefox for Enterprise 86 Release Notes.")
 
 
 

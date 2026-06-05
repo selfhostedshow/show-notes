@@ -22,18 +22,18 @@ A fresh take on open-source funding, Fedora’s plan for better encryption out o
 
 ## Episode links
 
-  * [New FOSS Fund to Support Free and Open Source Projects](https://www.bloomberg.com/company/stories/bloomberg-ospo-launches-foss-contributor-fund/ "New FOSS Fund to Support Free and Open Source Projects") — To help maintain and sustain this ecosystem, companies and nonprofits alike have experimented with a framework called a FOSS (Free and Open Source Software) Contributor Fund.
-  * [Bloomberg Launches Open-Source Funding Initiative](https://www.phoronix.com/news/Bloomberg-FOSS-Fund "Bloomberg Launches Open-Source Funding Initiative")
-  * [Encrypted Fedora](https://www.phoronix.com/news/Fedora-WS-Encryption-Plans-2023 "Encrypted Fedora") — Owen Taylor of Red Hat laid out a mailing list post and Discourse thread today around the future of encryption with Fedora. 
-  * [Google’s VM Turbo Charger](https://lore.kernel.org/lkml/20230330224348.1006691-1-davidai@google.com/ "Google’s VM Turbo Charger") — With this series, a workload running in a VM gets the same task placement and DVFS treatment as it would when running in the host. 
-  * [Linux Plumbers Conference 2022 CPUfreq/sched and VM guest workload problems](https://lpc.events/event/16/contributions/1195/ "Linux Plumbers Conference 2022 CPUfreq/sched and VM guest workload problems")
-  * [Google Posts KVM-CPUFreq Driver To Dramatically Boost VM Performance, Power Efficiency](https://www.phoronix.com/news/KVM-CPUFreq-RFC-Patches "Google Posts KVM-CPUFreq Driver To Dramatically Boost VM Performance, Power Efficiency")
-  * [KDE Discuss](https://discuss.kde.org/ "KDE Discuss") — KDE Discuss is a place for questions, requests, suggestions, banter, and in general interacting closely with the people actively involved in KDE, as well as with fellow users.
-  * [KDE Discuss is a new discussion service from KDE for everybody who makes and uses KDE software](https://www.reddit.com/r/kde/comments/12bdl16/kde_discuss_is_a_new_discussion_service_from_kde/ "KDE Discuss is a new discussion service from KDE for everybody who makes and uses KDE software")
-  * [New MSI Laptop Driver](https://www.phoronix.com/news/Linux-6.4-MSI-EC-Driver "New MSI Laptop Driver") — Functions handled by the embedded controller on recent MSI laptops. 
-  * [new msi-ec driver patch](https://git.kernel.org/pub/scm/linux/kernel/git/pdx86/platform-drivers-x86.git/commit/?h=for-next&id=392cacf2aa10de005e58b68a58012c0c81a100c0 "new msi-ec driver patch")
-  * [Ubuntu 23.04 Beta Hands On](https://9to5linux.com/ubuntu-23-04-beta-released-with-gnome-44-linux-kernel-6-2-and-new-installer "Ubuntu 23.04 Beta Hands On")
-  * [Jupiter Broadcasting Meetup](http://meetup.com/jupiterbroadcasting "Jupiter Broadcasting Meetup") — Two meetups in the month of April, join us!
+  * [New FOSS Fund to Support Free and Open Source Projects ](https://www.bloomberg.com/company/stories/bloomberg-ospo-launches-foss-contributor-fund/ "New FOSS Fund to Support Free and Open Source Projects") — To help maintain and sustain this ecosystem, companies and nonprofits alike have experimented with a framework called a FOSS (Free and Open Source Software) Contributor Fund. 
+  * [Bloomberg Launches Open-Source Funding Initiative ](https://www.phoronix.com/news/Bloomberg-FOSS-Fund "Bloomberg Launches Open-Source Funding Initiative")
+  * [Encrypted Fedora ](https://www.phoronix.com/news/Fedora-WS-Encryption-Plans-2023 "Encrypted Fedora") — Owen Taylor of Red Hat laid out a mailing list post and Discourse thread today around the future of encryption with Fedora. 
+  * [Google’s VM Turbo Charger ](https://lore.kernel.org/lkml/20230330224348.1006691-1-davidai@google.com/ "Google’s VM Turbo Charger") — With this series, a workload running in a VM gets the same task placement and DVFS treatment as it would when running in the host. 
+  * [Linux Plumbers Conference 2022 CPUfreq/sched and VM guest workload problems ](https://lpc.events/event/16/contributions/1195/ "Linux Plumbers Conference 2022 CPUfreq/sched and VM guest workload problems")
+  * [Google Posts KVM-CPUFreq Driver To Dramatically Boost VM Performance, Power Efficiency ](https://www.phoronix.com/news/KVM-CPUFreq-RFC-Patches "Google Posts KVM-CPUFreq Driver To Dramatically Boost VM Performance, Power Efficiency")
+  * [KDE Discuss ](https://discuss.kde.org/ "KDE Discuss") — KDE Discuss is a place for questions, requests, suggestions, banter, and in general interacting closely with the people actively involved in KDE, as well as with fellow users. 
+  * [KDE Discuss is a new discussion service from KDE for everybody who makes and uses KDE software ](https://www.reddit.com/r/kde/comments/12bdl16/kde_discuss_is_a_new_discussion_service_from_kde/ "KDE Discuss is a new discussion service from KDE for everybody who makes and uses KDE software")
+  * [New MSI Laptop Driver ](https://www.phoronix.com/news/Linux-6.4-MSI-EC-Driver "New MSI Laptop Driver") — Functions handled by the embedded controller on recent MSI laptops. 
+  * [new msi-ec driver patch ](https://git.kernel.org/pub/scm/linux/kernel/git/pdx86/platform-drivers-x86.git/commit/?h=for-next&id=392cacf2aa10de005e58b68a58012c0c81a100c0 "new msi-ec driver patch")
+  * [Ubuntu 23.04 Beta Hands On ](https://9to5linux.com/ubuntu-23-04-beta-released-with-gnome-44-linux-kernel-6-2-and-new-installer "Ubuntu 23.04 Beta Hands On")
+  * [Jupiter Broadcasting Meetup ](http://meetup.com/jupiterbroadcasting "Jupiter Broadcasting Meetup") — Two meetups in the month of April, join us! 
 
 
 

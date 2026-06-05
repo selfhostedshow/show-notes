@@ -22,15 +22,15 @@ None
 
 ## Episode links
 
-  * [sshuttle](https://github.com/sshuttle/sshuttle "sshuttle") — Where transparent proxy meets VPN meets ssh
-  * [Fractal Design](https://www.fractal-design.com/products/cases/ "Fractal Design") — Fractal Design is a leading designer and manufacturer of premium PC hardware including cases, cooling, power supplies and accessories.
-  * [Tinkercad](https://www.tinkercad.com/ "Tinkercad") — Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything!
-  * [Fusion 360](https://www.autodesk.com/products/fusion-360/overview "Fusion 360") — Integrated CAD, CAM, and CAE software.
-  * [Pocket Rotary Cellphone](https://hackaday.com/2020/02/13/simplify-your-life-with-this-pocket-rotary-cellphone/ "Pocket Rotary Cellphone") — The 3D-printed case contains an ATmega2560V microcontroller and an Adafruit FONA 3G cell module, while a flexible mono eInk display adorns the outside.
-  * [ASRock > DeskMini A300 Series](https://www.asrock.com/nettop/AMD/DeskMini%20A300%20Series/ "ASRock > DeskMini A300 Series")
-  * [LanCache.NET](https://lancache.net/ "LanCache.NET") — Download your games once and serve them out to many people at your LAN.
-  * [Level1Techs Forums](https://forum.level1techs.com/ "Level1Techs Forums")
-  * [Bluetooth Presence Detection for Home Automation](https://forum.level1techs.com/t/bluetooth-presence-detection-for-home-automation-the-level1-way/148516 "Bluetooth Presence Detection for Home Automation") — You might be here because you heard me mention my Bluetooth presence detection setup on the new SelfHosted podcast, or possibly because you want to subject yourself to an internet-of-things setup in your own home while desperately trying to escape the consequential corporate surveillance as a result of that action (soft chuckles for everyone). Let’s talk about what it is, why you might want it, and how you can minimize the downsides.
+  * [sshuttle ](https://github.com/sshuttle/sshuttle "sshuttle") — Where transparent proxy meets VPN meets ssh 
+  * [Fractal Design ](https://www.fractal-design.com/products/cases/ "Fractal Design") — Fractal Design is a leading designer and manufacturer of premium PC hardware including cases, cooling, power supplies and accessories. 
+  * [Tinkercad ](https://www.tinkercad.com/ "Tinkercad") — Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything! 
+  * [Fusion 360 ](https://www.autodesk.com/products/fusion-360/overview "Fusion 360") — Integrated CAD, CAM, and CAE software. 
+  * [Pocket Rotary Cellphone ](https://hackaday.com/2020/02/13/simplify-your-life-with-this-pocket-rotary-cellphone/ "Pocket Rotary Cellphone") — The 3D-printed case contains an ATmega2560V microcontroller and an Adafruit FONA 3G cell module, while a flexible mono eInk display adorns the outside. 
+  * [ASRock > DeskMini A300 Series ](https://www.asrock.com/nettop/AMD/DeskMini%20A300%20Series/ "ASRock > DeskMini A300 Series")
+  * [LanCache.NET ](https://lancache.net/ "LanCache.NET") — Download your games once and serve them out to many people at your LAN. 
+  * [Level1Techs Forums ](https://forum.level1techs.com/ "Level1Techs Forums")
+  * [Bluetooth Presence Detection for Home Automation ](https://forum.level1techs.com/t/bluetooth-presence-detection-for-home-automation-the-level1-way/148516 "Bluetooth Presence Detection for Home Automation") — You might be here because you heard me mention my Bluetooth presence detection setup on the new SelfHosted podcast, or possibly because you want to subject yourself to an internet-of-things setup in your own home while desperately trying to escape the consequential corporate surveillance as a result of that action (soft chuckles for everyone). Let’s talk about what it is, why you might want it, and how you can minimize the downsides. 
 
 
 

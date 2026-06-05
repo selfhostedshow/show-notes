@@ -24,8 +24,8 @@ None
 
 ## Episode links
 
-  * [Valve Did the IMPOSSIBLE... Anti-Cheat on Linux - WAN Show September 24, 2021](https://www.youtube.com/watch?v=eF6asPd0KJs "Valve Did the IMPOSSIBLE... Anti-Cheat on Linux - WAN Show September 24, 2021") — Linus brings up Linux video challenge idea
-  * [Pre-Built PCs Are About to get MUCH Worse - WAN Show October 1, 2021](https://www.youtube.com/watch?v=PvTCc0iXGcQ "Pre-Built PCs Are About to get MUCH Worse - WAN Show October 1, 2021") — The challenge is REAL
+  * [Valve Did the IMPOSSIBLE... Anti-Cheat on Linux - WAN Show September 24, 2021 ](https://www.youtube.com/watch?v=eF6asPd0KJs "Valve Did the IMPOSSIBLE... Anti-Cheat on Linux - WAN Show September 24, 2021") — Linus brings up Linux video challenge idea 
+  * [Pre-Built PCs Are About to get MUCH Worse - WAN Show October 1, 2021 ](https://www.youtube.com/watch?v=PvTCc0iXGcQ "Pre-Built PCs Are About to get MUCH Worse - WAN Show October 1, 2021") — The challenge is REAL 
 
 
 

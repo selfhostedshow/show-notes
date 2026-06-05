@@ -22,19 +22,19 @@ We get you up to speed on two serious flaws, Linux's recent gaming loss, Ubuntu 
 
 ## Episode links
 
-  * [CVE - CVE-2023-28410](https://cve.mitre.org/cgi-bin/cvename.cgi?name=%20CVE-2023-28410 "CVE - CVE-2023-28410") — Improper restriction of operations within the bounds of a memory buffer in some Intel(R) i915 Graphics drivers for linux before kernel version 6.2.10 may allow an authenticated user to potentially enable escalation of privilege via local access. 
-  * [INTEL-SA-00886](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00886.html "INTEL-SA-00886")
-  * [Intel Security Center](https://www.intel.com/content/www/us/en/security-center/default.html "Intel Security Center")
-  * [New NetFilter flaw gives attackers root privileges](https://www.bleepingcomputer.com/news/security/new-linux-kernel-netfilter-flaw-gives-attackers-root-privileges/ "New NetFilter flaw gives attackers root privileges") — A new Linux NetFilter kernel flaw has been discovered, allowing unprivileged local users to escalate their privileges to root level, allowing complete control over a system.
-  * [NVD - CVE-2023-32233](https://nvd.nist.gov/vuln/detail/CVE-2023-32233 "NVD - CVE-2023-32233")
-  * [Goodbye to Roblox on Linux](https://www.gamingonlinux.com/2023/05/goodbye-to-roblox-on-linux-with-their-new-anti-cheat-and-wine-blocking/ "Goodbye to Roblox on Linux") — I’m sorry to be such a downer about this, but it’s the reality. We have to spend our time porting to and supporting the platforms that will grow our community.
-  * [Proper support for the Linux platform - Feature Requests](https://devforum.roblox.com/t/proper-support-for-the-linux-platform/56544/88 "Proper support for the Linux platform - Feature Requests")
-  * [Ubuntu 23.04 Now Works on StarFive’s VisionFive 2 RISC-V SBC](https://9to5linux.com/ubuntu-23-04-now-works-on-starfives-visionfive-2-risc-v-single-board-computer "Ubuntu 23.04 Now Works on StarFive’s VisionFive 2 RISC-V SBC") — ”This partnership will provide users with a seamless development experience, allowing them to leverage the best of open source software and RISC-V through Ubuntu and VisionFive 2.”
-  * [Canonical enables Ubuntu on StarFive’s VisionFive 2 RISC-V single board computer](https://canonical.com/blog/canonical-enables-ubuntu-on-starfive-visionfive2-risc-v-board "Canonical enables Ubuntu on StarFive’s VisionFive 2 RISC-V single board computer")
-  * [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/ "Open Source Summit North America") — Open Source Summit is a conference umbrella, composed of a collection of events covering the most important technologies, topics, and issues affecting open source today.
-  * [AWS open-sources snapshot fuzzing and policy authorization tools](https://siliconangle.com/2023/05/10/aws-open-sources-internally-created-snapshot-fuzzing-policy-authorization-tools/ "AWS open-sources snapshot fuzzing and policy authorization tools")
-  * [Schedule - Linux Foundation Events](https://events.linuxfoundation.org/open-source-summit-north-america/program/schedule/ "Schedule - Linux Foundation Events")
-  * [The Linux Foundation on Twitter](https://twitter.com/linuxfoundation/status/1656334418133254144 "The Linux Foundation on Twitter")
+  * [CVE - CVE-2023-28410 ](https://cve.mitre.org/cgi-bin/cvename.cgi?name=%20CVE-2023-28410 "CVE - CVE-2023-28410") — Improper restriction of operations within the bounds of a memory buffer in some Intel(R) i915 Graphics drivers for linux before kernel version 6.2.10 may allow an authenticated user to potentially enable escalation of privilege via local access. 
+  * [INTEL-SA-00886 ](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00886.html "INTEL-SA-00886")
+  * [Intel Security Center ](https://www.intel.com/content/www/us/en/security-center/default.html "Intel Security Center")
+  * [New NetFilter flaw gives attackers root privileges ](https://www.bleepingcomputer.com/news/security/new-linux-kernel-netfilter-flaw-gives-attackers-root-privileges/ "New NetFilter flaw gives attackers root privileges") — A new Linux NetFilter kernel flaw has been discovered, allowing unprivileged local users to escalate their privileges to root level, allowing complete control over a system. 
+  * [NVD - CVE-2023-32233 ](https://nvd.nist.gov/vuln/detail/CVE-2023-32233 "NVD - CVE-2023-32233")
+  * [Goodbye to Roblox on Linux ](https://www.gamingonlinux.com/2023/05/goodbye-to-roblox-on-linux-with-their-new-anti-cheat-and-wine-blocking/ "Goodbye to Roblox on Linux") — I’m sorry to be such a downer about this, but it’s the reality. We have to spend our time porting to and supporting the platforms that will grow our community. 
+  * [Proper support for the Linux platform - Feature Requests ](https://devforum.roblox.com/t/proper-support-for-the-linux-platform/56544/88 "Proper support for the Linux platform - Feature Requests")
+  * [Ubuntu 23.04 Now Works on StarFive’s VisionFive 2 RISC-V SBC ](https://9to5linux.com/ubuntu-23-04-now-works-on-starfives-visionfive-2-risc-v-single-board-computer "Ubuntu 23.04 Now Works on StarFive’s VisionFive 2 RISC-V SBC") — ”This partnership will provide users with a seamless development experience, allowing them to leverage the best of open source software and RISC-V through Ubuntu and VisionFive 2.” 
+  * [Canonical enables Ubuntu on StarFive’s VisionFive 2 RISC-V single board computer ](https://canonical.com/blog/canonical-enables-ubuntu-on-starfive-visionfive2-risc-v-board "Canonical enables Ubuntu on StarFive’s VisionFive 2 RISC-V single board computer")
+  * [Open Source Summit North America ](https://events.linuxfoundation.org/open-source-summit-north-america/ "Open Source Summit North America") — Open Source Summit is a conference umbrella, composed of a collection of events covering the most important technologies, topics, and issues affecting open source today. 
+  * [AWS open-sources snapshot fuzzing and policy authorization tools ](https://siliconangle.com/2023/05/10/aws-open-sources-internally-created-snapshot-fuzzing-policy-authorization-tools/ "AWS open-sources snapshot fuzzing and policy authorization tools")
+  * [Schedule - Linux Foundation Events ](https://events.linuxfoundation.org/open-source-summit-north-america/program/schedule/ "Schedule - Linux Foundation Events")
+  * [The Linux Foundation on Twitter ](https://twitter.com/linuxfoundation/status/1656334418133254144 "The Linux Foundation on Twitter")
 
 
 

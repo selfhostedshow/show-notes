@@ -17,26 +17,26 @@ How Chris created live TV streaming from his local media collection, Alex breaks
 ## Sponsored by
 
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
-  * [Unraid](https://unraid.net/selfhosted): [A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.](https://unraid.net/selfhosted)
+  * [Unraid](https://unraid.net/selfhosted): [A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility. ](https://unraid.net/selfhosted)
   * [Grist](https://getgrist.com/selfhosted): [Grist - the open-source alternative to Airtable and Google Sheets. ](https://getgrist.com/selfhosted)
 
 
 
 ## Episode links
 
-  * [⚡ Grab Sats with Strike Around the World](https://strike.me/download/ "⚡ Grab Sats with Strike Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 36 countries. 
-  * [🎉 Boost with Fountain FM](https://www.fountain.fm/ "🎉 Boost with Fountain FM") — Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts.
-  * [Open Home Foundation](https://www.openhomefoundation.org/ "Open Home Foundation") — The Open Home Foundation fights for the fundamental principles of privacy, choice, and sustainability for smart homes. 
-  * [Zigbee2mqtt Home Assistant ](https://www.aliexpress.com/i/3256802654359758.html?gatewayAdapt=4itemAdapt "Zigbee2mqtt Home Assistant ") — ZigBee 1 2 3 4 Gang Smart Switch Tuya Smart Wireless Scenario Switch Button Switches Remoter Home Assistant SmartThings
-  * [Immich](https://github.com/immich-app/immich "Immich") — High performance self-hosted photo and video management solution 
-  * [Announcing Traefik v3](https://traefik.io/blog/announcing-traefik-proxy-v3-rc/ "Announcing Traefik v3") — I’m extremely proud to see that this project, born 8 years ago, has become such a critical piece of the modern cloud-native infrastructure stack, with the help of such an amazing community.
-  * [ErsatzTV](https://ersatztv.org/ "ErsatzTV") — Your Personal IPTV Server 
-  * [Introduction | ErsatzTV](https://ersatztv.org/docs/intro/ "Introduction | ErsatzTV")
-  * [Collection of 90s Commercials](https://archive.org/details/Collectionof90sCommercials/90s+Commercials+-+S01.E1.mp4 "Collection of 90s Commercials") — Collection of 90s commercials mostly aired on Nickelodeon. 
-  * [localsend](https://github.com/localsend/localsend "localsend") — LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. 
-  * [LocalSend - Flathub](https://flathub.org/apps/org.localsend.localsend_app "LocalSend - Flathub")
-  * [SSH 122 Boost BAAARN](https://paste.docs.lol/code/DisprizeArsis "SSH 122 Boost BAAARN") — Thank you so much Boosters! 
-  * [Jupiter Broadcasting Meetups](https://www.meetup.com/jupiterbroadcasting/ "Jupiter Broadcasting Meetups")
+  * [⚡ Grab Sats with Strike Around the World ](https://strike.me/download/ "⚡ Grab Sats with Strike Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 36 countries. 
+  * [🎉 Boost with Fountain FM ](https://www.fountain.fm/ "🎉 Boost with Fountain FM") — Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts. 
+  * [Open Home Foundation ](https://www.openhomefoundation.org/ "Open Home Foundation") — The Open Home Foundation fights for the fundamental principles of privacy, choice, and sustainability for smart homes. 
+  * [Zigbee2mqtt Home Assistant ](https://www.aliexpress.com/i/3256802654359758.html?gatewayAdapt=4itemAdapt "Zigbee2mqtt Home Assistant ") — ZigBee 1 2 3 4 Gang Smart Switch Tuya Smart Wireless Scenario Switch Button Switches Remoter Home Assistant SmartThings 
+  * [Immich ](https://github.com/immich-app/immich "Immich") — High performance self-hosted photo and video management solution 
+  * [Announcing Traefik v3 ](https://traefik.io/blog/announcing-traefik-proxy-v3-rc/ "Announcing Traefik v3") — I’m extremely proud to see that this project, born 8 years ago, has become such a critical piece of the modern cloud-native infrastructure stack, with the help of such an amazing community. 
+  * [ErsatzTV ](https://ersatztv.org/ "ErsatzTV") — Your Personal IPTV Server 
+  * [Introduction | ErsatzTV ](https://ersatztv.org/docs/intro/ "Introduction | ErsatzTV")
+  * [Collection of 90s Commercials ](https://archive.org/details/Collectionof90sCommercials/90s+Commercials+-+S01.E1.mp4 "Collection of 90s Commercials") — Collection of 90s commercials mostly aired on Nickelodeon. 
+  * [localsend ](https://github.com/localsend/localsend "localsend") — LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. 
+  * [LocalSend - Flathub ](https://flathub.org/apps/org.localsend.localsend_app "LocalSend - Flathub")
+  * [SSH 122 Boost BAAARN ](https://paste.docs.lol/code/DisprizeArsis "SSH 122 Boost BAAARN") — Thank you so much Boosters! 
+  * [Jupiter Broadcasting Meetups ](https://www.meetup.com/jupiterbroadcasting/ "Jupiter Broadcasting Meetups")
 
 
 

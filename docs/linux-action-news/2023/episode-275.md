@@ -22,19 +22,19 @@ OpenZFS has performance gains inbound, the end of a Linux era, and the achieveme
 
 ## Episode links
 
-  * [KDE Plasma 5.27 To Provide Better Multi-Monitor Support](https://www.phoronix.com/news/KDE-Plasma-5.27-Multi-Monitor "KDE Plasma 5.27 To Provide Better Multi-Monitor Support") — KDE developer Marco Martin wrote a blog post today outlining some of the multi-monitor work that's been going into Plasma 5.27
-  * [This week in KDE: big UI improvements!](https://pointieststick.com/2023/01/06/this-week-in-kde-big-ui-improvements/ "This week in KDE: big UI improvements!")
-  * [Schedules/Plasma 5 - KDE Community Wiki](https://community.kde.org/Schedules/Plasma_5 "Schedules/Plasma 5 - KDE Community Wiki")
-  * [KDE Kicks Off 2023 With UI Refinements, More Fixes](https://www.phoronix.com/news/KDE-Starts-2023 "KDE Kicks Off 2023 With UI Refinements, More Fixes")
-  * [GNOME 44 Hopes and Dreams](https://9to5linux.com/gnome-44-release-date "GNOME 44 Hopes and Dreams") — GNOME devs are already working hard on the next major release, GNOME 44, due out in late March 2023 with more new features and enhancements.
-  * [Dynamic Triple Buffering Hopefully Will Land For GNOME 44](https://www.phoronix.com/news/GNOME-44-Hopes-Triple-Buffering "Dynamic Triple Buffering Hopefully Will Land For GNOME 44")
-  * [OpenZFS Performance Gains](https://github.com/openzfs/zfs/pull/14243 "OpenZFS Performance Gains") — With the combination of enabled prefetch and avoided memory copy this change improves sequential single-threaded read speed from a wide NVMe pool from 2049 to 3932 MiB/s. During write profiler shows 22% reduction of unhalted CPU cycles at the same throughput of 3653 MiB/s.
-  * [End of the 4.9 Series](https://lore.kernel.org/lkml/Y7lbu6%2F0P7Q%2FP3oj@kroah.com/T/ "End of the 4.9 Series") — Greg KH: I'm announcing the release of the 4.9.337 kernel. All users of the 4.9 kernel series must upgrade.
-  * [Linux 6.1.4](https://lore.kernel.org/lkml/1673088312205135@kroah.com/T/#t "Linux 6.1.4")
-  * [Linux 4.9.337 Released To End Out The 2016 LTS Series](https://www.phoronix.com/news/Linux-4.9.337-LTS-Over "Linux 4.9.337 Released To End Out The 2016 LTS Series")
-  * [Open-Source NVIDIA Driver Starts to Play Games](https://www.phoronix.com/news/NVK-Running-Talos-Game "Open-Source NVIDIA Driver Starts to Play Games") — Red Hat engineer and longtime open-source Nouveau developer Karol Herbst wrote on his chaos.social account about NVK running games and showing off a screenshot of The Talos Principle running with this open-source, "community" Vulkan driver.
-  * [karolherbst on Social](https://chaos.social/@karolherbst/109666048560595911 "karolherbst on Social")
-  * [The Talos Principle](http://www.croteam.com/talosprinciple/ "The Talos Principle") — The Talos Principle is a philosophical first-person puzzle game from Croteam, the creators of the legendary Serious Sam series, written by Tom Jubert (FTL, The Swapper) and Jonas Kyratzes (The Sea Will Claim Everything). 
+  * [KDE Plasma 5.27 To Provide Better Multi-Monitor Support ](https://www.phoronix.com/news/KDE-Plasma-5.27-Multi-Monitor "KDE Plasma 5.27 To Provide Better Multi-Monitor Support") — KDE developer Marco Martin wrote a blog post today outlining some of the multi-monitor work that's been going into Plasma 5.27 
+  * [This week in KDE: big UI improvements! ](https://pointieststick.com/2023/01/06/this-week-in-kde-big-ui-improvements/ "This week in KDE: big UI improvements!")
+  * [Schedules/Plasma 5 - KDE Community Wiki ](https://community.kde.org/Schedules/Plasma_5 "Schedules/Plasma 5 - KDE Community Wiki")
+  * [KDE Kicks Off 2023 With UI Refinements, More Fixes ](https://www.phoronix.com/news/KDE-Starts-2023 "KDE Kicks Off 2023 With UI Refinements, More Fixes")
+  * [GNOME 44 Hopes and Dreams ](https://9to5linux.com/gnome-44-release-date "GNOME 44 Hopes and Dreams") — GNOME devs are already working hard on the next major release, GNOME 44, due out in late March 2023 with more new features and enhancements. 
+  * [Dynamic Triple Buffering Hopefully Will Land For GNOME 44 ](https://www.phoronix.com/news/GNOME-44-Hopes-Triple-Buffering "Dynamic Triple Buffering Hopefully Will Land For GNOME 44")
+  * [OpenZFS Performance Gains ](https://github.com/openzfs/zfs/pull/14243 "OpenZFS Performance Gains") — With the combination of enabled prefetch and avoided memory copy this change improves sequential single-threaded read speed from a wide NVMe pool from 2049 to 3932 MiB/s. During write profiler shows 22% reduction of unhalted CPU cycles at the same throughput of 3653 MiB/s. 
+  * [End of the 4.9 Series ](https://lore.kernel.org/lkml/Y7lbu6%2F0P7Q%2FP3oj@kroah.com/T/ "End of the 4.9 Series") — Greg KH: I'm announcing the release of the 4.9.337 kernel. All users of the 4.9 kernel series must upgrade. 
+  * [Linux 6.1.4 ](https://lore.kernel.org/lkml/1673088312205135@kroah.com/T/#t "Linux 6.1.4")
+  * [Linux 4.9.337 Released To End Out The 2016 LTS Series ](https://www.phoronix.com/news/Linux-4.9.337-LTS-Over "Linux 4.9.337 Released To End Out The 2016 LTS Series")
+  * [Open-Source NVIDIA Driver Starts to Play Games ](https://www.phoronix.com/news/NVK-Running-Talos-Game "Open-Source NVIDIA Driver Starts to Play Games") — Red Hat engineer and longtime open-source Nouveau developer Karol Herbst wrote on his chaos.social account about NVK running games and showing off a screenshot of The Talos Principle running with this open-source, "community" Vulkan driver. 
+  * [karolherbst on Social ](https://chaos.social/@karolherbst/109666048560595911 "karolherbst on Social")
+  * [The Talos Principle ](http://www.croteam.com/talosprinciple/ "The Talos Principle") — The Talos Principle is a philosophical first-person puzzle game from Croteam, the creators of the legendary Serious Sam series, written by Tom Jubert (FTL, The Swapper) and Jonas Kyratzes (The Sea Will Claim Everything). 
 
 
 

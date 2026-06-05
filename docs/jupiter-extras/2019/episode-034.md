@@ -22,9 +22,9 @@ None
 
 ## Episode links
 
-  * [ThinkWiki](https://www.thinkwiki.org/wiki/ThinkWiki "ThinkWiki")
-  * [ThinkPad Hardware Maintenance Manuals](https://support.lenovo.com/us/en/ "ThinkPad Hardware Maintenance Manuals")
-  * [ThinkPad Subreddit](https://www.reddit.com/r/thinkpad/ "ThinkPad Subreddit")
+  * [ThinkWiki ](https://www.thinkwiki.org/wiki/ThinkWiki "ThinkWiki")
+  * [ThinkPad Hardware Maintenance Manuals ](https://support.lenovo.com/us/en/ "ThinkPad Hardware Maintenance Manuals")
+  * [ThinkPad Subreddit ](https://www.reddit.com/r/thinkpad/ "ThinkPad Subreddit")
 
 
 

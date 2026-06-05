@@ -15,21 +15,21 @@ Our hands-on review of Android 11, and our thoughts on the possible consequences
 
 ## Sponsored by
 
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Google starts uploading the Android 11 source code to AOSP](https://www.xda-developers.com/android-11-source-code-aosp/ "Google starts uploading the Android 11 source code to AOSP") — Google has officially released the stable version of Android 11 for its range of Pixel smartphones going back to the Pixel 2.
-  * [Android 11 Update Tracker](https://www.xda-developers.com/android-11-update-tracker/ "Android 11 Update Tracker")
-  * [Here are all the hidden changes in Android 11](https://www.xda-developers.com/hidden-changes-android-11-source-code/ "Here are all the hidden changes in Android 11")
-  * [Google announces Android 11 Go Edition with support for 2GB RAM devices](https://www.xda-developers.com/google-announces-android-11-go-edition-2gb-ram-devices/ "Google announces Android 11 Go Edition with support for 2GB RAM devices")
-  * [SoftBank set to sell UK’s Arm Holdings to Nvidia](https://archive.vn/PLQr3#selection-1897.0-1899.83 "SoftBank set to sell UK’s Arm Holdings to Nvidia") — SoftBank is set to sell the UK’s Arm Holdings to US chip company Nvidia for more than $40bn
-  * [Introducing the Promoted Add-ons Pilot](https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/ "Introducing the Promoted Add-ons Pilot") — This pilot program, which will run between the end of September and the end of November 2020, aims to expand the number of add-ons we can review and verify as compliant with Mozilla policies,
-  * [Access Linux filesystems in Windows and WSL 2](https://devblogs.microsoft.com/commandline/access-linux-filesystems-in-windows-and-wsl-2/ "Access Linux filesystems in Windows and WSL 2") — WSL 2 will be offering a new feature: wsl --mount. This new parameter allows a physical disk to be attached and mounted inside WSL 2,
-  * [WSL Mount Limits](https://docs.microsoft.com/en-us/windows/wsl/wsl2-mount-disk#limitations "WSL Mount Limits")
-  * [Ubuntu 20.10 Adding Active Directory Support To The Installer](https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-20.10-Active-Directory "Ubuntu 20.10 Adding Active Directory Support To The Installer") — The "Ubiquity" installer used by the Ubuntu desktop is set to feature Active Directory (AD) integration with the upcoming Ubuntu 20.10 release.
+  * [Google starts uploading the Android 11 source code to AOSP ](https://www.xda-developers.com/android-11-source-code-aosp/ "Google starts uploading the Android 11 source code to AOSP") — Google has officially released the stable version of Android 11 for its range of Pixel smartphones going back to the Pixel 2. 
+  * [Android 11 Update Tracker ](https://www.xda-developers.com/android-11-update-tracker/ "Android 11 Update Tracker")
+  * [Here are all the hidden changes in Android 11 ](https://www.xda-developers.com/hidden-changes-android-11-source-code/ "Here are all the hidden changes in Android 11")
+  * [Google announces Android 11 Go Edition with support for 2GB RAM devices ](https://www.xda-developers.com/google-announces-android-11-go-edition-2gb-ram-devices/ "Google announces Android 11 Go Edition with support for 2GB RAM devices")
+  * [SoftBank set to sell UK’s Arm Holdings to Nvidia ](https://archive.vn/PLQr3#selection-1897.0-1899.83 "SoftBank set to sell UK’s Arm Holdings to Nvidia") — SoftBank is set to sell the UK’s Arm Holdings to US chip company Nvidia for more than $40bn 
+  * [Introducing the Promoted Add-ons Pilot ](https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/ "Introducing the Promoted Add-ons Pilot") — This pilot program, which will run between the end of September and the end of November 2020, aims to expand the number of add-ons we can review and verify as compliant with Mozilla policies, 
+  * [Access Linux filesystems in Windows and WSL 2 ](https://devblogs.microsoft.com/commandline/access-linux-filesystems-in-windows-and-wsl-2/ "Access Linux filesystems in Windows and WSL 2") — WSL 2 will be offering a new feature: wsl --mount. This new parameter allows a physical disk to be attached and mounted inside WSL 2, 
+  * [WSL Mount Limits ](https://docs.microsoft.com/en-us/windows/wsl/wsl2-mount-disk#limitations "WSL Mount Limits")
+  * [Ubuntu 20.10 Adding Active Directory Support To The Installer ](https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-20.10-Active-Directory "Ubuntu 20.10 Adding Active Directory Support To The Installer") — The "Ubiquity" installer used by the Ubuntu desktop is set to feature Active Directory (AD) integration with the upcoming Ubuntu 20.10 release. 
 
 
 

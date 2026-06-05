@@ -22,9 +22,9 @@ None
 
 ## Episode links
 
-  * [Level One Techs](https://level1techs.com/ "Level One Techs")
-  * [Chatting With Alex and Chris From The Self Hosted Podcast! - YouTube](https://www.youtube.com/watch?v=8ZZJu0uty9E&feature=youtu.be "Chatting With Alex and Chris From The Self Hosted Podcast! - YouTube")
-  * [Self Hosted Pre-Launch Party | Meetup](https://www.meetup.com/jupiterbroadcasting/events/264326965/ "Self Hosted Pre-Launch Party | Meetup")
+  * [Level One Techs ](https://level1techs.com/ "Level One Techs")
+  * [Chatting With Alex and Chris From The Self Hosted Podcast! - YouTube ](https://www.youtube.com/watch?v=8ZZJu0uty9E&feature=youtu.be "Chatting With Alex and Chris From The Self Hosted Podcast! - YouTube")
+  * [Self Hosted Pre-Launch Party | Meetup ](https://www.meetup.com/jupiterbroadcasting/events/264326965/ "Self Hosted Pre-Launch Party | Meetup")
 
 
 

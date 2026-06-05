@@ -21,15 +21,15 @@ None
 
 ## Episode links
 
-  * [ Peppermint project lead Mark Greaves has passed away.](https://forum.peppermintos.com/index.php/topic,9283.msg93570.html " Peppermint project lead Mark Greaves has passed away.") — His contributions to both Peppermint and to the desktop Linux world as a whole are incalculable and he will be sorely missed.
-  * [Mozilla lays off 70 as it waits for new products to generate revenue](https://techcrunch.com/2020/01/15/mozilla-lays-off-70-as-it-waits-for-subscription-products-to-generate-revenue/ "Mozilla lays off 70 as it waits for new products to generate revenue") — Mozilla has a strong line of sight to future revenue generation, but we are taking a more conservative approach to our finances.
-  * [Readying for the Future at Mozilla](https://blog.mozilla.org/blog/2020/01/15/readying-for-the-future-at-mozilla/ "Readying for the Future at Mozilla")
-  * [DigitalOcean is laying off staff, sources say 30-50 affected](https://techcrunch.com/2020/01/17/digitalocean-layoffs/ "DigitalOcean is laying off staff, sources say 30-50 affected")
-  * [Nextcloud Hub Announced](https://nextcloud.com/blog/the-new-standard-in-on-premises-team-collaboration-nextcloud-hub/ "Nextcloud Hub Announced") — New generation of leading content collaboration platform integrates office document editing and collaboration apps, introduces workflows, rich work spaces, file locking and more
-  * [Nextcloud 18 Changelog](https://nextcloud.com/changelog/#latest18 "Nextcloud 18 Changelog")
-  * [Huawei pitches its alternative to Google Play Store](https://www.techradar.com/news/huawei-pitches-its-alternative-to-google-play-store "Huawei pitches its alternative to Google Play Store") — Huawei Mobile Services wants to make a big splash in Europe, with thousands of apps already signed up
-  * [Huawei Quick Apps is Huawei's alternative to Google Instant Apps](https://www.xda-developers.com/huawei-quick-apps-alternative-google-instant-apps/ "Huawei Quick Apps is Huawei's alternative to Google Instant Apps")
-  * [Exclusive: Google is working to bring official Steam support to Chrome OS](https://www.androidpolice.com/2020/01/17/exclusive-google-is-working-to-bring-steam-to-chrome-os/ "Exclusive: Google is working to bring official Steam support to Chrome OS") — The Chrome team is working—very possibly in cooperation with Valve—to bring Steam to Chromebooks.
+  * [Peppermint project lead Mark Greaves has passed away. ](https://forum.peppermintos.com/index.php/topic,9283.msg93570.html " Peppermint project lead Mark Greaves has passed away.") — His contributions to both Peppermint and to the desktop Linux world as a whole are incalculable and he will be sorely missed. 
+  * [Mozilla lays off 70 as it waits for new products to generate revenue ](https://techcrunch.com/2020/01/15/mozilla-lays-off-70-as-it-waits-for-subscription-products-to-generate-revenue/ "Mozilla lays off 70 as it waits for new products to generate revenue") — Mozilla has a strong line of sight to future revenue generation, but we are taking a more conservative approach to our finances. 
+  * [Readying for the Future at Mozilla ](https://blog.mozilla.org/blog/2020/01/15/readying-for-the-future-at-mozilla/ "Readying for the Future at Mozilla")
+  * [DigitalOcean is laying off staff, sources say 30-50 affected ](https://techcrunch.com/2020/01/17/digitalocean-layoffs/ "DigitalOcean is laying off staff, sources say 30-50 affected")
+  * [Nextcloud Hub Announced ](https://nextcloud.com/blog/the-new-standard-in-on-premises-team-collaboration-nextcloud-hub/ "Nextcloud Hub Announced") — New generation of leading content collaboration platform integrates office document editing and collaboration apps, introduces workflows, rich work spaces, file locking and more 
+  * [Nextcloud 18 Changelog ](https://nextcloud.com/changelog/#latest18 "Nextcloud 18 Changelog")
+  * [Huawei pitches its alternative to Google Play Store ](https://www.techradar.com/news/huawei-pitches-its-alternative-to-google-play-store "Huawei pitches its alternative to Google Play Store") — Huawei Mobile Services wants to make a big splash in Europe, with thousands of apps already signed up 
+  * [Huawei Quick Apps is Huawei's alternative to Google Instant Apps ](https://www.xda-developers.com/huawei-quick-apps-alternative-google-instant-apps/ "Huawei Quick Apps is Huawei's alternative to Google Instant Apps")
+  * [Exclusive: Google is working to bring official Steam support to Chrome OS ](https://www.androidpolice.com/2020/01/17/exclusive-google-is-working-to-bring-steam-to-chrome-os/ "Exclusive: Google is working to bring official Steam support to Chrome OS") — The Chrome team is working—very possibly in cooperation with Valve—to bring Steam to Chromebooks. 
 
 
 

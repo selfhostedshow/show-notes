@@ -23,14 +23,14 @@ None
 
 ## Episode links
 
-  * [System76](https://system76.com/ "System76") — Linux Laptops, Desktops, and Servers
-  * [LINUX Unplugged 360: The Hard Work of Hardware](https://linuxunplugged.com/360 "LINUX Unplugged 360: The Hard Work of Hardware") — Special guest Jeremy Soller, Principal Engineer at System76
-  * [Brunch with Brent: Emma Marshall](https://extras.show/33 "Brunch with Brent: Emma Marshall") — Happiness Manager at System76
-  * [Pop!_OS by System76](https://pop.system76.com/ "Pop!_OS by System76")
-  * [SpaceX](https://www.spacex.com/ "SpaceX")
-  * [13 Minutes to the Moon, Ep.05 The fourth astronaut - BBC World Service](https://www.bbc.co.uk/programmes/w3csz4dn "13 Minutes to the Moon, Ep.05 The fourth astronaut - BBC World Service") — The computer that got us to the moon.
-  * [Carl Richell - @carlrichell on Twitter](https://twitter.com/carlrichell "Carl Richell - @carlrichell on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [System76 ](https://system76.com/ "System76") — Linux Laptops, Desktops, and Servers 
+  * [LINUX Unplugged 360: The Hard Work of Hardware ](https://linuxunplugged.com/360 "LINUX Unplugged 360: The Hard Work of Hardware") — Special guest Jeremy Soller, Principal Engineer at System76 
+  * [Brunch with Brent: Emma Marshall ](https://extras.show/33 "Brunch with Brent: Emma Marshall") — Happiness Manager at System76 
+  * [Pop!_OS by System76 ](https://pop.system76.com/ "Pop!_OS by System76")
+  * [SpaceX ](https://www.spacex.com/ "SpaceX")
+  * [13 Minutes to the Moon, Ep.05 The fourth astronaut - BBC World Service ](https://www.bbc.co.uk/programmes/w3csz4dn "13 Minutes to the Moon, Ep.05 The fourth astronaut - BBC World Service") — The computer that got us to the moon. 
+  * [Carl Richell - @carlrichell on Twitter ](https://twitter.com/carlrichell "Carl Richell - @carlrichell on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

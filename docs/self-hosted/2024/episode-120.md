@@ -22,13 +22,13 @@ Alex goes head-to-head with budget VPS providers, which gets us into a classic d
 
 ## Episode links
 
-  * [⚡ Grab Sats with Strike Around the World](https://strike.me/download/ "⚡ Grab Sats with Strike Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 36 countries. 
-  * [🎉 Boost with Fountain FM](https://www.fountain.fm/ "🎉 Boost with Fountain FM") — Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts.
-  * [LowEndTalk](https://lowendtalk.com/ "LowEndTalk")
-  * [Configuring Proxmox For Hetzner - YouTube](https://www.youtube.com/watch?v=zMVhl9GtX_0 "Configuring Proxmox For Hetzner - YouTube") — Throughout the video, we delve into the nitty-gritty of Proxmox configuration, highlighting key steps such as booting from the drives, setting up network devices, and managing SSH access over Port 2222. I'll walk you through running and connecting to your virtual machines, ensuring you understand every command and its purpose.
-  * [Proxmox VE Helper-Scripts](https://tteck.github.io/Proxmox/ "Proxmox VE Helper-Scripts") — Scripts for Streamlining Your Homelab with Proxmox VE
-  * [Migrate to Proxmox VE](https://pve.proxmox.com/wiki/Migrate_to_Proxmox_VE "Migrate to Proxmox VE") — This article aims to assist users in transitioning to Proxmox Virtual Environment. The first part explains the core concepts of Proxmox VE, while the second part outlines several methods for migrating VMs to Proxmox VE. Although it was written with VMware as the source in mind, most sections should apply to other source hypervisors as well. 
-  * [Dockge](https://github.com/louislam/dockge "Dockge") — A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
+  * [⚡ Grab Sats with Strike Around the World ](https://strike.me/download/ "⚡ Grab Sats with Strike Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 36 countries. 
+  * [🎉 Boost with Fountain FM ](https://www.fountain.fm/ "🎉 Boost with Fountain FM") — Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts. 
+  * [LowEndTalk ](https://lowendtalk.com/ "LowEndTalk")
+  * [Configuring Proxmox For Hetzner - YouTube ](https://www.youtube.com/watch?v=zMVhl9GtX_0 "Configuring Proxmox For Hetzner - YouTube") — Throughout the video, we delve into the nitty-gritty of Proxmox configuration, highlighting key steps such as booting from the drives, setting up network devices, and managing SSH access over Port 2222. I'll walk you through running and connecting to your virtual machines, ensuring you understand every command and its purpose. 
+  * [Proxmox VE Helper-Scripts ](https://tteck.github.io/Proxmox/ "Proxmox VE Helper-Scripts") — Scripts for Streamlining Your Homelab with Proxmox VE 
+  * [Migrate to Proxmox VE ](https://pve.proxmox.com/wiki/Migrate_to_Proxmox_VE "Migrate to Proxmox VE") — This article aims to assist users in transitioning to Proxmox Virtual Environment. The first part explains the core concepts of Proxmox VE, while the second part outlines several methods for migrating VMs to Proxmox VE. Although it was written with VMware as the source in mind, most sections should apply to other source hypervisors as well. 
+  * [Dockge ](https://github.com/louislam/dockge "Dockge") — A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager. 
 
 
 

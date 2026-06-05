@@ -16,26 +16,26 @@ What's new in Debian 11, and an example of the Linux Foundation funneling free s
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Debian 11 “bullseye” Released](https://www.debian.org/News/2021/20210814 "Debian 11 “bullseye” Released") — After 2 years, 1 month, and 9 days of development, the Debian project is proud to present its new stable version 11 (code name bullseye), which will be supported for the next 5 years thanks to the combined work of the Debian Security team and the Debian Long Term Support team.
+  * [Debian 11 “bullseye” Released ](https://www.debian.org/News/2021/20210814 "Debian 11 “bullseye” Released") — After 2 years, 1 month, and 9 days of development, the Debian project is proud to present its new stable version 11 (code name bullseye), which will be supported for the next 5 years thanks to the combined work of the Debian Security team and the Debian Long Term Support team. 
   * [Phoronix: Debian 11 “Bullseye” Released ](https://www.phoronix.com/scan.php?page=news_item&px=Debian-11-Released "Phoronix: Debian 11 “Bullseye” Released
 ")
 
-  * [Debian Live install images](https://www.debian.org/CD/live/ "Debian Live install images")
-  * [Microsoft & Others Form The eBPF Foundation - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=eBPF-Foundation "Microsoft & Others Form The eBPF Foundation - Phoronix") — For driving eBPF usage moving forward for these sandboxed programs within the Linux kernel, the eBPF Foundation has been formed with backing from The Linux Foundation, Microsoft, Facebook, Netflix, Google, and others. 
-  * [Linux Foundation Press Release](https://www.linuxfoundation.org/press-release/facebook-google-isovalent-microsoft-and-netflix-launch-ebpf-foundation-as-part-of-the-linux-foundation/ "Linux Foundation Press Release")
-  * [eBPF - Introduction, Tutorials & Community Resources](https://ebpf.io/ "eBPF - Introduction, Tutorials & Community Resources")
-  * [RISC-V Developers Continue Working On KVM Support](https://www.phoronix.com/scan.php?page=news_item&px=KVM-RISC-V-Virtualization-v19 "RISC-V Developers Continue Working On KVM Support") — This KVM RISC-V support has been led by Western Digital who remains very active with various elements of RISC-V Linux support.
-  * [Progress Report: August 2021 - Asahi Linux](https://asahilinux.org/2021/08/progress-report-august-2021/ "Progress Report: August 2021 - Asahi Linux")
-  * [Restore/upgrade firmware of iOS devices](https://github.com/libimobiledevice/idevicerestore "Restore/upgrade firmware of iOS devices")
-  * [Apple M1 PCIe Driver Under Review For The Linux Kernel](https://www.phoronix.com/scan.php?page=news_item&px=Apple-M1-PCIe-Linux-RFC "Apple M1 PCIe Driver Under Review For The Linux Kernel")
-  * [Elementary OS 6 Odin released on a ‘pay what you want’ basis • The Register](https://www.theregister.com/2021/08/12/elementary_os_6_odin/ "Elementary OS 6 Odin released on a ‘pay what you want’ basis • The Register")
-  * [Pantheon-tweaks: A system settings panel for the Pantheon desktop environment.](https://github.com/pantheon-tweaks/pantheon-tweaks "Pantheon-tweaks: A system settings panel for the Pantheon desktop environment.")
+  * [Debian Live install images ](https://www.debian.org/CD/live/ "Debian Live install images")
+  * [Microsoft & Others Form The eBPF Foundation - Phoronix ](https://www.phoronix.com/scan.php?page=news_item&px=eBPF-Foundation "Microsoft & Others Form The eBPF Foundation - Phoronix") — For driving eBPF usage moving forward for these sandboxed programs within the Linux kernel, the eBPF Foundation has been formed with backing from The Linux Foundation, Microsoft, Facebook, Netflix, Google, and others. 
+  * [Linux Foundation Press Release ](https://www.linuxfoundation.org/press-release/facebook-google-isovalent-microsoft-and-netflix-launch-ebpf-foundation-as-part-of-the-linux-foundation/ "Linux Foundation Press Release")
+  * [eBPF - Introduction, Tutorials & Community Resources ](https://ebpf.io/ "eBPF - Introduction, Tutorials & Community Resources")
+  * [RISC-V Developers Continue Working On KVM Support ](https://www.phoronix.com/scan.php?page=news_item&px=KVM-RISC-V-Virtualization-v19 "RISC-V Developers Continue Working On KVM Support") — This KVM RISC-V support has been led by Western Digital who remains very active with various elements of RISC-V Linux support. 
+  * [Progress Report: August 2021 - Asahi Linux ](https://asahilinux.org/2021/08/progress-report-august-2021/ "Progress Report: August 2021 - Asahi Linux")
+  * [Restore/upgrade firmware of iOS devices ](https://github.com/libimobiledevice/idevicerestore "Restore/upgrade firmware of iOS devices")
+  * [Apple M1 PCIe Driver Under Review For The Linux Kernel ](https://www.phoronix.com/scan.php?page=news_item&px=Apple-M1-PCIe-Linux-RFC "Apple M1 PCIe Driver Under Review For The Linux Kernel")
+  * [Elementary OS 6 Odin released on a ‘pay what you want’ basis • The Register ](https://www.theregister.com/2021/08/12/elementary_os_6_odin/ "Elementary OS 6 Odin released on a ‘pay what you want’ basis • The Register")
+  * [Pantheon-tweaks: A system settings panel for the Pantheon desktop environment. ](https://github.com/pantheon-tweaks/pantheon-tweaks "Pantheon-tweaks: A system settings panel for the Pantheon desktop environment.")
 
 
 

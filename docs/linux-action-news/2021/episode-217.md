@@ -16,22 +16,22 @@ Fedora's massive endorsement this week that went unnoticed, why RISC-V mobile de
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [The world’s first RISC-V phone might be just around the corner](https://tuxphones.com/sipeed-rv64-first-risc-v-rv64-phone-linux-2022-2023/ "The world’s first RISC-V phone might be just around the corner") — The Sipeed Maix Amigo kit from 2020 was among the first RISC-V PDAs
-  * [A $16.90 Allwinner D1 Linux RISC-V board](https://www.cnx-software.com/2021/11/24/sipeed-licheerv-a-low-cost-allwinner-d1-linux-risc-v-board/ "A $16.90 Allwinner D1 Linux RISC-V board")
-  * [Sipeed’s $17 LycheeRV Board Has Allwinner RISC-V Processor](https://www.tomshardware.com/amp/news/sipeed-lycheerv-risc-v "Sipeed’s $17 LycheeRV Board Has Allwinner RISC-V Processor")
-  * [LLVM Is Still Working On Relicensing, Needs Help Locating Some Past Contributors](https://www.phoronix.com/scan.php?page=news_item&px=LLVM-Relicensing-Help "LLVM Is Still Working On Relicensing, Needs Help Locating Some Past Contributors") — LLVM is seeking help in trying to track down some past individual contributors and organizations so they can proceed with their relicensing of the massive code-base.
-  * [LLVM relicensing - long tail - Google Sheets](https://docs.google.com/spreadsheets/d/18_0Hog_eSwES8lKwf7WJal3yBwwcYfvPu1yCfZnTcek/edit#gid=1357290134 "LLVM relicensing - long tail - Google Sheets")
-  * [The LLVM Project Blog](https://blog.llvm.org/posts/2021-11-18-relicensing-update/ "The LLVM Project Blog")
-  * [German state planning to switch 25,000 PCs to LibreOffice](https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/ "German state planning to switch 25,000 PCs to LibreOffice") — The north-German state of Schleswig-Holstein plans to switch to open source software, including LibreOffice, in its administration and schools.
-  * [Amazon Linux 2022 Released - Based On Fedora With Changes](https://www.phoronix.com/scan.php?page=news_item&px=Amazon-Linux-2022-Preview "Amazon Linux 2022 Released - Based On Fedora With Changes") — Amazon Linux / Amazon Linux 2 had been based on a combination of RHEL and Fedora packages while in today's Amazon Linux 2022 release they note it's explicitly based on Fedora. 
-  * [amazon-linux-2022: Amazon Linux 2022](https://github.com/amazonlinux/amazon-linux-2022 "amazon-linux-2022: Amazon Linux 2022")
-  * [Announcing preview of Amazon Linux 2022](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-amazon-linux-2022/ "Announcing preview of Amazon Linux 2022")
+  * [The world’s first RISC-V phone might be just around the corner ](https://tuxphones.com/sipeed-rv64-first-risc-v-rv64-phone-linux-2022-2023/ "The world’s first RISC-V phone might be just around the corner") — The Sipeed Maix Amigo kit from 2020 was among the first RISC-V PDAs 
+  * [A $16.90 Allwinner D1 Linux RISC-V board ](https://www.cnx-software.com/2021/11/24/sipeed-licheerv-a-low-cost-allwinner-d1-linux-risc-v-board/ "A $16.90 Allwinner D1 Linux RISC-V board")
+  * [Sipeed’s $17 LycheeRV Board Has Allwinner RISC-V Processor ](https://www.tomshardware.com/amp/news/sipeed-lycheerv-risc-v "Sipeed’s $17 LycheeRV Board Has Allwinner RISC-V Processor")
+  * [LLVM Is Still Working On Relicensing, Needs Help Locating Some Past Contributors ](https://www.phoronix.com/scan.php?page=news_item&px=LLVM-Relicensing-Help "LLVM Is Still Working On Relicensing, Needs Help Locating Some Past Contributors") — LLVM is seeking help in trying to track down some past individual contributors and organizations so they can proceed with their relicensing of the massive code-base. 
+  * [LLVM relicensing - long tail - Google Sheets ](https://docs.google.com/spreadsheets/d/18_0Hog_eSwES8lKwf7WJal3yBwwcYfvPu1yCfZnTcek/edit#gid=1357290134 "LLVM relicensing - long tail - Google Sheets")
+  * [The LLVM Project Blog ](https://blog.llvm.org/posts/2021-11-18-relicensing-update/ "The LLVM Project Blog")
+  * [German state planning to switch 25,000 PCs to LibreOffice ](https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/ "German state planning to switch 25,000 PCs to LibreOffice") — The north-German state of Schleswig-Holstein plans to switch to open source software, including LibreOffice, in its administration and schools. 
+  * [Amazon Linux 2022 Released - Based On Fedora With Changes ](https://www.phoronix.com/scan.php?page=news_item&px=Amazon-Linux-2022-Preview "Amazon Linux 2022 Released - Based On Fedora With Changes") — Amazon Linux / Amazon Linux 2 had been based on a combination of RHEL and Fedora packages while in today's Amazon Linux 2022 release they note it's explicitly based on Fedora. 
+  * [amazon-linux-2022: Amazon Linux 2022 ](https://github.com/amazonlinux/amazon-linux-2022 "amazon-linux-2022: Amazon Linux 2022")
+  * [Announcing preview of Amazon Linux 2022 ](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-amazon-linux-2022/ "Announcing preview of Amazon Linux 2022")
 
 
 

@@ -20,7 +20,7 @@ None
 
 ## Episode links
 
-  * [Details on Dell's new Consumer PC Portfolio](https://blog.dell.com/en-us/dells-new-consumer-pc-portfolio-unveiled-ifa-2019/ "Details on Dell's new Consumer PC Portfolio")
+  * [Details on Dell's new Consumer PC Portfolio ](https://blog.dell.com/en-us/dells-new-consumer-pc-portfolio-unveiled-ifa-2019/ "Details on Dell's new Consumer PC Portfolio")
 
 
 

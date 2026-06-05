@@ -20,9 +20,9 @@ None
 
 ## Episode links
 
-  * [CityCoins — MiamiCoin](https://www.citycoins.co/miamicoin "CityCoins — MiamiCoin") — MiamiCoin gives citizens and supporters the power to support, improve and program the Magic City.
-  * [Cash App - Bitcoin](https://cash.app/bitcoin "Cash App - Bitcoin")
-  * [Bitcoin and energy consumption](https://www.youtube.com/watch?v=TeVvtSCfcQ4 "Bitcoin and energy consumption") — Michael Saylor on the Bitcoin Environment Argument - YouTube
+  * [CityCoins — MiamiCoin ](https://www.citycoins.co/miamicoin "CityCoins — MiamiCoin") — MiamiCoin gives citizens and supporters the power to support, improve and program the Magic City. 
+  * [Cash App - Bitcoin ](https://cash.app/bitcoin "Cash App - Bitcoin")
+  * [Bitcoin and energy consumption ](https://www.youtube.com/watch?v=TeVvtSCfcQ4 "Bitcoin and energy consumption") — Michael Saylor on the Bitcoin Environment Argument - YouTube 
 
 
 

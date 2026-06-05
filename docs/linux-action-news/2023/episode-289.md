@@ -22,18 +22,18 @@ What we like about Fedora 38, why the Rust foundation is in hot water, and more.
 
 ## Episode links
 
-  * [Announcing Fedora Linux 38](https://fedoramagazine.org/announcing-fedora-38/ "Announcing Fedora Linux 38") — The Fedora Linux 38 release is here! With this release, we’re starting a new on-time streak. In fact, we’re ready a week early!
-  * [What’s new in Fedora Workstation 38](https://fedoramagazine.org/whats-new-fedora-38-workstation/ "What’s new in Fedora Workstation 38")
-  * [Rust Foundation apologizes for trademark policy confusion](https://www.theregister.com/2023/04/17/rust_foundation_apologizes_trademark_policy/ "Rust Foundation apologizes for trademark policy confusion") — The Rust Foundation on Monday apologized for confusion caused by the organization's proposed trademark policy changes.
-  * [A note on the Trademark Policy Draft](https://blog.rust-lang.org/inside-rust/2023/04/12/trademark-policy-draft-feedback.html "A note on the Trademark Policy Draft")
-  * [Rust Foundation - Rust Trademark Policy Draft Revision](https://foundation.rust-lang.org/news/rust-trademark-policy-draft-revision-next-steps/ "Rust Foundation - Rust Trademark Policy Draft Revision")
-  * [Canonical Livepatch gets even better](https://ubuntu.com//blog/canonical-livepatch-gets-even-better-now-supporting-hardware-enablement-kernels "Canonical Livepatch gets even better") — Now supporting Hardware Enablement Kernels.
-  * [Proton 8.0-1 Published With More Game Support](https://www.phoronix.com/news/Proton-8.0-1 "Proton 8.0-1 Published With More Game Support") — Proton 8.0-1 is the much awaited re-base of Proton against the Wine 8.0 state
-  * [Pierre-Loup Griffais on Twitter](https://twitter.com/Plagman2/status/1648029861032890368 "Pierre-Loup Griffais on Twitter") — “Proton 8.0 is now available with many changes. Our biggest rebase to date! Note: it requires a GPU with Vulkan 1.3 support. Experimental-8.0 will follow sometime this week. 
-  * [LFNW Call for Papers](https://sessionize.com/lfnw2023/ "LFNW Call for Papers") — We invite you to submit your proposal to speak at LFNW2023! We're seeking both experienced technical presenters, as well as first-timers to present to a hybrid audience. 
-  * [LinuxFest Northwest 2023](https://linuxfestnorthwest.org/ "LinuxFest Northwest 2023")
-  * [In letter to EU, open source bodies say Cyber Resilience Act could have ‘chilling effect’ on software development](https://techcrunch.com/2023/04/18/in-letter-to-european-commission-open-source-bodies-say-cyber-resilience-act-could-have-chilling-effect-on-software-development "In letter to EU, open source bodies say Cyber Resilience Act could have ‘chilling effect’ on software development") — Penalties for non-compliance may include fines of up to €15 million, or 2.5% of global turnover.
-  * [Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act "Cyber Resilience Act")
+  * [Announcing Fedora Linux 38 ](https://fedoramagazine.org/announcing-fedora-38/ "Announcing Fedora Linux 38") — The Fedora Linux 38 release is here! With this release, we’re starting a new on-time streak. In fact, we’re ready a week early! 
+  * [What’s new in Fedora Workstation 38 ](https://fedoramagazine.org/whats-new-fedora-38-workstation/ "What’s new in Fedora Workstation 38")
+  * [Rust Foundation apologizes for trademark policy confusion ](https://www.theregister.com/2023/04/17/rust_foundation_apologizes_trademark_policy/ "Rust Foundation apologizes for trademark policy confusion") — The Rust Foundation on Monday apologized for confusion caused by the organization's proposed trademark policy changes. 
+  * [A note on the Trademark Policy Draft ](https://blog.rust-lang.org/inside-rust/2023/04/12/trademark-policy-draft-feedback.html "A note on the Trademark Policy Draft")
+  * [Rust Foundation - Rust Trademark Policy Draft Revision ](https://foundation.rust-lang.org/news/rust-trademark-policy-draft-revision-next-steps/ "Rust Foundation - Rust Trademark Policy Draft Revision")
+  * [Canonical Livepatch gets even better ](https://ubuntu.com//blog/canonical-livepatch-gets-even-better-now-supporting-hardware-enablement-kernels "Canonical Livepatch gets even better") — Now supporting Hardware Enablement Kernels. 
+  * [Proton 8.0-1 Published With More Game Support ](https://www.phoronix.com/news/Proton-8.0-1 "Proton 8.0-1 Published With More Game Support") — Proton 8.0-1 is the much awaited re-base of Proton against the Wine 8.0 state 
+  * [Pierre-Loup Griffais on Twitter ](https://twitter.com/Plagman2/status/1648029861032890368 "Pierre-Loup Griffais on Twitter") — “Proton 8.0 is now available with many changes. Our biggest rebase to date! Note: it requires a GPU with Vulkan 1.3 support. Experimental-8.0 will follow sometime this week. 
+  * [LFNW Call for Papers ](https://sessionize.com/lfnw2023/ "LFNW Call for Papers") — We invite you to submit your proposal to speak at LFNW2023! We're seeking both experienced technical presenters, as well as first-timers to present to a hybrid audience. 
+  * [LinuxFest Northwest 2023 ](https://linuxfestnorthwest.org/ "LinuxFest Northwest 2023")
+  * [In letter to EU, open source bodies say Cyber Resilience Act could have ‘chilling effect’ on software development ](https://techcrunch.com/2023/04/18/in-letter-to-european-commission-open-source-bodies-say-cyber-resilience-act-could-have-chilling-effect-on-software-development "In letter to EU, open source bodies say Cyber Resilience Act could have ‘chilling effect’ on software development") — Penalties for non-compliance may include fines of up to €15 million, or 2.5% of global turnover. 
+  * [Cyber Resilience Act ](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act "Cyber Resilience Act")
 
 
 

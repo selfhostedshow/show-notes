@@ -21,29 +21,29 @@ Brent sits down with Tim Canham, Senior Software Engineer at NASA's Jet Propulsi
 
 ## Episode links
 
-  * [LINUX Unplugged](https://linuxunplugged.com/ "LINUX Unplugged")
-  * [LINUX Unplugged - Tim Canham](https://linuxunplugged.com/guests/timcanham "LINUX Unplugged - Tim Canham")
-  * [Timothy Canham - People Profile - NASA Mars](https://mars.nasa.gov/people/profile/index.cfm?id=23038 "Timothy Canham - People Profile - NASA Mars")
-  * [NASA Jet Propulsion Laboratory (JPL) - Robotic Space Exploration](https://www.jpl.nasa.gov/ "NASA Jet Propulsion Laboratory \(JPL\) - Robotic Space Exploration")
-  * [Mars Helicopter - NASA Mars](https://mars.nasa.gov/technology/helicopter/#Overview "Mars Helicopter - NASA Mars")
-  * [Mars Perseverance Rover | NASA](https://www.nasa.gov/perseverance "Mars Perseverance Rover | NASA")
-  * [Cassini | NASA](https://www.nasa.gov/mission_pages/cassini/main/index.html "Cassini | NASA")
-  * [Curiosity – NASA Mars Exploration](https://mars.nasa.gov/msl/home/ "Curiosity – NASA Mars Exploration")
-  * [Sun Microsystems - Wikipedia](https://en.wikipedia.org/wiki/Sun_Microsystems "Sun Microsystems - Wikipedia")
-  * [Oracle Solaris - Wikipedia](https://en.wikipedia.org/wiki/Oracle_Solaris "Oracle Solaris - Wikipedia")
-  * [Fry's Electronics - Wikipedia](https://en.wikipedia.org/wiki/Fry%27s_Electronics "Fry's Electronics - Wikipedia")
-  * [Matplotlib — Visualization with Python](https://matplotlib.org/ "Matplotlib — Visualization with Python")
-  * [Elasticsearch](https://www.elastic.co/elasticsearch/ "Elasticsearch") — The Official Distributed Search & Analytics Engine
-  * [BBC World Service - 13 Minutes to the Moon](https://www.bbc.co.uk/programmes/w13xttx2 "BBC World Service - 13 Minutes to the Moon")
-  * [BBC World Service - 13 Minutes to the Moon, Ep.05 The fourth astronaut](https://www.bbc.co.uk/programmes/w3csz4dn "BBC World Service - 13 Minutes to the Moon, Ep.05 The fourth astronaut") — The computer that got us to the moon. The size of a briefcase, there had never been anything like it. Apollo 11 was “the first time software ran on the moon”.
-  * [Impostor syndrome - Wikipedia](https://en.wikipedia.org/wiki/Impostor_syndrome "Impostor syndrome - Wikipedia")
-  * [How NASA Designed a Helicopter That Could Fly Autonomously on Mars - IEEE Spectrum](https://spectrum.ieee.org/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars "How NASA Designed a Helicopter That Could Fly Autonomously on Mars - IEEE Spectrum")
-  * [GitHub - F´ - A Flight Software and Embedded Systems Framework](https://github.com/nasa/fprime "GitHub - F´ - A Flight Software and Embedded Systems Framework")
-  * [F´ - A Flight Software and Embedded Systems Framework](https://nasa.github.io/fprime/ "F´ - A Flight Software and Embedded Systems Framework")
-  * [Meet the Open-Source Software Powering NASA’s Ingenuity Mars Helicopter](https://www.jpl.nasa.gov/news/meet-the-open-source-software-powering-nasas-ingenuity-mars-helicopter "Meet the Open-Source Software Powering NASA’s Ingenuity Mars Helicopter")
-  * [quickemu](https://github.com/quickemu-project/quickemu "quickemu") — Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-  * [MythTV, Open Source DVR](https://www.mythtv.org/ "MythTV, Open Source DVR")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [LINUX Unplugged ](https://linuxunplugged.com/ "LINUX Unplugged")
+  * [LINUX Unplugged - Tim Canham ](https://linuxunplugged.com/guests/timcanham "LINUX Unplugged - Tim Canham")
+  * [Timothy Canham - People Profile - NASA Mars ](https://mars.nasa.gov/people/profile/index.cfm?id=23038 "Timothy Canham - People Profile - NASA Mars")
+  * [NASA Jet Propulsion Laboratory (JPL) - Robotic Space Exploration ](https://www.jpl.nasa.gov/ "NASA Jet Propulsion Laboratory \(JPL\) - Robotic Space Exploration")
+  * [Mars Helicopter - NASA Mars ](https://mars.nasa.gov/technology/helicopter/#Overview "Mars Helicopter - NASA Mars")
+  * [Mars Perseverance Rover | NASA ](https://www.nasa.gov/perseverance "Mars Perseverance Rover | NASA")
+  * [Cassini | NASA ](https://www.nasa.gov/mission_pages/cassini/main/index.html "Cassini | NASA")
+  * [Curiosity – NASA Mars Exploration ](https://mars.nasa.gov/msl/home/ "Curiosity – NASA Mars Exploration")
+  * [Sun Microsystems - Wikipedia ](https://en.wikipedia.org/wiki/Sun_Microsystems "Sun Microsystems - Wikipedia")
+  * [Oracle Solaris - Wikipedia ](https://en.wikipedia.org/wiki/Oracle_Solaris "Oracle Solaris - Wikipedia")
+  * [Fry's Electronics - Wikipedia ](https://en.wikipedia.org/wiki/Fry%27s_Electronics "Fry's Electronics - Wikipedia")
+  * [Matplotlib — Visualization with Python ](https://matplotlib.org/ "Matplotlib — Visualization with Python")
+  * [Elasticsearch ](https://www.elastic.co/elasticsearch/ "Elasticsearch") — The Official Distributed Search & Analytics Engine 
+  * [BBC World Service - 13 Minutes to the Moon ](https://www.bbc.co.uk/programmes/w13xttx2 "BBC World Service - 13 Minutes to the Moon")
+  * [BBC World Service - 13 Minutes to the Moon, Ep.05 The fourth astronaut ](https://www.bbc.co.uk/programmes/w3csz4dn "BBC World Service - 13 Minutes to the Moon, Ep.05 The fourth astronaut") — The computer that got us to the moon. The size of a briefcase, there had never been anything like it. Apollo 11 was “the first time software ran on the moon”. 
+  * [Impostor syndrome - Wikipedia ](https://en.wikipedia.org/wiki/Impostor_syndrome "Impostor syndrome - Wikipedia")
+  * [How NASA Designed a Helicopter That Could Fly Autonomously on Mars - IEEE Spectrum ](https://spectrum.ieee.org/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars "How NASA Designed a Helicopter That Could Fly Autonomously on Mars - IEEE Spectrum")
+  * [GitHub - F´ - A Flight Software and Embedded Systems Framework ](https://github.com/nasa/fprime "GitHub - F´ - A Flight Software and Embedded Systems Framework")
+  * [F´ - A Flight Software and Embedded Systems Framework ](https://nasa.github.io/fprime/ "F´ - A Flight Software and Embedded Systems Framework")
+  * [Meet the Open-Source Software Powering NASA’s Ingenuity Mars Helicopter ](https://www.jpl.nasa.gov/news/meet-the-open-source-software-powering-nasas-ingenuity-mars-helicopter "Meet the Open-Source Software Powering NASA’s Ingenuity Mars Helicopter")
+  * [quickemu ](https://github.com/quickemu-project/quickemu "quickemu") — Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. 
+  * [MythTV, Open Source DVR ](https://www.mythtv.org/ "MythTV, Open Source DVR")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

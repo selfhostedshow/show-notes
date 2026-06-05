@@ -15,19 +15,19 @@ Projects once thought dead are now full of life, with new major releases and we 
 
 ## Sponsored by
 
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Ubuntu Touch OTA 4 RC released](https://ubports.com/blog/ubports-blog-1/post/ubuntu-touch-rc-ota-4-148 "Ubuntu Touch OTA 4 RC released")
-  * [Android X86 8.1 RC released](http://www.android-x86.org/releases/releasenote-8-1-rc1 "Android X86 8.1 RC released")
-  * [Fuchsia will support Linux apps](https://9to5google.com/2018/06/15/fuchsia-friday-machina-brings-support-for-running-linux-on-top-of-fuchsia/ "Fuchsia will support Linux apps")
-  * [Atari’s PR train goes off the rails](https://www.theregister.co.uk/2018/06/21/atari_interview_in_full/ "Atari’s PR train goes off the rails")
-  * [Welcome to Fedora CoreOS](https://fedoramagazine.org/announcing-fedora-coreos/ "Welcome to Fedora CoreOS")
-  * [A first look at desktop metrics](https://blog.ubuntu.com/2018/06/22/a-first-look-at-desktop-metrics "A first look at desktop metrics")
-  * [Ubuntu Data Usage Infographic](https://itsfoss.com/ubuntu-data-collection-stats/ "Ubuntu Data Usage Infographic")
+  * [Ubuntu Touch OTA 4 RC released ](https://ubports.com/blog/ubports-blog-1/post/ubuntu-touch-rc-ota-4-148 "Ubuntu Touch OTA 4 RC released")
+  * [Android X86 8.1 RC released ](http://www.android-x86.org/releases/releasenote-8-1-rc1 "Android X86 8.1 RC released")
+  * [Fuchsia will support Linux apps ](https://9to5google.com/2018/06/15/fuchsia-friday-machina-brings-support-for-running-linux-on-top-of-fuchsia/ "Fuchsia will support Linux apps")
+  * [Atari’s PR train goes off the rails ](https://www.theregister.co.uk/2018/06/21/atari_interview_in_full/ "Atari’s PR train goes off the rails")
+  * [Welcome to Fedora CoreOS ](https://fedoramagazine.org/announcing-fedora-coreos/ "Welcome to Fedora CoreOS")
+  * [A first look at desktop metrics ](https://blog.ubuntu.com/2018/06/22/a-first-look-at-desktop-metrics "A first look at desktop metrics")
+  * [Ubuntu Data Usage Infographic ](https://itsfoss.com/ubuntu-data-collection-stats/ "Ubuntu Data Usage Infographic")
 
 
 

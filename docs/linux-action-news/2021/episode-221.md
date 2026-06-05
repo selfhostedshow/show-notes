@@ -16,17 +16,17 @@ We kick off our annual predictions episode with what we got right and wrong this
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Previous Predictions: Linux Action News 169](https://linuxactionnews.com/169 "Previous Predictions: Linux Action News 169")
-  * [Year in Review: How we’re curating the web with you and our top Pocket features](https://blog.mozilla.org/en/products/year-in-review-how-were-curating-the-web-with-you-and-our-top-pocket-features/ "Year in Review: How we’re curating the web with you and our top Pocket features")
-  * [Mozilla expects to generate more than $500M in revenue this year](https://techcrunch.com/2021/12/13/mozilla-expects-to-generate-more-than-500m-in-revenue-this-year/ "Mozilla expects to generate more than $500M in revenue this year")
-  * [Pocket and Slate Podcast Partnership Announcement](https://blog.mozilla.org/en/products/pocket/pocket-slate-podcast-partnership-announcement/ "Pocket and Slate Podcast Partnership Announcement")
-  * [Asahi Linux](https://asahilinux.org/ "Asahi Linux")
+  * [Previous Predictions: Linux Action News 169 ](https://linuxactionnews.com/169 "Previous Predictions: Linux Action News 169")
+  * [Year in Review: How we’re curating the web with you and our top Pocket features ](https://blog.mozilla.org/en/products/year-in-review-how-were-curating-the-web-with-you-and-our-top-pocket-features/ "Year in Review: How we’re curating the web with you and our top Pocket features")
+  * [Mozilla expects to generate more than $500M in revenue this year ](https://techcrunch.com/2021/12/13/mozilla-expects-to-generate-more-than-500m-in-revenue-this-year/ "Mozilla expects to generate more than $500M in revenue this year")
+  * [Pocket and Slate Podcast Partnership Announcement ](https://blog.mozilla.org/en/products/pocket/pocket-slate-podcast-partnership-announcement/ "Pocket and Slate Podcast Partnership Announcement")
+  * [Asahi Linux ](https://asahilinux.org/ "Asahi Linux")
 
 
 

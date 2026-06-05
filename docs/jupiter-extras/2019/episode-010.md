@@ -20,15 +20,15 @@ None
 
 ## Episode links
 
-  * [Soft Star Shoes](https://www.softstarshoes.com/ "Soft Star Shoes")
-  * [Vivobarefoot Shoes](https://www.vivobarefoot.com/ "Vivobarefoot Shoes")
-  * [Tuft and Needle Beds](https://www.tuftandneedle.com/ "Tuft and Needle Beds")
-  * [Regolith Linux](https://regolith-linux.org/ "Regolith Linux")
-  * [Pipewire](https://pipewire.org/ "Pipewire")
-  * [Linux Unplugged 272: Prepare for Pipewire](https://linuxunplugged.com/272 "Linux Unplugged 272: Prepare for Pipewire")
-  * [Choose Linux](https://chooselinux.show/ "Choose Linux")
-  * [Reddit's 11foot8](https://www.reddit.com/r/11foot8/ "Reddit's 11foot8")
-  * [@drewofdoom on Twitter](https://twitter.com/drewofdoom/ "@drewofdoom on Twitter")
+  * [Soft Star Shoes ](https://www.softstarshoes.com/ "Soft Star Shoes")
+  * [Vivobarefoot Shoes ](https://www.vivobarefoot.com/ "Vivobarefoot Shoes")
+  * [Tuft and Needle Beds ](https://www.tuftandneedle.com/ "Tuft and Needle Beds")
+  * [Regolith Linux ](https://regolith-linux.org/ "Regolith Linux")
+  * [Pipewire ](https://pipewire.org/ "Pipewire")
+  * [Linux Unplugged 272: Prepare for Pipewire ](https://linuxunplugged.com/272 "Linux Unplugged 272: Prepare for Pipewire")
+  * [Choose Linux ](https://chooselinux.show/ "Choose Linux")
+  * [Reddit's 11foot8 ](https://www.reddit.com/r/11foot8/ "Reddit's 11foot8")
+  * [@drewofdoom on Twitter ](https://twitter.com/drewofdoom/ "@drewofdoom on Twitter")
 
 
 

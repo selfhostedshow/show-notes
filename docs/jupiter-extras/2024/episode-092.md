@@ -20,8 +20,8 @@ None
 
 ## Episode links
 
-  * [Texas Linux Fest Schedule](https://2024.texaslinuxfest.org/fpg-schedule-day-2/ "Texas Linux Fest Schedule")
-  * [Terry Black's BBQ](https://terryblacksbbq.com/ "Terry Black's BBQ")
+  * [Texas Linux Fest Schedule ](https://2024.texaslinuxfest.org/fpg-schedule-day-2/ "Texas Linux Fest Schedule")
+  * [Terry Black's BBQ ](https://terryblacksbbq.com/ "Terry Black's BBQ")
 
 
 

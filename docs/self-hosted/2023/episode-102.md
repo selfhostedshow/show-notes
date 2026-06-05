@@ -17,31 +17,31 @@ Alex shares a suite of self-hosted apps that replace Reddit. Chris is struggling
 
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
-  * [45drives](https://45homelab.com): [ The HL15 from 45HomeLab is an open-source, open-platform, 15-bay homelab server. ](https://45homelab.com)
+  * [45drives](https://45homelab.com): [The HL15 from 45HomeLab is an open-source, open-platform, 15-bay homelab server. ](https://45homelab.com)
 
 
 
 ## Episode links
 
-  * [⚡ Alby: Your Boost companion for the web](https://getalby.com/ "⚡ Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
-  * [⚡ Self-Hosted on the Podcastindex.org](https://podcastindex.org/podcast/830124 "⚡ Self-Hosted on the Podcastindex.org") — Send a Boost into the show via the web. First, top-up Alby, then head over to our entry on the Podcast Index.
-  * [wallabag](https://github.com/wallabag/wallabag "wallabag") — wallabag is a web application allowing you to save web pages for later reading. Click, save and read it when you want. It extracts content so that you won't be distracted by pop-ups and cie.
-  * [wallabag/docker: Official docker-composer for wallabag.](https://github.com/wallabag/docker "wallabag/docker: Official docker-composer for wallabag.")
-  * [FreshRSS, a free, self-hostable feeds aggregator](https://freshrss.org/index.html "FreshRSS, a free, self-hostable feeds aggregator") — FreshRSS is a self-hosted RSS and Atom feed aggregator.
-  * [linuxserver/freshrss - Docker Image | Docker Hub](https://hub.docker.com/r/linuxserver/freshrss "linuxserver/freshrss - Docker Image | Docker Hub")
-  * [Selfhosted show wiki: The official Wiki of the selfhosted.show Podcast.](https://github.com/selfhostedshow/wiki "Selfhosted show wiki: The official Wiki of the selfhosted.show Podcast.") — This repository contains the backend for the Self-Hosted podcast wiki.
-  * [dust: A more intuitive version of du in rust](https://github.com/bootandy/dust "dust: A more intuitive version of du in rust") — du + rust = dust. Like du but more intuitive.
-  * [duf: Disk Usage/Free Utility - a better 'df' alternative](https://github.com/muesli/duf "duf: Disk Usage/Free Utility - a better 'df' alternative") — Disk Usage/Free Utility (Linux, BSD, macOS & Windows)
-  * [dua-cli: View disk space usage and delete unwanted data, fast.](https://github.com/Byron/dua-cli "dua-cli: View disk space usage and delete unwanted data, fast.") — dua (-> Disk Usage Analyzer) is a tool to conveniently learn about the usage of disk space of a given directory. It's parallel by default and will max out your SSD, providing relevant information as fast as possible. Optionally delete superfluous data, and do so more quickly than rm.
-  * [Nixhub.io | A Nix Packages Registry](https://www.nixhub.io/ "Nixhub.io | A Nix Packages Registry") — Search over 400,000 granular versions of nix packages
-  * [The NixOS Foundation's Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672 "The NixOS Foundation's Call to Action: S3 Costs Require Community Support") — TL;DR - Kicking off an effort to secure long-term funding for our S3 costs and exploring alternatives. This comes after multiple years where Logicblox has been graciously sponsoring the S3 costs for Nix! An enormous thank you to them.
-  * [Alex's configuration.nix](https://github.com/ironicbadger/infra/blob/master/dev/nix/nixos/configuration.nix "Alex's configuration.nix")
-  * [Postmoogle · GitLab](https://gitlab.com/etke.cc/postmoogle "Postmoogle · GitLab") — An Email to Matrix bridge. 1 room = 1 mailbox.
-  * [The Everything App](https://anytype.io/ "The Everything App") — Imagine an app where you can do everything.
-  * [Self-hosting - any tech docs](https://tech.anytype.io/how-to/self-hosting "Self-hosting - any tech docs") — This article will help you to self-host Any-Sync on your own infrastructure for personal use and configure Anytype clients to work with your nodes.
-  * [Outline – Team knowledge base & wiki](https://www.getoutline.com/ "Outline – Team knowledge base & wiki") — Lost in a mess of Docs? Never quite sure who has access? Colleagues requesting the same information repeatedly in chat? It’s time to get your team’s knowledge organized.
-  * [Taiga](https://taiga.io/ "Taiga") — For cross-functional agile teams to work effectively
-  * [planka: The realtime kanban board for workgroups built with React and Redux.](https://github.com/plankanban/planka "planka: The realtime kanban board for workgroups built with React and Redux.") — Elegant open source project tracking
+  * [⚡ Alby: Your Boost companion for the web ](https://getalby.com/ "⚡ Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
+  * [⚡ Self-Hosted on the Podcastindex.org ](https://podcastindex.org/podcast/830124 "⚡ Self-Hosted on the Podcastindex.org") — Send a Boost into the show via the web. First, top-up Alby, then head over to our entry on the Podcast Index. 
+  * [wallabag ](https://github.com/wallabag/wallabag "wallabag") — wallabag is a web application allowing you to save web pages for later reading. Click, save and read it when you want. It extracts content so that you won't be distracted by pop-ups and cie. 
+  * [wallabag/docker: Official docker-composer for wallabag. ](https://github.com/wallabag/docker "wallabag/docker: Official docker-composer for wallabag.")
+  * [FreshRSS, a free, self-hostable feeds aggregator ](https://freshrss.org/index.html "FreshRSS, a free, self-hostable feeds aggregator") — FreshRSS is a self-hosted RSS and Atom feed aggregator. 
+  * [linuxserver/freshrss - Docker Image | Docker Hub ](https://hub.docker.com/r/linuxserver/freshrss "linuxserver/freshrss - Docker Image | Docker Hub")
+  * [Selfhosted show wiki: The official Wiki of the selfhosted.show Podcast. ](https://github.com/selfhostedshow/wiki "Selfhosted show wiki: The official Wiki of the selfhosted.show Podcast.") — This repository contains the backend for the Self-Hosted podcast wiki. 
+  * [dust: A more intuitive version of du in rust ](https://github.com/bootandy/dust "dust: A more intuitive version of du in rust") — du + rust = dust. Like du but more intuitive. 
+  * [duf: Disk Usage/Free Utility - a better 'df' alternative ](https://github.com/muesli/duf "duf: Disk Usage/Free Utility - a better 'df' alternative") — Disk Usage/Free Utility (Linux, BSD, macOS & Windows) 
+  * [dua-cli: View disk space usage and delete unwanted data, fast. ](https://github.com/Byron/dua-cli "dua-cli: View disk space usage and delete unwanted data, fast.") — dua (-> Disk Usage Analyzer) is a tool to conveniently learn about the usage of disk space of a given directory. It's parallel by default and will max out your SSD, providing relevant information as fast as possible. Optionally delete superfluous data, and do so more quickly than rm. 
+  * [Nixhub.io | A Nix Packages Registry ](https://www.nixhub.io/ "Nixhub.io | A Nix Packages Registry") — Search over 400,000 granular versions of nix packages 
+  * [The NixOS Foundation's Call to Action: S3 Costs Require Community Support ](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672 "The NixOS Foundation's Call to Action: S3 Costs Require Community Support") — TL;DR - Kicking off an effort to secure long-term funding for our S3 costs and exploring alternatives. This comes after multiple years where Logicblox has been graciously sponsoring the S3 costs for Nix! An enormous thank you to them. 
+  * [Alex's configuration.nix ](https://github.com/ironicbadger/infra/blob/master/dev/nix/nixos/configuration.nix "Alex's configuration.nix")
+  * [Postmoogle · GitLab ](https://gitlab.com/etke.cc/postmoogle "Postmoogle · GitLab") — An Email to Matrix bridge. 1 room = 1 mailbox. 
+  * [The Everything App ](https://anytype.io/ "The Everything App") — Imagine an app where you can do everything. 
+  * [Self-hosting - any tech docs ](https://tech.anytype.io/how-to/self-hosting "Self-hosting - any tech docs") — This article will help you to self-host Any-Sync on your own infrastructure for personal use and configure Anytype clients to work with your nodes. 
+  * [Outline – Team knowledge base & wiki ](https://www.getoutline.com/ "Outline – Team knowledge base & wiki") — Lost in a mess of Docs? Never quite sure who has access? Colleagues requesting the same information repeatedly in chat? It’s time to get your team’s knowledge organized. 
+  * [Taiga ](https://taiga.io/ "Taiga") — For cross-functional agile teams to work effectively 
+  * [planka: The realtime kanban board for workgroups built with React and Redux. ](https://github.com/plankanban/planka "planka: The realtime kanban board for workgroups built with React and Redux.") — Elegant open source project tracking 
 
 
 

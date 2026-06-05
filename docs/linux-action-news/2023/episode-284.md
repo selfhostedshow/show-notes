@@ -22,21 +22,21 @@ Docker's open-source crackdown, the Wayland regression solved this week, and why
 
 ## Episode links
 
-  * [Kali 2023.1](https://www.kali.org/blog/kali-linux-2023-1-release/ "Kali 2023.1") — Today we are releasing Kali 2023.1 (and on our 10th anniversary)! 
-  * [Get Kali | Kali Linux Download](https://www.kali.org/get-kali/ "Get Kali | Kali Linux Download")
-  * [Kali Linux Introduces “Kali Purple” for Defensive Security Hardening](https://debugpointnews.com/kali-linux-2023-1/ "Kali Linux Introduces “Kali Purple” for Defensive Security Hardening")
-  * [Qubes OS 4.1.2](https://www.qubes-os.org/news/2023/03/15/qubes-4-1-2/ "Qubes OS 4.1.2") — We’re pleased to announce the stable release of Qubes 4.1.2! 
-  * [Wayland Crash Survivor](https://www.phoronix.com/news/Qt-Wayland-Compositor-Restart "Wayland Crash Survivor") — A change merged to Qt this week can allow for Wayland clients to survive compositor restarts, such as when the compositor crashes. 
-  * [OpenMoon Ray Code Goes Live](https://github.com/dreamworksanimation/openmoonray "OpenMoon Ray Code Goes Live") — MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
-  * [OpenMoonRay.org](http://openmoonray.org/ "OpenMoonRay.org")
-  * [ipmitool Repository Archived](https://www.phoronix.com/news/ipmitool-GitHub-Suspended "ipmitool Repository Archived") — Those navigating to ipmitool/ipmitool on GitHub as the official repository for this project will find that it's now in a "public archive" state.
-  * [Docker is deleting Open Source organisations - what you need to know](https://blog.alexellis.io/docker-is-deleting-open-source-images/ "Docker is deleting Open Source organisations - what you need to know")
-  * [Justin Cormack on Twitter](https://twitter.com/justincormack/status/1635706522419200004 "Justin Cormack on Twitter") — when we remove accounts we do not free up the namespace so squatting is not possible.
-  * [Some nuance for paid users](https://twitter.com/justincormack/status/1635935412756656132 "Some nuance for paid users")
-  * [GHCR was having some issues this morning it seems](https://twitter.com/borkdude/status/1636020752636846083?cxt=HHwWhoCx4ZuNqLQtAAAA "GHCR was having some issues this morning it seems")
-  * [Red Hat’s Quay is maybe another option, they might offer free plans? public repos are free anyway](https://quay.io/plans/ "Red Hat’s Quay is maybe another option, they might offer free plans? public repos are free anyway")
-  * [José Valimon Twitter](https://twitter.com/josevalim/status/1635767176769462272 "José Valimon Twitter")
-  * [Deploy a registry server](https://docs.docker.com/registry/deploying/ "Deploy a registry server") — This page contains information about hosting your own registry using the open source Docker Registry.
+  * [Kali 2023.1 ](https://www.kali.org/blog/kali-linux-2023-1-release/ "Kali 2023.1") — Today we are releasing Kali 2023.1 (and on our 10th anniversary)! 
+  * [Get Kali | Kali Linux Download ](https://www.kali.org/get-kali/ "Get Kali | Kali Linux Download")
+  * [Kali Linux Introduces “Kali Purple” for Defensive Security Hardening ](https://debugpointnews.com/kali-linux-2023-1/ "Kali Linux Introduces “Kali Purple” for Defensive Security Hardening")
+  * [Qubes OS 4.1.2 ](https://www.qubes-os.org/news/2023/03/15/qubes-4-1-2/ "Qubes OS 4.1.2") — We’re pleased to announce the stable release of Qubes 4.1.2! 
+  * [Wayland Crash Survivor ](https://www.phoronix.com/news/Qt-Wayland-Compositor-Restart "Wayland Crash Survivor") — A change merged to Qt this week can allow for Wayland clients to survive compositor restarts, such as when the compositor crashes. 
+  * [OpenMoon Ray Code Goes Live ](https://github.com/dreamworksanimation/openmoonray "OpenMoon Ray Code Goes Live") — MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer. 
+  * [OpenMoonRay.org ](http://openmoonray.org/ "OpenMoonRay.org")
+  * [ipmitool Repository Archived ](https://www.phoronix.com/news/ipmitool-GitHub-Suspended "ipmitool Repository Archived") — Those navigating to ipmitool/ipmitool on GitHub as the official repository for this project will find that it's now in a "public archive" state. 
+  * [Docker is deleting Open Source organisations - what you need to know ](https://blog.alexellis.io/docker-is-deleting-open-source-images/ "Docker is deleting Open Source organisations - what you need to know")
+  * [Justin Cormack on Twitter ](https://twitter.com/justincormack/status/1635706522419200004 "Justin Cormack on Twitter") — when we remove accounts we do not free up the namespace so squatting is not possible. 
+  * [Some nuance for paid users ](https://twitter.com/justincormack/status/1635935412756656132 "Some nuance for paid users")
+  * [GHCR was having some issues this morning it seems ](https://twitter.com/borkdude/status/1636020752636846083?cxt=HHwWhoCx4ZuNqLQtAAAA "GHCR was having some issues this morning it seems")
+  * [Red Hat’s Quay is maybe another option, they might offer free plans? public repos are free anyway ](https://quay.io/plans/ "Red Hat’s Quay is maybe another option, they might offer free plans? public repos are free anyway")
+  * [José Valimon Twitter ](https://twitter.com/josevalim/status/1635767176769462272 "José Valimon Twitter")
+  * [Deploy a registry server ](https://docs.docker.com/registry/deploying/ "Deploy a registry server") — This page contains information about hosting your own registry using the open source Docker Registry. 
 
 
 

@@ -21,26 +21,26 @@ None
 
 ## Episode links
 
-  * [elementary OS](https://elementary.io/ "elementary OS")
-  * [User Error](https://error.show/ "User Error")
-  * [Brunch with Brent: Joe Ressington](https://extras.show/44 "Brunch with Brent: Joe Ressington")
-  * [Brunch with Brent: Alan Pope (popey)](https://extras.show/38 "Brunch with Brent: Alan Pope \(popey\)")
-  * [Canonical](https://canonical.com/ "Canonical") — The company behind Ubuntu
-  * [Linux App Summit](https://linuxappsummit.org "Linux App Summit")
-  * [GUADEC](https://events.gnome.org/event/1/ "GUADEC") — The GNOME Conference
-  * [LinuxFest Northwest](https://linuxfestnorthwest.org/ "LinuxFest Northwest")
-  * [GNOME Do & Docky - Wikipedia](https://en.wikipedia.org/wiki/GNOME_Do "GNOME Do & Docky - Wikipedia")
-  * [Korora - Wikipedia](https://en.wikipedia.org/wiki/Korora_\(operating_system\) "Korora - Wikipedia")
-  * [Gentoo Linux](https://www.gentoo.org/ "Gentoo Linux")
-  * [GNOME Files (formerly Nautilus) - Wikipedia](https://en.wikipedia.org/wiki/GNOME_Files "GNOME Files \(formerly Nautilus\) - Wikipedia")
-  * [OMG! Ubuntu!](https://www.omgubuntu.co.uk/ "OMG! Ubuntu!") — Ubuntu Linux News, Apps and Reviews
-  * [AppCenter - elementary OS](https://appcenter.elementary.io/ "AppCenter - elementary OS")
-  * [Say Hello to the New Greeter - elementary Blog](https://blog.elementary.io/say-hello-to-the-new-greeter/ "Say Hello to the New Greeter - elementary Blog")
-  * [Flatpak](https://www.flatpak.org/ "Flatpak")
-  * [Desire path - Wikipedia](https://en.wikipedia.org/wiki/Desire_path "Desire path - Wikipedia")
-  * [Least Resistance: How Desire Paths Can Lead to Better Design - 99% Invisible](https://99percentinvisible.org/article/least-resistance-desire-paths-can-lead-better-design/ "Least Resistance: How Desire Paths Can Lead to Better Design - 99% Invisible")
-  * [Daniel Foré - @DanielFore on Twitter](https://twitter.com/DanielFore "Daniel Foré - @DanielFore on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [elementary OS ](https://elementary.io/ "elementary OS")
+  * [User Error ](https://error.show/ "User Error")
+  * [Brunch with Brent: Joe Ressington ](https://extras.show/44 "Brunch with Brent: Joe Ressington")
+  * [Brunch with Brent: Alan Pope (popey) ](https://extras.show/38 "Brunch with Brent: Alan Pope \(popey\)")
+  * [Canonical ](https://canonical.com/ "Canonical") — The company behind Ubuntu 
+  * [Linux App Summit ](https://linuxappsummit.org "Linux App Summit")
+  * [GUADEC ](https://events.gnome.org/event/1/ "GUADEC") — The GNOME Conference 
+  * [LinuxFest Northwest ](https://linuxfestnorthwest.org/ "LinuxFest Northwest")
+  * [GNOME Do & Docky - Wikipedia ](https://en.wikipedia.org/wiki/GNOME_Do "GNOME Do & Docky - Wikipedia")
+  * [Korora - Wikipedia ](https://en.wikipedia.org/wiki/Korora_\(operating_system\) "Korora - Wikipedia")
+  * [Gentoo Linux ](https://www.gentoo.org/ "Gentoo Linux")
+  * [GNOME Files (formerly Nautilus) - Wikipedia ](https://en.wikipedia.org/wiki/GNOME_Files "GNOME Files \(formerly Nautilus\) - Wikipedia")
+  * [OMG! Ubuntu! ](https://www.omgubuntu.co.uk/ "OMG! Ubuntu!") — Ubuntu Linux News, Apps and Reviews 
+  * [AppCenter - elementary OS ](https://appcenter.elementary.io/ "AppCenter - elementary OS")
+  * [Say Hello to the New Greeter - elementary Blog ](https://blog.elementary.io/say-hello-to-the-new-greeter/ "Say Hello to the New Greeter - elementary Blog")
+  * [Flatpak ](https://www.flatpak.org/ "Flatpak")
+  * [Desire path - Wikipedia ](https://en.wikipedia.org/wiki/Desire_path "Desire path - Wikipedia")
+  * [Least Resistance: How Desire Paths Can Lead to Better Design - 99% Invisible ](https://99percentinvisible.org/article/least-resistance-desire-paths-can-lead-better-design/ "Least Resistance: How Desire Paths Can Lead to Better Design - 99% Invisible")
+  * [Daniel Foré - @DanielFore on Twitter ](https://twitter.com/DanielFore "Daniel Foré - @DanielFore on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

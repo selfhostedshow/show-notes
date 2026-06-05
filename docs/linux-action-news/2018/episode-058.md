@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [KDE Plasma 5.13 released](https://www.kde.org/announcements/plasma-5.13.0.php "KDE Plasma 5.13 released")
-  * [An opportunity to invest in Mycroft](https://mycroft.ai/blog/an-opportunity-to-invest-in-mycroft/ "An opportunity to invest in Mycroft")
-  * [Dockerhub malware](https://arstechnica.com/information-technology/2018/06/backdoored-images-downloaded-5-million-times-finally-removed-from-docker-hub/ "Dockerhub malware")
-  * [5% of Monero has been mined with malware](https://www.bleepingcomputer.com/news/security/around-5-percent-of-all-monero-currently-in-circulation-has-been-mined-using-malware/ "5% of Monero has been mined with malware")
-  * [Vulnerable devices shipped with ADB enabled](https://threatpost.com/android-devices-with-misconfigured-adb-a-ripe-target-for-cryptojacking-malware/132766/ "Vulnerable devices shipped with ADB enabled")
-  * [Debian seeking artwork for the 10.0 release](https://lists.debian.org/debian-devel-announce/2018/06/msg00003.html "Debian seeking artwork for the 10.0 release")
-  * [Rebble Auth Sign Up](https://auth.rebble.io/auth/?next=%2F "Rebble Auth Sign Up")
+  * [KDE Plasma 5.13 released ](https://www.kde.org/announcements/plasma-5.13.0.php "KDE Plasma 5.13 released")
+  * [An opportunity to invest in Mycroft ](https://mycroft.ai/blog/an-opportunity-to-invest-in-mycroft/ "An opportunity to invest in Mycroft")
+  * [Dockerhub malware ](https://arstechnica.com/information-technology/2018/06/backdoored-images-downloaded-5-million-times-finally-removed-from-docker-hub/ "Dockerhub malware")
+  * [5% of Monero has been mined with malware ](https://www.bleepingcomputer.com/news/security/around-5-percent-of-all-monero-currently-in-circulation-has-been-mined-using-malware/ "5% of Monero has been mined with malware")
+  * [Vulnerable devices shipped with ADB enabled ](https://threatpost.com/android-devices-with-misconfigured-adb-a-ripe-target-for-cryptojacking-malware/132766/ "Vulnerable devices shipped with ADB enabled")
+  * [Debian seeking artwork for the 10.0 release ](https://lists.debian.org/debian-devel-announce/2018/06/msg00003.html "Debian seeking artwork for the 10.0 release")
+  * [Rebble Auth Sign Up ](https://auth.rebble.io/auth/?next=%2F "Rebble Auth Sign Up")
 
 
 

@@ -22,15 +22,15 @@ Ubuntu gets serious about the immutable desktop, red flags from Red Hat, and the
 
 ## Episode links
 
-  * [Ubuntu Core as an immutable Linux Desktop base](https://ubuntu.com/blog/ubuntu-core-an-immutable-linux-desktop "Ubuntu Core as an immutable Linux Desktop base") — In this blog post we discuss the architecture of immutable operating systems, their benefits and drawbacks, and the role of Ubuntu Core in the immutable Linux landscape. 
-  * [Red Hat To Stop Shipping LibreOffice In Future RHEL, Limiting Fedora LO Involvement](https://www.phoronix.com/news/Red-Hat-Less-LibreOffice "Red Hat To Stop Shipping LibreOffice In Future RHEL, Limiting Fedora LO Involvement") — However, the "tradeoff" to focusing on that is they will be pivoting away from less desktop application work and "cease shipping LibreOffice as part of RHEL starting in a future RHE version. This also limits our ability to maintain it in future versions of Fedora." 
-  * [LibreOffice to be cut out of RHEL installs](https://www.theregister.com/2023/06/07/red_hat_drops_libreoffice/ "LibreOffice to be cut out of RHEL installs")
-  * [Asahi: Big Updates](https://social.treehouse.systems/@AsahiLinux/110497512340479064 "Asahi: Big Updates") — Get your updater ready!
-  * [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/ "OpenGL 3.1 on Asahi Linux")
-  * [Wine comes to macOS: Apple’s Game Porting Toolkit powered by CrossOver source code](https://www.codeweavers.com/blog/mjohnson/2023/6/6/wine-comes-to-macos-apple-s-game-porting-toolkit-powered-by-crossover-source-code "Wine comes to macOS: Apple’s Game Porting Toolkit powered by CrossOver source code") — We are ecstatic that Apple chose to use CrossOver’s source code as their emulation solution for the Game Porting Toolkit. 
-  * [Apple’s Game Porting Toolkit is Wine](https://www.osnews.com/story/136223/apples-game-porting-toolkit-is-wine/ "Apple’s Game Porting Toolkit is Wine")
-  * [Apple Home Brew Repo](https://github.com/apple/homebrew-apple "Apple Home Brew Repo") — Using the game-porting-toolkit formula requires downloading the Game Porting Toolkit from developer.apple.com.
-  * [Game Porting Toolkit](https://www.applegamingwiki.com/wiki/Game_Porting_Toolkit "Game Porting Toolkit") — Game Porting Toolkit is Apple's new translation layer which combines Wine with Apple's own D3DMetal which supports DirectX 9-12. Games that use anti-cheat or aggressive DRM generally don't work. Games that require AVX CPUs also do not work e.g. Last of Us. 
+  * [Ubuntu Core as an immutable Linux Desktop base ](https://ubuntu.com/blog/ubuntu-core-an-immutable-linux-desktop "Ubuntu Core as an immutable Linux Desktop base") — In this blog post we discuss the architecture of immutable operating systems, their benefits and drawbacks, and the role of Ubuntu Core in the immutable Linux landscape. 
+  * [Red Hat To Stop Shipping LibreOffice In Future RHEL, Limiting Fedora LO Involvement ](https://www.phoronix.com/news/Red-Hat-Less-LibreOffice "Red Hat To Stop Shipping LibreOffice In Future RHEL, Limiting Fedora LO Involvement") — However, the "tradeoff" to focusing on that is they will be pivoting away from less desktop application work and "cease shipping LibreOffice as part of RHEL starting in a future RHE version. This also limits our ability to maintain it in future versions of Fedora." 
+  * [LibreOffice to be cut out of RHEL installs ](https://www.theregister.com/2023/06/07/red_hat_drops_libreoffice/ "LibreOffice to be cut out of RHEL installs")
+  * [Asahi: Big Updates ](https://social.treehouse.systems/@AsahiLinux/110497512340479064 "Asahi: Big Updates") — Get your updater ready! 
+  * [OpenGL 3.1 on Asahi Linux ](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/ "OpenGL 3.1 on Asahi Linux")
+  * [Wine comes to macOS: Apple’s Game Porting Toolkit powered by CrossOver source code ](https://www.codeweavers.com/blog/mjohnson/2023/6/6/wine-comes-to-macos-apple-s-game-porting-toolkit-powered-by-crossover-source-code "Wine comes to macOS: Apple’s Game Porting Toolkit powered by CrossOver source code") — We are ecstatic that Apple chose to use CrossOver’s source code as their emulation solution for the Game Porting Toolkit. 
+  * [Apple’s Game Porting Toolkit is Wine ](https://www.osnews.com/story/136223/apples-game-porting-toolkit-is-wine/ "Apple’s Game Porting Toolkit is Wine")
+  * [Apple Home Brew Repo ](https://github.com/apple/homebrew-apple "Apple Home Brew Repo") — Using the game-porting-toolkit formula requires downloading the Game Porting Toolkit from developer.apple.com. 
+  * [Game Porting Toolkit ](https://www.applegamingwiki.com/wiki/Game_Porting_Toolkit "Game Porting Toolkit") — Game Porting Toolkit is Apple's new translation layer which combines Wine with Apple's own D3DMetal which supports DirectX 9-12. Games that use anti-cheat or aggressive DRM generally don't work. Games that require AVX CPUs also do not work e.g. Last of Us. 
 
 
 

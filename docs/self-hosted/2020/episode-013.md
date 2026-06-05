@@ -22,15 +22,15 @@ None
 
 ## Episode links
 
-  * [World's Worst Best Drone Retrieval Device - YouTube](https://www.youtube.com/watch?v=42-Ti5ARX1I "World's Worst Best Drone Retrieval Device - YouTube") — Having some fun watching my local flying crew/friends use the World's Worst Best Drone Retrieval Device.
-  * [You don't need a UI for docker containers](https://blog.ktz.me/p/080c5233-9ec2-4441-a72d-dbe5aa67fefd/ "You don't need a UI for docker containers") — You really don't. Managing small deployments of containers from the command line is easier, faster and 'commit-able'. We're not talking about vast fleets of containers here but in this article I'll cover how I use docker-compose to manage over 30 docker containers in a simple, scalable and faster way than if you were using a UI.
-  * [awesome-selfhosted: A list of Free Software network services and web applications which can be hosted locally.](https://github.com/awesome-selfhosted/awesome-selfhosted "awesome-selfhosted: A list of Free Software network services and web applications which can be hosted locally.") — A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-  * [Linux Server Image Status](https://fleet.linuxserver.io/ "Linux Server Image Status")
-  * [Quasseldroid IRC Client](https://quasseldroid.info/ "Quasseldroid IRC Client") — Quassel makes IRC fun again – open a client anywhere, connect to your core, and have all your favourite channels and networks right there.
-  * [The Lounge](https://thelounge.chat/ "The Lounge") — A web-based IRC client for the modern world! Once configured and started, users can access it from their browser or mobile device.
-  * [Install theloungeirc for Linux using the Snap Store](https://snapcraft.io/theloungeirc "Install theloungeirc for Linux using the Snap Store")
-  * [IRCCloud](https://www.irccloud.com "IRCCloud")
-  * [Self-Hosted Show Wiki](https://selfhostedshow.github.io/wiki/ "Self-Hosted Show Wiki") — Here you will find an open source, living and breathing repository of resources that we talk about on the Self Hosted podcast.
+  * [World's Worst Best Drone Retrieval Device - YouTube ](https://www.youtube.com/watch?v=42-Ti5ARX1I "World's Worst Best Drone Retrieval Device - YouTube") — Having some fun watching my local flying crew/friends use the World's Worst Best Drone Retrieval Device. 
+  * [You don't need a UI for docker containers ](https://blog.ktz.me/p/080c5233-9ec2-4441-a72d-dbe5aa67fefd/ "You don't need a UI for docker containers") — You really don't. Managing small deployments of containers from the command line is easier, faster and 'commit-able'. We're not talking about vast fleets of containers here but in this article I'll cover how I use docker-compose to manage over 30 docker containers in a simple, scalable and faster way than if you were using a UI. 
+  * [awesome-selfhosted: A list of Free Software network services and web applications which can be hosted locally. ](https://github.com/awesome-selfhosted/awesome-selfhosted "awesome-selfhosted: A list of Free Software network services and web applications which can be hosted locally.") — A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers 
+  * [Linux Server Image Status ](https://fleet.linuxserver.io/ "Linux Server Image Status")
+  * [Quasseldroid IRC Client ](https://quasseldroid.info/ "Quasseldroid IRC Client") — Quassel makes IRC fun again – open a client anywhere, connect to your core, and have all your favourite channels and networks right there. 
+  * [The Lounge ](https://thelounge.chat/ "The Lounge") — A web-based IRC client for the modern world! Once configured and started, users can access it from their browser or mobile device. 
+  * [Install theloungeirc for Linux using the Snap Store ](https://snapcraft.io/theloungeirc "Install theloungeirc for Linux using the Snap Store")
+  * [IRCCloud ](https://www.irccloud.com "IRCCloud")
+  * [Self-Hosted Show Wiki ](https://selfhostedshow.github.io/wiki/ "Self-Hosted Show Wiki") — Here you will find an open source, living and breathing repository of resources that we talk about on the Self Hosted podcast. 
 
 
 

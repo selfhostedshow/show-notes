@@ -15,7 +15,7 @@ Chris gets serious about tracking maintenance and alerts, why Alex is impressed 
 
 ## Sponsored by
 
-  * [Unraid](https://unraid.net/selfhosted): [A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.](https://unraid.net/selfhosted)
+  * [Unraid](https://unraid.net/selfhosted): [A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility. ](https://unraid.net/selfhosted)
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
   * [Grist](https://getgrist.com/selfhosted): [Grist - the open-source alternative to Airtable and Google Sheets. ](https://getgrist.com/selfhosted)
 
@@ -23,16 +23,16 @@ Chris gets serious about tracking maintenance and alerts, why Alex is impressed 
 
 ## Episode links
 
-  * [⚡ Grab Sats with Strike Around the World](https://strike.me/download/ "⚡ Grab Sats with Strike Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. 
-  * [🎉 Boost with Fountain FM](https://fountain.fm/show/LxGQPEpBqTDLxF4d6qC5 "🎉 Boost with Fountain FM") — Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts. You can also Boost from the Web via their site.
-  * [Mitsubishi heatpump esp config](https://gist.github.com/ironicbadger/9e67e8e917f17636177820e4818ce8fe "Mitsubishi heatpump esp config") — The ESP Config for Alex's Garage A/C.
-  * [LubeLogger](https://github.com/hargata/lubelog "LubeLogger") — a web-based vehicle maintenance and fuel mileage tracker
-  * [Funding](https://docs.lubelogger.com/Funding "Funding")
-  * [LubeLogger Wiki](https://docs.lubelogger.com/ "LubeLogger Wiki")
-  * [Announcing Proxmox-NixOS](https://discourse.nixos.org/t/announcing-proxmox-nixos/47579 "Announcing Proxmox-NixOS") — The project is still in early development and might have some rough edges, but we would be very happy to have our first beta testers!
-  * [Bazzite](https://bazzite.gg/ "Bazzite") — The next generation of Linux gaming
-  * [SSH 127 Boost Barn](https://paste.docs.lol/code/InactivateElectrotypist "SSH 127 Boost Barn") — Thank you Boosters!
-  * [foot rest](https://www.amazon.com/dp/B0953QG2MQ "foot rest")
+  * [⚡ Grab Sats with Strike Around the World ](https://strike.me/download/ "⚡ Grab Sats with Strike Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. 
+  * [🎉 Boost with Fountain FM ](https://fountain.fm/show/LxGQPEpBqTDLxF4d6qC5 "🎉 Boost with Fountain FM") — Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts. You can also Boost from the Web via their site. 
+  * [Mitsubishi heatpump esp config ](https://gist.github.com/ironicbadger/9e67e8e917f17636177820e4818ce8fe "Mitsubishi heatpump esp config") — The ESP Config for Alex's Garage A/C. 
+  * [LubeLogger ](https://github.com/hargata/lubelog "LubeLogger") — a web-based vehicle maintenance and fuel mileage tracker 
+  * [Funding ](https://docs.lubelogger.com/Funding "Funding")
+  * [LubeLogger Wiki ](https://docs.lubelogger.com/ "LubeLogger Wiki")
+  * [Announcing Proxmox-NixOS ](https://discourse.nixos.org/t/announcing-proxmox-nixos/47579 "Announcing Proxmox-NixOS") — The project is still in early development and might have some rough edges, but we would be very happy to have our first beta testers! 
+  * [Bazzite ](https://bazzite.gg/ "Bazzite") — The next generation of Linux gaming 
+  * [SSH 127 Boost Barn ](https://paste.docs.lol/code/InactivateElectrotypist "SSH 127 Boost Barn") — Thank you Boosters! 
+  * [foot rest ](https://www.amazon.com/dp/B0953QG2MQ "foot rest")
 
 
 

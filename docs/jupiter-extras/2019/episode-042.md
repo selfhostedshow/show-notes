@@ -23,12 +23,12 @@ None
 
 ## Episode links
 
-  * [Brunch with Brent: Alex Kretzschmar](https://extras.show/7 "Brunch with Brent: Alex Kretzschmar")
-  * [Self-Hosted Podcast](https://selfhosted.show/ "Self-Hosted Podcast")
-  * [Harmony Remotes - Logitech](https://www.logitech.com/en-us/harmony-universal-remotes "Harmony Remotes - Logitech")
-  * [Beyond Sudoku - Puzzler](https://www.puzzler.com/magazines/logic/beyond-sudoku "Beyond Sudoku - Puzzler")
-  * [Humanist Celebrant - Wikipedia](https://en.wikipedia.org/wiki/Humanist_celebrant "Humanist Celebrant - Wikipedia")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Brunch with Brent: Alex Kretzschmar ](https://extras.show/7 "Brunch with Brent: Alex Kretzschmar")
+  * [Self-Hosted Podcast ](https://selfhosted.show/ "Self-Hosted Podcast")
+  * [Harmony Remotes - Logitech ](https://www.logitech.com/en-us/harmony-universal-remotes "Harmony Remotes - Logitech")
+  * [Beyond Sudoku - Puzzler ](https://www.puzzler.com/magazines/logic/beyond-sudoku "Beyond Sudoku - Puzzler")
+  * [Humanist Celebrant - Wikipedia ](https://en.wikipedia.org/wiki/Humanist_celebrant "Humanist Celebrant - Wikipedia")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

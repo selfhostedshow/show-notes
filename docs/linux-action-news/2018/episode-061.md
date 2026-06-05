@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [SUSE Partners with Growth Investor EQT to Continue Momentum, Strategy Execution and Product Expansion](https://www.suse.com/c/news/suse-partners-with-growth-investor-eqt-to-continue-momentum-strategy-execution-and-product-expansion/ "SUSE Partners with Growth Investor EQT to Continue Momentum, Strategy Execution and Product Expansion")
-  * [GNOME Foundation opens recruitment for further expansion](https://www.gnome.org/news/2018/07/gnome-foundation-opens-recruitment-for-further-expansion/ "GNOME Foundation opens recruitment for further expansion")
-  * [Positions available – GNOME](https://www.gnome.org/foundation/careers/ "Positions available – GNOME")
-  * [GNU Guix & GuixSD 0.15.0 released](https://www.gnu.org/software/guix/blog/2018/gnu-guix-and-guixsd-0.15.0-released/ "GNU Guix & GuixSD 0.15.0 released")
-  * [Most Android apps can surreptitiously access screen contents](https://www.theregister.co.uk/2018/07/04/most_android_apps_can_slurp_your_screen_and_you_wouldnt_even_know/ "Most Android apps can surreptitiously access screen contents")
-  * [Fork of Copperhead OS appears](https://github.com/dan-v/rattlesnakeos-stack "Fork of Copperhead OS appears")
-  * [Stylish extension steals browsing history](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/ "Stylish extension steals browsing history")
+  * [SUSE Partners with Growth Investor EQT to Continue Momentum, Strategy Execution and Product Expansion ](https://www.suse.com/c/news/suse-partners-with-growth-investor-eqt-to-continue-momentum-strategy-execution-and-product-expansion/ "SUSE Partners with Growth Investor EQT to Continue Momentum, Strategy Execution and Product Expansion")
+  * [GNOME Foundation opens recruitment for further expansion ](https://www.gnome.org/news/2018/07/gnome-foundation-opens-recruitment-for-further-expansion/ "GNOME Foundation opens recruitment for further expansion")
+  * [Positions available – GNOME ](https://www.gnome.org/foundation/careers/ "Positions available – GNOME")
+  * [GNU Guix & GuixSD 0.15.0 released ](https://www.gnu.org/software/guix/blog/2018/gnu-guix-and-guixsd-0.15.0-released/ "GNU Guix & GuixSD 0.15.0 released")
+  * [Most Android apps can surreptitiously access screen contents ](https://www.theregister.co.uk/2018/07/04/most_android_apps_can_slurp_your_screen_and_you_wouldnt_even_know/ "Most Android apps can surreptitiously access screen contents")
+  * [Fork of Copperhead OS appears ](https://github.com/dan-v/rattlesnakeos-stack "Fork of Copperhead OS appears")
+  * [Stylish extension steals browsing history ](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/ "Stylish extension steals browsing history")
 
 
 

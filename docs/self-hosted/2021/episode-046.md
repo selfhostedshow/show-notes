@@ -15,22 +15,22 @@ We'll share how we deployed a painless, Self-Hosted Pastebin replacement, and wh
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
-  * [PrivadoVPN](https://privadovpn.com/ssh): [PrivadoVPN is a ZERO-LOG VPN, with crazy fast speeds and P2P support. So visit privadovpn.com/ssh and try it out for free.](https://privadovpn.com/ssh)
+  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com ](https://acloudguru.com/)
+  * [PrivadoVPN](https://privadovpn.com/ssh): [PrivadoVPN is a ZERO-LOG VPN, with crazy fast speeds and P2P support. So visit privadovpn.com/ssh and try it out for free. ](https://privadovpn.com/ssh)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 
 ## Episode links
 
-  * [Alex's Loop Buster](https://paste.docs.lol/code/SwooshSystematisers "Alex's Loop Buster")
-  * [Exbin: A pastebin clone written in Elixir/Phoenix.](https://github.com/m1dnight/exbin "Exbin: A pastebin clone written in Elixir/Phoenix.") — Post pastes publicly and privatley List of all public pastes Use nc to pipe text and get the URL. (e.g., cat file.txt | nc exbin.call-cc.be 9999) "Raw View" where text is presented as is, ideally to share code for copy and pasting. Syntax highlighted view. "Reader View" where text is presented in a more readable manner. Better suited to share prose text.
-  * [ExBin Demo](https://exbin.call-cc.be/ "ExBin Demo")
-  * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#pastebins "awesome-selfhosted") — A list of Free Software network services and web applications which can be hosted on your own servers
-  * [Greyhole](https://www.greyhole.net/ "Greyhole") — An application that uses Samba to create a storage pool of all your available hard drives, and allows you to create redundant copies of the files you store, in order to prevent data loss when part of your hardware fails.
-  * [Perfect Media Server](https://perfectmediaserver.com/ "Perfect Media Server")
-  * [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite&hl=en_US&gl=US "FolderSync")
-  * [LINUX Unplugged 408: Linux Road Warrior](https://linuxunplugged.com/408 "LINUX Unplugged 408: Linux Road Warrior") — We’re joined by a special guest who’s built his very own Linux battle bus. We get the technical details on how Linux is at the core of this open road machine.
+  * [Alex's Loop Buster ](https://paste.docs.lol/code/SwooshSystematisers "Alex's Loop Buster")
+  * [Exbin: A pastebin clone written in Elixir/Phoenix. ](https://github.com/m1dnight/exbin "Exbin: A pastebin clone written in Elixir/Phoenix.") — Post pastes publicly and privatley List of all public pastes Use nc to pipe text and get the URL. (e.g., cat file.txt | nc exbin.call-cc.be 9999) "Raw View" where text is presented as is, ideally to share code for copy and pasting. Syntax highlighted view. "Reader View" where text is presented in a more readable manner. Better suited to share prose text. 
+  * [ExBin Demo ](https://exbin.call-cc.be/ "ExBin Demo")
+  * [awesome-selfhosted ](https://github.com/awesome-selfhosted/awesome-selfhosted#pastebins "awesome-selfhosted") — A list of Free Software network services and web applications which can be hosted on your own servers 
+  * [Greyhole ](https://www.greyhole.net/ "Greyhole") — An application that uses Samba to create a storage pool of all your available hard drives, and allows you to create redundant copies of the files you store, in order to prevent data loss when part of your hardware fails. 
+  * [Perfect Media Server ](https://perfectmediaserver.com/ "Perfect Media Server")
+  * [FolderSync ](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite&hl=en_US&gl=US "FolderSync")
+  * [LINUX Unplugged 408: Linux Road Warrior ](https://linuxunplugged.com/408 "LINUX Unplugged 408: Linux Road Warrior") — We’re joined by a special guest who’s built his very own Linux battle bus. We get the technical details on how Linux is at the core of this open road machine. 
 
 
 

@@ -22,13 +22,13 @@ Some old friends of JB join Alex to discuss 3D printing.
 
 ## Episode links
 
-  * [Octoprint](https://octoprint.org/ "Octoprint") — The snappy web interface for your 3D printer.
-  * [Thingiverse](https://www.thingiverse.com/ "Thingiverse") — A collection of freely available 3d models to print out.
-  * [Prusa Research](https://www.prusa3d.com/ "Prusa Research") — Maker of the Prusa 3d printers.
-  * [Ender 3](https://amzn.to/32PKWio "Ender 3") — The Creality Ender 3 is one of the cheapest ways to get started with 3d printing.
-  * [3d printer maintenance](https://www.youtube.com/watch?v=7AzW-bWefrk "3d printer maintenance") — Sometimes we have so much fun with our 3D printers that we get carried away. We forget that our precious printers need some TLC every now and then. This video will give you all the information that you need in order to maintain and service your 3D printer.
-  * [blog.ktz.me - The Tinkerspace](https://blog.ktz.me/building-my-ultimate-mega-desk-part-2/ "blog.ktz.me - The Tinkerspace") — I needed a space where I could explode an entire computer, or 3d printer, or some other overly complex piece of equipment without getting in the way of the rest of the house.
-  * [Improve 3d print finish quality](https://rigid.ink/blogs/news/advanced-finish-quality "Improve 3d print finish quality") — One of our biggest gripes about 3D printing is that your finished print invariably ends up looking, well... a bit 3D printed. Sometimes that's fine, but other times it's not. Here are our top tips on how to finish 3D prints, condensed into one lovely infographic for you. 
+  * [Octoprint ](https://octoprint.org/ "Octoprint") — The snappy web interface for your 3D printer. 
+  * [Thingiverse ](https://www.thingiverse.com/ "Thingiverse") — A collection of freely available 3d models to print out. 
+  * [Prusa Research ](https://www.prusa3d.com/ "Prusa Research") — Maker of the Prusa 3d printers. 
+  * [Ender 3 ](https://amzn.to/32PKWio "Ender 3") — The Creality Ender 3 is one of the cheapest ways to get started with 3d printing. 
+  * [3d printer maintenance ](https://www.youtube.com/watch?v=7AzW-bWefrk "3d printer maintenance") — Sometimes we have so much fun with our 3D printers that we get carried away. We forget that our precious printers need some TLC every now and then. This video will give you all the information that you need in order to maintain and service your 3D printer. 
+  * [blog.ktz.me - The Tinkerspace ](https://blog.ktz.me/building-my-ultimate-mega-desk-part-2/ "blog.ktz.me - The Tinkerspace") — I needed a space where I could explode an entire computer, or 3d printer, or some other overly complex piece of equipment without getting in the way of the rest of the house. 
+  * [Improve 3d print finish quality ](https://rigid.ink/blogs/news/advanced-finish-quality "Improve 3d print finish quality") — One of our biggest gripes about 3D printing is that your finished print invariably ends up looking, well... a bit 3D printed. Sometimes that's fine, but other times it's not. Here are our top tips on how to finish 3D prints, condensed into one lovely infographic for you. 
 
 
 

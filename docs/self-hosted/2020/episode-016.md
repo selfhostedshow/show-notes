@@ -21,12 +21,12 @@ None
 
 ## Episode links
 
-  * [Self-Hosted Discord Server](https://discord.gg/n49fgkp "Self-Hosted Discord Server")
-  * [Rationale for using Discord](https://blog.ktz.me/self-hosted-launches-a-discord-server/ "Rationale for using Discord") — Let's grow a community around being the best place to discuss Self-Hosting.
-  * [Barcodebuddy](https://github.com/Forceu/barcodebuddy "Barcodebuddy") — Barcode system for Grocy
-  * [Quarantine-o-meter Home Assistant Dashboard](https://gist.github.com/IronicBadger/1a4504b3a23d9952cec0c61127b6ac4f "Quarantine-o-meter Home Assistant Dashboard")
-  * [Apple acquires popular weather app Dark Sky and will shut down the Android version](https://www.theverge.com/2020/3/31/21201666/apple-acquires-weather-app-dark-sky-shut-down-android-wear-os-ios "Apple acquires popular weather app Dark Sky and will shut down the Android version") — The Android and Wear OS apps will work until July 1st
-  * [Wyze firmware update lets you turn its security cameras into webcams](https://www.theverge.com/2020/3/31/21202022/wyze-firmware-update-webcam-security-camera-transform-solution-guide "Wyze firmware update lets you turn its security cameras into webcams") — To solve webcam shortage issues if you’re stuck working from home
+  * [Self-Hosted Discord Server ](https://discord.gg/n49fgkp "Self-Hosted Discord Server")
+  * [Rationale for using Discord ](https://blog.ktz.me/self-hosted-launches-a-discord-server/ "Rationale for using Discord") — Let's grow a community around being the best place to discuss Self-Hosting. 
+  * [Barcodebuddy ](https://github.com/Forceu/barcodebuddy "Barcodebuddy") — Barcode system for Grocy 
+  * [Quarantine-o-meter Home Assistant Dashboard ](https://gist.github.com/IronicBadger/1a4504b3a23d9952cec0c61127b6ac4f "Quarantine-o-meter Home Assistant Dashboard")
+  * [Apple acquires popular weather app Dark Sky and will shut down the Android version ](https://www.theverge.com/2020/3/31/21201666/apple-acquires-weather-app-dark-sky-shut-down-android-wear-os-ios "Apple acquires popular weather app Dark Sky and will shut down the Android version") — The Android and Wear OS apps will work until July 1st 
+  * [Wyze firmware update lets you turn its security cameras into webcams ](https://www.theverge.com/2020/3/31/21202022/wyze-firmware-update-webcam-security-camera-transform-solution-guide "Wyze firmware update lets you turn its security cameras into webcams") — To solve webcam shortage issues if you’re stuck working from home 
 
 
 

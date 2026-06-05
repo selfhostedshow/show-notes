@@ -22,13 +22,13 @@ None
 
 ## Episode links
 
-  * [PowerShell on Linux](https://powershellonlinux.com/Home "PowerShell on Linux")
-  * [PowerShell on Linux on Twitter](https://twitter.com/PoSH4Linux "PowerShell on Linux on Twitter")
-  * [PowerShellOnLinux - FavoriteModules](https://powershellonlinux.com/FavoriteModules "PowerShellOnLinux - FavoriteModules") — Below you will find a list of PowerShell Modules that we've found useful. 
-  * [Powershell on Linux Telegram Group](https://t.me/PowershellOnLinux "Powershell on Linux Telegram Group")
-  * [Installing PowerShell Core on Linux | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-6 "Installing PowerShell Core on Linux | Microsoft Docs")
-  * [PowerShell on GitHub](https://github.com/PowerShell/PowerShell "PowerShell on GitHub")
-  * [PowerShell Gallery | FreeNas 1.2](https://www.powershellgallery.com/packages/FreeNas/1.2 "PowerShell Gallery | FreeNas 1.2") — This module interact with FreeNas and TrueNas with the API REST 1.0 
+  * [PowerShell on Linux ](https://powershellonlinux.com/Home "PowerShell on Linux")
+  * [PowerShell on Linux on Twitter ](https://twitter.com/PoSH4Linux "PowerShell on Linux on Twitter")
+  * [PowerShellOnLinux - FavoriteModules ](https://powershellonlinux.com/FavoriteModules "PowerShellOnLinux - FavoriteModules") — Below you will find a list of PowerShell Modules that we've found useful. 
+  * [Powershell on Linux Telegram Group ](https://t.me/PowershellOnLinux "Powershell on Linux Telegram Group")
+  * [Installing PowerShell Core on Linux | Microsoft Docs ](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-6 "Installing PowerShell Core on Linux | Microsoft Docs")
+  * [PowerShell on GitHub ](https://github.com/PowerShell/PowerShell "PowerShell on GitHub")
+  * [PowerShell Gallery | FreeNas 1.2 ](https://www.powershellgallery.com/packages/FreeNas/1.2 "PowerShell Gallery | FreeNas 1.2") — This module interact with FreeNas and TrueNas with the API REST 1.0 
 
 
 

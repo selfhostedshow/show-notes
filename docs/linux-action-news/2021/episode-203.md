@@ -16,23 +16,23 @@ What’s coming next for the Linux desktop, and some exclusive news from System7
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [This week in KDE](https://pointieststick.com/2021/08/20/this-week-in-kde-some-cool-new-stuff/ "This week in KDE") — The KDE Project released today KDE Gear 21.08 as the newest series of their open-source software suite for the KDE Plasma desktop environment and other projects.
-  * [KDE Gear 21.08 Brings Improvements to Dolphin, Konsole, Okular, and Many Other KDE Apps](https://9to5linux.com/kde-gear-21-08-brings-improvements-to-dolphin-konsole-okular-and-many-other-kde-apps "KDE Gear 21.08 Brings Improvements to Dolphin, Konsole, Okular, and Many Other KDE Apps")
-  * [KDE Plasma Introduces A New Overview Effect, Many Wayland Fixes - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=KDE-New-Overview-Effect "KDE Plasma Introduces A New Overview Effect, Many Wayland Fixes - Phoronix")
-  * [#6 Sharing, Caring · This Week in GNOME](https://thisweek.gnome.org/posts/2021/08/twig-6/ "#6 Sharing, Caring · This Week in GNOME")
-  * [Ubuntu 21.10 Likely Sticking To The GNOME 40 Desktop](https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-21.10-With-GNOME-40 "Ubuntu 21.10 Likely Sticking To The GNOME 40 Desktop") — Ideally we would have updated to 41 but feature freeze is today and we didn’t really have the resources available for the update.
-  * [MATE 1.26 Desktop Released With Some Wayland Support](https://www.phoronix.com/scan.php?page=news_item&px=MATE-1.26-Desktop "MATE 1.26 Desktop Released With Some Wayland Support") — After one and a half years in development of MATE 1.26 as a fork of the GNOME 2 desktop components, this release is now available with initial Wayland support and more.
-  * [Element introduces Voice Messages](https://element.io/blog/introducing-voice-messages-and-so-much-more/ "Element introduces Voice Messages") — This has been one of our oldest and most upvoted feature requests ever, so we are incredibly happy to unleash our first version of it at last.
-  * [Join the Jupiter Broadcasting Matrix Server](http://linuxunplugged.com/matrix "Join the Jupiter Broadcasting Matrix Server")
-  * [Tenacity Update](https://github.com/tenacityteam/tenacity/issues/90#issuecomment-901585714 "Tenacity Update")
-  * [LINUX Unplugged 419: What’s Cookin’ at System76](https://linuxunplugged.com/419 "LINUX Unplugged 419: What’s Cookin’ at System76")
-  * [Launch Configurable Keyboard | System76](https://system76.com/accessories/launch "Launch Configurable Keyboard | System76") — The Launch Configurable Keyboard is engineered to be comfortable, fully customizable, and make your workflow more efficient.
+  * [This week in KDE ](https://pointieststick.com/2021/08/20/this-week-in-kde-some-cool-new-stuff/ "This week in KDE") — The KDE Project released today KDE Gear 21.08 as the newest series of their open-source software suite for the KDE Plasma desktop environment and other projects. 
+  * [KDE Gear 21.08 Brings Improvements to Dolphin, Konsole, Okular, and Many Other KDE Apps ](https://9to5linux.com/kde-gear-21-08-brings-improvements-to-dolphin-konsole-okular-and-many-other-kde-apps "KDE Gear 21.08 Brings Improvements to Dolphin, Konsole, Okular, and Many Other KDE Apps")
+  * [KDE Plasma Introduces A New Overview Effect, Many Wayland Fixes - Phoronix ](https://www.phoronix.com/scan.php?page=news_item&px=KDE-New-Overview-Effect "KDE Plasma Introduces A New Overview Effect, Many Wayland Fixes - Phoronix")
+  * [6 Sharing, Caring · This Week in GNOME ](https://thisweek.gnome.org/posts/2021/08/twig-6/ "#6 Sharing, Caring · This Week in GNOME")
+  * [Ubuntu 21.10 Likely Sticking To The GNOME 40 Desktop ](https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-21.10-With-GNOME-40 "Ubuntu 21.10 Likely Sticking To The GNOME 40 Desktop") — Ideally we would have updated to 41 but feature freeze is today and we didn’t really have the resources available for the update. 
+  * [MATE 1.26 Desktop Released With Some Wayland Support ](https://www.phoronix.com/scan.php?page=news_item&px=MATE-1.26-Desktop "MATE 1.26 Desktop Released With Some Wayland Support") — After one and a half years in development of MATE 1.26 as a fork of the GNOME 2 desktop components, this release is now available with initial Wayland support and more. 
+  * [Element introduces Voice Messages ](https://element.io/blog/introducing-voice-messages-and-so-much-more/ "Element introduces Voice Messages") — This has been one of our oldest and most upvoted feature requests ever, so we are incredibly happy to unleash our first version of it at last. 
+  * [Join the Jupiter Broadcasting Matrix Server ](http://linuxunplugged.com/matrix "Join the Jupiter Broadcasting Matrix Server")
+  * [Tenacity Update ](https://github.com/tenacityteam/tenacity/issues/90#issuecomment-901585714 "Tenacity Update")
+  * [LINUX Unplugged 419: What’s Cookin’ at System76 ](https://linuxunplugged.com/419 "LINUX Unplugged 419: What’s Cookin’ at System76")
+  * [Launch Configurable Keyboard | System76 ](https://system76.com/accessories/launch "Launch Configurable Keyboard | System76") — The Launch Configurable Keyboard is engineered to be comfortable, fully customizable, and make your workflow more efficient. 
 
 
 

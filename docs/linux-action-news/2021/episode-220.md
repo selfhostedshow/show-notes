@@ -15,23 +15,23 @@ The nasty Log4Shell vulnerability isn't solved yet, this week saw a new round of
 
 ## Sponsored by
 
-  * [Jupiter Network Membership](http://jupiter.party): [Support the entire network, and get access to every member's special feed for every show on the network.](http://jupiter.party) Promo Code: thesignal
+  * [Jupiter Network Membership](http://jupiter.party): [Support the entire network, and get access to every member's special feed for every show on the network. ](http://jupiter.party) Promo Code: thesignal
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Log4j 2.15.0 and previously suggested mitigations may not be enough](https://isc.sans.edu/diary/Log4j+2.15.0+and+previously+suggested+mitigations+may+not+be+enough/28134 "Log4j 2.15.0 and previously suggested mitigations may not be enough") — It was discovered that version 2.15.0 would still be vulnerable when the configuration has a pattern layout containing a Context Lookup.
-  * [Statement from CISA Director Easterly on “Log4j” Vulnerability](https://www.cisa.gov/news/2021/12/11/statement-cisa-director-easterly-log4j-vulnerability "Statement from CISA Director Easterly on “Log4j” Vulnerability")
-  * [PipeWire 0.3.41 Offers Improved Flatpak & JACK Compatibility, Apple AirPlay Streaming](https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.41-Released "PipeWire 0.3.41 Offers Improved Flatpak & JACK Compatibility, Apple AirPlay Streaming") — PipeWire 0.3.41 also adds a new RAOP module (raop-sink and raop-discover) that can be used for streaming to Apple AirPlay devices. 
-  * [EXT4 Prepared To Switch To Linux’s New Mount API](https://www.phoronix.com/scan.php?page=news_item&px=EXT4-New-Mount-API-Usage "EXT4 Prepared To Switch To Linux’s New Mount API") — Linux's new mount API is what came about in recent times as a set of system calls offering more flexibility than the long-standing mount syscall that is a one-shot effort while this new multi-step mounting procedure allows for more options. 
-  * [The End-Of-Year 2021 State Of Linux On Apple’s M1 SoC](https://www.phoronix.com/scan.php?page=news_item&px=Apple-M1-Silicon-EO-2021 "The End-Of-Year 2021 State Of Linux On Apple’s M1 SoC") — The Asahi Linux project has published their October and November status update to provide an overview of where the Apple Silicon / Apple M1 open-source support is now at as we approach the end of 2021.
-  * [Asahi Linux looks forward to exciting 2022 on Apple silicon](https://www.theregister.com/2021/12/16/asahi_linux_2022/ "Asahi Linux looks forward to exciting 2022 on Apple silicon")
-  * [Hector Martin on Twitter](https://twitter.com/marcan42/status/1471799568807636994 "Hector Martin on Twitter") — Looks like Apple changed the requirements for Mach-O kernel files in 12.1, breaking our existing installation process... and they *also* added a raw image mode that will never break again and doesn't require Mach-Os. And people said they wouldn't help. This is intended for us.
-  * [Podcastindex.org](https://podcastindex.org/ "Podcastindex.org") — The Podcast Index is here to preserve, protect and extend the open, independent podcasting ecosystem.
-  * [Linux Action News on Podcastindex.org](https://podcastindex.org/podcast/203827 "Linux Action News on Podcastindex.org")
+  * [Log4j 2.15.0 and previously suggested mitigations may not be enough ](https://isc.sans.edu/diary/Log4j+2.15.0+and+previously+suggested+mitigations+may+not+be+enough/28134 "Log4j 2.15.0 and previously suggested mitigations may not be enough") — It was discovered that version 2.15.0 would still be vulnerable when the configuration has a pattern layout containing a Context Lookup. 
+  * [Statement from CISA Director Easterly on “Log4j” Vulnerability ](https://www.cisa.gov/news/2021/12/11/statement-cisa-director-easterly-log4j-vulnerability "Statement from CISA Director Easterly on “Log4j” Vulnerability")
+  * [PipeWire 0.3.41 Offers Improved Flatpak & JACK Compatibility, Apple AirPlay Streaming ](https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.41-Released "PipeWire 0.3.41 Offers Improved Flatpak & JACK Compatibility, Apple AirPlay Streaming") — PipeWire 0.3.41 also adds a new RAOP module (raop-sink and raop-discover) that can be used for streaming to Apple AirPlay devices. 
+  * [EXT4 Prepared To Switch To Linux’s New Mount API ](https://www.phoronix.com/scan.php?page=news_item&px=EXT4-New-Mount-API-Usage "EXT4 Prepared To Switch To Linux’s New Mount API") — Linux's new mount API is what came about in recent times as a set of system calls offering more flexibility than the long-standing mount syscall that is a one-shot effort while this new multi-step mounting procedure allows for more options. 
+  * [The End-Of-Year 2021 State Of Linux On Apple’s M1 SoC ](https://www.phoronix.com/scan.php?page=news_item&px=Apple-M1-Silicon-EO-2021 "The End-Of-Year 2021 State Of Linux On Apple’s M1 SoC") — The Asahi Linux project has published their October and November status update to provide an overview of where the Apple Silicon / Apple M1 open-source support is now at as we approach the end of 2021. 
+  * [Asahi Linux looks forward to exciting 2022 on Apple silicon ](https://www.theregister.com/2021/12/16/asahi_linux_2022/ "Asahi Linux looks forward to exciting 2022 on Apple silicon")
+  * [Hector Martin on Twitter ](https://twitter.com/marcan42/status/1471799568807636994 "Hector Martin on Twitter") — Looks like Apple changed the requirements for Mach-O kernel files in 12.1, breaking our existing installation process... and they _also_ added a raw image mode that will never break again and doesn't require Mach-Os. And people said they wouldn't help. This is intended for us. 
+  * [Podcastindex.org ](https://podcastindex.org/ "Podcastindex.org") — The Podcast Index is here to preserve, protect and extend the open, independent podcasting ecosystem. 
+  * [Linux Action News on Podcastindex.org ](https://podcastindex.org/podcast/203827 "Linux Action News on Podcastindex.org")
 
 
 

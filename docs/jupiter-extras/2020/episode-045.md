@@ -21,12 +21,12 @@ None
 
 ## Episode links
 
-  * [Linksys WRT54G](https://en.wikipedia.org/wiki/Linksys_WRT54G_series "Linksys WRT54G")
-  * [Tomato by Shibby](https://tomato.groov.pl/?page_id=81 "Tomato by Shibby")
-  * [UniFi AC Pro](https://store.ui.com/products/unifi-ac-pro "UniFi AC Pro")
-  * [pfSense - World's Most Trusted Open Source Firewall](https://www.pfsense.org/ "pfSense - World's Most Trusted Open Source Firewall")
-  * [Alex's pfSense Build](https://forums.serverbuilds.net/t/guide-jdms-mini-itx-pfsense-builds/187 "Alex's pfSense Build")
-  * [Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/ "Raspberry Pi 4 Model B")
+  * [Linksys WRT54G ](https://en.wikipedia.org/wiki/Linksys_WRT54G_series "Linksys WRT54G")
+  * [Tomato by Shibby ](https://tomato.groov.pl/?page_id=81 "Tomato by Shibby")
+  * [UniFi AC Pro ](https://store.ui.com/products/unifi-ac-pro "UniFi AC Pro")
+  * [pfSense - World's Most Trusted Open Source Firewall ](https://www.pfsense.org/ "pfSense - World's Most Trusted Open Source Firewall")
+  * [Alex's pfSense Build ](https://forums.serverbuilds.net/t/guide-jdms-mini-itx-pfsense-builds/187 "Alex's pfSense Build")
+  * [Raspberry Pi 4 Model B ](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/ "Raspberry Pi 4 Model B")
 
 
 

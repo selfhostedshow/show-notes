@@ -21,16 +21,16 @@ None
 
 ## Episode links
 
-  * [GNOME](https://www.gnome.org/ "GNOME")
-  * [ITRenew](https://www.itrenew.com/ "ITRenew")
-  * [Linux App Summit](https://linuxappsummit.org/ "Linux App Summit")
-  * [Brunch with Brent: Aleix Pol](https://extras.show/66 "Brunch with Brent: Aleix Pol")
-  * [Brunch with Brent: Nuritzi Sanchez](https://extras.show/61 "Brunch with Brent: Nuritzi Sanchez")
-  * [Brunch with Brent: Heather Ellsworth](https://extras.show/57 "Brunch with Brent: Heather Ellsworth")
-  * [CHAOSS - Community Health Analytics Open Source Software](https://chaoss.community/ "CHAOSS - Community Health Analytics Open Source Software")
-  * [Open Compute Project](https://www.opencompute.org/ "Open Compute Project")
-  * [Sri Ramkrishna - @sramkrishna on Twitter](https://twitter.com/sramkrishna "Sri Ramkrishna - @sramkrishna on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [GNOME ](https://www.gnome.org/ "GNOME")
+  * [ITRenew ](https://www.itrenew.com/ "ITRenew")
+  * [Linux App Summit ](https://linuxappsummit.org/ "Linux App Summit")
+  * [Brunch with Brent: Aleix Pol ](https://extras.show/66 "Brunch with Brent: Aleix Pol")
+  * [Brunch with Brent: Nuritzi Sanchez ](https://extras.show/61 "Brunch with Brent: Nuritzi Sanchez")
+  * [Brunch with Brent: Heather Ellsworth ](https://extras.show/57 "Brunch with Brent: Heather Ellsworth")
+  * [CHAOSS - Community Health Analytics Open Source Software ](https://chaoss.community/ "CHAOSS - Community Health Analytics Open Source Software")
+  * [Open Compute Project ](https://www.opencompute.org/ "Open Compute Project")
+  * [Sri Ramkrishna - @sramkrishna on Twitter ](https://twitter.com/sramkrishna "Sri Ramkrishna - @sramkrishna on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

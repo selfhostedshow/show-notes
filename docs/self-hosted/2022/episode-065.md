@@ -22,14 +22,14 @@ Alex gives the new TrueNAS SCALE a go and hits a snag.
 
 ## Episode links
 
-  * [Z-Wave and OpenZwave integrations pending removal](https://www.reddit.com/r/homeassistant/comments/szst66/zwave_and_openzwave_integrations_pending_removal/?utm_name=iossmf "Z-Wave and OpenZwave integrations pending removal") — This is just based on the 2022.3 beta release notes, but wanted to give a heads up as soon as possible for anyone who hasn't updated to Z-Wave JS yet. You probably only have until April to switch over to one of the new Z-Wave JS integrations.
-  * [Z-Wave (deprecated) - Home Assistant](https://www.home-assistant.io/integrations/zwave/#control-panel "Z-Wave \(deprecated\) - Home Assistant")
-  * [Home Assistant docs is a nightmare - a new user perspective](https://old.reddit.com/r/homeassistant/comments/svg8s8/home_assistant_docs_is_a_nightmare_a_new_user/ "Home Assistant docs is a nightmare - a new user perspective")
+  * [Z-Wave and OpenZwave integrations pending removal ](https://www.reddit.com/r/homeassistant/comments/szst66/zwave_and_openzwave_integrations_pending_removal/?utm_name=iossmf "Z-Wave and OpenZwave integrations pending removal") — This is just based on the 2022.3 beta release notes, but wanted to give a heads up as soon as possible for anyone who hasn't updated to Z-Wave JS yet. You probably only have until April to switch over to one of the new Z-Wave JS integrations. 
+  * [Z-Wave (deprecated) - Home Assistant ](https://www.home-assistant.io/integrations/zwave/#control-panel "Z-Wave \(deprecated\) - Home Assistant")
+  * [Home Assistant docs is a nightmare - a new user perspective ](https://old.reddit.com/r/homeassistant/comments/svg8s8/home_assistant_docs_is_a_nightmare_a_new_user/ "Home Assistant docs is a nightmare - a new user perspective")
   * [TrueNAS SCALE ](https://www.truenas.com/truenas-scale/ "TrueNAS SCALE ") — TrueNAS® SCALE is an Open Source Hyperconverged Infrastructure solution. Built on TrueNAS CORE, SCALE adds Linux Containers, KVM, and scale-out ZFS storage capabilities. 
-  * [TrueCommand](https://www.truenas.com/truecommand/ "TrueCommand") — Manage your TrueNAS fleet all from one place 
-  * [Nextcloud Two-factor authentication](https://docs.nextcloud.com/server/latest/admin_manual/configuration_user/two_factor-auth.html "Nextcloud Two-factor authentication") — Two-factor authentication adds an additional layer of security to user accounts. In order to log in on an account with two-factor authentication (2FA) enabled, it is necessary to provide both the login password and another factor. 2FA in Nextcloud is pluggable, meaning that they are not part of the Nextcloud Server component but provided by featured and 3rd-party Nextcloud apps. 
-  * [Two-Factor TOTP Provider - Apps - App Store](https://apps.nextcloud.com/apps/twofactor_totp "Two-Factor TOTP Provider - Apps - App Store")
-  * [Jupiter Broadcasting Meetup Page](https://www.meetup.com/jupiterbroadcasting/ "Jupiter Broadcasting Meetup Page") — Jupiter Broadcasting regularly provides community events, talks, meet and greets and special hang-out dinners while attending fests and conferences.
+  * [TrueCommand ](https://www.truenas.com/truecommand/ "TrueCommand") — Manage your TrueNAS fleet all from one place 
+  * [Nextcloud Two-factor authentication ](https://docs.nextcloud.com/server/latest/admin_manual/configuration_user/two_factor-auth.html "Nextcloud Two-factor authentication") — Two-factor authentication adds an additional layer of security to user accounts. In order to log in on an account with two-factor authentication (2FA) enabled, it is necessary to provide both the login password and another factor. 2FA in Nextcloud is pluggable, meaning that they are not part of the Nextcloud Server component but provided by featured and 3rd-party Nextcloud apps. 
+  * [Two-Factor TOTP Provider - Apps - App Store ](https://apps.nextcloud.com/apps/twofactor_totp "Two-Factor TOTP Provider - Apps - App Store")
+  * [Jupiter Broadcasting Meetup Page ](https://www.meetup.com/jupiterbroadcasting/ "Jupiter Broadcasting Meetup Page") — Jupiter Broadcasting regularly provides community events, talks, meet and greets and special hang-out dinners while attending fests and conferences. 
 
 
 

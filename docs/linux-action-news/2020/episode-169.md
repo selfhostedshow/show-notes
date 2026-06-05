@@ -17,14 +17,14 @@ Our annual predictions episode kicks off with a review of what we got right and 
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [2018 Review / 2019 Predictions: Linux Action News 86](https://linuxactionnews.com/86 "2018 Review / 2019 Predictions: Linux Action News 86")
-  * [2019 Review / 2020 Predictions: Linux Action News 139](https://linuxactionnews.com/139 "2019 Review / 2020 Predictions: Linux Action News 139")
+  * [2018 Review / 2019 Predictions: Linux Action News 86 ](https://linuxactionnews.com/86 "2018 Review / 2019 Predictions: Linux Action News 86")
+  * [2019 Review / 2020 Predictions: Linux Action News 139 ](https://linuxactionnews.com/139 "2019 Review / 2020 Predictions: Linux Action News 139")
 
 
 

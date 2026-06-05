@@ -21,16 +21,16 @@ None
 
 ## Episode links
 
-  * [Manjaro to ship FreeOffice by default](https://forum.manjaro.org/t/testing-update-2019-07-29-kernels-xfce-4-14-pre3-haskell/96690 "Manjaro to ship FreeOffice by default") — We will ship FreeOffice by default. This is possible since we partnered up with Softmaker. Enjoy the best compatibility to MS Office.
-  * [Manjaro backtracks](https://forum.manjaro.org/t/about-freeoffice-its-not-being-installed-by-default/97297 "Manjaro backtracks") — Manjaro will not be installing FreeOffice by default.
-  * [GNOME and KDE to co-host the Linux App Summit in November](https://www.mail-archive.com/kde-announce@kde.org/msg00361.html "GNOME and KDE to co-host the Linux App Summit in November") — The GNOME Foundation and KDE e.V. are proud to announce Linux App Summit 2019. The Linux App Summit will be held in Barcelona from November 12th to 15th, 2019. 
-  * [An update on Android for search providers in Europe](https://blog.google/around-the-globe/google-europe/update-android-search-providers-europe/ "An update on Android for search providers in Europe") — Next year, we'll introduce a new way for Android users to select a search provider to power a search box on their home screen and as the default in Chrome (if installed). 
-  * [Google will use a first-price sealed-bid auction](https://www.android.com/choicescreen/ "Google will use a first-price sealed-bid auction")
-  * [DNS-over-HTTPS (DoH) Update](https://blog.mozilla.org/futurereleases/2019/07/31/dns-over-https-doh-update-detecting-managed-networks-and-user-choice/ "DNS-over-HTTPS \(DoH\) Update") — We want to understand how often users of Firefox are subject to these network configurations.
-  * [Contract for the Web is becoming a reality](https://sdtimes.com/softwaredev/contract-for-the-web-is-becoming-a-reality/ "Contract for the Web is becoming a reality") — Berners-Lee has called it many things since he announced it at the 2018 Web Summit: a contract, a “magna carta” and a Bill of Rights. 
-  * [Browser vendors win war with W3C over HTML and DOM standards](https://www.zdnet.com/article/browser-vendors-win-war-with-w3c-over-html-and-dom-standards/ "Browser vendors win war with W3C over HTML and DOM standards")
-  * [Solid](https://solid.inrupt.com/ "Solid")
-  * [Moving the Linux desktop to another reality](https://www.collabora.com/news-and-blog/news-and-events/moving-the-linux-desktop-to-another-reality.html "Moving the Linux desktop to another reality") — Today, we are very excited to announce a new open source project which enables interaction with traditional desktop environments, such as GNOME and KDE, in VR. 
+  * [Manjaro to ship FreeOffice by default ](https://forum.manjaro.org/t/testing-update-2019-07-29-kernels-xfce-4-14-pre3-haskell/96690 "Manjaro to ship FreeOffice by default") — We will ship FreeOffice by default. This is possible since we partnered up with Softmaker. Enjoy the best compatibility to MS Office. 
+  * [Manjaro backtracks ](https://forum.manjaro.org/t/about-freeoffice-its-not-being-installed-by-default/97297 "Manjaro backtracks") — Manjaro will not be installing FreeOffice by default. 
+  * [GNOME and KDE to co-host the Linux App Summit in November ](https://www.mail-archive.com/kde-announce@kde.org/msg00361.html "GNOME and KDE to co-host the Linux App Summit in November") — The GNOME Foundation and KDE e.V. are proud to announce Linux App Summit 2019. The Linux App Summit will be held in Barcelona from November 12th to 15th, 2019. 
+  * [An update on Android for search providers in Europe ](https://blog.google/around-the-globe/google-europe/update-android-search-providers-europe/ "An update on Android for search providers in Europe") — Next year, we'll introduce a new way for Android users to select a search provider to power a search box on their home screen and as the default in Chrome (if installed). 
+  * [Google will use a first-price sealed-bid auction ](https://www.android.com/choicescreen/ "Google will use a first-price sealed-bid auction")
+  * [DNS-over-HTTPS (DoH) Update ](https://blog.mozilla.org/futurereleases/2019/07/31/dns-over-https-doh-update-detecting-managed-networks-and-user-choice/ "DNS-over-HTTPS \(DoH\) Update") — We want to understand how often users of Firefox are subject to these network configurations. 
+  * [Contract for the Web is becoming a reality ](https://sdtimes.com/softwaredev/contract-for-the-web-is-becoming-a-reality/ "Contract for the Web is becoming a reality") — Berners-Lee has called it many things since he announced it at the 2018 Web Summit: a contract, a “magna carta” and a Bill of Rights. 
+  * [Browser vendors win war with W3C over HTML and DOM standards ](https://www.zdnet.com/article/browser-vendors-win-war-with-w3c-over-html-and-dom-standards/ "Browser vendors win war with W3C over HTML and DOM standards")
+  * [Solid ](https://solid.inrupt.com/ "Solid")
+  * [Moving the Linux desktop to another reality ](https://www.collabora.com/news-and-blog/news-and-events/moving-the-linux-desktop-to-another-reality.html "Moving the Linux desktop to another reality") — Today, we are very excited to announce a new open source project which enables interaction with traditional desktop environments, such as GNOME and KDE, in VR. 
 
 
 

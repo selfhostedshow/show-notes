@@ -16,20 +16,20 @@ What is it like to live with another man's automations? Brent spills all.
 
 ## Sponsored by
 
-  * [LogScale](https://crowdstrike.com/lce): [Take logs from any source and make them usable. Get started with LogScale Community Edition for free.](https://crowdstrike.com/lce)
+  * [LogScale](https://crowdstrike.com/lce): [Take logs from any source and make them usable. Get started with LogScale Community Edition for free. ](https://crowdstrike.com/lce)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 
 ## Episode links
 
-  * [I'm sick... Jeff Geerling Channel Update - YouTube](https://www.youtube.com/watch?v=MXxPsWjMW1A "I'm sick... Jeff Geerling Channel Update - YouTube")
-  * [Shelly Plus H&T - Shelly Cloud](https://shelly.cloud/shelly_plus_h-t/ "Shelly Plus H&T - Shelly Cloud") — Enhanced with a faster processor, Shelly Plus H&T monitors even the slightest change in the conditions and will help you prevent dryness or mold while maintaining comfortable conditions at the premises.
-  * [Shelly Sensors Guide: Humidity and Temperature](https://www.facebook.com/legacy/notes/212734947049197/ "Shelly Sensors Guide: Humidity and Temperature") — Connecting to WiFi and performing other computations causes the internal temperature of the H&T to rise. All electronic devices generate a little bit of heat, so this fact is unavoidable. The small size of the H&T intensifies this challenge. The part of the H&T that takes temperature measurements is close by and confined within the same case that houses the heat-generating components like the CPU. Shelly engineers devised a way to get around the problem by having the device sleep, then quickly take a measurement before the locally-produced heat can skew the measurement.
-  * [Aqara Wireless Smart Temperature Humidity Sensor](https://www.aqara.com/us/temperature_humidity_sensor.html "Aqara Wireless Smart Temperature Humidity Sensor") — Monitors temperature, humidity, and atmospheric pressure in real time. 
-  * [Upcoming Jupiter Broadcasting West Coast Meetups](https://www.meetup.com/jupiterbroadcasting/events "Upcoming Jupiter Broadcasting West Coast Meetups") — The west coast road tour is coming. Join us at one of our various meetups!
-  * [Join the West Coast Crew on Matrix](https://bt.ly/westcoastcrew "Join the West Coast Crew on Matrix") — West coast locals, join us in the Matrix!
-  * [Boost the Show](https://podcastindex.org/apps?appTypes=app&elements=Value "Boost the Show") — Grab a Podcasting 2.0 compatible app, and send a Boost into the show.
+  * [I'm sick... Jeff Geerling Channel Update - YouTube ](https://www.youtube.com/watch?v=MXxPsWjMW1A "I'm sick... Jeff Geerling Channel Update - YouTube")
+  * [Shelly Plus H&T - Shelly Cloud ](https://shelly.cloud/shelly_plus_h-t/ "Shelly Plus H&T - Shelly Cloud") — Enhanced with a faster processor, Shelly Plus H&T monitors even the slightest change in the conditions and will help you prevent dryness or mold while maintaining comfortable conditions at the premises. 
+  * [Shelly Sensors Guide: Humidity and Temperature ](https://www.facebook.com/legacy/notes/212734947049197/ "Shelly Sensors Guide: Humidity and Temperature") — Connecting to WiFi and performing other computations causes the internal temperature of the H&T to rise. All electronic devices generate a little bit of heat, so this fact is unavoidable. The small size of the H&T intensifies this challenge. The part of the H&T that takes temperature measurements is close by and confined within the same case that houses the heat-generating components like the CPU. Shelly engineers devised a way to get around the problem by having the device sleep, then quickly take a measurement before the locally-produced heat can skew the measurement. 
+  * [Aqara Wireless Smart Temperature Humidity Sensor ](https://www.aqara.com/us/temperature_humidity_sensor.html "Aqara Wireless Smart Temperature Humidity Sensor") — Monitors temperature, humidity, and atmospheric pressure in real time. 
+  * [Upcoming Jupiter Broadcasting West Coast Meetups ](https://www.meetup.com/jupiterbroadcasting/events "Upcoming Jupiter Broadcasting West Coast Meetups") — The west coast road tour is coming. Join us at one of our various meetups! 
+  * [Join the West Coast Crew on Matrix ](https://bt.ly/westcoastcrew "Join the West Coast Crew on Matrix") — West coast locals, join us in the Matrix! 
+  * [Boost the Show ](https://podcastindex.org/apps?appTypes=app&elements=Value "Boost the Show") — Grab a Podcasting 2.0 compatible app, and send a Boost into the show. 
 
 
 

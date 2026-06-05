@@ -22,9 +22,9 @@ None
 
 ## Episode links
 
-  * [The Perfect Media Server 2017](https://blog.linuxserver.io/2017/06/24/the-perfect-media-server-2017/ "The Perfect Media Server 2017")
-  * [Mergerfs - another good option to pool your SnapRAID disks](https://zackreed.me/mergerfs-another-good-option-to-pool-your-snapraid-disks/ "Mergerfs - another good option to pool your SnapRAID disks")
-  * [mergerfs: a featureful union filesystem](https://github.com/trapexit/mergerfs "mergerfs: a featureful union filesystem")
+  * [The Perfect Media Server 2017 ](https://blog.linuxserver.io/2017/06/24/the-perfect-media-server-2017/ "The Perfect Media Server 2017")
+  * [Mergerfs - another good option to pool your SnapRAID disks ](https://zackreed.me/mergerfs-another-good-option-to-pool-your-snapraid-disks/ "Mergerfs - another good option to pool your SnapRAID disks")
+  * [mergerfs: a featureful union filesystem ](https://github.com/trapexit/mergerfs "mergerfs: a featureful union filesystem")
 
 
 

@@ -21,26 +21,26 @@ None
 
 ## Episode links
 
-  * [PrincessLeia.com](https://princessleia.com/ "PrincessLeia.com") — The Official Website of Elizabeth K. Joseph
-  * [Ubuntu](https://ubuntu.com/ "Ubuntu")
-  * [Debian](https://www.debian.org/ "Debian")
-  * [Xubuntu](https://xubuntu.org/ "Xubuntu")
-  * [IBM Z Mainframe Servers and Software - IBM](https://www.ibm.com/it-infrastructure/z "IBM Z Mainframe Servers and Software - IBM")
-  * ["Why Linux Systems Administrators Should Care About the Mainframe" - linux.conf.au 2020 - YouTube](https://www.youtube.com/watch?v=3-NC6ntYAy4 ""Why Linux Systems Administrators Should Care About the Mainframe" - linux.conf.au 2020 - YouTube")
-  * [ReBoot - Wikipedia](https://en.wikipedia.org/wiki/ReBoot "ReBoot - Wikipedia") — Bob and his companions Enzo and Dot Matrix work to keep the computer system of Mainframe safe from the viruses Megabyte and Hexadecimal.
-  * [An Ode to Movie Mainframes - YouTube](https://www.youtube.com/watch?v=Hcywf9mwF5U "An Ode to Movie Mainframes - YouTube")
-  * [Master the Mainframe - IBM](https://www.ibm.com/it-infrastructure/z/education/master-the-mainframe "Master the Mainframe - IBM") — Developing enterprise computing and coding skills in more than 3,500 schools in over 130 countries.
-  * [Open Mainframe Project - The Linux Foundation Projects](https://www.openmainframeproject.org/ "Open Mainframe Project - The Linux Foundation Projects")
-  * [Open Mainframe Summit - Call for Proposals](https://events.linuxfoundation.org/open-mainframe-summit/program/cfp/ "Open Mainframe Summit - Call for Proposals")
-  * [Open Mainframe Summit - Linux Foundation Events](https://events.linuxfoundation.org/open-mainframe-summit/ "Open Mainframe Summit - Linux Foundation Events")
-  * [What is the Ubuntu Community Council - Ubuntu Community Hub](https://discourse.ubuntu.com/t/what-is-the-ubuntu-community-council/706 "What is the Ubuntu Community Council - Ubuntu Community Hub")
-  * [UBports - A Ubuntu Touch Community](https://ubports.com/ "UBports - A Ubuntu Touch Community")
-  * [The Official Ubuntu Book, 9th Edition - InformIT](https://www.informit.com/store/official-ubuntu-book-9780134513423 "The Official Ubuntu Book, 9th Edition - InformIT")
-  * [LinuxONE Community Cloud](https://developer.ibm.com/linuxone/ "LinuxONE Community Cloud") — No-charge, open access to an enterprise grade Linux environment
-  * [Endianness - Wikipedia](https://en.wikipedia.org/wiki/Endianness "Endianness - Wikipedia") — "Big-endian" and "Little-endian" redirect here. For the conflicting ideologies in Gulliver's Travels, see Lilliput and Blefuscu § History and politics.
-  * [Elizabeth K. Joseph - Faces of Open Source](http://www.facesofopensource.com/elizabeth-joseph/ "Elizabeth K. Joseph - Faces of Open Source")
-  * [Elizabeth K. Joseph - @pleia2 on Twitter](https://twitter.com/pleia2 "Elizabeth K. Joseph - @pleia2 on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [PrincessLeia.com ](https://princessleia.com/ "PrincessLeia.com") — The Official Website of Elizabeth K. Joseph 
+  * [Ubuntu ](https://ubuntu.com/ "Ubuntu")
+  * [Debian ](https://www.debian.org/ "Debian")
+  * [Xubuntu ](https://xubuntu.org/ "Xubuntu")
+  * [IBM Z Mainframe Servers and Software - IBM ](https://www.ibm.com/it-infrastructure/z "IBM Z Mainframe Servers and Software - IBM")
+  * ["Why Linux Systems Administrators Should Care About the Mainframe" - linux.conf.au 2020 - YouTube ](https://www.youtube.com/watch?v=3-NC6ntYAy4 ""Why Linux Systems Administrators Should Care About the Mainframe" - linux.conf.au 2020 - YouTube")
+  * [ReBoot - Wikipedia ](https://en.wikipedia.org/wiki/ReBoot "ReBoot - Wikipedia") — Bob and his companions Enzo and Dot Matrix work to keep the computer system of Mainframe safe from the viruses Megabyte and Hexadecimal. 
+  * [An Ode to Movie Mainframes - YouTube ](https://www.youtube.com/watch?v=Hcywf9mwF5U "An Ode to Movie Mainframes - YouTube")
+  * [Master the Mainframe - IBM ](https://www.ibm.com/it-infrastructure/z/education/master-the-mainframe "Master the Mainframe - IBM") — Developing enterprise computing and coding skills in more than 3,500 schools in over 130 countries. 
+  * [Open Mainframe Project - The Linux Foundation Projects ](https://www.openmainframeproject.org/ "Open Mainframe Project - The Linux Foundation Projects")
+  * [Open Mainframe Summit - Call for Proposals ](https://events.linuxfoundation.org/open-mainframe-summit/program/cfp/ "Open Mainframe Summit - Call for Proposals")
+  * [Open Mainframe Summit - Linux Foundation Events ](https://events.linuxfoundation.org/open-mainframe-summit/ "Open Mainframe Summit - Linux Foundation Events")
+  * [What is the Ubuntu Community Council - Ubuntu Community Hub ](https://discourse.ubuntu.com/t/what-is-the-ubuntu-community-council/706 "What is the Ubuntu Community Council - Ubuntu Community Hub")
+  * [UBports - A Ubuntu Touch Community ](https://ubports.com/ "UBports - A Ubuntu Touch Community")
+  * [The Official Ubuntu Book, 9th Edition - InformIT ](https://www.informit.com/store/official-ubuntu-book-9780134513423 "The Official Ubuntu Book, 9th Edition - InformIT")
+  * [LinuxONE Community Cloud ](https://developer.ibm.com/linuxone/ "LinuxONE Community Cloud") — No-charge, open access to an enterprise grade Linux environment 
+  * [Endianness - Wikipedia ](https://en.wikipedia.org/wiki/Endianness "Endianness - Wikipedia") — "Big-endian" and "Little-endian" redirect here. For the conflicting ideologies in Gulliver's Travels, see Lilliput and Blefuscu § History and politics. 
+  * [Elizabeth K. Joseph - Faces of Open Source ](http://www.facesofopensource.com/elizabeth-joseph/ "Elizabeth K. Joseph - Faces of Open Source")
+  * [Elizabeth K. Joseph - @pleia2 on Twitter ](https://twitter.com/pleia2 "Elizabeth K. Joseph - @pleia2 on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

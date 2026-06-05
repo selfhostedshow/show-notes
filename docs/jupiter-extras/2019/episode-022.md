@@ -21,20 +21,20 @@ None
 
 ## Episode links
 
-  * [BSDNow](https://www.bsdnow.tv/ "BSDNow")
-  * [TechSNAP](https://techsnap.systems/ "TechSNAP")
-  * [ScaleEngine](https://www.scaleengine.com/ "ScaleEngine")
-  * [STOked (Archive)](https://www.jupiterbroadcasting.com/show/stoked/ "STOked \(Archive\)")
-  * [Linux Action Show (Archive)](https://www.jupiterbroadcasting.com/show/linuxactionshow/ "Linux Action Show \(Archive\)")
-  * [FauxShow (Archive)](https://www.jupiterbroadcasting.com/show/fauxshow/ "FauxShow \(Archive\)")
-  * [Unfilter (Archive)](https://www.jupiterbroadcasting.com/show/unfilter/ "Unfilter \(Archive\)")
-  * [OpenZFS](http://www.open-zfs.org/ "OpenZFS")
-  * [BSDCan - The BSD Conference Canada](https://www.bsdcan.org/ "BSDCan - The BSD Conference Canada")
-  * [Euro BSD Conference](https://eurobsdcon.org/ "Euro BSD Conference")
-  * [Asia BSD Conference](https://asiabsdcon.org/ "Asia BSD Conference")
-  * [FreeBSD ZFS Handbook](https://www.freebsd.org/doc/handbook/zfs.html "FreeBSD ZFS Handbook")
+  * [BSDNow ](https://www.bsdnow.tv/ "BSDNow")
+  * [TechSNAP ](https://techsnap.systems/ "TechSNAP")
+  * [ScaleEngine ](https://www.scaleengine.com/ "ScaleEngine")
+  * [STOked (Archive) ](https://www.jupiterbroadcasting.com/show/stoked/ "STOked \(Archive\)")
+  * [Linux Action Show (Archive) ](https://www.jupiterbroadcasting.com/show/linuxactionshow/ "Linux Action Show \(Archive\)")
+  * [FauxShow (Archive) ](https://www.jupiterbroadcasting.com/show/fauxshow/ "FauxShow \(Archive\)")
+  * [Unfilter (Archive) ](https://www.jupiterbroadcasting.com/show/unfilter/ "Unfilter \(Archive\)")
+  * [OpenZFS ](http://www.open-zfs.org/ "OpenZFS")
+  * [BSDCan - The BSD Conference Canada ](https://www.bsdcan.org/ "BSDCan - The BSD Conference Canada")
+  * [Euro BSD Conference ](https://eurobsdcon.org/ "Euro BSD Conference")
+  * [Asia BSD Conference ](https://asiabsdcon.org/ "Asia BSD Conference")
+  * [FreeBSD ZFS Handbook ](https://www.freebsd.org/doc/handbook/zfs.html "FreeBSD ZFS Handbook")
   * [BSD's POLA - Principle of Least Astonishment ](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/freebsd-glossary.html#pola-glossary "BSD's POLA - Principle of Least Astonishment ")
-  * [BSDNow Live](https://www.bsdnow.tv/live "BSDNow Live")
+  * [BSDNow Live ](https://www.bsdnow.tv/live "BSDNow Live")
 
 
 

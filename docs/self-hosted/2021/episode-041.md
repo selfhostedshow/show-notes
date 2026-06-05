@@ -16,22 +16,22 @@ Special guest Jeff Geerling tells us how he got 16 drives connected to one Pi.
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
-  * [Datadog](http://datadog.com/selfhosted): [Try Datadog today by starting a free 14-day trial and receive a Datadog t-shirt after creating just one dashboard.](http://datadog.com/selfhosted)
+  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com ](https://acloudguru.com/)
+  * [Datadog](http://datadog.com/selfhosted): [Try Datadog today by starting a free 14-day trial and receive a Datadog t-shirt after creating just one dashboard. ](http://datadog.com/selfhosted)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 
 ## Episode links
 
-  * [Nabu Casa has acquired ESPHome](https://www.home-assistant.io/blog/2021/03/18/nabu-casa-has-acquired-esphome/ "Nabu Casa has acquired ESPHome") — Today I’m happy to announce that ESPHome is from now on under the Nabu Casa umbrella.
-  * [ESPHome](https://esphome.io/ "ESPHome")
-  * [Jeff Geerling - YouTube](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg "Jeff Geerling - YouTube") — K8s, Ansible, Raspberry Pi, photography, tech, DIY, tools, etc. Most anything has the potential for showing up on this channel. I might focus on one thing someday, but it's more fun to do ALL THE THINGS!
-  * [Hardware RAID on the Raspberry Pi CM4 | Jeff Geerling](https://www.jeffgeerling.com/blog/2021/hardware-raid-on-raspberry-pi-cm4 "Hardware RAID on the Raspberry Pi CM4 | Jeff Geerling") — Now I have actual enterprise SAS drives running on a hardware RAID controller on a Raspberry Pi, and it's faster than the 'fastest' SATA RAID array I set up in that other video.
-  * [Enterprise SAS RAID ...on a RASPBERRY PI?! - YouTube](https://www.youtube.com/watch?v=1gAUApGaWKk "Enterprise SAS RAID ...on a RASPBERRY PI?! - YouTube")
-  * [I built the fastest Raspberry Pi SATA RAID NAS! - YouTube](https://www.youtube.com/watch?v=oWev1THtA04 "I built the fastest Raspberry Pi SATA RAID NAS! - YouTube")
-  * [IT WORKED! - 16 Hard Drives on the Raspberry Pi (Pi Day Special) - YouTube](https://www.youtube.com/watch?v=HPI5B9QNCY4&t=957s "IT WORKED! - 16 Hard Drives on the Raspberry Pi \(Pi Day Special\) - YouTube")
-  * [Building the fastest Raspberry Pi NAS, with SATA RAID](https://www.jeffgeerling.com/blog/2020/building-fastest-raspberry-pi-nas-sata-raid "Building the fastest Raspberry Pi NAS, with SATA RAID")
+  * [Nabu Casa has acquired ESPHome ](https://www.home-assistant.io/blog/2021/03/18/nabu-casa-has-acquired-esphome/ "Nabu Casa has acquired ESPHome") — Today I’m happy to announce that ESPHome is from now on under the Nabu Casa umbrella. 
+  * [ESPHome ](https://esphome.io/ "ESPHome")
+  * [Jeff Geerling - YouTube ](https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg "Jeff Geerling - YouTube") — K8s, Ansible, Raspberry Pi, photography, tech, DIY, tools, etc. Most anything has the potential for showing up on this channel. I might focus on one thing someday, but it's more fun to do ALL THE THINGS! 
+  * [Hardware RAID on the Raspberry Pi CM4 | Jeff Geerling ](https://www.jeffgeerling.com/blog/2021/hardware-raid-on-raspberry-pi-cm4 "Hardware RAID on the Raspberry Pi CM4 | Jeff Geerling") — Now I have actual enterprise SAS drives running on a hardware RAID controller on a Raspberry Pi, and it's faster than the 'fastest' SATA RAID array I set up in that other video. 
+  * [Enterprise SAS RAID ...on a RASPBERRY PI?! - YouTube ](https://www.youtube.com/watch?v=1gAUApGaWKk "Enterprise SAS RAID ...on a RASPBERRY PI?! - YouTube")
+  * [I built the fastest Raspberry Pi SATA RAID NAS! - YouTube ](https://www.youtube.com/watch?v=oWev1THtA04 "I built the fastest Raspberry Pi SATA RAID NAS! - YouTube")
+  * [IT WORKED! - 16 Hard Drives on the Raspberry Pi (Pi Day Special) - YouTube ](https://www.youtube.com/watch?v=HPI5B9QNCY4&t=957s "IT WORKED! - 16 Hard Drives on the Raspberry Pi \(Pi Day Special\) - YouTube")
+  * [Building the fastest Raspberry Pi NAS, with SATA RAID ](https://www.jeffgeerling.com/blog/2020/building-fastest-raspberry-pi-nas-sata-raid "Building the fastest Raspberry Pi NAS, with SATA RAID")
 
 
 

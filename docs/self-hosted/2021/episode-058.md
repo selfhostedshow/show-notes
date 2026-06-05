@@ -15,18 +15,18 @@ This week we unlock the "Pi"tential of the Compute Module 4 and turn it into a d
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloud.guru/overview/108f9d35-6966-4fb6-a6cd-7af135329bba?utm_source=jupiter&utm_medium=cpc): [Go through a series of hands-on labs picked to showcase Docker and gain experience with it.](https://acloud.guru/overview/108f9d35-6966-4fb6-a6cd-7af135329bba?utm_source=jupiter&utm_medium=cpc)
-  * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze.](https://www.backblaze.com/ssh)
+  * [A Cloud Guru](https://acloud.guru/overview/108f9d35-6966-4fb6-a6cd-7af135329bba?utm_source=jupiter&utm_medium=cpc): [Go through a series of hands-on labs picked to showcase Docker and gain experience with it. ](https://acloud.guru/overview/108f9d35-6966-4fb6-a6cd-7af135329bba?utm_source=jupiter&utm_medium=cpc)
+  * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze. ](https://www.backblaze.com/ssh)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 
 ## Episode links
 
-  * [Original Prusa XL](https://www.prusa3d.com/product/original-prusa-xl-2/ "Original Prusa XL") — The Original Prusa XL is a large-scale CoreXY 3D printer with a build volume of 36×36×36 cm
-  * [Dual Gigabit Ethernet Carrier Board for Raspberry Pi CM4](https://www.seeedstudio.com/Dual-GbE-Carrier-Board-with-4GB-RAM-32GB-eMMC-RPi-CM-4-p-4898.html "Dual Gigabit Ethernet Carrier Board for Raspberry Pi CM4") — The Dual Gigabit Carrier Board powered by Raspberry Pi Compute Module 4 is equipped with dual Gigabit Ethernet ports and dual USB 3.0 ports
-  * [Getting Started with OpenWrt - Seeed Wiki](https://wiki.seeedstudio.com/OpenWrt-Getting-Started/ "Getting Started with OpenWrt - Seeed Wiki")
-  * [Buy a Compute Module 4 IO Board](https://www.raspberrypi.com/products/compute-module-4-io-board/ "Buy a Compute Module 4 IO Board") — Exposing every interface from Raspberry Pi Compute Module 4, the Compute Module 4 IO Board provides a development platform and reference base-board design for our most powerful Compute Module yet.
+  * [Original Prusa XL ](https://www.prusa3d.com/product/original-prusa-xl-2/ "Original Prusa XL") — The Original Prusa XL is a large-scale CoreXY 3D printer with a build volume of 36×36×36 cm 
+  * [Dual Gigabit Ethernet Carrier Board for Raspberry Pi CM4 ](https://www.seeedstudio.com/Dual-GbE-Carrier-Board-with-4GB-RAM-32GB-eMMC-RPi-CM-4-p-4898.html "Dual Gigabit Ethernet Carrier Board for Raspberry Pi CM4") — The Dual Gigabit Carrier Board powered by Raspberry Pi Compute Module 4 is equipped with dual Gigabit Ethernet ports and dual USB 3.0 ports 
+  * [Getting Started with OpenWrt - Seeed Wiki ](https://wiki.seeedstudio.com/OpenWrt-Getting-Started/ "Getting Started with OpenWrt - Seeed Wiki")
+  * [Buy a Compute Module 4 IO Board ](https://www.raspberrypi.com/products/compute-module-4-io-board/ "Buy a Compute Module 4 IO Board") — Exposing every interface from Raspberry Pi Compute Module 4, the Compute Module 4 IO Board provides a development platform and reference base-board design for our most powerful Compute Module yet. 
 
 
 

@@ -21,15 +21,15 @@ None
 
 ## Episode links
 
-  * [Grocy](https://github.com/grocy/grocy "Grocy") — ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
-  * [Home Assistant Community Add-on: Grocy](https://community.home-assistant.io/t/home-assistant-community-add-on-grocy/112422 "Home Assistant Community Add-on: Grocy")
-  * [Home Assistant External Reverse Proxy Setup with nginx](https://blog.ktz.me/home-assistant-external-reverse-proxy-setup/ "Home Assistant External Reverse Proxy Setup with nginx") — I was running into an issue for a while tonight where I could get Home Assistant itself working just fine but any add-ons that used web sockets wouldn't load properly. 
-  * [Let's Encrypt, Nginx & Reverse Proxy Starter Guide](https://blog.linuxserver.io/2019/04/25/letsencrypt-nginx-starter-guide/ "Let's Encrypt, Nginx & Reverse Proxy Starter Guide")
-  * [Picture Elements Card - Home Assistant](https://www.home-assistant.io/lovelace/picture-elements/ "Picture Elements Card - Home Assistant") — The Picture Elements card is one of the most versatile types of cards.
-  * [Screenshot of Chris' HA Watchful Eye](https://imgur.com/a/868RJ1F "Screenshot of Chris' HA Watchful Eye")
-  * [Genmon](https://github.com/jgyates/genmon "Genmon") — Generac Generator Monitoring using a Raspberry Pi and WiFi
-  * [Salt-Level](https://github.com/GlennGoddard/Salt-Level "Salt-Level") — Checks level of salt in water softner brine tank
-  * [ChrisLAS - Chris W. Fisher](https://chrislas.com/ "ChrisLAS - Chris W. Fisher") — Check out the ChrisLAS Cast
+  * [Grocy ](https://github.com/grocy/grocy "Grocy") — ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home 
+  * [Home Assistant Community Add-on: Grocy ](https://community.home-assistant.io/t/home-assistant-community-add-on-grocy/112422 "Home Assistant Community Add-on: Grocy")
+  * [Home Assistant External Reverse Proxy Setup with nginx ](https://blog.ktz.me/home-assistant-external-reverse-proxy-setup/ "Home Assistant External Reverse Proxy Setup with nginx") — I was running into an issue for a while tonight where I could get Home Assistant itself working just fine but any add-ons that used web sockets wouldn't load properly. 
+  * [Let's Encrypt, Nginx & Reverse Proxy Starter Guide ](https://blog.linuxserver.io/2019/04/25/letsencrypt-nginx-starter-guide/ "Let's Encrypt, Nginx & Reverse Proxy Starter Guide")
+  * [Picture Elements Card - Home Assistant ](https://www.home-assistant.io/lovelace/picture-elements/ "Picture Elements Card - Home Assistant") — The Picture Elements card is one of the most versatile types of cards. 
+  * [Screenshot of Chris' HA Watchful Eye ](https://imgur.com/a/868RJ1F "Screenshot of Chris' HA Watchful Eye")
+  * [Genmon ](https://github.com/jgyates/genmon "Genmon") — Generac Generator Monitoring using a Raspberry Pi and WiFi 
+  * [Salt-Level ](https://github.com/GlennGoddard/Salt-Level "Salt-Level") — Checks level of salt in water softner brine tank 
+  * [ChrisLAS - Chris W. Fisher ](https://chrislas.com/ "ChrisLAS - Chris W. Fisher") — Check out the ChrisLAS Cast 
 
 
 

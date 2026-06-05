@@ -22,13 +22,13 @@ Recent advances in embedded Linux, Canonical takes full control of LXD, ZFS gets
 
 ## Episode links
 
-  * [Status of Embedded Linux](https://eoss2023.sched.com/event/1LcNH/status-of-embedded-linux-tim-bird-sony-electronics?iframe=no "Status of Embedded Linux") — In this talk, Tim will give an overview of issues in the Linux in the embedded space that have come about in the past year
-  * [The 2023 State of The Embedded Linux Ecosystem](https://www.phoronix.com/news/2023-Embedded-Linux "The 2023 State of The Embedded Linux Ecosystem")
-  * [LXD Moves to Canonical](https://linuxcontainers.org/lxd/ "LXD Moves to Canonical") — While the team behind Linux Containers regrets that decision and will be missing LXD as one of its projects, it does respect Canonical’s decision and is now in the process of moving the project over.
-  * [Ubuntu Maker Canonical Pulls In Control Of LXD](https://www.phoronix.com/news/Canonical-Pulls-In-LXD "Ubuntu Maker Canonical Pulls In Control Of LXD")
-  * [Nearly 40% of Linux gamers on Steam are on Steam Deck](https://www.gamingonlinux.com/2023/07/nearly-40-of-linux-gamers-on-steam-are-on-steam-deck/ "Nearly 40% of Linux gamers on Steam are on Steam Deck") — Overall the Steam Deck has kind of taken over Linux gaming and June 2023's statistic are pretty striking. 
-  * [Steam Deck on Twitter](https://twitter.com/OnDeck/status/1676684045261099009 "Steam Deck on Twitter") — “Hi all, just a quick note to celebrate a big milestone - we’ve just passed 10,000 Verified and Playable titles on Steam Deck! 🎉🥳🎉 A bunch of these titles are on sale (along with Steam Deck itself) at the Steam Summer Sale!
-  * [ZFS Block Cloning](https://github.com/openzfs/zfs/pull/13392 "ZFS Block Cloning") — Block Cloning allows to clone a file (or a subset of its blocks) into another (or the same) file by just creating additional references to the data blocks without copying the data itself. Block Cloning can be described as a fast, manual deduplication
+  * [Status of Embedded Linux ](https://eoss2023.sched.com/event/1LcNH/status-of-embedded-linux-tim-bird-sony-electronics?iframe=no "Status of Embedded Linux") — In this talk, Tim will give an overview of issues in the Linux in the embedded space that have come about in the past year 
+  * [The 2023 State of The Embedded Linux Ecosystem ](https://www.phoronix.com/news/2023-Embedded-Linux "The 2023 State of The Embedded Linux Ecosystem")
+  * [LXD Moves to Canonical ](https://linuxcontainers.org/lxd/ "LXD Moves to Canonical") — While the team behind Linux Containers regrets that decision and will be missing LXD as one of its projects, it does respect Canonical’s decision and is now in the process of moving the project over. 
+  * [Ubuntu Maker Canonical Pulls In Control Of LXD ](https://www.phoronix.com/news/Canonical-Pulls-In-LXD "Ubuntu Maker Canonical Pulls In Control Of LXD")
+  * [Nearly 40% of Linux gamers on Steam are on Steam Deck ](https://www.gamingonlinux.com/2023/07/nearly-40-of-linux-gamers-on-steam-are-on-steam-deck/ "Nearly 40% of Linux gamers on Steam are on Steam Deck") — Overall the Steam Deck has kind of taken over Linux gaming and June 2023's statistic are pretty striking. 
+  * [Steam Deck on Twitter ](https://twitter.com/OnDeck/status/1676684045261099009 "Steam Deck on Twitter") — “Hi all, just a quick note to celebrate a big milestone - we’ve just passed 10,000 Verified and Playable titles on Steam Deck! 🎉🥳🎉 A bunch of these titles are on sale (along with Steam Deck itself) at the Steam Summer Sale! 
+  * [ZFS Block Cloning ](https://github.com/openzfs/zfs/pull/13392 "ZFS Block Cloning") — Block Cloning allows to clone a file (or a subset of its blocks) into another (or the same) file by just creating additional references to the data blocks without copying the data itself. Block Cloning can be described as a fast, manual deduplication 
 
 
 

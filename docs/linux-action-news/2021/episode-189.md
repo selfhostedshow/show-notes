@@ -16,23 +16,23 @@ Our reaction to System76's Launch keyboard, Google's new Fuchsia contributor tha
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Audacity’s new management hits rewind on telemetry plans following community outrage • The Register](https://www.theregister.com/2021/05/14/audacity_telemetry/ "Audacity’s new management hits rewind on telemetry plans following community outrage • The Register") — "What wrong-footed us completely was that the news got out before we were ready to make an announcement about it." "It was a completely innocent mistake that ended up doing the announcing for us... in the worst way imaginable."
-  * [Actions we propose to take on PR #835 · Discussion #889 · audacity/audacity · GitHub](https://github.com/audacity/audacity/discussions/889 "Actions we propose to take on PR #835 · Discussion #889 · audacity/audacity · GitHub")
-  * [USPTO Audacity Trademark Assignment](https://assignments.uspto.gov/assignments/q?db=tm&sno=78352743 "USPTO Audacity Trademark Assignment") — Recorded: 12/29/2020
-  * [Samsung is now a contributor to Google’s Fuchsia OS - 9to5Google](https://9to5google.com/2021/05/12/samsung-contributing-f2fs-google-fuchsia/ "Samsung is now a contributor to Google’s Fuchsia OS - 9to5Google") — Samsung’s “Flash-Friendly File System.” Better known as “F2FS,” the project is an alternative system for managing the files on a storage device, such as the built-in storage of a smartphone.
-  * [Ubuntu Touch OTA-17 Released for Ubuntu Phones with NFC Support, Many Improvements - 9to5Linux](https://9to5linux.com/ubuntu-touch-ota-17-released-for-ubuntu-phones-with-nfc-support-many-improvements "Ubuntu Touch OTA-17 Released for Ubuntu Phones with NFC Support, Many Improvements - 9to5Linux") — According to UBports, NFC support can allow app developers to implement the ability to read and write NFC tags in their apps, as well as to communicate with another device that supports the NFC protocol. 
-  * [Framework Laptop pre-orders are now open](https://frame.work/ "Framework Laptop pre-orders are now open") — A thin, lightweight, high-performance 13.5” notebook that can be upgraded, customized, and repaired in ways that no other notebook can.
-  * [Framework’s repairable laptop is up for preorder, starting at $999 | TechCrunch](https://techcrunch.com/2021/05/13/frameworks-repairable-laptop-is-up-for-pre-order-starting-at-999/ "Framework’s repairable laptop is up for preorder, starting at $999 | TechCrunch")
-  * [Framework Laptop upgradable, repairable & modular laptop pre-orders opened for $799 and up - CNX Software](https://www.cnx-software.com/2021/05/14/framework-laptop-is-an-upgradable-repairable-modular-laptop-based-on-intel-11th-gen-soc/ "Framework Laptop upgradable, repairable & modular laptop pre-orders opened for $799 and up - CNX Software")
-  * [Launch Keyboard - System76](https://system76.com/accessories/launch "Launch Keyboard - System76") — The Launch Configurable Keyboard is engineered to be comfortable, fully customizable, and make your workflow more efficient.
-  * [Meet System76’s First Mechanical Keyboard](https://www.omgubuntu.co.uk/2021/05/system76-launch-configurable-keyboard "Meet System76’s First Mechanical Keyboard")
-  * [Launch's Firmware based on Qmk](https://qmk.fm/ "Launch's Firmware based on Qmk")
+  * [Audacity’s new management hits rewind on telemetry plans following community outrage • The Register ](https://www.theregister.com/2021/05/14/audacity_telemetry/ "Audacity’s new management hits rewind on telemetry plans following community outrage • The Register") — "What wrong-footed us completely was that the news got out before we were ready to make an announcement about it." "It was a completely innocent mistake that ended up doing the announcing for us... in the worst way imaginable." 
+  * [Actions we propose to take on PR #835 · Discussion #889 · audacity/audacity · GitHub ](https://github.com/audacity/audacity/discussions/889 "Actions we propose to take on PR #835 · Discussion #889 · audacity/audacity · GitHub")
+  * [USPTO Audacity Trademark Assignment ](https://assignments.uspto.gov/assignments/q?db=tm&sno=78352743 "USPTO Audacity Trademark Assignment") — Recorded: 12/29/2020 
+  * [Samsung is now a contributor to Google’s Fuchsia OS - 9to5Google ](https://9to5google.com/2021/05/12/samsung-contributing-f2fs-google-fuchsia/ "Samsung is now a contributor to Google’s Fuchsia OS - 9to5Google") — Samsung’s “Flash-Friendly File System.” Better known as “F2FS,” the project is an alternative system for managing the files on a storage device, such as the built-in storage of a smartphone. 
+  * [Ubuntu Touch OTA-17 Released for Ubuntu Phones with NFC Support, Many Improvements - 9to5Linux ](https://9to5linux.com/ubuntu-touch-ota-17-released-for-ubuntu-phones-with-nfc-support-many-improvements "Ubuntu Touch OTA-17 Released for Ubuntu Phones with NFC Support, Many Improvements - 9to5Linux") — According to UBports, NFC support can allow app developers to implement the ability to read and write NFC tags in their apps, as well as to communicate with another device that supports the NFC protocol. 
+  * [Framework Laptop pre-orders are now open ](https://frame.work/ "Framework Laptop pre-orders are now open") — A thin, lightweight, high-performance 13.5” notebook that can be upgraded, customized, and repaired in ways that no other notebook can. 
+  * [Framework’s repairable laptop is up for preorder, starting at $999 | TechCrunch ](https://techcrunch.com/2021/05/13/frameworks-repairable-laptop-is-up-for-pre-order-starting-at-999/ "Framework’s repairable laptop is up for preorder, starting at $999 | TechCrunch")
+  * [Framework Laptop upgradable, repairable & modular laptop pre-orders opened for $799 and up - CNX Software ](https://www.cnx-software.com/2021/05/14/framework-laptop-is-an-upgradable-repairable-modular-laptop-based-on-intel-11th-gen-soc/ "Framework Laptop upgradable, repairable & modular laptop pre-orders opened for $799 and up - CNX Software")
+  * [Launch Keyboard - System76 ](https://system76.com/accessories/launch "Launch Keyboard - System76") — The Launch Configurable Keyboard is engineered to be comfortable, fully customizable, and make your workflow more efficient. 
+  * [Meet System76’s First Mechanical Keyboard ](https://www.omgubuntu.co.uk/2021/05/system76-launch-configurable-keyboard "Meet System76’s First Mechanical Keyboard")
+  * [Launch's Firmware based on Qmk ](https://qmk.fm/ "Launch's Firmware based on Qmk")
 
 
 

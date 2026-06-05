@@ -22,13 +22,13 @@ The contested subsystem coming soon, a sobering assessment of wireless support i
 
 ## Episode links
 
-  * [New subsystem for compute accelerator devices](https://lore.kernel.org/dri-devel/20221119204435.97113-1-ogabbay@kernel.org/ "New subsystem for compute accelerator devices") — This is the fourth (and hopefully last) version of the patch set to add the new subsystem for compute accelerators. 
-  * [Compute Accelerator Subsystem Hopes To Be Ready For Linux 6.2](https://www.phoronix.com/news/Compute-Accelerator-v4 "Compute Accelerator Subsystem Hopes To Be Ready For Linux 6.2")
-  * [Peter's Talk at Linux Plumbers Conference](https://www.youtube.com/watch?v=pwIFz9na2lE "Peter's Talk at Linux Plumbers Conference") — All types of wireless in Linux are terrible and why the vendors should feel bad - Peter Robinson
-  * [Intel’s IWD 2.0 Released For Modern Linux Wireless Daemon](https://www.phoronix.com/news/Intel-IWD-2.0-Released "Intel’s IWD 2.0 Released For Modern Linux Wireless Daemon") — Released this week was IWD 2.0 as the latest milestone for this open-source wireless daemon. 
-  * [Phoronix Premium Black Friday Deal](https://www.phoronix.com/news/Black-Friday-2022 "Phoronix Premium Black Friday Deal") — For this year's deal, you can go premium for just $30 per year or $150 for a lifetime subscription.
-  * [Asahi Linux Updates](https://asahilinux.org/2022/11/november-2022-report/ "Asahi Linux Updates") — This month’s update is packed with new hardware support, new features, and fixes for longstanding pain points, as well as a new bleeding-edge kernel branch with long-awaited support for suspend and the display controller!
-  * [Feature Support · AsahiLinux/docs Wiki](https://github.com/AsahiLinux/docs/wiki/Feature-Support "Feature Support · AsahiLinux/docs Wiki")
+  * [New subsystem for compute accelerator devices ](https://lore.kernel.org/dri-devel/20221119204435.97113-1-ogabbay@kernel.org/ "New subsystem for compute accelerator devices") — This is the fourth (and hopefully last) version of the patch set to add the new subsystem for compute accelerators. 
+  * [Compute Accelerator Subsystem Hopes To Be Ready For Linux 6.2 ](https://www.phoronix.com/news/Compute-Accelerator-v4 "Compute Accelerator Subsystem Hopes To Be Ready For Linux 6.2")
+  * [Peter's Talk at Linux Plumbers Conference ](https://www.youtube.com/watch?v=pwIFz9na2lE "Peter's Talk at Linux Plumbers Conference") — All types of wireless in Linux are terrible and why the vendors should feel bad - Peter Robinson 
+  * [Intel’s IWD 2.0 Released For Modern Linux Wireless Daemon ](https://www.phoronix.com/news/Intel-IWD-2.0-Released "Intel’s IWD 2.0 Released For Modern Linux Wireless Daemon") — Released this week was IWD 2.0 as the latest milestone for this open-source wireless daemon. 
+  * [Phoronix Premium Black Friday Deal ](https://www.phoronix.com/news/Black-Friday-2022 "Phoronix Premium Black Friday Deal") — For this year's deal, you can go premium for just $30 per year or $150 for a lifetime subscription. 
+  * [Asahi Linux Updates ](https://asahilinux.org/2022/11/november-2022-report/ "Asahi Linux Updates") — This month’s update is packed with new hardware support, new features, and fixes for longstanding pain points, as well as a new bleeding-edge kernel branch with long-awaited support for suspend and the display controller! 
+  * [Feature Support · AsahiLinux/docs Wiki ](https://github.com/AsahiLinux/docs/wiki/Feature-Support "Feature Support · AsahiLinux/docs Wiki")
 
 
 

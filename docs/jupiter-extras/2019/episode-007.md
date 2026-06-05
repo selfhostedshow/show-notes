@@ -21,9 +21,9 @@ None
 
 ## Episode links
 
-  * [FOSDEM 2016 - How containers work in Linux](https://archive.fosdem.org/2016/schedule/event/namespaces_and_cgroups/ "FOSDEM 2016 - How containers work in Linux") — A hands on demo of the types of containers that can be brought up in Linux using only the existing distribution tools. This talk will cover the theory of what containers are and how they work in Linux, including why they differ from hypervisors and what specific properties they have.
-  * [FOSDEM 2016 - How containers work in Linux (video)](https://ftp.heanet.ie/mirrors/fosdem-video/2016/k1105/how-containers-work-in-linux.mp4 "FOSDEM 2016 - How containers work in Linux \(video\)")
-  * [Brexit - film featuring Benedict Cumberbatch as Dominic Cummings](https://www.imdb.com/title/tt8425058/ "Brexit - film featuring Benedict Cumberbatch as Dominic Cummings")
+  * [FOSDEM 2016 - How containers work in Linux ](https://archive.fosdem.org/2016/schedule/event/namespaces_and_cgroups/ "FOSDEM 2016 - How containers work in Linux") — A hands on demo of the types of containers that can be brought up in Linux using only the existing distribution tools. This talk will cover the theory of what containers are and how they work in Linux, including why they differ from hypervisors and what specific properties they have. 
+  * [FOSDEM 2016 - How containers work in Linux (video) ](https://ftp.heanet.ie/mirrors/fosdem-video/2016/k1105/how-containers-work-in-linux.mp4 "FOSDEM 2016 - How containers work in Linux \(video\)")
+  * [Brexit - film featuring Benedict Cumberbatch as Dominic Cummings ](https://www.imdb.com/title/tt8425058/ "Brexit - film featuring Benedict Cumberbatch as Dominic Cummings")
 
 
 

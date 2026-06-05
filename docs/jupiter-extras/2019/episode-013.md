@@ -20,9 +20,9 @@ None
 
 ## Episode links
 
-  * [Self-Hosted](https://selfhosted.show/ "Self-Hosted")
-  * [Linux Headlines](https://linuxheadlines.show/ "Linux Headlines")
-  * [Chatting With Alex and Chris From The Self Hosted Podcast! - YouTube](https://www.youtube.com/watch?v=8ZZJu0uty9E "Chatting With Alex and Chris From The Self Hosted Podcast! - YouTube")
+  * [Self-Hosted ](https://selfhosted.show/ "Self-Hosted")
+  * [Linux Headlines ](https://linuxheadlines.show/ "Linux Headlines")
+  * [Chatting With Alex and Chris From The Self Hosted Podcast! - YouTube ](https://www.youtube.com/watch?v=8ZZJu0uty9E "Chatting With Alex and Chris From The Self Hosted Podcast! - YouTube")
 
 
 

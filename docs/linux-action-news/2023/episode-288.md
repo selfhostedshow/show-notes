@@ -22,18 +22,18 @@ A classic gadget gets a Linux-powered new lease on life, the next project gettin
 
 ## Episode links
 
-  * [Linux Tech Sustainability](https://www.phoronix.com/news/Novatek-NVT-ts-Linux-Driver "Linux Tech Sustainability") — The mainline Linux 6.4 kernel is set to see a new touchscreen driver for supporting the Novatek NVT-ts.
-  * [Acer Iconia One 7 B1-730](https://www.gsmarena.com/acer_iconia_one_7_b1_730-6341.php "Acer Iconia One 7 B1-730")
-  * [Unlocking the bootloader and disabling dm-verity on Android-X86 devices](https://hansdegoede.dreamwidth.org/25653.html "Unlocking the bootloader and disabling dm-verity on Android-X86 devices")
-  * [Here Comes WebGPU](https://developer.chrome.com/blog/webgpu-release/ "Here Comes WebGPU") — After years of development, the Chrome team ships WebGPU.
-  * [Chrome 113 To Ship WebGPU By Default](https://www.phoronix.com/news/Chrome-113-To-Ship-WebGPU "Chrome 113 To Ship WebGPU By Default")
-  * [Muse on Twitter](https://twitter.com/muse_place/status/1644103101358698497?s=12&t=E9EIlRX-vHxbQ8g23lQU3A "Muse on Twitter") — Breaking news🚨 Chrome's Web GPU has launched after 6 years of development! 🚀 
-  * [A Taste of WebGPU in Firefox](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/ "A Taste of WebGPU in Firefox")
-  * [Plasma 6 Early Builds](https://pointieststick.com/2023/04/08/this-week-in-kde-all-about-the-apps-2/ "Plasma 6 Early Builds") — I’ve now got a working Plasma 6 dev session on my machine. It’s still rough, but it’s usable. 
-  * [Early KDE Plasma 6 Development State](https://www.phoronix.com/news/KDE-Plasma-6-State-Early-April "Early KDE Plasma 6 Development State")
-  * [Rust Support Is Being Worked On For V4L2](https://www.phoronix.com/news/Rust-V4L2-Linux-Patches "Rust Support Is Being Worked On For V4L2") — Daniel Almeida of Collabora sent out initial Rust V4L2 support patches on Thursday. This provides just enough for working with a prototype VirtIO camera driver written in Rust along with a Rust sample driver. 
-  * [Linux 6.4 Bringing Apple M2 Additions](https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4 "Linux 6.4 Bringing Apple M2 Additions") — Asahi Linux lead developer Hector Martin today sent in the Apple SoC DT updates targeting the Linux 6.4 cycle for queuing into the SoC tree ahead of the merge window opening around the end of the month. 
-  * [Btrfs Improvments](https://www.phoronix.com/news/Btrfs-Linux-6.4-Better-Scrub "Btrfs Improvments") — This week a number of patches from SUSE engineer Qu Wenruo were queued into kdave's linux.git for-next branch of the Btrfs file-system driver development code. 
+  * [Linux Tech Sustainability ](https://www.phoronix.com/news/Novatek-NVT-ts-Linux-Driver "Linux Tech Sustainability") — The mainline Linux 6.4 kernel is set to see a new touchscreen driver for supporting the Novatek NVT-ts. 
+  * [Acer Iconia One 7 B1-730 ](https://www.gsmarena.com/acer_iconia_one_7_b1_730-6341.php "Acer Iconia One 7 B1-730")
+  * [Unlocking the bootloader and disabling dm-verity on Android-X86 devices ](https://hansdegoede.dreamwidth.org/25653.html "Unlocking the bootloader and disabling dm-verity on Android-X86 devices")
+  * [Here Comes WebGPU ](https://developer.chrome.com/blog/webgpu-release/ "Here Comes WebGPU") — After years of development, the Chrome team ships WebGPU. 
+  * [Chrome 113 To Ship WebGPU By Default ](https://www.phoronix.com/news/Chrome-113-To-Ship-WebGPU "Chrome 113 To Ship WebGPU By Default")
+  * [Muse on Twitter ](https://twitter.com/muse_place/status/1644103101358698497?s=12&t=E9EIlRX-vHxbQ8g23lQU3A "Muse on Twitter") — Breaking news🚨 Chrome's Web GPU has launched after 6 years of development! 🚀 
+  * [A Taste of WebGPU in Firefox ](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/ "A Taste of WebGPU in Firefox")
+  * [Plasma 6 Early Builds ](https://pointieststick.com/2023/04/08/this-week-in-kde-all-about-the-apps-2/ "Plasma 6 Early Builds") — I’ve now got a working Plasma 6 dev session on my machine. It’s still rough, but it’s usable. 
+  * [Early KDE Plasma 6 Development State ](https://www.phoronix.com/news/KDE-Plasma-6-State-Early-April "Early KDE Plasma 6 Development State")
+  * [Rust Support Is Being Worked On For V4L2 ](https://www.phoronix.com/news/Rust-V4L2-Linux-Patches "Rust Support Is Being Worked On For V4L2") — Daniel Almeida of Collabora sent out initial Rust V4L2 support patches on Thursday. This provides just enough for working with a prototype VirtIO camera driver written in Rust along with a Rust sample driver. 
+  * [Linux 6.4 Bringing Apple M2 Additions ](https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4 "Linux 6.4 Bringing Apple M2 Additions") — Asahi Linux lead developer Hector Martin today sent in the Apple SoC DT updates targeting the Linux 6.4 cycle for queuing into the SoC tree ahead of the merge window opening around the end of the month. 
+  * [Btrfs Improvments ](https://www.phoronix.com/news/Btrfs-Linux-6.4-Better-Scrub "Btrfs Improvments") — This week a number of patches from SUSE engineer Qu Wenruo were queued into kdave's linux.git for-next branch of the Btrfs file-system driver development code. 
 
 
 

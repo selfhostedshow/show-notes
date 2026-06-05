@@ -21,18 +21,18 @@ None
 
 ## Episode links
 
-  * [Raspberry Pi 400: the $70 desktop PC](https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/ "Raspberry Pi 400: the $70 desktop PC") — The Raspberry Pi 400 Personal Computer Kit is the “Christmas morning” product, with the best possible out-of-box experience: a complete PC which plugs into your TV or monitor.
-  * [Raspberry Pi 400 - First Impressions](https://martinpeck.com/blog/2020/11/06/Raspberry-Pi-400/ "Raspberry Pi 400 - First Impressions")
-  * [Raspberry Pi 400 review—the under-$100 desktop PC you didn’t know you needed](https://arstechnica.com/gadgets/2020/11/raspberry-pi-400-the-under-100-desktop-pc-you-didnt-know-you-needed/ "Raspberry Pi 400 review—the under-$100 desktop PC you didn’t know you needed")
-  * [Dell is Adding Webcam and Microphone Kill Switches](https://itsfoss.com/dell-privacy-driver/ "Dell is Adding Webcam and Microphone Kill Switches") — Dell is adding new code in Linux kernel that will enable you to disable newer Dell system’s webcam and microphone with keyboard shortcuts. Why? Because privacy. 
-  * [Dell Adding Hardware Privacy Driver For Linux](https://www.phoronix.com/scan.php?page=news_item&px=Dell-Hardware-Privacy-Linux "Dell Adding Hardware Privacy Driver For Linux")
-  * [Let's Encrypt warns about a third of Android devices will from next year stumble over sites that use its certs](https://www.theregister.com/2020/11/06/android_encryption_certs/ "Let's Encrypt warns about a third of Android devices will from next year stumble over sites that use its certs") — Expiration of cross-signed root certificates spells trouble
+  * [Raspberry Pi 400: the $70 desktop PC ](https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/ "Raspberry Pi 400: the $70 desktop PC") — The Raspberry Pi 400 Personal Computer Kit is the “Christmas morning” product, with the best possible out-of-box experience: a complete PC which plugs into your TV or monitor. 
+  * [Raspberry Pi 400 - First Impressions ](https://martinpeck.com/blog/2020/11/06/Raspberry-Pi-400/ "Raspberry Pi 400 - First Impressions")
+  * [Raspberry Pi 400 review—the under-$100 desktop PC you didn’t know you needed ](https://arstechnica.com/gadgets/2020/11/raspberry-pi-400-the-under-100-desktop-pc-you-didnt-know-you-needed/ "Raspberry Pi 400 review—the under-$100 desktop PC you didn’t know you needed")
+  * [Dell is Adding Webcam and Microphone Kill Switches ](https://itsfoss.com/dell-privacy-driver/ "Dell is Adding Webcam and Microphone Kill Switches") — Dell is adding new code in Linux kernel that will enable you to disable newer Dell system’s webcam and microphone with keyboard shortcuts. Why? Because privacy. 
+  * [Dell Adding Hardware Privacy Driver For Linux ](https://www.phoronix.com/scan.php?page=news_item&px=Dell-Hardware-Privacy-Linux "Dell Adding Hardware Privacy Driver For Linux")
+  * [Let's Encrypt warns about a third of Android devices will from next year stumble over sites that use its certs ](https://www.theregister.com/2020/11/06/android_encryption_certs/ "Let's Encrypt warns about a third of Android devices will from next year stumble over sites that use its certs") — Expiration of cross-signed root certificates spells trouble 
   * [Standing on Our Own Two Feet - Let's Encrypt ](https://letsencrypt.org/2020/11/06/own-two-feet.html "Standing on Our Own Two Feet - Let's Encrypt ")
-  * [Chrome will soon have its own dedicated certificate root store](https://www.zdnet.com/article/chrome-will-soon-have-its-own-dedicated-certificate-root-store/ "Chrome will soon have its own dedicated certificate root store") — Currently, Chrome uses the certificate root store part of each operating system. Google plans to manage its own list of "approved" certificates from now on, similar to Firefox.
-  * [BPF binaries: BTF, CO-RE, and the future of BPF perf tools](http://www.brendangregg.com/blog/2020-11-04/bpf-co-re-btf-libbpf.html "BPF binaries: BTF, CO-RE, and the future of BPF perf tools") — Two new technologies, BTF and CO-RE, are paving the way for BPF to become a billion-dollar industry. 
-  * [What is eBPF?](https://gravitational.com/blog/what-is-ebpf/ "What is eBPF?")
-  * [eBPF: Put the Kubernetes Data Plane in the Kernel](https://thenewstack.io/ebpf-put-the-kubernetes-data-plane-in-the-kernel/ "eBPF: Put the Kubernetes Data Plane in the Kernel")
-  * [LINUX Unplugged 293: Netflix's Gift to Linux](https://linuxunplugged.com/293 "LINUX Unplugged 293: Netflix's Gift to Linux")
+  * [Chrome will soon have its own dedicated certificate root store ](https://www.zdnet.com/article/chrome-will-soon-have-its-own-dedicated-certificate-root-store/ "Chrome will soon have its own dedicated certificate root store") — Currently, Chrome uses the certificate root store part of each operating system. Google plans to manage its own list of "approved" certificates from now on, similar to Firefox. 
+  * [BPF binaries: BTF, CO-RE, and the future of BPF perf tools ](http://www.brendangregg.com/blog/2020-11-04/bpf-co-re-btf-libbpf.html "BPF binaries: BTF, CO-RE, and the future of BPF perf tools") — Two new technologies, BTF and CO-RE, are paving the way for BPF to become a billion-dollar industry. 
+  * [What is eBPF? ](https://gravitational.com/blog/what-is-ebpf/ "What is eBPF?")
+  * [eBPF: Put the Kubernetes Data Plane in the Kernel ](https://thenewstack.io/ebpf-put-the-kubernetes-data-plane-in-the-kernel/ "eBPF: Put the Kubernetes Data Plane in the Kernel")
+  * [LINUX Unplugged 293: Netflix's Gift to Linux ](https://linuxunplugged.com/293 "LINUX Unplugged 293: Netflix's Gift to Linux")
 
 
 

@@ -22,11 +22,11 @@ None
 
 ## Episode links
 
-  * [Open Hardware Energy Monitor Group Buy](https://forms.gle/gxw1JYVJrKsDKFvL9 "Open Hardware Energy Monitor Group Buy")
-  * [Unraid](https://unraid.net/ "Unraid") — Unraid OS allows sophisticated media aficionados, gamers, and other intensive data-users to have ultimate control over their data, media, applications, and desktops, using just about any combination of hardware.
-  * [Unraid OS 6.9.0-Beta25 is Now Available](https://unraid.net/blog/unraid-6-9-beta25 "Unraid OS 6.9.0-Beta25 is Now Available") — This new feature permits you to define up to 35 named pools, of up to 30 storage devices/pool.
-  * [Soon | Unraid](https://soon.unraid.net/ "Soon | Unraid") — The Unraid team has been hard at work on something new we're calling My Servers, to be released Soon™️.
-  * [Forums - Unraid](https://forums.unraid.net/ "Forums - Unraid")
+  * [Open Hardware Energy Monitor Group Buy ](https://forms.gle/gxw1JYVJrKsDKFvL9 "Open Hardware Energy Monitor Group Buy")
+  * [Unraid ](https://unraid.net/ "Unraid") — Unraid OS allows sophisticated media aficionados, gamers, and other intensive data-users to have ultimate control over their data, media, applications, and desktops, using just about any combination of hardware. 
+  * [Unraid OS 6.9.0-Beta25 is Now Available ](https://unraid.net/blog/unraid-6-9-beta25 "Unraid OS 6.9.0-Beta25 is Now Available") — This new feature permits you to define up to 35 named pools, of up to 30 storage devices/pool. 
+  * [Soon | Unraid ](https://soon.unraid.net/ "Soon | Unraid") — The Unraid team has been hard at work on something new we're calling My Servers, to be released Soon™️. 
+  * [Forums - Unraid ](https://forums.unraid.net/ "Forums - Unraid")
 
 
 

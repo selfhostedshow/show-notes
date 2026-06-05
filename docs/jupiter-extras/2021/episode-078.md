@@ -21,8 +21,8 @@ None
 
 ## Episode links
 
-  * [elementary OS 6.1 Available Now](https://blog.elementary.io/elementary-os-6-1-available-now/ "elementary OS 6.1 Available Now") — Just over four months ago we announced elementary OS 6 Odin with new ways to be in control and express yourself, a slew of innovative new features, and a focus on gettability and inclusivity. So far, OS 6 has been downloaded from our website over 250,000 times—and as always, that’s not including downloads from third parties or direct downloads via torrent that bypass our download page!
-  * [elementary Store](https://store.elementary.io/ "elementary Store") — Every purchase goes towards developing elementary OS, its apps, and its services. We're a small team, mostly volunteer, working constantly to make elementary better—your support helps make elementary OS more sustainable.
+  * [elementary OS 6.1 Available Now ](https://blog.elementary.io/elementary-os-6-1-available-now/ "elementary OS 6.1 Available Now") — Just over four months ago we announced elementary OS 6 Odin with new ways to be in control and express yourself, a slew of innovative new features, and a focus on gettability and inclusivity. So far, OS 6 has been downloaded from our website over 250,000 times—and as always, that’s not including downloads from third parties or direct downloads via torrent that bypass our download page! 
+  * [elementary Store ](https://store.elementary.io/ "elementary Store") — Every purchase goes towards developing elementary OS, its apps, and its services. We're a small team, mostly volunteer, working constantly to make elementary better—your support helps make elementary OS more sustainable. 
 
 
 

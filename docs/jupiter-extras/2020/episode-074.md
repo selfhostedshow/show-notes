@@ -21,22 +21,22 @@ None
 
 ## Episode links
 
-  * [Manjaro](https://manjaro.org/ "Manjaro")
-  * [Manjaro Webdad (JADE Desktop)](https://manjaro.org/download/#manjaro-webdad "Manjaro Webdad \(JADE Desktop\)")
-  * [Manjaro Hardware](https://manjaro.org/hardware/ "Manjaro Hardware")
-  * [StationX Announces New Laptop Customized for Manjaro Linux - It's FOSS](https://itsfoss.com/stationx-manjaro-linux/ "StationX Announces New Laptop Customized for Manjaro Linux - It's FOSS")
-  * [LINUX Unplugged - Special Guest: Philip Muller](https://linuxunplugged.com/guests/philipmuller "LINUX Unplugged - Special Guest: Philip Muller")
-  * [PINE64](https://www.pine64.org/ "PINE64")
-  * [Snapcraft](https://snapcraft.io/ "Snapcraft") — Snaps are universal Linux packages
-  * [Brunch with Brent: Martin Wimpress](https://extras.show/29 "Brunch with Brent: Martin Wimpress")
-  * [Brunch with Brent: Alan Pope](https://extras.show/38 "Brunch with Brent: Alan Pope")
-  * [FOSDEM](https://fosdem.org/ "FOSDEM")
-  * [PinePhone - PINE64](https://www.pine64.org/pinephone/ "PinePhone - PINE64")
-  * [Pinebook Pro - PINE64](https://www.pine64.org/pinebook-pro/ "Pinebook Pro - PINE64")
-  * [Pi-hole](https://pi-hole.net/ "Pi-hole") — A black hole for Internet advertisements
-  * [Flatpak](https://www.flatpak.org/ "Flatpak") — the future of application distribution
-  * [Philip Müller - philm a Manjaro forums](https://forum.manjaro.org/about "Philip Müller - philm a Manjaro forums")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Manjaro ](https://manjaro.org/ "Manjaro")
+  * [Manjaro Webdad (JADE Desktop) ](https://manjaro.org/download/#manjaro-webdad "Manjaro Webdad \(JADE Desktop\)")
+  * [Manjaro Hardware ](https://manjaro.org/hardware/ "Manjaro Hardware")
+  * [StationX Announces New Laptop Customized for Manjaro Linux - It's FOSS ](https://itsfoss.com/stationx-manjaro-linux/ "StationX Announces New Laptop Customized for Manjaro Linux - It's FOSS")
+  * [LINUX Unplugged - Special Guest: Philip Muller ](https://linuxunplugged.com/guests/philipmuller "LINUX Unplugged - Special Guest: Philip Muller")
+  * [PINE64 ](https://www.pine64.org/ "PINE64")
+  * [Snapcraft ](https://snapcraft.io/ "Snapcraft") — Snaps are universal Linux packages 
+  * [Brunch with Brent: Martin Wimpress ](https://extras.show/29 "Brunch with Brent: Martin Wimpress")
+  * [Brunch with Brent: Alan Pope ](https://extras.show/38 "Brunch with Brent: Alan Pope")
+  * [FOSDEM ](https://fosdem.org/ "FOSDEM")
+  * [PinePhone - PINE64 ](https://www.pine64.org/pinephone/ "PinePhone - PINE64")
+  * [Pinebook Pro - PINE64 ](https://www.pine64.org/pinebook-pro/ "Pinebook Pro - PINE64")
+  * [Pi-hole ](https://pi-hole.net/ "Pi-hole") — A black hole for Internet advertisements 
+  * [Flatpak ](https://www.flatpak.org/ "Flatpak") — the future of application distribution 
+  * [Philip Müller - philm a Manjaro forums ](https://forum.manjaro.org/about "Philip Müller - philm a Manjaro forums")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

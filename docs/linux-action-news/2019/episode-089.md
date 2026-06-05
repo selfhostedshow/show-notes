@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [MongoDB removed from major distros](https://www.zdnet.com/article/mongodb-open-source-server-side-public-license-rejected/ "MongoDB removed from major distros") — Red Hat won't use MongoDB in Red Hat Enterprise Linux or Fedora thanks to MongoDB's new Server Side Public License.
-  * [ZFS On Linux Landing Workaround For Linux 5.0 Kernel Support](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-5.0-Workaround "ZFS On Linux Landing Workaround For Linux 5.0 Kernel Support") — There's no word yet on how this would affect ZFS Linux performance for end-users.
-  * [First release of Project Trident](http://www.project-trident.org/post/2019-01-15_18.12-release_available/ "First release of Project Trident") — This version is based off the 18.12-stable branch of TrueOS (FreeBSD 13-CURRENT), using the new TrueOS distribution framework with several add-ons by Project Trident itself. 
-  * [Android-x86 8.1-r1 (Oreo-x86) released](http://www.android-x86.org/releases/releasenote-8-1-r1 "Android-x86 8.1-r1 \(Oreo-x86\) released") — Add Taskbar as an alternative launcher which puts a start menu and recent apps tray on top of your screen and support freeform window mode.
-  * [600 days of postmarketOS](https://postmarketos.org/blog/2019/01/16/600-days-of-postmarketOS/ "600 days of postmarketOS") — postmarketOS is aiming for a ten year life-cycle for smartphones
-  * [Mozilla kills Test Pilot Program](https://blog.mozilla.org/blog/2019/01/15/evolving-firefoxs-culture-of-experimentation-a-thank-you-from-the-test-pilot-program/ "Mozilla kills Test Pilot Program") — So today, we are announcing that we will be moving to a new structure that will demonstrate our ability to innovate in exciting ways and as a result we are closing the Test Pilot program as we’ve known it.
-  * [Mozilla Kills Default Support for Adobe Flash in Firefox 69](https://threatpost.com/flash-default-mozilla-firefox-69/140814/ "Mozilla Kills Default Support for Adobe Flash in Firefox 69")
+  * [MongoDB removed from major distros ](https://www.zdnet.com/article/mongodb-open-source-server-side-public-license-rejected/ "MongoDB removed from major distros") — Red Hat won't use MongoDB in Red Hat Enterprise Linux or Fedora thanks to MongoDB's new Server Side Public License. 
+  * [ZFS On Linux Landing Workaround For Linux 5.0 Kernel Support ](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-5.0-Workaround "ZFS On Linux Landing Workaround For Linux 5.0 Kernel Support") — There's no word yet on how this would affect ZFS Linux performance for end-users. 
+  * [First release of Project Trident ](http://www.project-trident.org/post/2019-01-15_18.12-release_available/ "First release of Project Trident") — This version is based off the 18.12-stable branch of TrueOS (FreeBSD 13-CURRENT), using the new TrueOS distribution framework with several add-ons by Project Trident itself. 
+  * [Android-x86 8.1-r1 (Oreo-x86) released ](http://www.android-x86.org/releases/releasenote-8-1-r1 "Android-x86 8.1-r1 \(Oreo-x86\) released") — Add Taskbar as an alternative launcher which puts a start menu and recent apps tray on top of your screen and support freeform window mode. 
+  * [600 days of postmarketOS ](https://postmarketos.org/blog/2019/01/16/600-days-of-postmarketOS/ "600 days of postmarketOS") — postmarketOS is aiming for a ten year life-cycle for smartphones 
+  * [Mozilla kills Test Pilot Program ](https://blog.mozilla.org/blog/2019/01/15/evolving-firefoxs-culture-of-experimentation-a-thank-you-from-the-test-pilot-program/ "Mozilla kills Test Pilot Program") — So today, we are announcing that we will be moving to a new structure that will demonstrate our ability to innovate in exciting ways and as a result we are closing the Test Pilot program as we’ve known it. 
+  * [Mozilla Kills Default Support for Adobe Flash in Firefox 69 ](https://threatpost.com/flash-default-mozilla-firefox-69/140814/ "Mozilla Kills Default Support for Adobe Flash in Firefox 69")
 
 
 

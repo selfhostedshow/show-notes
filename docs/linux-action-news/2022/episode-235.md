@@ -15,21 +15,21 @@ Docker surprises everyone, new Fedora tools in the works, and an old debate with
 
 ## Sponsored by
 
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
 
 
 
 ## Episode links
 
-  * [Docker rebounds with $105m Series C funding and $2.1b value ](https://www.theregister.com/2022/03/31/docker_funding_unicorn/ "Docker rebounds with $105m Series C funding and $2.1b value ") — Troubled container company may escape confines of its doldrums
-  * [LXD 5.0 LTS has been released](https://discuss.linuxcontainers.org/t/lxd-5-0-lts-has-been-released/13723 "LXD 5.0 LTS has been released") — This is our 4th LTS release and quite an exciting one for anyone coming from LXD 4.0 as it significantly steps up LXD’s abilities, especially when operating in clustered environments.
-  * [Anaconda is getting a new suit and a wizard](https://communityblog.fedoraproject.org/anaconda-is-getting-a-new-suit-and-a-wizard/ "Anaconda is getting a new suit and a wizard") — Before starting the redesign work for the Anaconda installer, the team reviewed user feedback and usability study data that we’ve gathered over the years. 
-  * [Fedora Workstation Brainstorming A Possible GUI-Based Linux Recovery Environment](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-GUI-Based-Linux-Recovery "Fedora Workstation Brainstorming A Possible GUI-Based Linux Recovery Environment") — This currently hypothetical GUI-driven recovery environment sounds like it could almost be like Apple's macOS recovery mode in that there may be the possibility of even downloading a new system image from this environment.
-  * [Fwupd 1.7.7 Released For Firmware Updating More Logitech Devices On Linux - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Fwupd-1.7.7 "Fwupd 1.7.7 Released For Firmware Updating More Logitech Devices On Linux - Phoronix")
-  * [Lutris 0.5.10 Released With Steam Deck Support](https://www.phoronix.com/scan.php?page=news_item&px=Lutris-0.5.10-Released "Lutris 0.5.10 Released With Steam Deck Support") — Lutris 0.5.10 brings proper Steam Deck support thanks to their collaboration with Valve and receiving a Steam Deck developer kit. Lutris' Flatpak version is still being improved upon as the next step in enhancing the Steam Deck support for this game manager. 
-  * [Mathieu Comandon on Twitter](https://twitter.com/MComandon/status/1507827306072457218 "Mathieu Comandon on Twitter") — We gotta stop this culture of "only install Flatpaks / using root is dangerous" before it extends beyond the Steam Deck. Last thing I want is for desktop Linux to become like Android or ChromeOS.
-  * [meetup.com/jupiterbroadcasting](http://meetup.com/jupiterbroadcasting "meetup.com/jupiterbroadcasting")
+  * [Docker rebounds with $105m Series C funding and $2.1b value ](https://www.theregister.com/2022/03/31/docker_funding_unicorn/ "Docker rebounds with $105m Series C funding and $2.1b value ") — Troubled container company may escape confines of its doldrums 
+  * [LXD 5.0 LTS has been released ](https://discuss.linuxcontainers.org/t/lxd-5-0-lts-has-been-released/13723 "LXD 5.0 LTS has been released") — This is our 4th LTS release and quite an exciting one for anyone coming from LXD 4.0 as it significantly steps up LXD’s abilities, especially when operating in clustered environments. 
+  * [Anaconda is getting a new suit and a wizard ](https://communityblog.fedoraproject.org/anaconda-is-getting-a-new-suit-and-a-wizard/ "Anaconda is getting a new suit and a wizard") — Before starting the redesign work for the Anaconda installer, the team reviewed user feedback and usability study data that we’ve gathered over the years. 
+  * [Fedora Workstation Brainstorming A Possible GUI-Based Linux Recovery Environment ](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-GUI-Based-Linux-Recovery "Fedora Workstation Brainstorming A Possible GUI-Based Linux Recovery Environment") — This currently hypothetical GUI-driven recovery environment sounds like it could almost be like Apple's macOS recovery mode in that there may be the possibility of even downloading a new system image from this environment. 
+  * [Fwupd 1.7.7 Released For Firmware Updating More Logitech Devices On Linux - Phoronix ](https://www.phoronix.com/scan.php?page=news_item&px=Fwupd-1.7.7 "Fwupd 1.7.7 Released For Firmware Updating More Logitech Devices On Linux - Phoronix")
+  * [Lutris 0.5.10 Released With Steam Deck Support ](https://www.phoronix.com/scan.php?page=news_item&px=Lutris-0.5.10-Released "Lutris 0.5.10 Released With Steam Deck Support") — Lutris 0.5.10 brings proper Steam Deck support thanks to their collaboration with Valve and receiving a Steam Deck developer kit. Lutris' Flatpak version is still being improved upon as the next step in enhancing the Steam Deck support for this game manager. 
+  * [Mathieu Comandon on Twitter ](https://twitter.com/MComandon/status/1507827306072457218 "Mathieu Comandon on Twitter") — We gotta stop this culture of "only install Flatpaks / using root is dangerous" before it extends beyond the Steam Deck. Last thing I want is for desktop Linux to become like Android or ChromeOS. 
+  * [meetup.com/jupiterbroadcasting ](http://meetup.com/jupiterbroadcasting "meetup.com/jupiterbroadcasting")
 
 
 

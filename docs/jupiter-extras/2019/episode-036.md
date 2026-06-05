@@ -21,22 +21,22 @@ None
 
 ## Episode links
 
-  * [Linux Spotlight](https://bigdaddylinux.com/linux-spotlight/ "Linux Spotlight")
-  * [Big Daddy Linux](https://bigdaddylinux.com "Big Daddy Linux")
-  * [Big Daddy Linux Live! (BDLL)](https://bigdaddylinux.com/bdll/ "Big Daddy Linux Live! \(BDLL\)")
-  * [Linux Spotlight 14 – Barbara Harris](https://bigdaddylinux.com/video/episode-14-barbara-harris/ "Linux Spotlight 14 – Barbara Harris")
-  * [Brunch with Brent - Jupiter Extras](https://extras.show/tags/brunch%20with%20brent "Brunch with Brent - Jupiter Extras")
-  * [Destination Linux](https://destinationlinux.org "Destination Linux")
-  * [Brunch with Brent: Martin Wimpress](https://extras.show/29 "Brunch with Brent: Martin Wimpress")
-  * [Linux Spotlight 19 – Jill Bryant Ryniker](https://bigdaddylinux.com/video/episode-19-jill-bryant-ryniker/ "Linux Spotlight 19 – Jill Bryant Ryniker")
-  * [Brunch with Brent: Jill Bryant Ryniker](https://extras.show/31 "Brunch with Brent: Jill Bryant Ryniker")
-  * [Linux Spotlight 23: chzbacon](https://www.youtube.com/watch?v=d2shvt2jn3c "Linux Spotlight 23: chzbacon")
-  * [Linux Spotlight 7: Ell Marquez](https://bigdaddylinux.com/video/episode-7-ell-marquez/ "Linux Spotlight 7: Ell Marquez")
-  * [Eric Adams on Youtube](https://www.youtube.com/user/igster75 "Eric Adams on Youtube")
-  * [Linux Spotlight 17: Nathan Wolf (CubicleNate)](https://bigdaddylinux.com/video/episode-17-nathan-wolf-cubiclenate/ "Linux Spotlight 17: Nathan Wolf \(CubicleNate\)")
-  * [Kubuntu](https://kubuntu.org/ "Kubuntu")
-  * [Rocco (BigDaddyLinux) - BigDaddyLinux on Twitter](https://twitter.com/BigDaddyLinux "Rocco \(BigDaddyLinux\) - BigDaddyLinux on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Linux Spotlight ](https://bigdaddylinux.com/linux-spotlight/ "Linux Spotlight")
+  * [Big Daddy Linux ](https://bigdaddylinux.com "Big Daddy Linux")
+  * [Big Daddy Linux Live! (BDLL) ](https://bigdaddylinux.com/bdll/ "Big Daddy Linux Live! \(BDLL\)")
+  * [Linux Spotlight 14 – Barbara Harris ](https://bigdaddylinux.com/video/episode-14-barbara-harris/ "Linux Spotlight 14 – Barbara Harris")
+  * [Brunch with Brent - Jupiter Extras ](https://extras.show/tags/brunch%20with%20brent "Brunch with Brent - Jupiter Extras")
+  * [Destination Linux ](https://destinationlinux.org "Destination Linux")
+  * [Brunch with Brent: Martin Wimpress ](https://extras.show/29 "Brunch with Brent: Martin Wimpress")
+  * [Linux Spotlight 19 – Jill Bryant Ryniker ](https://bigdaddylinux.com/video/episode-19-jill-bryant-ryniker/ "Linux Spotlight 19 – Jill Bryant Ryniker")
+  * [Brunch with Brent: Jill Bryant Ryniker ](https://extras.show/31 "Brunch with Brent: Jill Bryant Ryniker")
+  * [Linux Spotlight 23: chzbacon ](https://www.youtube.com/watch?v=d2shvt2jn3c "Linux Spotlight 23: chzbacon")
+  * [Linux Spotlight 7: Ell Marquez ](https://bigdaddylinux.com/video/episode-7-ell-marquez/ "Linux Spotlight 7: Ell Marquez")
+  * [Eric Adams on Youtube ](https://www.youtube.com/user/igster75 "Eric Adams on Youtube")
+  * [Linux Spotlight 17: Nathan Wolf (CubicleNate) ](https://bigdaddylinux.com/video/episode-17-nathan-wolf-cubiclenate/ "Linux Spotlight 17: Nathan Wolf \(CubicleNate\)")
+  * [Kubuntu ](https://kubuntu.org/ "Kubuntu")
+  * [Rocco (BigDaddyLinux) - BigDaddyLinux on Twitter ](https://twitter.com/BigDaddyLinux "Rocco \(BigDaddyLinux\) - BigDaddyLinux on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

@@ -22,20 +22,20 @@ Microsoft's new Linux server distro, Red Hat Summit 2023 highlights, big changes
 
 ## Episode links
 
-  * [Podman Desktop 1.0 Annouced](https://www.redhat.com/en/blog/podman-desktop-10-next-gen-container-management-solution-streamlining-developers-container-operations "Podman Desktop 1.0 Annouced") — Podman Desktop offers a user-friendly interface for handling containers and integrating with Kubernetes from a local workstation. 
-  * [Podman.io](http://podman.io/ "Podman.io")
-  * [Podman](https://podman.io/ "Podman")
-  * [Podman Desktop 1.0: Local container development made easy](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available?extIdCarryOver=true&sc_cid=701f2000001OH6kAAG "Podman Desktop 1.0: Local container development made easy")
-  * [Podman Desktop 1.0 Released As An Alternative To Docker Desktop](https://www.phoronix.com/news/Podman-Desktop-1.0 "Podman Desktop 1.0 Released As An Alternative To Docker Desktop")
-  * [Podman Desktop 1.0: Local container development made easy](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available "Podman Desktop 1.0: Local container development made easy")
-  * [Introducing Azure Linux](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/introducing-the-azure-linux-container-host-for-aks/ba-p/3824101 "Introducing Azure Linux") — This General Availability announcement follows our October preview announcement under the CBL-Mariner project codename. We’d like to thank the customers who provided valuable feedback and insight during our preview. 
-  * [Introduction to the Azure Linux Container Host for AKS | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-linux/intro-azure-linux "Introduction to the Azure Linux Container Host for AKS | Microsoft Learn")
-  * [CodeWeavers An Employee Ownership Trust](https://www.codeweavers.com/blog/jwhite/2023/5/19/a-new-chapter-for-codeweavers-and-myself-trust-me "CodeWeavers An Employee Ownership Trust") — As of April 12th, the the company has a new shareholder - the CodeWeavers Purpose Trust. This Trust will become the primary owner of CodeWeavers.
-  * [CodeWeavers Now Controlled By An Employee Ownership Trust](https://www.phoronix.com/news/CodeWeavers-Employee-Trust "CodeWeavers Now Controlled By An Employee Ownership Trust")
-  * [Red Hat Summit 2023 — Highlights](https://www.spiceworks.com/tech/tech-general/articles/red-hat-summit-2023-key-highlights/ "Red Hat Summit 2023 — Highlights") — The Red Hat Summit 2023 witnessed the launch of OpenShift AI and Red Hat Ansible software, security cloud services, and Linux management features.
-  * [The moment for AI](https://www.redhat.com/en/blog/moment-ai "The moment for AI")
-  * [Automation and the AI revolution](https://www.redhat.com/en/blog/automation-and-ai-revolution "Automation and the AI revolution") — Generative AI is everywhere. But I cannot overstate how different our approach to all this has been.
-  * [Red Hat Summit 2023: Adolfo Rodriguez, Advance Auto Parts - YouTube](https://www.youtube.com/watch?v=mdn5NESGERg "Red Hat Summit 2023: Adolfo Rodriguez, Advance Auto Parts - YouTube") — Adolfo Rodriguez, SVP of Technology Transformation at Advance Auto Parts joins theCUBE hosts John Furrier & Rob Strechay for our continuing coverage of Red Hat Summit 2023
+  * [Podman Desktop 1.0 Annouced ](https://www.redhat.com/en/blog/podman-desktop-10-next-gen-container-management-solution-streamlining-developers-container-operations "Podman Desktop 1.0 Annouced") — Podman Desktop offers a user-friendly interface for handling containers and integrating with Kubernetes from a local workstation. 
+  * [Podman.io ](http://podman.io/ "Podman.io")
+  * [Podman ](https://podman.io/ "Podman")
+  * [Podman Desktop 1.0: Local container development made easy ](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available?extIdCarryOver=true&sc_cid=701f2000001OH6kAAG "Podman Desktop 1.0: Local container development made easy")
+  * [Podman Desktop 1.0 Released As An Alternative To Docker Desktop ](https://www.phoronix.com/news/Podman-Desktop-1.0 "Podman Desktop 1.0 Released As An Alternative To Docker Desktop")
+  * [Podman Desktop 1.0: Local container development made easy ](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available "Podman Desktop 1.0: Local container development made easy")
+  * [Introducing Azure Linux ](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/introducing-the-azure-linux-container-host-for-aks/ba-p/3824101 "Introducing Azure Linux") — This General Availability announcement follows our October preview announcement under the CBL-Mariner project codename. We’d like to thank the customers who provided valuable feedback and insight during our preview. 
+  * [Introduction to the Azure Linux Container Host for AKS | Microsoft Learn ](https://learn.microsoft.com/en-us/azure/azure-linux/intro-azure-linux "Introduction to the Azure Linux Container Host for AKS | Microsoft Learn")
+  * [CodeWeavers An Employee Ownership Trust ](https://www.codeweavers.com/blog/jwhite/2023/5/19/a-new-chapter-for-codeweavers-and-myself-trust-me "CodeWeavers An Employee Ownership Trust") — As of April 12th, the the company has a new shareholder - the CodeWeavers Purpose Trust. This Trust will become the primary owner of CodeWeavers. 
+  * [CodeWeavers Now Controlled By An Employee Ownership Trust ](https://www.phoronix.com/news/CodeWeavers-Employee-Trust "CodeWeavers Now Controlled By An Employee Ownership Trust")
+  * [Red Hat Summit 2023 — Highlights ](https://www.spiceworks.com/tech/tech-general/articles/red-hat-summit-2023-key-highlights/ "Red Hat Summit 2023 — Highlights") — The Red Hat Summit 2023 witnessed the launch of OpenShift AI and Red Hat Ansible software, security cloud services, and Linux management features. 
+  * [The moment for AI ](https://www.redhat.com/en/blog/moment-ai "The moment for AI")
+  * [Automation and the AI revolution ](https://www.redhat.com/en/blog/automation-and-ai-revolution "Automation and the AI revolution") — Generative AI is everywhere. But I cannot overstate how different our approach to all this has been. 
+  * [Red Hat Summit 2023: Adolfo Rodriguez, Advance Auto Parts - YouTube ](https://www.youtube.com/watch?v=mdn5NESGERg "Red Hat Summit 2023: Adolfo Rodriguez, Advance Auto Parts - YouTube") — Adolfo Rodriguez, SVP of Technology Transformation at Advance Auto Parts joins theCUBE hosts John Furrier & Rob Strechay for our continuing coverage of Red Hat Summit 2023 
 
 
 

@@ -21,11 +21,11 @@ None
 
 ## Episode links
 
-  * [Boxee Box](https://en.wikipedia.org/wiki/Boxee_Box "Boxee Box") — Boxee Box by D-Link is a Linux-based set-top device and media extender that first began shipping in 33 countries worldwide on 10 November 2010.
-  * [Getting Started with Media Browser for Windows Media Center](https://www.howtogeek.com/howto/13752/getting-started-with-media-browser-for-windows-media-center/ "Getting Started with Media Browser for Windows Media Center")
-  * [MythTV, Open Source DVR](https://www.mythtv.org/ "MythTV, Open Source DVR") — MythTV is a Free Open Source software digital video recorder (DVR) project distributed under the terms of the GNU GPL. It has been under heavy development since 2002, and now contains most features one would expect from a good DVR (and many new ones that you soon won't be able to live without).
-  * [Popcorn Hour A-100 review](https://www.cnet.com/reviews/popcorn-hour-a-100-review/ "Popcorn Hour A-100 review")
-  * [Microsoft Windows Media Center Extenders](https://www.ecoustics.com/products/microsoft-windows-media-center-extenders/ "Microsoft Windows Media Center Extenders") — The Media Center Extender with DVD Player (DMA2200) from Linksys, a division of Cisco, is an elegant solution that combines an upscaling DVD player with a dual-band Wireless-N Extender for Windows Media Center.
+  * [Boxee Box ](https://en.wikipedia.org/wiki/Boxee_Box "Boxee Box") — Boxee Box by D-Link is a Linux-based set-top device and media extender that first began shipping in 33 countries worldwide on 10 November 2010. 
+  * [Getting Started with Media Browser for Windows Media Center ](https://www.howtogeek.com/howto/13752/getting-started-with-media-browser-for-windows-media-center/ "Getting Started with Media Browser for Windows Media Center")
+  * [MythTV, Open Source DVR ](https://www.mythtv.org/ "MythTV, Open Source DVR") — MythTV is a Free Open Source software digital video recorder (DVR) project distributed under the terms of the GNU GPL. It has been under heavy development since 2002, and now contains most features one would expect from a good DVR (and many new ones that you soon won't be able to live without). 
+  * [Popcorn Hour A-100 review ](https://www.cnet.com/reviews/popcorn-hour-a-100-review/ "Popcorn Hour A-100 review")
+  * [Microsoft Windows Media Center Extenders ](https://www.ecoustics.com/products/microsoft-windows-media-center-extenders/ "Microsoft Windows Media Center Extenders") — The Media Center Extender with DVD Player (DMA2200) from Linksys, a division of Cisco, is an elegant solution that combines an upscaling DVD player with a dual-band Wireless-N Extender for Windows Media Center. 
 
 
 

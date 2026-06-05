@@ -16,23 +16,23 @@ New Raspberry Pi hardware has a few surprises, the most impressive things in Lin
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [New product: Raspberry Pi Zero 2 W on sale now at $15](https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/ "New product: Raspberry Pi Zero 2 W on sale now at $15") — Raspberry Pi Zero 2 W uses the same Broadcom BCM2710A1 SoC die as the launch version of Raspberry Pi 3, with Arm cores slightly down-clocked to 1GHz, bundled into a single space-saving package alongside 512MB of LPDDR2 SDRAM. 
-  * [Raspberry Pi Zero 2 W with Ubuntu Server 21.10 support is here](https://ubuntu.com//blog/raspberry-pi-zero-2-w-with-ubuntu-server-support-is-here "Raspberry Pi Zero 2 W with Ubuntu Server 21.10 support is here")
-  * [Raspberry Pi Zero 2 W Launches As Newer, Faster $10 Single Board Computer](https://www.phoronix.com/scan.php?page=news_item&px=Raspberry-Pi-Zero-2-W "Raspberry Pi Zero 2 W Launches As Newer, Faster $10 Single Board Computer")
-  * [Microsoft Edge finally arrives on Linux – “Official” build lands in repos](https://nakedsecurity.sophos.com/2021/10/29/microsoft-edge-finally-arrives-on-linux-official-build-lands-in-repos/ "Microsoft Edge finally arrives on Linux – “Official” build lands in repos") — We’re happy to see Edge for Linux finally make Stable and Official status, because we find it handy to have two distinct browsers on any operating system platform we use.
-  * [Element One - Matrix, WhatsApp, Signal and Telegram in one place](https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/ "Element One - Matrix, WhatsApp, Signal and Telegram in one place") — Element One is a huge step change. It’s a very affordable, unlimited usage way for people to have all of Matrix, WhatsApp, Signal and Telegram in one place - that’s a combined three billion users!
-  * [Element 1.9.1 - Chat Export is finally here!!](https://element.io/blog/element-1-9-1-export-is-finally-here/ "Element 1.9.1 - Chat Export is finally here!!")
-  * [The 15 Most Interesting Linux 5.15 Kernel Features From NTFS3 To KSMBD](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Feature-Look "The 15 Most Interesting Linux 5.15 Kernel Features From NTFS3 To KSMBD") — Linus Torvalds went ahead and released Linux 5.15 today on Halloween rather than delaying the kernel for another week.
-  * [Linux 5.15 Released](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Released "Linux 5.15 Released")
-  * [Fedora considers removing NIS support](https://lwn.net/SubscriberLink/874174/5409c2e748e1f3f3/ "Fedora considers removing NIS support") — The change proposal does note that: "For some users this change may be a bit disruptive and it may require some learning curve for switching to alternative solutions".
-  * [What is the support status of Network Information Service](https://access.redhat.com/solutions/5991271 "What is the support status of Network Information Service") — As seen from the RHEL8.3 release notes the yp rpms (ypserv, ypbind, yp-tools) have been marked as deprecated. Furthermore those components will no longer be available in RHEL-9.
-  * [Fedora 35 Cleared For Release Next Week](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-35-Next-Week "Fedora 35 Cleared For Release Next Week") — Confirmation of Fedora 35 being ready to ship next week was announced today.
+  * [New product: Raspberry Pi Zero 2 W on sale now at $15 ](https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/ "New product: Raspberry Pi Zero 2 W on sale now at $15") — Raspberry Pi Zero 2 W uses the same Broadcom BCM2710A1 SoC die as the launch version of Raspberry Pi 3, with Arm cores slightly down-clocked to 1GHz, bundled into a single space-saving package alongside 512MB of LPDDR2 SDRAM. 
+  * [Raspberry Pi Zero 2 W with Ubuntu Server 21.10 support is here ](https://ubuntu.com//blog/raspberry-pi-zero-2-w-with-ubuntu-server-support-is-here "Raspberry Pi Zero 2 W with Ubuntu Server 21.10 support is here")
+  * [Raspberry Pi Zero 2 W Launches As Newer, Faster $10 Single Board Computer ](https://www.phoronix.com/scan.php?page=news_item&px=Raspberry-Pi-Zero-2-W "Raspberry Pi Zero 2 W Launches As Newer, Faster $10 Single Board Computer")
+  * [Microsoft Edge finally arrives on Linux – “Official” build lands in repos ](https://nakedsecurity.sophos.com/2021/10/29/microsoft-edge-finally-arrives-on-linux-official-build-lands-in-repos/ "Microsoft Edge finally arrives on Linux – “Official” build lands in repos") — We’re happy to see Edge for Linux finally make Stable and Official status, because we find it handy to have two distinct browsers on any operating system platform we use. 
+  * [Element One - Matrix, WhatsApp, Signal and Telegram in one place ](https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/ "Element One - Matrix, WhatsApp, Signal and Telegram in one place") — Element One is a huge step change. It’s a very affordable, unlimited usage way for people to have all of Matrix, WhatsApp, Signal and Telegram in one place - that’s a combined three billion users! 
+  * [Element 1.9.1 - Chat Export is finally here!! ](https://element.io/blog/element-1-9-1-export-is-finally-here/ "Element 1.9.1 - Chat Export is finally here!!")
+  * [The 15 Most Interesting Linux 5.15 Kernel Features From NTFS3 To KSMBD ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Feature-Look "The 15 Most Interesting Linux 5.15 Kernel Features From NTFS3 To KSMBD") — Linus Torvalds went ahead and released Linux 5.15 today on Halloween rather than delaying the kernel for another week. 
+  * [Linux 5.15 Released ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Released "Linux 5.15 Released")
+  * [Fedora considers removing NIS support ](https://lwn.net/SubscriberLink/874174/5409c2e748e1f3f3/ "Fedora considers removing NIS support") — The change proposal does note that: "For some users this change may be a bit disruptive and it may require some learning curve for switching to alternative solutions". 
+  * [What is the support status of Network Information Service ](https://access.redhat.com/solutions/5991271 "What is the support status of Network Information Service") — As seen from the RHEL8.3 release notes the yp rpms (ypserv, ypbind, yp-tools) have been marked as deprecated. Furthermore those components will no longer be available in RHEL-9. 
+  * [Fedora 35 Cleared For Release Next Week ](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-35-Next-Week "Fedora 35 Cleared For Release Next Week") — Confirmation of Fedora 35 being ready to ship next week was announced today. 
 
 
 

@@ -15,31 +15,31 @@ We share some exclusive details about the Linux-powered gear that just landed on
 
 ## Sponsored by
 
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [ Look and feel comfortable, while kicking ass. Life is better in a robe.](https://www.jupitergarage.com/product/the-coder-robe)
+  * [The Coder](https://www.jupitergarage.com/product/the-coder-robe): [Look and feel comfortable, while kicking ass. Life is better in a robe. ](https://www.jupitergarage.com/product/the-coder-robe)
 
 
 
 ## Episode links
 
-  * [How NASA Designed a Helicopter That Could Fly Autonomously on Mars](https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars "How NASA Designed a Helicopter That Could Fly Autonomously on Mars") — This the first time we’ll be flying Linux on Mars. We’re actually running on a Linux operating system. The software framework that we’re using is one that we developed at JPL for cubesats and instruments, and we open-sourced it a few years ago. 
-  * [The Perseverance Mars rover just took Linux to another planet](https://www.techradar.com/news/the-perseverance-mars-rover-is-running-linux "The Perseverance Mars rover just took Linux to another planet")
-  * [Ingenuity (Mars helicopter) on Wikipedia](https://en.wikipedia.org/wiki/Ingenuity_\(Mars_helicopter\)#Development "Ingenuity \(Mars helicopter\) on Wikipedia")
-  * [Mars Helicopter on YouTube](https://www.youtube.com/watch?v=GhsZUZmJvaM "Mars Helicopter on YouTube")
-  * [Ingenuity helicopter phones home from Mars](https://edition.cnn.com/2021/02/20/world/mars-ingenuity-helicopter-update-scn-trnd/index.html "Ingenuity helicopter phones home from Mars")
-  * [SparkFun Electronics](https://www.sparkfun.com/ "SparkFun Electronics")
-  * [Linaro Projects](https://www.linaro.org/projects/ "Linaro Projects")
-  * [Linaro on Wikipedia](https://en.wikipedia.org/wiki/Linaro "Linaro on Wikipedia")
-  * [Ivan Čukić on Twitter](https://twitter.com/ivan_cukic/status/1362722727560425476 "Ivan Čukić on Twitter") — Another @kdecommunity #KDE Mars landing a success! 
-  * [Linux 5.12 Git Seeing New Code Land Following Winter Storm](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Git-Activity-Resumes "Linux 5.12 Git Seeing New Code Land Following Winter Storm") — While the first week of a new merge window is often one of the busiest times for Linus Torvalds in overseeing the Linux kernel, until last night there was no actual Linux 5.12 code being pushed into the Linux Git repository. Linus was offline most of the week due to winter storms preventing him from pushing to the Git repository and interacting much with the mailing list. 
-  * [There Are Big Changes On The Horizon With Linux 5.12](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.12-Changes-Pending "There Are Big Changes On The Horizon With Linux 5.12")
-  * [Btrfs With Linux 5.12 Gets More Performance Improvements, Working Zoned Mode](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.12-Btrfs "Btrfs With Linux 5.12 Gets More Performance Improvements, Working Zoned Mode")
-  * [XFS File-System With Linux 5.12 Has “A Lot Going On This Time”](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.12-XFS&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Phoronix+%28Phoronix%29 "XFS File-System With Linux 5.12 Has “A Lot Going On This Time”")
-  * [IDMAPPED Mounts Aim For Linux 5.12 - Many New Use-Cases From Containers To Systemd-Homed - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=IDMAPPED-Mounts-Linux-5.12 "IDMAPPED Mounts Aim For Linux 5.12 - Many New Use-Cases From Containers To Systemd-Homed - Phoronix") — This patch series introduces idmapped mounts which has been in the making for some time. Simply put, different mounts can expose the same file or directory with different ownership.
-  * [NVIDIA continues tweaking their work for hardware accelerated Xwayland support](https://www.gamingonlinux.com/2021/02/nvidia-continues-tweaking-their-work-for-hardware-accelerated-xwayland-support "NVIDIA continues tweaking their work for hardware accelerated Xwayland support") — Performance should be fine in full-screen games, as long as the compositor supports the required zwp_linux_dmabuf_v1 interface. 
-  * [Experimental Wayland Support For Wine Now Sees More Functionality Working](https://www.phoronix.com/scan.php?page=news_item&px=Wayland-Wine-RFC-Feb-2021 "Experimental Wayland Support For Wine Now Sees More Functionality Working") — With the new "request for comment" patches, there is now working support for copy/paste, drag-and-drop, and the ability to change the display mode. 
-  * [Apple M1 teaser](https://marc.info/?l=openbsd-arm&m=161386122115249&w=2 "Apple M1 teaser") — So OpenBSD boots multi-user on the new Apple M1 hardware. This still has some hacks in it that need to be fixed, so don't expect support for this in the tree right now. But a big thank you to those that contributed to the pool for getting us some hardware. 
+  * [How NASA Designed a Helicopter That Could Fly Autonomously on Mars ](https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars "How NASA Designed a Helicopter That Could Fly Autonomously on Mars") — This the first time we’ll be flying Linux on Mars. We’re actually running on a Linux operating system. The software framework that we’re using is one that we developed at JPL for cubesats and instruments, and we open-sourced it a few years ago. 
+  * [The Perseverance Mars rover just took Linux to another planet ](https://www.techradar.com/news/the-perseverance-mars-rover-is-running-linux "The Perseverance Mars rover just took Linux to another planet")
+  * [Ingenuity (Mars helicopter) on Wikipedia ](https://en.wikipedia.org/wiki/Ingenuity_\(Mars_helicopter\)#Development "Ingenuity \(Mars helicopter\) on Wikipedia")
+  * [Mars Helicopter on YouTube ](https://www.youtube.com/watch?v=GhsZUZmJvaM "Mars Helicopter on YouTube")
+  * [Ingenuity helicopter phones home from Mars ](https://edition.cnn.com/2021/02/20/world/mars-ingenuity-helicopter-update-scn-trnd/index.html "Ingenuity helicopter phones home from Mars")
+  * [SparkFun Electronics ](https://www.sparkfun.com/ "SparkFun Electronics")
+  * [Linaro Projects ](https://www.linaro.org/projects/ "Linaro Projects")
+  * [Linaro on Wikipedia ](https://en.wikipedia.org/wiki/Linaro "Linaro on Wikipedia")
+  * [Ivan Čukić on Twitter ](https://twitter.com/ivan_cukic/status/1362722727560425476 "Ivan Čukić on Twitter") — Another @kdecommunity #KDE Mars landing a success! 
+  * [Linux 5.12 Git Seeing New Code Land Following Winter Storm ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Git-Activity-Resumes "Linux 5.12 Git Seeing New Code Land Following Winter Storm") — While the first week of a new merge window is often one of the busiest times for Linus Torvalds in overseeing the Linux kernel, until last night there was no actual Linux 5.12 code being pushed into the Linux Git repository. Linus was offline most of the week due to winter storms preventing him from pushing to the Git repository and interacting much with the mailing list. 
+  * [There Are Big Changes On The Horizon With Linux 5.12 ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.12-Changes-Pending "There Are Big Changes On The Horizon With Linux 5.12")
+  * [Btrfs With Linux 5.12 Gets More Performance Improvements, Working Zoned Mode ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.12-Btrfs "Btrfs With Linux 5.12 Gets More Performance Improvements, Working Zoned Mode")
+  * [XFS File-System With Linux 5.12 Has “A Lot Going On This Time” ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.12-XFS&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Phoronix+%28Phoronix%29 "XFS File-System With Linux 5.12 Has “A Lot Going On This Time”")
+  * [IDMAPPED Mounts Aim For Linux 5.12 - Many New Use-Cases From Containers To Systemd-Homed - Phoronix ](https://www.phoronix.com/scan.php?page=news_item&px=IDMAPPED-Mounts-Linux-5.12 "IDMAPPED Mounts Aim For Linux 5.12 - Many New Use-Cases From Containers To Systemd-Homed - Phoronix") — This patch series introduces idmapped mounts which has been in the making for some time. Simply put, different mounts can expose the same file or directory with different ownership. 
+  * [NVIDIA continues tweaking their work for hardware accelerated Xwayland support ](https://www.gamingonlinux.com/2021/02/nvidia-continues-tweaking-their-work-for-hardware-accelerated-xwayland-support "NVIDIA continues tweaking their work for hardware accelerated Xwayland support") — Performance should be fine in full-screen games, as long as the compositor supports the required zwp_linux_dmabuf_v1 interface. 
+  * [Experimental Wayland Support For Wine Now Sees More Functionality Working ](https://www.phoronix.com/scan.php?page=news_item&px=Wayland-Wine-RFC-Feb-2021 "Experimental Wayland Support For Wine Now Sees More Functionality Working") — With the new "request for comment" patches, there is now working support for copy/paste, drag-and-drop, and the ability to change the display mode. 
+  * [Apple M1 teaser ](https://marc.info/?l=openbsd-arm&m=161386122115249&w=2 "Apple M1 teaser") — So OpenBSD boots multi-user on the new Apple M1 hardware. This still has some hacks in it that need to be fixed, so don't expect support for this in the tree right now. But a big thank you to those that contributed to the pool for getting us some hardware. 
 
 
 

@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [Xfce 4.14 released](https://xfce.org/about/news/?post=1565568000 "Xfce 4.14 released") — After 4 years and 5 months of work, we are pleased to announce the release of the Xfce desktop 4.14, a new stable version that supersedes Xfce 4.12.
-  * [Xubuntu Daily](http://cdimage.ubuntu.com/xubuntu/daily-live/current/ "Xubuntu Daily")
-  * [Open Sourcing the Kubernetes Security Audit](https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/ "Open Sourcing the Kubernetes Security Audit") — The group created an open request for proposals, taking responsibility for evaluating the submitted proposals and recommending the vendor best suited to complete a security assessment against Kubernetes, bearing in mind the high complexity and wide scope of the project. 
-  * [wg-security-audit at master · kubernetes/community · GitHub](https://github.com/kubernetes/community/tree/master/wg-security-audit "wg-security-audit at master · kubernetes/community · GitHub")
-  * [Someone audited the Kubernetes source](https://www.theregister.co.uk/2019/08/06/kubernetes_security_audit/ "Someone audited the Kubernetes source")
-  * [Server-side rendering for AMP](https://blog.amp.dev/2019/08/07/faster-amp-on-the-origin-amp-ssr/ "Server-side rendering for AMP") — AMP now officially supports a technique called server-side rendering (SSR) which you can apply to your AMP pages to make them load even faster. Our tests show increases of up to a whopping 50% on the popular FCP metric.
-  * [OSdisc.com Has Closed](https://www.cnet.com/forums/discussions/osdisc-com-has-closed/ "OSdisc.com Has Closed") — In just the past couple days, a very popular Linux OS supply site has closed. 
+  * [Xfce 4.14 released ](https://xfce.org/about/news/?post=1565568000 "Xfce 4.14 released") — After 4 years and 5 months of work, we are pleased to announce the release of the Xfce desktop 4.14, a new stable version that supersedes Xfce 4.12. 
+  * [Xubuntu Daily ](http://cdimage.ubuntu.com/xubuntu/daily-live/current/ "Xubuntu Daily")
+  * [Open Sourcing the Kubernetes Security Audit ](https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/ "Open Sourcing the Kubernetes Security Audit") — The group created an open request for proposals, taking responsibility for evaluating the submitted proposals and recommending the vendor best suited to complete a security assessment against Kubernetes, bearing in mind the high complexity and wide scope of the project. 
+  * [wg-security-audit at master · kubernetes/community · GitHub ](https://github.com/kubernetes/community/tree/master/wg-security-audit "wg-security-audit at master · kubernetes/community · GitHub")
+  * [Someone audited the Kubernetes source ](https://www.theregister.co.uk/2019/08/06/kubernetes_security_audit/ "Someone audited the Kubernetes source")
+  * [Server-side rendering for AMP ](https://blog.amp.dev/2019/08/07/faster-amp-on-the-origin-amp-ssr/ "Server-side rendering for AMP") — AMP now officially supports a technique called server-side rendering (SSR) which you can apply to your AMP pages to make them load even faster. Our tests show increases of up to a whopping 50% on the popular FCP metric. 
+  * [OSdisc.com Has Closed ](https://www.cnet.com/forums/discussions/osdisc-com-has-closed/ "OSdisc.com Has Closed") — In just the past couple days, a very popular Linux OS supply site has closed. 
 
 
 

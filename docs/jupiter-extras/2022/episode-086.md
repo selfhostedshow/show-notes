@@ -21,21 +21,21 @@ None
 
 ## Episode links
 
-  * [Quentin's Personal Website](https://quentinsf.com/ "Quentin's Personal Website")
-  * [Quentin's Blog - Status-Q](https://statusq.org/ "Quentin's Blog - Status-Q")
-  * [Telemarq](http://telemarq.com/ "Telemarq")
-  * [SPARCstation - Wikipedia](https://en.wikipedia.org/wiki/SPARCstation "SPARCstation - Wikipedia")
-  * [Raspberry Pi Foundation](https://www.raspberrypi.org/ "Raspberry Pi Foundation")
-  * [Raspberry Pi](https://www.raspberrypi.com/ "Raspberry Pi") — Computing for everybody
-  * [OpenStreetMap](https://www.openstreetmap.org/ "OpenStreetMap") — a map of the world, created by people like you and free to use under an open license
-  * [T9 (predictive text) - Wikipedia](https://en.wikipedia.org/wiki/T9_\(predictive_text\) "T9 \(predictive text\) - Wikipedia")
-  * [The GNU General Public License v3.0 - GNU Project - Free Software Foundation](https://www.gnu.org/licenses/gpl-3.0.en.html "The GNU General Public License v3.0 - GNU Project - Free Software Foundation")
-  * [Moore's law - Wikipedia](https://en.wikipedia.org/wiki/Moore%27s_law "Moore's law - Wikipedia")
-  * [One Laptop per Child - Wikipedia](https://en.wikipedia.org/wiki/One_Laptop_per_Child "One Laptop per Child - Wikipedia")
-  * [Nicholas Negroponte: One Laptop per Child, two years on - TED Talk](https://www.ted.com/talks/nicholas_negroponte_one_laptop_per_child_two_years_on "Nicholas Negroponte: One Laptop per Child, two years on - TED Talk")
-  * [Social Warming: The Dangerous and Polarising Effects of Social Media by Charles Arthur](https://www.goodreads.com/book/show/55711307-social-warming "Social Warming: The Dangerous and Polarising Effects of Social Media by Charles Arthur")
-  * [Dr Quentin Stafford-Fraser - @quentinsf on Twitter](https://twitter.com/quentinsf "Dr Quentin Stafford-Fraser - @quentinsf on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Quentin's Personal Website ](https://quentinsf.com/ "Quentin's Personal Website")
+  * [Quentin's Blog - Status-Q ](https://statusq.org/ "Quentin's Blog - Status-Q")
+  * [Telemarq ](http://telemarq.com/ "Telemarq")
+  * [SPARCstation - Wikipedia ](https://en.wikipedia.org/wiki/SPARCstation "SPARCstation - Wikipedia")
+  * [Raspberry Pi Foundation ](https://www.raspberrypi.org/ "Raspberry Pi Foundation")
+  * [Raspberry Pi ](https://www.raspberrypi.com/ "Raspberry Pi") — Computing for everybody 
+  * [OpenStreetMap ](https://www.openstreetmap.org/ "OpenStreetMap") — a map of the world, created by people like you and free to use under an open license 
+  * [T9 (predictive text) - Wikipedia ](https://en.wikipedia.org/wiki/T9_\(predictive_text\) "T9 \(predictive text\) - Wikipedia")
+  * [The GNU General Public License v3.0 - GNU Project - Free Software Foundation ](https://www.gnu.org/licenses/gpl-3.0.en.html "The GNU General Public License v3.0 - GNU Project - Free Software Foundation")
+  * [Moore's law - Wikipedia ](https://en.wikipedia.org/wiki/Moore%27s_law "Moore's law - Wikipedia")
+  * [One Laptop per Child - Wikipedia ](https://en.wikipedia.org/wiki/One_Laptop_per_Child "One Laptop per Child - Wikipedia")
+  * [Nicholas Negroponte: One Laptop per Child, two years on - TED Talk ](https://www.ted.com/talks/nicholas_negroponte_one_laptop_per_child_two_years_on "Nicholas Negroponte: One Laptop per Child, two years on - TED Talk")
+  * [Social Warming: The Dangerous and Polarising Effects of Social Media by Charles Arthur ](https://www.goodreads.com/book/show/55711307-social-warming "Social Warming: The Dangerous and Polarising Effects of Social Media by Charles Arthur")
+  * [Dr Quentin Stafford-Fraser - @quentinsf on Twitter ](https://twitter.com/quentinsf "Dr Quentin Stafford-Fraser - @quentinsf on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

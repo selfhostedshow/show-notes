@@ -21,17 +21,17 @@ None
 
 ## Episode links
 
-  * [Ubuntu fixes bugs that standard users could use to become root](https://arstechnica.com/information-technology/2020/11/ubuntu-fixes-bugs-that-standard-users-could-use-to-become-root/ "Ubuntu fixes bugs that standard users could use to become root") — A handful of commands was all it took for untrusted users to become all-powerful.
-  * [Now-patched Ubuntu desktop vulnerability allows privilege escalation](https://www.theregister.com/2020/11/11/ubuntu_desktop_vulnerability_allows_privilege/ "Now-patched Ubuntu desktop vulnerability allows privilege escalation")
-  * [How to get root on Ubuntu 20.04 by pretending nobody’s /home](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE "How to get root on Ubuntu 20.04 by pretending nobody’s /home")
-  * [Meet Proxmox Backup Server, a Debian-Based Open Source Enterprise Backup Solution](https://9to5linux.com/meet-proxmox-backup-server-a-debian-based-open-source-enterprise-backup-solution "Meet Proxmox Backup Server, a Debian-Based Open Source Enterprise Backup Solution") — Proxmox launched today Proxmox Backup Server as a new edition of its Debian-based Linux distribution engineered to act as an enterprise solution for backing up and restoring physical hosts, virtual machines and containers.
-  * [Proxmox Roadmap](https://pbs.proxmox.com/wiki/index.php/Roadmap "Proxmox Roadmap")
-  * [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server "Proxmox Backup Server")
-  * [Proxmox Backup Git Repo](https://git.proxmox.com/?p=proxmox-backup.git;a=summary "Proxmox Backup Git Repo")
-  * [PayPal's crypto trading goes live in the US](https://cointelegraph.com/news/paypal-s-crypto-goes-live-in-the-us "PayPal's crypto trading goes live in the US") — Customers will be able to trade up to $20,000 a week, rather than the originally announced $10,000.
-  * [Systemd catches up with bind events](https://lwn.net/Articles/837033/ "Systemd catches up with bind events") — Perhaps the real lesson here is that the community would be better served by closer relations between the kernel project and projects managing low-level utilities like systemd. 
-  * [eBPF - The Future of Networking & Security](https://cilium.io/blog/2020/11/10/ebpf-future-of-networking/ "eBPF - The Future of Networking & Security") — Cilium is an open source project that has been designed on top of eBPF to address the networking, security, and visibility requirements of container workloads. It provides a high-level abstraction on top of eBPF. Cilium is to eBPF what Kubernetes and container runtimes are to Linux kernel namespaces, cgroups, and seccomp
-  * [Linux App Summit 2020](https://linuxappsummit.org/ "Linux App Summit 2020")
+  * [Ubuntu fixes bugs that standard users could use to become root ](https://arstechnica.com/information-technology/2020/11/ubuntu-fixes-bugs-that-standard-users-could-use-to-become-root/ "Ubuntu fixes bugs that standard users could use to become root") — A handful of commands was all it took for untrusted users to become all-powerful. 
+  * [Now-patched Ubuntu desktop vulnerability allows privilege escalation ](https://www.theregister.com/2020/11/11/ubuntu_desktop_vulnerability_allows_privilege/ "Now-patched Ubuntu desktop vulnerability allows privilege escalation")
+  * [How to get root on Ubuntu 20.04 by pretending nobody’s /home ](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE "How to get root on Ubuntu 20.04 by pretending nobody’s /home")
+  * [Meet Proxmox Backup Server, a Debian-Based Open Source Enterprise Backup Solution ](https://9to5linux.com/meet-proxmox-backup-server-a-debian-based-open-source-enterprise-backup-solution "Meet Proxmox Backup Server, a Debian-Based Open Source Enterprise Backup Solution") — Proxmox launched today Proxmox Backup Server as a new edition of its Debian-based Linux distribution engineered to act as an enterprise solution for backing up and restoring physical hosts, virtual machines and containers. 
+  * [Proxmox Roadmap ](https://pbs.proxmox.com/wiki/index.php/Roadmap "Proxmox Roadmap")
+  * [Proxmox Backup Server ](https://www.proxmox.com/en/proxmox-backup-server "Proxmox Backup Server")
+  * [Proxmox Backup Git Repo ](https://git.proxmox.com/?p=proxmox-backup.git;a=summary "Proxmox Backup Git Repo")
+  * [PayPal's crypto trading goes live in the US ](https://cointelegraph.com/news/paypal-s-crypto-goes-live-in-the-us "PayPal's crypto trading goes live in the US") — Customers will be able to trade up to $20,000 a week, rather than the originally announced $10,000. 
+  * [Systemd catches up with bind events ](https://lwn.net/Articles/837033/ "Systemd catches up with bind events") — Perhaps the real lesson here is that the community would be better served by closer relations between the kernel project and projects managing low-level utilities like systemd. 
+  * [eBPF - The Future of Networking & Security ](https://cilium.io/blog/2020/11/10/ebpf-future-of-networking/ "eBPF - The Future of Networking & Security") — Cilium is an open source project that has been designed on top of eBPF to address the networking, security, and visibility requirements of container workloads. It provides a high-level abstraction on top of eBPF. Cilium is to eBPF what Kubernetes and container runtimes are to Linux kernel namespaces, cgroups, and seccomp 
+  * [Linux App Summit 2020 ](https://linuxappsummit.org/ "Linux App Summit 2020")
 
 
 

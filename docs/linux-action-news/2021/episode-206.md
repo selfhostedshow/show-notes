@@ -16,25 +16,25 @@ Linus Torvalds attempts to get kernel developers to clean up their code, the per
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [5.15 Merge window](https://lwn.net/Articles/867821/ "5.15 Merge window") — 3,440 non-merge changesets have been pulled into the mainline repository for the 5.15 development cycle.
-  * [Amazon’s DAMON Merged Into Linux 5.15](https://www.phoronix.com/scan.php?page=news_item&px=DAMON-Merged-Linux-5.15 "Amazon’s DAMON Merged Into Linux 5.15")
-  * [Linux 5.15 Hit By Some Early Performance Regressions](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Memcg-Regressions "Linux 5.15 Hit By Some Early Performance Regressions")
-  * [AMD Posts New “AMD-PSTATE” CPUFreq Driver](https://www.phoronix.com/scan.php?page=news_item&px=AMD-PSTATE-2021 "AMD Posts New “AMD-PSTATE” CPUFreq Driver") — Leveraging CPPC For Better Perf-Per-Watt
-  * [Linux 5.15 Readies More Code For Compile & Run-Time Detection Of Buffer Overflows](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-More-BO-Detection "Linux 5.15 Readies More Code For Compile & Run-Time Detection Of Buffer Overflows")
-  * [AMD Finally Releases Overdue Linux CPPC Driver](https://www.tomshardware.com/news/zen-ryzen-cppc-linux-driver "AMD Finally Releases Overdue Linux CPPC Driver")
-  * [OverlayFS On Linux 5.15 Improves Performance](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-OverlayFS "OverlayFS On Linux 5.15 Improves Performance")
-  * [Linux 5.15’s New “-Werror” Behavior Is Causing A Lot Of Pain](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Werror-Pain "Linux 5.15’s New “-Werror” Behavior Is Causing A Lot Of Pain") — That compiler flag addition makes all warnings be treated as errors, which in turn stops the kernel build.
-  * [Re: [GIT PULL] ntfs3: new NTFS driver for 5.15 - Linus Torvalds](https://lore.kernel.org/lkml/CAHk-=wjbtip559HcMG9VQLGPmkurh5Kc50y5BceL8Q8=aL0H3Q@mail.gmail.com/ "Re: \[GIT PULL\] ntfs3: new NTFS driver for 5.15 - Linus Torvalds")
-  * [Red Hat will officially support EPEL in the future](https://www.itsfoss.net/red-hat-will-officially-support-epel-in-the-future/ "Red Hat will officially support EPEL in the future") — The new team is being formed and is expected to start work in October. 
-  * [History and Philosophy of EPEL - Fedora Project Wiki](https://fedoraproject.org/wiki/History_and_Philosophy_of_EPEL "History and Philosophy of EPEL - Fedora Project Wiki")
-  * [Microsoft Releases Its August Update For The CBL-Mariner Linux Distribution](https://www.phoronix.com/scan.php?page=news_item&px=CBL-Mariner-August-2021 "Microsoft Releases Its August Update For The CBL-Mariner Linux Distribution") — One of the big fundamental changes with CBL-Mariner August 2021 is Microsoft now provides a public ISO to download of this Linux distribution.
-  * [CBL-Mariner: Linux OS for Azure 1P services and edge appliances](https://github.com/microsoft/CBL-Mariner "CBL-Mariner: Linux OS for Azure 1P services and edge appliances")
+  * [5.15 Merge window ](https://lwn.net/Articles/867821/ "5.15 Merge window") — 3,440 non-merge changesets have been pulled into the mainline repository for the 5.15 development cycle. 
+  * [Amazon’s DAMON Merged Into Linux 5.15 ](https://www.phoronix.com/scan.php?page=news_item&px=DAMON-Merged-Linux-5.15 "Amazon’s DAMON Merged Into Linux 5.15")
+  * [Linux 5.15 Hit By Some Early Performance Regressions ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Memcg-Regressions "Linux 5.15 Hit By Some Early Performance Regressions")
+  * [AMD Posts New “AMD-PSTATE” CPUFreq Driver ](https://www.phoronix.com/scan.php?page=news_item&px=AMD-PSTATE-2021 "AMD Posts New “AMD-PSTATE” CPUFreq Driver") — Leveraging CPPC For Better Perf-Per-Watt 
+  * [Linux 5.15 Readies More Code For Compile & Run-Time Detection Of Buffer Overflows ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-More-BO-Detection "Linux 5.15 Readies More Code For Compile & Run-Time Detection Of Buffer Overflows")
+  * [AMD Finally Releases Overdue Linux CPPC Driver ](https://www.tomshardware.com/news/zen-ryzen-cppc-linux-driver "AMD Finally Releases Overdue Linux CPPC Driver")
+  * [OverlayFS On Linux 5.15 Improves Performance ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-OverlayFS "OverlayFS On Linux 5.15 Improves Performance")
+  * [Linux 5.15’s New “-Werror” Behavior Is Causing A Lot Of Pain ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Werror-Pain "Linux 5.15’s New “-Werror” Behavior Is Causing A Lot Of Pain") — That compiler flag addition makes all warnings be treated as errors, which in turn stops the kernel build. 
+  * [Re: [GIT PULL] ntfs3: new NTFS driver for 5.15 - Linus Torvalds ](https://lore.kernel.org/lkml/CAHk-=wjbtip559HcMG9VQLGPmkurh5Kc50y5BceL8Q8=aL0H3Q@mail.gmail.com/ "Re: \[GIT PULL\] ntfs3: new NTFS driver for 5.15 - Linus Torvalds")
+  * [Red Hat will officially support EPEL in the future ](https://www.itsfoss.net/red-hat-will-officially-support-epel-in-the-future/ "Red Hat will officially support EPEL in the future") — The new team is being formed and is expected to start work in October. 
+  * [History and Philosophy of EPEL - Fedora Project Wiki ](https://fedoraproject.org/wiki/History_and_Philosophy_of_EPEL "History and Philosophy of EPEL - Fedora Project Wiki")
+  * [Microsoft Releases Its August Update For The CBL-Mariner Linux Distribution ](https://www.phoronix.com/scan.php?page=news_item&px=CBL-Mariner-August-2021 "Microsoft Releases Its August Update For The CBL-Mariner Linux Distribution") — One of the big fundamental changes with CBL-Mariner August 2021 is Microsoft now provides a public ISO to download of this Linux distribution. 
+  * [CBL-Mariner: Linux OS for Azure 1P services and edge appliances ](https://github.com/microsoft/CBL-Mariner "CBL-Mariner: Linux OS for Azure 1P services and edge appliances")
 
 
 

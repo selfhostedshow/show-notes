@@ -22,15 +22,15 @@ Android is getting RISC-Y, the handy new Google tool going open source, the next
 
 ## Episode links
 
-  * [Android Gets RISC-Y](https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v/ "Android Gets RISC-Y") — Google's keynote at the RISC-V Summit promises official, polished support. 
-  * [Keynote: The Android Open Source Project and RISC-V - Lars Bergstrom, Google Director of Engineering](https://www.youtube.com/watch?v=70O_RmTWP58 "Keynote: The Android Open Source Project and RISC-V - Lars Bergstrom, Google Director of Engineering")
-  * [New Google Tool Goes Open](https://www.infoq.com/news/2022/12/google-osv-scanner/ "New Google Tool Goes Open") — The OSV database is a distributed, open-source database that stores vulnerability information in the OSV format. The OSV-Scanner assesses a project's dependencies against the OSV database showing all vulnerabilities relating to the project.
-  * [Ubuntu’s New Installer Milestone](https://www.phoronix.com/news/Ubuntu-23.04-New-Installer-Jan "Ubuntu’s New Installer Milestone") — With Ubuntu 23.04 "Lunar Lobster" in April that new desktop installer is poised to finally be used by default. 
-  * [HDR Beginning To Work For Linux Gaming](https://www.phoronix.com/news/Valve-HDR-Linux-Gaming-Begins "HDR Beginning To Work For Linux Gaming") — "New Linux gaming milestone: with the latest work from Josh Ashton, HDR can now be enabled for real games! Tested it tonight on my AMD desktop with Halo Infinite, Deep Rock Galactic, DEATH STRANDING DC. Very early and will still need some time to bake to be useful to most."
-  * [Red Hat Planning HDR Hackfest](https://wiki.gnome.org/Hackfests/ShellDisplayNext2023 "Red Hat Planning HDR Hackfest")
-  * [GNOME Shell + Mutter 43 Alpha Released](https://www.phoronix.com/news/GNOME-Shell-Mutter-43-Alpha "GNOME Shell + Mutter 43 Alpha Released")
-  * [VKD3D-Proton 2.7 Released With Eight Months Worth Of Changes](https://www.phoronix.com/news/VKD3D-Proton-2.7-Released "VKD3D-Proton 2.7 Released With Eight Months Worth Of Changes")
-  * [Google Home speakers allowed hackers to snoop on conversations](https://www.bleepingcomputer.com/news/security/google-home-speakers-allowed-hackers-to-snoop-on-conversations/ "Google Home speakers allowed hackers to snoop on conversations") — A bug in Google Home smart speaker allowed installing a backdoor account that could be used to control it remotely and to turn it into a snooping device by accessing the microphone feed.
+  * [Android Gets RISC-Y ](https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v/ "Android Gets RISC-Y") — Google's keynote at the RISC-V Summit promises official, polished support. 
+  * [Keynote: The Android Open Source Project and RISC-V - Lars Bergstrom, Google Director of Engineering ](https://www.youtube.com/watch?v=70O_RmTWP58 "Keynote: The Android Open Source Project and RISC-V - Lars Bergstrom, Google Director of Engineering")
+  * [New Google Tool Goes Open ](https://www.infoq.com/news/2022/12/google-osv-scanner/ "New Google Tool Goes Open") — The OSV database is a distributed, open-source database that stores vulnerability information in the OSV format. The OSV-Scanner assesses a project's dependencies against the OSV database showing all vulnerabilities relating to the project. 
+  * [Ubuntu’s New Installer Milestone ](https://www.phoronix.com/news/Ubuntu-23.04-New-Installer-Jan "Ubuntu’s New Installer Milestone") — With Ubuntu 23.04 "Lunar Lobster" in April that new desktop installer is poised to finally be used by default. 
+  * [HDR Beginning To Work For Linux Gaming ](https://www.phoronix.com/news/Valve-HDR-Linux-Gaming-Begins "HDR Beginning To Work For Linux Gaming") — "New Linux gaming milestone: with the latest work from Josh Ashton, HDR can now be enabled for real games! Tested it tonight on my AMD desktop with Halo Infinite, Deep Rock Galactic, DEATH STRANDING DC. Very early and will still need some time to bake to be useful to most." 
+  * [Red Hat Planning HDR Hackfest ](https://wiki.gnome.org/Hackfests/ShellDisplayNext2023 "Red Hat Planning HDR Hackfest")
+  * [GNOME Shell + Mutter 43 Alpha Released ](https://www.phoronix.com/news/GNOME-Shell-Mutter-43-Alpha "GNOME Shell + Mutter 43 Alpha Released")
+  * [VKD3D-Proton 2.7 Released With Eight Months Worth Of Changes ](https://www.phoronix.com/news/VKD3D-Proton-2.7-Released "VKD3D-Proton 2.7 Released With Eight Months Worth Of Changes")
+  * [Google Home speakers allowed hackers to snoop on conversations ](https://www.bleepingcomputer.com/news/security/google-home-speakers-allowed-hackers-to-snoop-on-conversations/ "Google Home speakers allowed hackers to snoop on conversations") — A bug in Google Home smart speaker allowed installing a backdoor account that could be used to control it remotely and to turn it into a snooping device by accessing the microphone feed. 
 
 
 

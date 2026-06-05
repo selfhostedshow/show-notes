@@ -21,14 +21,14 @@ None
 
 ## Episode links
 
-  * [Happy 1110th Birthday System76!](https://twitter.com/system76/status/1192631181872959488 "Happy 1110th Birthday System76!")
-  * [System76 Superfans 3 Event - November 15-16, 2019](https://blog.system76.com/post/188835953849/winners-of-superfan-3-mission-to-thelio "System76 Superfans 3 Event - November 15-16, 2019")
-  * [System76 Superfans at the Barcade in Denver](https://twitter.com/SocialHappiness/status/1195587664398827520 "System76 Superfans at the Barcade in Denver")
-  * [Wiggle Tricycles](https://www.youtube.com/watch?v=-Op_YBlQNK8 "Wiggle Tricycles")
-  * [Female Developers To Follow On Twitter - CodeWall](https://www.codewall.co.uk/female-developers-to-follow-on-twitter/ "Female Developers To Follow On Twitter - CodeWall")
-  * [Taylor Swift: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=FvVnP8G6ITs "Taylor Swift: NPR Music Tiny Desk Concert")
-  * [Emma Marshall - @SocialHappiness on Twitter](https://twitter.com/SocialHappiness "Emma Marshall - @SocialHappiness on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Happy 1110th Birthday System76! ](https://twitter.com/system76/status/1192631181872959488 "Happy 1110th Birthday System76!")
+  * [System76 Superfans 3 Event - November 15-16, 2019 ](https://blog.system76.com/post/188835953849/winners-of-superfan-3-mission-to-thelio "System76 Superfans 3 Event - November 15-16, 2019")
+  * [System76 Superfans at the Barcade in Denver ](https://twitter.com/SocialHappiness/status/1195587664398827520 "System76 Superfans at the Barcade in Denver")
+  * [Wiggle Tricycles ](https://www.youtube.com/watch?v=-Op_YBlQNK8 "Wiggle Tricycles")
+  * [Female Developers To Follow On Twitter - CodeWall ](https://www.codewall.co.uk/female-developers-to-follow-on-twitter/ "Female Developers To Follow On Twitter - CodeWall")
+  * [Taylor Swift: NPR Music Tiny Desk Concert ](https://www.youtube.com/watch?v=FvVnP8G6ITs "Taylor Swift: NPR Music Tiny Desk Concert")
+  * [Emma Marshall - @SocialHappiness on Twitter ](https://twitter.com/SocialHappiness "Emma Marshall - @SocialHappiness on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

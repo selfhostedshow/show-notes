@@ -21,21 +21,21 @@ None
 
 ## Episode links
 
-  * [Ubuntu MATE](https://ubuntu-mate.org/ "Ubuntu MATE")
-  * [Linux Unplugged](https://linuxunplugged.com/ "Linux Unplugged")
-  * [Chris Fisher @chrislas on Twitter](https://twitter.com/chrislas "Chris Fisher @chrislas on Twitter")
-  * [Alan Pope - @popey on Twitter](https://twitter.com/popey "Alan Pope - @popey on Twitter")
-  * [Ubuntu Podcast](https://ubuntupodcast.org/ "Ubuntu Podcast")
-  * [Bad Voltage](https://www.badvoltage.org/ "Bad Voltage")
-  * [User Error](https://error.show/ "User Error")
-  * [Canonical Has a New Director of Ubuntu Desktop - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/10/canonical-has-a-new-ubuntu-desktop-director "Canonical Has a New Director of Ubuntu Desktop - OMG! Ubuntu!")
-  * [Will Cooke - @8none1 on Twitter](https://twitter.com/8none1 "Will Cooke - @8none1 on Twitter")
-  * [Wimpy’s World](https://wimpysworld.com/ "Wimpy’s World")
-  * [Ubuntu MATE 19.10 Release Notes](https://ubuntu-mate.org/blog/ubuntu-mate-19-10-eoan-ermine-release/ "Ubuntu MATE 19.10 Release Notes")
-  * [EmojiTwo Indicator - Ubuntu MATE GitHub](https://github.com/ubuntu-mate/indicator-emojitwo "EmojiTwo Indicator - Ubuntu MATE GitHub")
-  * [Wimpy’s Telegram Sticker Pack](https://t.me/addstickers/Wimpress "Wimpy’s Telegram Sticker Pack")
-  * [Martin Wimpress - @m_wimpress on Twitter](https://twitter.com/m_wimpress "Martin Wimpress - @m_wimpress on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Ubuntu MATE ](https://ubuntu-mate.org/ "Ubuntu MATE")
+  * [Linux Unplugged ](https://linuxunplugged.com/ "Linux Unplugged")
+  * [Chris Fisher @chrislas on Twitter ](https://twitter.com/chrislas "Chris Fisher @chrislas on Twitter")
+  * [Alan Pope - @popey on Twitter ](https://twitter.com/popey "Alan Pope - @popey on Twitter")
+  * [Ubuntu Podcast ](https://ubuntupodcast.org/ "Ubuntu Podcast")
+  * [Bad Voltage ](https://www.badvoltage.org/ "Bad Voltage")
+  * [User Error ](https://error.show/ "User Error")
+  * [Canonical Has a New Director of Ubuntu Desktop - OMG! Ubuntu! ](https://www.omgubuntu.co.uk/2019/10/canonical-has-a-new-ubuntu-desktop-director "Canonical Has a New Director of Ubuntu Desktop - OMG! Ubuntu!")
+  * [Will Cooke - @8none1 on Twitter ](https://twitter.com/8none1 "Will Cooke - @8none1 on Twitter")
+  * [Wimpy’s World ](https://wimpysworld.com/ "Wimpy’s World")
+  * [Ubuntu MATE 19.10 Release Notes ](https://ubuntu-mate.org/blog/ubuntu-mate-19-10-eoan-ermine-release/ "Ubuntu MATE 19.10 Release Notes")
+  * [EmojiTwo Indicator - Ubuntu MATE GitHub ](https://github.com/ubuntu-mate/indicator-emojitwo "EmojiTwo Indicator - Ubuntu MATE GitHub")
+  * [Wimpy’s Telegram Sticker Pack ](https://t.me/addstickers/Wimpress "Wimpy’s Telegram Sticker Pack")
+  * [Martin Wimpress - @m_wimpress on Twitter ](https://twitter.com/m_wimpress "Martin Wimpress - @m_wimpress on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

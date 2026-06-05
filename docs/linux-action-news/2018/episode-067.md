@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [ Valve working to make Windows games work on Steam OS](https://www.gamingonlinux.com/articles/valve-may-be-adding-support-for-using-compatibility-tools-for-playing-games-on-different-operating-systems.12349 " Valve working to make Windows games work on Steam OS")
-  * [Endless OS shipping on Asus hardware](https://www.phoronix.com/scan.php?page=news_item&px=ASUS-Endless-OS-Linux-Laptops&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Phoronix+%28Phoronix%29 "Endless OS shipping on Asus hardware")
-  * [Trinity Desktop R14.0.5 released](http://www.trinitydesktop.org/newsentry.php?entry=2018.08.18 "Trinity Desktop R14.0.5 released")
-  * [Help LVFS gather NVMe data](https://blogs.gnome.org/hughsie/2018/08/17/nvme-firmware-i-need-your-data/ "Help LVFS gather NVMe data")
-  * [Linux 4.18 Arrives With Some Big Changes](https://www.omgubuntu.co.uk/2018/08/linux-4-18-kernel-release-features "Linux 4.18 Arrives With Some Big Changes")
-  * [4.18.3 is already out](https://www.phoronix.com/scan.php?page=news_item&px=Linux-4.18.3-Released "4.18.3 is already out")
-  * [Major distros patched against Foreshadow](https://news.softpedia.com/news/ubuntu-debian-rhel-and-centos-linux-now-patched-against-foreshadow-attacks-522335.shtml "Major distros patched against Foreshadow")
+  * [Valve working to make Windows games work on Steam OS ](https://www.gamingonlinux.com/articles/valve-may-be-adding-support-for-using-compatibility-tools-for-playing-games-on-different-operating-systems.12349 " Valve working to make Windows games work on Steam OS")
+  * [Endless OS shipping on Asus hardware ](https://www.phoronix.com/scan.php?page=news_item&px=ASUS-Endless-OS-Linux-Laptops&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Phoronix+%28Phoronix%29 "Endless OS shipping on Asus hardware")
+  * [Trinity Desktop R14.0.5 released ](http://www.trinitydesktop.org/newsentry.php?entry=2018.08.18 "Trinity Desktop R14.0.5 released")
+  * [Help LVFS gather NVMe data ](https://blogs.gnome.org/hughsie/2018/08/17/nvme-firmware-i-need-your-data/ "Help LVFS gather NVMe data")
+  * [Linux 4.18 Arrives With Some Big Changes ](https://www.omgubuntu.co.uk/2018/08/linux-4-18-kernel-release-features "Linux 4.18 Arrives With Some Big Changes")
+  * [4.18.3 is already out ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-4.18.3-Released "4.18.3 is already out")
+  * [Major distros patched against Foreshadow ](https://news.softpedia.com/news/ubuntu-debian-rhel-and-centos-linux-now-patched-against-foreshadow-attacks-522335.shtml "Major distros patched against Foreshadow")
 
 
 

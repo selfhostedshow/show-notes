@@ -21,17 +21,17 @@ None
 
 ## Episode links
 
-  * [/r/Cats - Reddit](https://www.reddit.com/r/cats/ "/r/Cats - Reddit")
-  * [/r/Chonkers - Reddit](https://www.reddit.com/r/Chonkers/ "/r/Chonkers - Reddit")
-  * [Martin Wimpress on Twitter](https://twitter.com/m_wimpress "Martin Wimpress on Twitter")
-  * [Brunch with Brent: Martin Wimpress](https://extras.show/29 "Brunch with Brent: Martin Wimpress")
-  * [Brunch with Brent: Rocco](https://extras.show/36 "Brunch with Brent: Rocco")
-  * [Ubuntu Podcast](https://ubuntupodcast.org/ "Ubuntu Podcast")
-  * [Ubuntu Podcast on Telegram](https://ubuntupodcast.org/telegram "Ubuntu Podcast on Telegram")
-  * [User Error](https://error.show/ "User Error")
-  * [popey.com](http://popey.com/ "popey.com")
-  * [Alan Pope - @popey on Twitter](https://twitter.com/popey "Alan Pope - @popey on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [/r/Cats - Reddit ](https://www.reddit.com/r/cats/ "/r/Cats - Reddit")
+  * [/r/Chonkers - Reddit ](https://www.reddit.com/r/Chonkers/ "/r/Chonkers - Reddit")
+  * [Martin Wimpress on Twitter ](https://twitter.com/m_wimpress "Martin Wimpress on Twitter")
+  * [Brunch with Brent: Martin Wimpress ](https://extras.show/29 "Brunch with Brent: Martin Wimpress")
+  * [Brunch with Brent: Rocco ](https://extras.show/36 "Brunch with Brent: Rocco")
+  * [Ubuntu Podcast ](https://ubuntupodcast.org/ "Ubuntu Podcast")
+  * [Ubuntu Podcast on Telegram ](https://ubuntupodcast.org/telegram "Ubuntu Podcast on Telegram")
+  * [User Error ](https://error.show/ "User Error")
+  * [popey.com ](http://popey.com/ "popey.com")
+  * [Alan Pope - @popey on Twitter ](https://twitter.com/popey "Alan Pope - @popey on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

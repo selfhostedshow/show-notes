@@ -22,16 +22,16 @@ We cover our must-have self-hosted apps, reflect on the state of Self-Hosting no
 
 ## Episode links
 
-  * [Proxmox Virtual Environment 8.0](https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-8-0 "Proxmox Virtual Environment 8.0") — This major release is based on the latest Debian 12 (“Bookworm), and comes with an extensively tested and detailed upgrade path for users of Proxmox VE 7.4 or older versions to enable a smooth upgrade. Proxmox VE 8.0 uses a newer Linux kernel 6.2 as stable default, and includes updates to the latest versions of leading open-source technologies for virtual environments like QEMU 8.0.2, LXC 5.0.2, ZFS 2.1.12, and Ceph Quincy 17.2.6.
-  * [Immich](https://immich.app/ "Immich") — Self-Hosted Google Photos alternative. 
-  * [Immich Recent Releases](https://github.com/immich-app/immich/releases "Immich Recent Releases")
-  * [Download iCloud photos and videos - Apple Support](https://support.apple.com/en-us/HT209454 "Download iCloud photos and videos - Apple Support") — With iCloud Photos, you can download a copy of your photos and videos on any device.
-  * [Bulk Upload (Using the CLI) | Immich](https://documentation.immich.app/docs/features/bulk-upload "Bulk Upload \(Using the CLI\) | Immich") — You can use the CLI to upload an existing gallery to the Immich server
-  * [iVentoy](https://iventoy.com/en/index.html "iVentoy") — iVentoy is extremely easy to use, without complicated configuration, just put the ISO file in the specified location and select PXE boot in the client machine.
-  * [Perfect Media Server](https://perfectmediaserver.com/ "Perfect Media Server") — If you're looking to build a media server, then you've come to the right place. This site documents the many aspects of building a media server using Free and Open Source Software wherever possible.
-  * [PairDrop](https://pairdrop.net/ "PairDrop") — SnapDrop Altnerative recommended. 
-  * [Alby: Your Boost companion for the web](https://getalby.com/ "Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
-  * [Self-Hosted on the Podcastindex.org](https://podcastindex.org/podcast/830124 "Self-Hosted on the Podcastindex.org") — You can Boost the show from the Web! Grab Alby first, top it off, then head over to the Podcast Index and boot from there! 
+  * [Proxmox Virtual Environment 8.0 ](https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-8-0 "Proxmox Virtual Environment 8.0") — This major release is based on the latest Debian 12 (“Bookworm), and comes with an extensively tested and detailed upgrade path for users of Proxmox VE 7.4 or older versions to enable a smooth upgrade. Proxmox VE 8.0 uses a newer Linux kernel 6.2 as stable default, and includes updates to the latest versions of leading open-source technologies for virtual environments like QEMU 8.0.2, LXC 5.0.2, ZFS 2.1.12, and Ceph Quincy 17.2.6. 
+  * [Immich ](https://immich.app/ "Immich") — Self-Hosted Google Photos alternative. 
+  * [Immich Recent Releases ](https://github.com/immich-app/immich/releases "Immich Recent Releases")
+  * [Download iCloud photos and videos - Apple Support ](https://support.apple.com/en-us/HT209454 "Download iCloud photos and videos - Apple Support") — With iCloud Photos, you can download a copy of your photos and videos on any device. 
+  * [Bulk Upload (Using the CLI) | Immich ](https://documentation.immich.app/docs/features/bulk-upload "Bulk Upload \(Using the CLI\) | Immich") — You can use the CLI to upload an existing gallery to the Immich server 
+  * [iVentoy ](https://iventoy.com/en/index.html "iVentoy") — iVentoy is extremely easy to use, without complicated configuration, just put the ISO file in the specified location and select PXE boot in the client machine. 
+  * [Perfect Media Server ](https://perfectmediaserver.com/ "Perfect Media Server") — If you're looking to build a media server, then you've come to the right place. This site documents the many aspects of building a media server using Free and Open Source Software wherever possible. 
+  * [PairDrop ](https://pairdrop.net/ "PairDrop") — SnapDrop Altnerative recommended. 
+  * [Alby: Your Boost companion for the web ](https://getalby.com/ "Alby: Your Boost companion for the web") — Create an Alby Account to get a lightning wallet for payments wherever you go. 
+  * [Self-Hosted on the Podcastindex.org ](https://podcastindex.org/podcast/830124 "Self-Hosted on the Podcastindex.org") — You can Boost the show from the Web! Grab Alby first, top it off, then head over to the Podcast Index and boot from there! 
 
 
 

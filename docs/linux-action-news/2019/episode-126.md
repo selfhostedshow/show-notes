@@ -21,14 +21,14 @@ None
 
 ## Episode links
 
-  * [Nextcloud 17 brings remote wipe, collaborative text editor](https://nextcloud.com/blog/nextcloud-17-brings-remote-wipe-collaborative-text-editor-and-next-generation-secure-watermarking/ "Nextcloud 17 brings remote wipe, collaborative text editor") — This release brings major new improvements, especially around security and team collaboration. 
-  * [Starting The Document Collective](https://lwn.net/Articles/801016/ "Starting The Document Collective") — In particular, selling branded versions of LibreOffice in the macOS and Windows app stores has not been something that TDF could tackle. The TDF board of directors is looking to change that with the creation of a new entity, The Document Collective (TDC)
-  * [The Internet’s horrifying new method for installing Google apps on Huawei phones](https://arstechnica.com/gadgets/2019/10/the-internets-horrifying-new-method-for-installing-google-apps-on-huawei-phones/ "The Internet’s horrifying new method for installing Google apps on Huawei phones") — Just make a Chinese website your device's remote administrator. It'll be fine!
-  * [Google finds serious Android zero-day](https://www.zdnet.com/article/google-finds-android-zero-day-impacting-pixel-samsung-huawei-xiaomi-devices/ "Google finds serious Android zero-day") — Vulnerability was patched in older Android OS versions, but resurfaced in newer releases.
-  * [Affecting devices from Samsung, Huawei, and Google itself](https://www.theverge.com/2019/10/4/20898460/android-security-vulnerability-project-zero-pixel-galaxy-huawei-xiaomi "Affecting devices from Samsung, Huawei, and Google itself")
-  * [Microsoft doesn’t think Windows is important anymore](https://www.theverge.com/2019/10/3/20896908/microsoft-windows-satya-nadella-importance-apps-services-android "Microsoft doesn’t think Windows is important anymore") — “The operating system is no longer the most important layer for us,” was the message from Microsoft CEO Satya Nadella yesterday.
-  * [Microsoft Graph](https://developer.microsoft.com/en-us/graph "Microsoft Graph")
-  * [Jupiter Extras: Reverse Proxy Basics](https://extras.show/19 "Jupiter Extras: Reverse Proxy Basics")
+  * [Nextcloud 17 brings remote wipe, collaborative text editor ](https://nextcloud.com/blog/nextcloud-17-brings-remote-wipe-collaborative-text-editor-and-next-generation-secure-watermarking/ "Nextcloud 17 brings remote wipe, collaborative text editor") — This release brings major new improvements, especially around security and team collaboration. 
+  * [Starting The Document Collective ](https://lwn.net/Articles/801016/ "Starting The Document Collective") — In particular, selling branded versions of LibreOffice in the macOS and Windows app stores has not been something that TDF could tackle. The TDF board of directors is looking to change that with the creation of a new entity, The Document Collective (TDC) 
+  * [The Internet’s horrifying new method for installing Google apps on Huawei phones ](https://arstechnica.com/gadgets/2019/10/the-internets-horrifying-new-method-for-installing-google-apps-on-huawei-phones/ "The Internet’s horrifying new method for installing Google apps on Huawei phones") — Just make a Chinese website your device's remote administrator. It'll be fine! 
+  * [Google finds serious Android zero-day ](https://www.zdnet.com/article/google-finds-android-zero-day-impacting-pixel-samsung-huawei-xiaomi-devices/ "Google finds serious Android zero-day") — Vulnerability was patched in older Android OS versions, but resurfaced in newer releases. 
+  * [Affecting devices from Samsung, Huawei, and Google itself ](https://www.theverge.com/2019/10/4/20898460/android-security-vulnerability-project-zero-pixel-galaxy-huawei-xiaomi "Affecting devices from Samsung, Huawei, and Google itself")
+  * [Microsoft doesn’t think Windows is important anymore ](https://www.theverge.com/2019/10/3/20896908/microsoft-windows-satya-nadella-importance-apps-services-android "Microsoft doesn’t think Windows is important anymore") — “The operating system is no longer the most important layer for us,” was the message from Microsoft CEO Satya Nadella yesterday. 
+  * [Microsoft Graph ](https://developer.microsoft.com/en-us/graph "Microsoft Graph")
+  * [Jupiter Extras: Reverse Proxy Basics ](https://extras.show/19 "Jupiter Extras: Reverse Proxy Basics")
 
 
 

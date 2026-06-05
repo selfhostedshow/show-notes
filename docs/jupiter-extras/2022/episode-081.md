@@ -15,17 +15,17 @@ Our road trip machine is loaded up from solar to networking, the tech that made 
 
 ## Sponsored by
 
-  * [Linode](https://linode.com/jupiter): [See why we and Linux users around the world love Linode, and get a $100 credit](https://linode.com/jupiter)
+  * [Linode](https://linode.com/jupiter): [See why we and Linux users around the world love Linode, and get a $100 credit ](https://linode.com/jupiter)
   * [Join the Party! The Jupiter Membership Party](http://jupiter.party): [Join the party and get exclusive content. ](http://jupiter.party)
 
 
 
 ## Episode links
 
-  * [MultiPlus - Victron Energy](https://www.victronenergy.com/inverters-chargers/multiplus-12v-24v-48v-800va-3kva "MultiPlus - Victron Energy") — The MultiPlus, as the name suggests, is a combined inverter and charger in one elegant package. Its many features include a true sine wave inverter, adaptive charging, hybrid PowerAssist technology, plus multiple system integration features.
-  * [Dual LTE Router](https://www.peplink.com/products/max-transit-duo/ "Dual LTE Router") — With a compact form factor, simultaneous dual-band 11ac Wi-Fi, and two embedded LTE modems, the MAX Transit Duo is ready to deliver fast, reliable connectivity in transportation and public safety deployments
-  * [RØDECaster Pro](https://rode.com/interfaces-mixers/rodecaster-pro "RØDECaster Pro") — Featuring four microphone inputs with studio-grade preamps for recording crystal-clear audio, smartphone, USB, and Bluetooth channels for seamlessly integrating remote guests, eight sound pads for triggering music and sound effects, powerful audio processing at the touch of a button and so much more, the RØDECaster Pro is all you will ever need to create incredible podcasts.
-  * [Zoom H5 4-Track Portable Recorder](https://www.amazon.com/Zoom-H5-Four-Track-Portable-Recorder/dp/B00KCXMBES/ref=sr_1_9?keywords=zoom%2Brecorder&qid=1642097663&sr=8-9&th=1 "Zoom H5 4-Track Portable Recorder") — Our favorite portable recorder
+  * [MultiPlus - Victron Energy ](https://www.victronenergy.com/inverters-chargers/multiplus-12v-24v-48v-800va-3kva "MultiPlus - Victron Energy") — The MultiPlus, as the name suggests, is a combined inverter and charger in one elegant package. Its many features include a true sine wave inverter, adaptive charging, hybrid PowerAssist technology, plus multiple system integration features. 
+  * [Dual LTE Router ](https://www.peplink.com/products/max-transit-duo/ "Dual LTE Router") — With a compact form factor, simultaneous dual-band 11ac Wi-Fi, and two embedded LTE modems, the MAX Transit Duo is ready to deliver fast, reliable connectivity in transportation and public safety deployments 
+  * [RØDECaster Pro ](https://rode.com/interfaces-mixers/rodecaster-pro "RØDECaster Pro") — Featuring four microphone inputs with studio-grade preamps for recording crystal-clear audio, smartphone, USB, and Bluetooth channels for seamlessly integrating remote guests, eight sound pads for triggering music and sound effects, powerful audio processing at the touch of a button and so much more, the RØDECaster Pro is all you will ever need to create incredible podcasts. 
+  * [Zoom H5 4-Track Portable Recorder ](https://www.amazon.com/Zoom-H5-Four-Track-Portable-Recorder/dp/B00KCXMBES/ref=sr_1_9?keywords=zoom%2Brecorder&qid=1642097663&sr=8-9&th=1 "Zoom H5 4-Track Portable Recorder") — Our favorite portable recorder 
 
 
 

@@ -21,16 +21,16 @@ None
 
 ## Episode links
 
-  * [Slackware dev has financial problems](https://www.linuxquestions.org/questions/slackware-14/donating-to-slackware-4175634729/#post5882751 "Slackware dev has financial problems")
-  * [Follow Up post by Patrick](https://www.linuxquestions.org/questions/slackware-14/donating-to-slackware-4175634729/page11.html#post5883695 "Follow Up post by Patrick")
-  * [Patrick Volkerding’s PayPal](https://www.paypal.me/volkerdi "Patrick Volkerding’s PayPal")
-  * [YouTube slower on Firefox](https://gadgets.ndtv.com/apps/news/youtube-speed-faster-google-chrome-mozilla-firefox-microsoft-edge-1889651 "YouTube slower on Firefox")
-  * [YouTube Classic – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-classic/ "YouTube Classic – Add-ons for Firefox")
-  * [Firefox to lose some features](https://www.ghacks.net/2018/07/25/mozilla-plans-to-remove-rss-feed-reader-and-live-bookmarks-support-from-firefox/ "Firefox to lose some features")
-  * [Another German region dumps FOSS](https://www.theregister.co.uk/2018/07/27/lower_saxony_to_dump_linux/ "Another German region dumps FOSS")
-  * [Another reason to dump 32-bit Linux](https://www.phoronix.com/scan.php?page=article&item=linux-32bit-kpti&num=1 "Another reason to dump 32-bit Linux")
-  * [Lubuntu’s new direction](https://lubuntu.me/taking-a-new-direction/ "Lubuntu’s new direction")
-  * [Fedora Needs Some Help If Continuing To Support The LXQt Desktop](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-LXQt-Needs-Help "Fedora Needs Some Help If Continuing To Support The LXQt Desktop")
+  * [Slackware dev has financial problems ](https://www.linuxquestions.org/questions/slackware-14/donating-to-slackware-4175634729/#post5882751 "Slackware dev has financial problems")
+  * [Follow Up post by Patrick ](https://www.linuxquestions.org/questions/slackware-14/donating-to-slackware-4175634729/page11.html#post5883695 "Follow Up post by Patrick")
+  * [Patrick Volkerding’s PayPal ](https://www.paypal.me/volkerdi "Patrick Volkerding’s PayPal")
+  * [YouTube slower on Firefox ](https://gadgets.ndtv.com/apps/news/youtube-speed-faster-google-chrome-mozilla-firefox-microsoft-edge-1889651 "YouTube slower on Firefox")
+  * [YouTube Classic – Add-ons for Firefox ](https://addons.mozilla.org/en-US/firefox/addon/youtube-classic/ "YouTube Classic – Add-ons for Firefox")
+  * [Firefox to lose some features ](https://www.ghacks.net/2018/07/25/mozilla-plans-to-remove-rss-feed-reader-and-live-bookmarks-support-from-firefox/ "Firefox to lose some features")
+  * [Another German region dumps FOSS ](https://www.theregister.co.uk/2018/07/27/lower_saxony_to_dump_linux/ "Another German region dumps FOSS")
+  * [Another reason to dump 32-bit Linux ](https://www.phoronix.com/scan.php?page=article&item=linux-32bit-kpti&num=1 "Another reason to dump 32-bit Linux")
+  * [Lubuntu’s new direction ](https://lubuntu.me/taking-a-new-direction/ "Lubuntu’s new direction")
+  * [Fedora Needs Some Help If Continuing To Support The LXQt Desktop ](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-LXQt-Needs-Help "Fedora Needs Some Help If Continuing To Support The LXQt Desktop")
 
 
 

@@ -21,15 +21,15 @@ None
 
 ## Episode links
 
-  * [Wyze Cam | 1080p HD Smart Home Camera With Free AWS Cloud](https://wyze.com/wyze-cam.html "Wyze Cam | 1080p HD Smart Home Camera With Free AWS Cloud")
-  * [Wyze Cam RTSP – Wyze](https://support.wyzecam.com/hc/en-us/articles/360026245231-Wyze-Cam-RTSP "Wyze Cam RTSP – Wyze")
-  * [Shinobi Official Documentation - Get Started](https://shinobi.video/docs/start "Shinobi Official Documentation - Get Started")
-  * [Shinobi Official Documentation - Motion Detection](https://shinobi.video/docs/motion "Shinobi Official Documentation - Motion Detection")
-  * [Shinobi Articles - How to use Motion Detection](https://shinobi.video/articles/2018-10-06-how-to-use-motion-detection "Shinobi Articles - How to use Motion Detection")
-  * [Shinobi Articles - How I optimized my RTSP camera](https://shinobi.video/articles/2017-07-29-how-i-optimized-my-rtsp-camera "Shinobi Articles - How I optimized my RTSP camera")
-  * [Nest camera hacked: Hacker spoke to baby](https://www.cbsnews.com/news/nest-camera-hacked-hacker-spoke-to-baby-hurled-obscenities-at-couple-using-nest-camera-dad-says/ "Nest camera hacked: Hacker spoke to baby")
-  * [You should not run your mail server because mail is hard](https://poolp.org/posts/2019-08-30/you-should-not-run-your-mail-server-because-mail-is-hard/ "You should not run your mail server because mail is hard") — In this article, I will voluntarily use the term mail because it is vague enough to encompass protocols and software. This is not a very technical article and I don’t want to dive into protocols, I want people who have never worked with mail to understand all of it.
-  * [12tb Easystore drive for $179.99](https://www.bestbuy.com/site/wd-easystore-12tb-extearnal-usb-3-0-hard-drive-black/6364259.p?skuId=6364259 "12tb Easystore drive for $179.99")
+  * [Wyze Cam | 1080p HD Smart Home Camera With Free AWS Cloud ](https://wyze.com/wyze-cam.html "Wyze Cam | 1080p HD Smart Home Camera With Free AWS Cloud")
+  * [Wyze Cam RTSP – Wyze ](https://support.wyzecam.com/hc/en-us/articles/360026245231-Wyze-Cam-RTSP "Wyze Cam RTSP – Wyze")
+  * [Shinobi Official Documentation - Get Started ](https://shinobi.video/docs/start "Shinobi Official Documentation - Get Started")
+  * [Shinobi Official Documentation - Motion Detection ](https://shinobi.video/docs/motion "Shinobi Official Documentation - Motion Detection")
+  * [Shinobi Articles - How to use Motion Detection ](https://shinobi.video/articles/2018-10-06-how-to-use-motion-detection "Shinobi Articles - How to use Motion Detection")
+  * [Shinobi Articles - How I optimized my RTSP camera ](https://shinobi.video/articles/2017-07-29-how-i-optimized-my-rtsp-camera "Shinobi Articles - How I optimized my RTSP camera")
+  * [Nest camera hacked: Hacker spoke to baby ](https://www.cbsnews.com/news/nest-camera-hacked-hacker-spoke-to-baby-hurled-obscenities-at-couple-using-nest-camera-dad-says/ "Nest camera hacked: Hacker spoke to baby")
+  * [You should not run your mail server because mail is hard ](https://poolp.org/posts/2019-08-30/you-should-not-run-your-mail-server-because-mail-is-hard/ "You should not run your mail server because mail is hard") — In this article, I will voluntarily use the term mail because it is vague enough to encompass protocols and software. This is not a very technical article and I don’t want to dive into protocols, I want people who have never worked with mail to understand all of it. 
+  * [12tb Easystore drive for $179.99 ](https://www.bestbuy.com/site/wd-easystore-12tb-extearnal-usb-3-0-hard-drive-black/6364259.p?skuId=6364259 "12tb Easystore drive for $179.99")
 
 
 

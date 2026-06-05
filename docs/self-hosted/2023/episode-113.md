@@ -18,18 +18,18 @@ We look back at what has changed, what's failed us, and what's sticking around i
 
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [45drives](https://45homelab.com): [ The HL15 from 45HomeLab is an open-source, open-platform, 15-bay homelab server. ](https://45homelab.com)
+  * [45drives](https://45homelab.com): [The HL15 from 45HomeLab is an open-source, open-platform, 15-bay homelab server. ](https://45homelab.com)
 
 
 
 ## Episode links
 
-  * [⚡ Grab Sats with Strike Around the World](https://strike.me/download/ "⚡ Grab Sats with Strike Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 36 countries. 
-  * [🎉 Boost with Fountain FM](https://www.fountain.fm/features "🎉 Boost with Fountain FM") — Fountain 1.0 is out with a new UI, upgrades, and super simple Strike integration for easy Boosts.
-  * [Healthchecks.io](https://healthchecks.io/ "Healthchecks.io") — We notify you when your nightly backups, weekly reports, cron jobs, and scheduled tasks don't run on time. 
-  * [BorgBackup](https://www.borgbackup.org/ "BorgBackup") — Deduplicating archiver with compression and authenticated encryption
-  * [Projectivy Launcher - Apps on Google Play](https://play.google.com/store/apps/details?id=com.spocky.projengmenu "Projectivy Launcher - Apps on Google Play") — Projectivy Launcher is an alternative launcher for Android TV, tailored for your TVs and projectors needs : smooth, neat, customizable and bundled with unique features. It's Projectivy Tools on steroids !
-  * [TubesZB – TubesZB Coordinators and Router](https://tubeszb.com/ "TubesZB – TubesZB Coordinators and Router")
+  * [⚡ Grab Sats with Strike Around the World ](https://strike.me/download/ "⚡ Grab Sats with Strike Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 36 countries. 
+  * [🎉 Boost with Fountain FM ](https://www.fountain.fm/features "🎉 Boost with Fountain FM") — Fountain 1.0 is out with a new UI, upgrades, and super simple Strike integration for easy Boosts. 
+  * [Healthchecks.io ](https://healthchecks.io/ "Healthchecks.io") — We notify you when your nightly backups, weekly reports, cron jobs, and scheduled tasks don't run on time. 
+  * [BorgBackup ](https://www.borgbackup.org/ "BorgBackup") — Deduplicating archiver with compression and authenticated encryption 
+  * [Projectivy Launcher - Apps on Google Play ](https://play.google.com/store/apps/details?id=com.spocky.projengmenu "Projectivy Launcher - Apps on Google Play") — Projectivy Launcher is an alternative launcher for Android TV, tailored for your TVs and projectors needs : smooth, neat, customizable and bundled with unique features. It's Projectivy Tools on steroids ! 
+  * [TubesZB – TubesZB Coordinators and Router ](https://tubeszb.com/ "TubesZB – TubesZB Coordinators and Router")
 
 
 

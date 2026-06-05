@@ -21,23 +21,23 @@ None
 
 ## Episode links
 
-  * [Bad Voltage](https://www.badvoltage.org/ "Bad Voltage") — Tasty stuff for your ears.
-  * [Bad Voltage 2×65: Email Avengers Assemble](https://www.badvoltage.org/2020/02/20/2x65/ "Bad Voltage 2×65: Email Avengers Assemble")
-  * [Superhuman](https://superhuman.com/ "Superhuman") — The Fastest Email Experience Ever Made
-  * [Brunch with Brent: Alan Pope](https://extras.show/38 "Brunch with Brent: Alan Pope")
-  * [The UX of Text - Talk by Stuart Langridge](https://kryogenix.org/code/the-ux-of-text-fusion/ "The UX of Text - Talk by Stuart Langridge")
-  * [Snow Crash by Neal Stephenson - Wikipedia](https://en.wikipedia.org/wiki/Snow_Crash "Snow Crash by Neal Stephenson - Wikipedia")
-  * [The Wise Man's Fear by Patrick Rothfuss - Wikipedia](https://en.wikipedia.org/wiki/The_Wise_Man%27s_Fear "The Wise Man's Fear by Patrick Rothfuss - Wikipedia")
-  * [Unseen Academicals by Terry Pratchett - Wikipedia](https://en.wikipedia.org/wiki/Unseen_Academicals "Unseen Academicals by Terry Pratchett - Wikipedia")
-  * [Mycroft](https://mycroft.ai/ "Mycroft") — The World's First Open Source Voice Assistant
-  * [Canonical](https://canonical.com/ "Canonical")
-  * [npm is joining GitHub](https://github.blog/2020-03-16-npm-is-joining-github/ "npm is joining GitHub")
-  * [ChrisLAS Cast 6 - Taking Notes with Brent](https://chrislas.com/cast/6 "ChrisLAS Cast 6 - Taking Notes with Brent")
-  * [Italian Hospital 3D Printing Valves For Reanimation Devices - 3D Printing Media Network](https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/ "Italian Hospital 3D Printing Valves For Reanimation Devices - 3D Printing Media Network")
-  * [Jupiter Broadcasting Telegram Group](https://jupiterbroadcasting.com/telegram "Jupiter Broadcasting Telegram Group")
-  * [Kryogenix Consulting](https://kryogenix.org/ "Kryogenix Consulting")
-  * [Stuart Langridge - @sil on Twitter](https://twitter.com/sil "Stuart Langridge - @sil on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Bad Voltage ](https://www.badvoltage.org/ "Bad Voltage") — Tasty stuff for your ears. 
+  * [Bad Voltage 2×65: Email Avengers Assemble ](https://www.badvoltage.org/2020/02/20/2x65/ "Bad Voltage 2×65: Email Avengers Assemble")
+  * [Superhuman ](https://superhuman.com/ "Superhuman") — The Fastest Email Experience Ever Made 
+  * [Brunch with Brent: Alan Pope ](https://extras.show/38 "Brunch with Brent: Alan Pope")
+  * [The UX of Text - Talk by Stuart Langridge ](https://kryogenix.org/code/the-ux-of-text-fusion/ "The UX of Text - Talk by Stuart Langridge")
+  * [Snow Crash by Neal Stephenson - Wikipedia ](https://en.wikipedia.org/wiki/Snow_Crash "Snow Crash by Neal Stephenson - Wikipedia")
+  * [The Wise Man's Fear by Patrick Rothfuss - Wikipedia ](https://en.wikipedia.org/wiki/The_Wise_Man%27s_Fear "The Wise Man's Fear by Patrick Rothfuss - Wikipedia")
+  * [Unseen Academicals by Terry Pratchett - Wikipedia ](https://en.wikipedia.org/wiki/Unseen_Academicals "Unseen Academicals by Terry Pratchett - Wikipedia")
+  * [Mycroft ](https://mycroft.ai/ "Mycroft") — The World's First Open Source Voice Assistant 
+  * [Canonical ](https://canonical.com/ "Canonical")
+  * [npm is joining GitHub ](https://github.blog/2020-03-16-npm-is-joining-github/ "npm is joining GitHub")
+  * [ChrisLAS Cast 6 - Taking Notes with Brent ](https://chrislas.com/cast/6 "ChrisLAS Cast 6 - Taking Notes with Brent")
+  * [Italian Hospital 3D Printing Valves For Reanimation Devices - 3D Printing Media Network ](https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/ "Italian Hospital 3D Printing Valves For Reanimation Devices - 3D Printing Media Network")
+  * [Jupiter Broadcasting Telegram Group ](https://jupiterbroadcasting.com/telegram "Jupiter Broadcasting Telegram Group")
+  * [Kryogenix Consulting ](https://kryogenix.org/ "Kryogenix Consulting")
+  * [Stuart Langridge - @sil on Twitter ](https://twitter.com/sil "Stuart Langridge - @sil on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

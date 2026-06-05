@@ -17,25 +17,25 @@ Desktop Linux users saw a lot of new features land this week, and SUSE might jus
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Budgie 10.5.2 Desktop Environment Released with Support for the GNOME 3.38 Stack](https://9to5linux.com/budgie-10-5-2-desktop-environment-released-with-support-for-the-gnome-3-38-stack "Budgie 10.5.2 Desktop Environment Released with Support for the GNOME 3.38 Stack")
-  * [Budgie 10.5.2 Released](https://getsol.us/2020/12/02/budgie-10-5-2-released/ "Budgie 10.5.2 Released")
-  * [KDE Plasma 5.20.4 Is Out with More Than 40 Bug Fixes and Improvements](https://9to5linux.com/kde-plasma-5-20-4-is-out-with-more-than-40-bug-fixes-and-improvements "KDE Plasma 5.20.4 Is Out with More Than 40 Bug Fixes and Improvements")
-  * [Plasma 5.20.4 complete changelog](https://kde.org/announcements/plasma-5.20.3-5.20.4-changelog/ "Plasma 5.20.4 complete changelog")
-  * [GNOME 3.38.2 Desktop Environment Is Out with Even More Improvements and Bug Fixes](https://9to5linux.com/gnome-3-38-2-desktop-environment-is-out-with-even-more-improvements-and-bug-fixes "GNOME 3.38.2 Desktop Environment Is Out with Even More Improvements and Bug Fixes")
-  * [3.38.2/NEWS](https://download.gnome.org/core/3.38/3.38.2/NEWS "3.38.2/NEWS")
-  * [Cinnamon 4.8 Desktop Environment Released, This Is What’s New](https://9to5linux.com/cinnamon-4-8-desktop-environment-released-new-features "Cinnamon 4.8 Desktop Environment Released, This Is What’s New")
-  * [New Raspberry Pi OS release](https://www.raspberrypi.org/blog/new-raspberry-pi-os-release-december-2020/ "New Raspberry Pi OS release") — The traditional end-of-year new release of Raspberry Pi OS, which we launch today. 
-  * [Raspberry Pi’s V3DV Vulkan Driver Now Supports Wayland](https://www.phoronix.com/scan.php?page=news_item&px=Raspberry-Pi-V3DV-Wayland-WSI "Raspberry Pi’s V3DV Vulkan Driver Now Supports Wayland") — Raspberry Pi fans were celebrating that the V3DV driver is now officially Vulkan 1.0 conformant for supporting this modern high-performance graphics/compute API atop the Raspberry Pi 4 and newer.
-  * [Should Red Hat be afraid of SUSE’s Rancher acquisition?](https://www.zdnet.com/article/should-red-hat-be-afraid-of-suses-rancher-acquisition/#ftag=RSSbaffb68 "Should Red Hat be afraid of SUSE’s Rancher acquisition?") — SUSE, a major Linux and cloud company, finalized its acquisition of Rancher Labs earlier this year.. Rancher, formerly a privately held open-source company, had over 37,000 active users and 100-million downloads of its flagship Kubernetes management program, Rancher. 
-  * [Rancher Labs - Wikipedia](https://en.wikipedia.org/wiki/Rancher_Labs "Rancher Labs - Wikipedia")
-  * [Network World](https://www.networkworld.com/article/3599828/suse-s-rancher-acquisition-brings-containerization-support.html "Network World")
-  * [SUSE to Acquire Rancher Labs - YouTube](https://www.youtube.com/watch?v=S1-GX2gmrt8 "SUSE to Acquire Rancher Labs - YouTube")
+  * [Budgie 10.5.2 Desktop Environment Released with Support for the GNOME 3.38 Stack ](https://9to5linux.com/budgie-10-5-2-desktop-environment-released-with-support-for-the-gnome-3-38-stack "Budgie 10.5.2 Desktop Environment Released with Support for the GNOME 3.38 Stack")
+  * [Budgie 10.5.2 Released ](https://getsol.us/2020/12/02/budgie-10-5-2-released/ "Budgie 10.5.2 Released")
+  * [KDE Plasma 5.20.4 Is Out with More Than 40 Bug Fixes and Improvements ](https://9to5linux.com/kde-plasma-5-20-4-is-out-with-more-than-40-bug-fixes-and-improvements "KDE Plasma 5.20.4 Is Out with More Than 40 Bug Fixes and Improvements")
+  * [Plasma 5.20.4 complete changelog ](https://kde.org/announcements/plasma-5.20.3-5.20.4-changelog/ "Plasma 5.20.4 complete changelog")
+  * [GNOME 3.38.2 Desktop Environment Is Out with Even More Improvements and Bug Fixes ](https://9to5linux.com/gnome-3-38-2-desktop-environment-is-out-with-even-more-improvements-and-bug-fixes "GNOME 3.38.2 Desktop Environment Is Out with Even More Improvements and Bug Fixes")
+  * [3.38.2/NEWS ](https://download.gnome.org/core/3.38/3.38.2/NEWS "3.38.2/NEWS")
+  * [Cinnamon 4.8 Desktop Environment Released, This Is What’s New ](https://9to5linux.com/cinnamon-4-8-desktop-environment-released-new-features "Cinnamon 4.8 Desktop Environment Released, This Is What’s New")
+  * [New Raspberry Pi OS release ](https://www.raspberrypi.org/blog/new-raspberry-pi-os-release-december-2020/ "New Raspberry Pi OS release") — The traditional end-of-year new release of Raspberry Pi OS, which we launch today. 
+  * [Raspberry Pi’s V3DV Vulkan Driver Now Supports Wayland ](https://www.phoronix.com/scan.php?page=news_item&px=Raspberry-Pi-V3DV-Wayland-WSI "Raspberry Pi’s V3DV Vulkan Driver Now Supports Wayland") — Raspberry Pi fans were celebrating that the V3DV driver is now officially Vulkan 1.0 conformant for supporting this modern high-performance graphics/compute API atop the Raspberry Pi 4 and newer. 
+  * [Should Red Hat be afraid of SUSE’s Rancher acquisition? ](https://www.zdnet.com/article/should-red-hat-be-afraid-of-suses-rancher-acquisition/#ftag=RSSbaffb68 "Should Red Hat be afraid of SUSE’s Rancher acquisition?") — SUSE, a major Linux and cloud company, finalized its acquisition of Rancher Labs earlier this year.. Rancher, formerly a privately held open-source company, had over 37,000 active users and 100-million downloads of its flagship Kubernetes management program, Rancher. 
+  * [Rancher Labs - Wikipedia ](https://en.wikipedia.org/wiki/Rancher_Labs "Rancher Labs - Wikipedia")
+  * [Network World ](https://www.networkworld.com/article/3599828/suse-s-rancher-acquisition-brings-containerization-support.html "Network World")
+  * [SUSE to Acquire Rancher Labs - YouTube ](https://www.youtube.com/watch?v=S1-GX2gmrt8 "SUSE to Acquire Rancher Labs - YouTube")
 
 
 

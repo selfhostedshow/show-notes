@@ -23,11 +23,11 @@ We chat about Wyze's recent real bad, no-good security news, why Plex Discover h
 
 ## Episode links
 
-  * [I’m done with Wyze](https://www.theverge.com/23003418/wyze-cam-v1-vulnerability-no-patch-bitdefender-responsible-disclosure "I’m done with Wyze") — Wyze knew hackers could remotely access your camera for three years and said nothing
-  * [Plex adds universal watchlist, search and discovery](https://www.protocol.com/entertainment/plex-universal-search-watchlist-discovery "Plex adds universal watchlist, search and discovery") — “You’re going to open up Plex every day,” Williams said. “It’s going to be your trusted source.”
-  * [Self-Hosted 4: The Joy of Plex with Elan Feingold](https://selfhosted.show/4 "Self-Hosted 4: The Joy of Plex with Elan Feingold") — Plex Co-Founder and CTO Elan Feingold shares why he started Plex, its future direction, his home setup, his love for electric cars and the beach.
-  * [Release 10.8.0 Beta 1 · jellyfin](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta1 "Release 10.8.0 Beta 1 · jellyfin") — We're pleased to announce the first Beta pre-release of our upcoming 10.8.0 version. This release has a dedicated branch in preparation for the final 10.8.0 release. At this time, only bugfixes will be merged.
-  * [2022.4: Groups! Groups! Groups! - Home Assistant](https://www.home-assistant.io/blog/2022/04/06/release-20224/ "2022.4: Groups! Groups! Groups! - Home Assistant") — 👋 I’m not sure where to start with this release; It’s April, and I can assure you: This release is no joke. Seriously, it is packed with features and incredible new things 🤯.
+  * [I’m done with Wyze ](https://www.theverge.com/23003418/wyze-cam-v1-vulnerability-no-patch-bitdefender-responsible-disclosure "I’m done with Wyze") — Wyze knew hackers could remotely access your camera for three years and said nothing 
+  * [Plex adds universal watchlist, search and discovery ](https://www.protocol.com/entertainment/plex-universal-search-watchlist-discovery "Plex adds universal watchlist, search and discovery") — “You’re going to open up Plex every day,” Williams said. “It’s going to be your trusted source.” 
+  * [Self-Hosted 4: The Joy of Plex with Elan Feingold ](https://selfhosted.show/4 "Self-Hosted 4: The Joy of Plex with Elan Feingold") — Plex Co-Founder and CTO Elan Feingold shares why he started Plex, its future direction, his home setup, his love for electric cars and the beach. 
+  * [Release 10.8.0 Beta 1 · jellyfin ](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta1 "Release 10.8.0 Beta 1 · jellyfin") — We're pleased to announce the first Beta pre-release of our upcoming 10.8.0 version. This release has a dedicated branch in preparation for the final 10.8.0 release. At this time, only bugfixes will be merged. 
+  * [2022.4: Groups! Groups! Groups! - Home Assistant ](https://www.home-assistant.io/blog/2022/04/06/release-20224/ "2022.4: Groups! Groups! Groups! - Home Assistant") — 👋 I’m not sure where to start with this release; It’s April, and I can assure you: This release is no joke. Seriously, it is packed with features and incredible new things 🤯. 
 
 
 

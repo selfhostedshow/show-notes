@@ -15,24 +15,24 @@ We speak to Kevin and Patricia from Traefik, discuss Alex's recent ZFS snafu and
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
-  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
+  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com ](https://acloudguru.com/)
+  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show. ](https://cloudfree.shop/) Promo Code: SELFHOSTED
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 
 ## Episode links
 
-  * [Diun](https://crazymax.dev/diun/install/docker/ "Diun") — Diun provides automatically updated Docker images within Docker Hub. It is possible to always use the latest stable tag or to use another service that handles updating Docker images.
-  * [Houston, we have Plugins! Traefik 2.3 Announcement](https://traefik.io/blog/houston-we-have-plugins-traefik-2-3-announcement/ "Houston, we have Plugins! Traefik 2.3 Announcement") — Traefik now supports the ability to add custom middleware functionality to your environment easily. 
-  * [Introducing Traefik Pilot 1.0](https://traefik.io/blog/introducing-traefik-pilot-1-0-one-place-to-manage-all-your-traefik-instances/ "Introducing Traefik Pilot 1.0") — Traefik Pilot provides visibility into cloud-native architectures
-  * [Traefik Labs: Makes Networking Boring](https://traefik.io/traefik-pilot/ "Traefik Labs: Makes Networking Boring")
-  * [Traefik Labs on Twitter](https://twitter.com/traefik "Traefik Labs on Twitter")
-  * [Traefik Ambassador Program](https://info.traefik.io/traefik-ambassador-program "Traefik Ambassador Program") — The Traefik Ambassador program is built to support and reward contributors of code, content, and community building.
-  * [Traefik Plugin Hackaethon 2020](https://info.traefik.io/traefik-hackaethon-2020 "Traefik Plugin Hackaethon 2020") — Join the team of engineers who maintain Traefik and the Traefik Ambassadors for a week of virtual hacking and collaboration on the open-source projects Traefik and Traefik Mesh. 
-  * [Traefik Hello World by Jake Howard](https://theorangeone.net/posts/hello-world-with-traefik/ "Traefik Hello World by Jake Howard") — Here’s a complete getting stated guide for Traefik, to complement and extend my previous Traefik basics post. It’s intentionally verbose, to explain some of the magic going on.
-  * [Google Chromecast (2020) review](https://www.theverge.com/21495609/google-chromecast-2020-review-streaming-remote-control "Google Chromecast \(2020\) review") — The new Google TV software makes it easy to find something to watch
-  * [Halcyon - Home Assistant Linux Companion](https://halcyon.casa/ "Halcyon - Home Assistant Linux Companion")
+  * [Diun ](https://crazymax.dev/diun/install/docker/ "Diun") — Diun provides automatically updated Docker images within Docker Hub. It is possible to always use the latest stable tag or to use another service that handles updating Docker images. 
+  * [Houston, we have Plugins! Traefik 2.3 Announcement ](https://traefik.io/blog/houston-we-have-plugins-traefik-2-3-announcement/ "Houston, we have Plugins! Traefik 2.3 Announcement") — Traefik now supports the ability to add custom middleware functionality to your environment easily. 
+  * [Introducing Traefik Pilot 1.0 ](https://traefik.io/blog/introducing-traefik-pilot-1-0-one-place-to-manage-all-your-traefik-instances/ "Introducing Traefik Pilot 1.0") — Traefik Pilot provides visibility into cloud-native architectures 
+  * [Traefik Labs: Makes Networking Boring ](https://traefik.io/traefik-pilot/ "Traefik Labs: Makes Networking Boring")
+  * [Traefik Labs on Twitter ](https://twitter.com/traefik "Traefik Labs on Twitter")
+  * [Traefik Ambassador Program ](https://info.traefik.io/traefik-ambassador-program "Traefik Ambassador Program") — The Traefik Ambassador program is built to support and reward contributors of code, content, and community building. 
+  * [Traefik Plugin Hackaethon 2020 ](https://info.traefik.io/traefik-hackaethon-2020 "Traefik Plugin Hackaethon 2020") — Join the team of engineers who maintain Traefik and the Traefik Ambassadors for a week of virtual hacking and collaboration on the open-source projects Traefik and Traefik Mesh. 
+  * [Traefik Hello World by Jake Howard ](https://theorangeone.net/posts/hello-world-with-traefik/ "Traefik Hello World by Jake Howard") — Here’s a complete getting stated guide for Traefik, to complement and extend my previous Traefik basics post. It’s intentionally verbose, to explain some of the magic going on. 
+  * [Google Chromecast (2020) review ](https://www.theverge.com/21495609/google-chromecast-2020-review-streaming-remote-control "Google Chromecast \(2020\) review") — The new Google TV software makes it easy to find something to watch 
+  * [Halcyon - Home Assistant Linux Companion ](https://halcyon.casa/ "Halcyon - Home Assistant Linux Companion")
 
 
 

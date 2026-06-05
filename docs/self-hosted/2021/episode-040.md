@@ -15,22 +15,22 @@ We react to Home Assistant password shaming us and then reflect on the OVH fire 
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
-  * [Datadog](http://datadog.com/selfhosted): [Try Datadog today by starting a free 14-day trial and receive a Datadog t-shirt after creating just one dashboard.](http://datadog.com/selfhosted)
+  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com ](https://acloudguru.com/)
+  * [Datadog](http://datadog.com/selfhosted): [Try Datadog today by starting a free 14-day trial and receive a Datadog t-shirt after creating just one dashboard. ](http://datadog.com/selfhosted)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 
 ## Episode links
 
-  * [Millions of websites offline after fire at French cloud services firm](https://www.reuters.com/article/us-france-ovh-fire-idUSKBN2B20NU "Millions of websites offline after fire at French cloud services firm") — The fire, which broke out on Wednesday shortly after midnight at OVHcloud, destroyed one of four data centres in Strasbourg, in eastern France, and damaged another, the company said.
-  * [Pwned passwords and secrets - Home Assistant](https://www.home-assistant.io/more-info/pwned-passwords "Pwned passwords and secrets - Home Assistant") — We are using the Have I Been Pwned (HIBP) service for detecting leaked or compromised secrets, like passwords. 
-  * [Troy Hunt: Home Assistant, Pwned Passwords and Security Misconceptions](https://www.troyhunt.com/home-assistant-pwned-passwords-and-security-misconceptions/ "Troy Hunt: Home Assistant, Pwned Passwords and Security Misconceptions") — Two of my favourite things these days are Have I Been Pwned and Home Assistant. The former is an obvious choice, the latter I've come to love as I've embarked on my home automation journey. So, it was with great pleasure that I saw the two integrated recently.
-  * [Validating Leaked Passwords with k-Anonymity](https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/ "Validating Leaked Passwords with k-Anonymity") — Cloudflare continues to support Pwned Passwords by providing CDN and security functionality such that the data can easily be made available for download in raw form to organisations to protect their customers. 
-  * [crt.sh](https://crt.sh/ "crt.sh") — Certificate Search.
-  * [Shelly 2.5](https://shelly.cloud/products/shelly-25-smart-home-automation-relay/ "Shelly 2.5") — No HUB required – Connect Shelly 2.5 directly to your Wi-Fi at home.
-  * [filebrowser: 📂 Web File Browser](https://github.com/filebrowser/filebrowser "filebrowser: 📂 Web File Browser") — filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. 
-  * [Tandoor Recipes](https://www.reddit.com/r/selfhosted/comments/lmpolh/tandoor_recipes_big_new_release_of_the_most/ "Tandoor Recipes") — Today i am happy to announce that I have released a new version which finally gives the application its well deserved name and logo: Tandoor Recipes.
+  * [Millions of websites offline after fire at French cloud services firm ](https://www.reuters.com/article/us-france-ovh-fire-idUSKBN2B20NU "Millions of websites offline after fire at French cloud services firm") — The fire, which broke out on Wednesday shortly after midnight at OVHcloud, destroyed one of four data centres in Strasbourg, in eastern France, and damaged another, the company said. 
+  * [Pwned passwords and secrets - Home Assistant ](https://www.home-assistant.io/more-info/pwned-passwords "Pwned passwords and secrets - Home Assistant") — We are using the Have I Been Pwned (HIBP) service for detecting leaked or compromised secrets, like passwords. 
+  * [Troy Hunt: Home Assistant, Pwned Passwords and Security Misconceptions ](https://www.troyhunt.com/home-assistant-pwned-passwords-and-security-misconceptions/ "Troy Hunt: Home Assistant, Pwned Passwords and Security Misconceptions") — Two of my favourite things these days are Have I Been Pwned and Home Assistant. The former is an obvious choice, the latter I've come to love as I've embarked on my home automation journey. So, it was with great pleasure that I saw the two integrated recently. 
+  * [Validating Leaked Passwords with k-Anonymity ](https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/ "Validating Leaked Passwords with k-Anonymity") — Cloudflare continues to support Pwned Passwords by providing CDN and security functionality such that the data can easily be made available for download in raw form to organisations to protect their customers. 
+  * [crt.sh ](https://crt.sh/ "crt.sh") — Certificate Search. 
+  * [Shelly 2.5 ](https://shelly.cloud/products/shelly-25-smart-home-automation-relay/ "Shelly 2.5") — No HUB required – Connect Shelly 2.5 directly to your Wi-Fi at home. 
+  * [filebrowser: 📂 Web File Browser ](https://github.com/filebrowser/filebrowser "filebrowser: 📂 Web File Browser") — filebrowser provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. 
+  * [Tandoor Recipes ](https://www.reddit.com/r/selfhosted/comments/lmpolh/tandoor_recipes_big_new_release_of_the_most/ "Tandoor Recipes") — Today i am happy to announce that I have released a new version which finally gives the application its well deserved name and logo: Tandoor Recipes. 
 
 
 

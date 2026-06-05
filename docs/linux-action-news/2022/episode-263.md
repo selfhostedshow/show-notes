@@ -22,21 +22,21 @@ What makes Google's new OS so secure, a critical WiFi vulnerability in the Kerne
 
 ## Episode links
 
-  * [Announcing KataOS and Sparrow](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html?m=1 "Announcing KataOS and Sparrow") — Our team in Google Research has set out to solve this problem by building a provably secure platform that's optimized for embedded devices that run ML applications.
-  * [Google launches KataOS](https://lwn.net/Articles/911332/#Comments "Google launches KataOS")
-  * [Google Announces KataOS As Security-Focused OS, Leveraging Rust & seL4 Microkernel](https://www.phoronix.com/news/Google-KataOS "Google Announces KataOS As Security-Focused OS, Leveraging Rust & seL4 Microkernel")
-  * [Some remotely exploitable kernel WiFi vulnerabilities](https://lwn.net/Articles/911062/ "Some remotely exploitable kernel WiFi vulnerabilities") — It would appear that there is a set of memory-related vulnerabilities in the kernel's WiFi stack that can be exploited over the air via malicious packets; five CVE numbers have been assigned to the set.
-  * [Linux Gets Patched For WiFi Vulnerabilities That Can Be Exploited By Malicious Packets - Phoronix](https://www.phoronix.com/news/Linux-WiFi-Malicious-Packets "Linux Gets Patched For WiFi Vulnerabilities That Can Be Exploited By Malicious Packets - Phoronix")
-  * [Firefox 106 Brings Improved WebRTC - Better Screen Sharing On Wayland](https://www.phoronix.com/news/Firefox-106-Available "Firefox 106 Brings Improved WebRTC - Better Screen Sharing On Wayland") — Firefox 106 upgrades its WebRTC capabilities to now make use of libwebrtc 103.
-  * [impervious.ai](http://impervious.ai/ "impervious.ai") — A Suite of Peer-to-Peer Tools for Communications, Data Transport, and Payments, Built Directly Into the Web Browser
-  * [Impervious Ai GitHub](https://github.com/imperviousai "Impervious Ai GitHub")
-  * [You’re invited to the Fedora Linux 37 Release Party!](https://fedoramagazine.org/youre-invited-to-the-fedora-linux-37-release-party/ "You’re invited to the Fedora Linux 37 Release Party!") — Please register on Hopin and join us on November 4th and 5th for a short program of informational sessions and social activities.
-  * [Fedora Linux 37 Release Party Registration](https://hopin.com/events/fedora-linux-37-release-party/registration "Fedora Linux 37 Release Party Registration")
-  * [Linus Torvalds to Linux devs: Stop pulling all-nighters](https://www.theregister.com/2022/10/17/linux_6_1_rc1/ "Linus Torvalds to Linux devs: Stop pulling all-nighters") — "Let me just say that after I got my machine sorted out and caught up with the merge window, I was somewhat frustrated with various late pull requests. I've mentioned this before, but it's _really_ quite annoying to get quite a few pull requests in the last few days of the merge window"
-  * [Linux 6.1 Features Include Initial Rust Code, MGLRU, New AMD CPU Features, More Security](https://www.phoronix.com/review/linux-61-features "Linux 6.1 Features Include Initial Rust Code, MGLRU, New AMD CPU Features, More Security")
-  * [Linux 6.1 Will Likely Be This Year’s LTS Kernel Release](https://www.phoronix.com/news/Linux-6.1-Likely-LTS "Linux 6.1 Will Likely Be This Year’s LTS Kernel Release")
-  * [Taming the Beast - LUP 480](https://www.jupiterbroadcasting.com/show/linux-unplugged/480/ "Taming the Beast - LUP 480")
-  * [Send a Boost](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost") — Upgrade to a Podcasting 2.0 compatible app, and send a Boost and enjoy other improvements to your podcasts.
+  * [Announcing KataOS and Sparrow ](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html?m=1 "Announcing KataOS and Sparrow") — Our team in Google Research has set out to solve this problem by building a provably secure platform that's optimized for embedded devices that run ML applications. 
+  * [Google launches KataOS ](https://lwn.net/Articles/911332/#Comments "Google launches KataOS")
+  * [Google Announces KataOS As Security-Focused OS, Leveraging Rust & seL4 Microkernel ](https://www.phoronix.com/news/Google-KataOS "Google Announces KataOS As Security-Focused OS, Leveraging Rust & seL4 Microkernel")
+  * [Some remotely exploitable kernel WiFi vulnerabilities ](https://lwn.net/Articles/911062/ "Some remotely exploitable kernel WiFi vulnerabilities") — It would appear that there is a set of memory-related vulnerabilities in the kernel's WiFi stack that can be exploited over the air via malicious packets; five CVE numbers have been assigned to the set. 
+  * [Linux Gets Patched For WiFi Vulnerabilities That Can Be Exploited By Malicious Packets - Phoronix ](https://www.phoronix.com/news/Linux-WiFi-Malicious-Packets "Linux Gets Patched For WiFi Vulnerabilities That Can Be Exploited By Malicious Packets - Phoronix")
+  * [Firefox 106 Brings Improved WebRTC - Better Screen Sharing On Wayland ](https://www.phoronix.com/news/Firefox-106-Available "Firefox 106 Brings Improved WebRTC - Better Screen Sharing On Wayland") — Firefox 106 upgrades its WebRTC capabilities to now make use of libwebrtc 103. 
+  * [impervious.ai ](http://impervious.ai/ "impervious.ai") — A Suite of Peer-to-Peer Tools for Communications, Data Transport, and Payments, Built Directly Into the Web Browser 
+  * [Impervious Ai GitHub ](https://github.com/imperviousai "Impervious Ai GitHub")
+  * [You’re invited to the Fedora Linux 37 Release Party! ](https://fedoramagazine.org/youre-invited-to-the-fedora-linux-37-release-party/ "You’re invited to the Fedora Linux 37 Release Party!") — Please register on Hopin and join us on November 4th and 5th for a short program of informational sessions and social activities. 
+  * [Fedora Linux 37 Release Party Registration ](https://hopin.com/events/fedora-linux-37-release-party/registration "Fedora Linux 37 Release Party Registration")
+  * [Linus Torvalds to Linux devs: Stop pulling all-nighters ](https://www.theregister.com/2022/10/17/linux_6_1_rc1/ "Linus Torvalds to Linux devs: Stop pulling all-nighters") — "Let me just say that after I got my machine sorted out and caught up with the merge window, I was somewhat frustrated with various late pull requests. I've mentioned this before, but it's _really_ quite annoying to get quite a few pull requests in the last few days of the merge window" 
+  * [Linux 6.1 Features Include Initial Rust Code, MGLRU, New AMD CPU Features, More Security ](https://www.phoronix.com/review/linux-61-features "Linux 6.1 Features Include Initial Rust Code, MGLRU, New AMD CPU Features, More Security")
+  * [Linux 6.1 Will Likely Be This Year’s LTS Kernel Release ](https://www.phoronix.com/news/Linux-6.1-Likely-LTS "Linux 6.1 Will Likely Be This Year’s LTS Kernel Release")
+  * [Taming the Beast - LUP 480 ](https://www.jupiterbroadcasting.com/show/linux-unplugged/480/ "Taming the Beast - LUP 480")
+  * [Send a Boost ](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost") — Upgrade to a Podcasting 2.0 compatible app, and send a Boost and enjoy other improvements to your podcasts. 
 
 
 

@@ -21,11 +21,11 @@ None
 
 ## Episode links
 
-  * [Linus back in charge of the kernel](https://lkml.org/lkml/2018/10/22/184 "Linus back in charge of the kernel") — And with that, Linus, I'm handing the kernel tree back to you. You can have the joy of dealing with the merge window :)
-  * [Pine64 working on a KDE phone](https://itsfoss.com/pinebook-kde-smartphone/ "Pine64 working on a KDE phone") — It’s a confirmed news that Pine64 is considering a budget Linux smartphone running KDE Plasma.
-  * [HTC’s blockchain phone is ready for preorder](https://www.theverge.com/circuitbreaker/2018/10/23/18011280/htc-blockchain-phone-preorder-exodus-1-specs-price "HTC’s blockchain phone is ready for preorder")
-  * [Firefox to suggest paid VPN service](https://blog.mozilla.org/futurereleases/2018/10/22/testing-new-ways-to-keep-you-safe-online/ "Firefox to suggest paid VPN service") — A small, random group of US-based Firefox users will be presented with an offer to purchase a monthly subscription to a VPN service that’s been vetted and approved by Mozilla. After signing up for a subscription (billed securely using payment services Stripe and Recurly) they will be able to download and install the VPN software. Windows, macOS, Linux, iOS, and Android are all supported.
-  * [IBM to Acquire Red Hat](https://www.redhat.com/en/about/press-releases/ibm-acquire-red-hat-completely-changing-cloud-landscape-and-becoming-worlds-1-hybrid-cloud-provider "IBM to Acquire Red Hat") — Red Hat to operate as a distinct unit within IBM’s Hybrid Cloud team
+  * [Linus back in charge of the kernel ](https://lkml.org/lkml/2018/10/22/184 "Linus back in charge of the kernel") — And with that, Linus, I'm handing the kernel tree back to you. You can have the joy of dealing with the merge window :) 
+  * [Pine64 working on a KDE phone ](https://itsfoss.com/pinebook-kde-smartphone/ "Pine64 working on a KDE phone") — It’s a confirmed news that Pine64 is considering a budget Linux smartphone running KDE Plasma. 
+  * [HTC’s blockchain phone is ready for preorder ](https://www.theverge.com/circuitbreaker/2018/10/23/18011280/htc-blockchain-phone-preorder-exodus-1-specs-price "HTC’s blockchain phone is ready for preorder")
+  * [Firefox to suggest paid VPN service ](https://blog.mozilla.org/futurereleases/2018/10/22/testing-new-ways-to-keep-you-safe-online/ "Firefox to suggest paid VPN service") — A small, random group of US-based Firefox users will be presented with an offer to purchase a monthly subscription to a VPN service that’s been vetted and approved by Mozilla. After signing up for a subscription (billed securely using payment services Stripe and Recurly) they will be able to download and install the VPN software. Windows, macOS, Linux, iOS, and Android are all supported. 
+  * [IBM to Acquire Red Hat ](https://www.redhat.com/en/about/press-releases/ibm-acquire-red-hat-completely-changing-cloud-landscape-and-becoming-worlds-1-hybrid-cloud-provider "IBM to Acquire Red Hat") — Red Hat to operate as a distinct unit within IBM’s Hybrid Cloud team 
 
 
 

@@ -21,17 +21,17 @@ None
 
 ## Episode links
 
-  * [KDE is adding Matrix to its instant messaging infrastructure](https://dot.kde.org/2019/02/20/kde-adding-matrix-its-im-framework "KDE is adding Matrix to its instant messaging infrastructure") — KDE is adopting non-proprietary and decentralized instant messaging services and is now running its own community-managed instance of Matrix.
-  * [Matrix the basis for France’s Secure Instant Messenger app](https://matrix.org/blog/2018/04/26/matrix-and-riot-confirmed-as-the-basis-for-frances-secure-instant-messenger-app/ "Matrix the basis for France’s Secure Instant Messenger app")
-  * [Interview with Matthew Hodgson: Matrix in the French State](https://fosdem.org/2019/interviews/matthew-hodgson/ "Interview with Matthew Hodgson: Matrix in the French State")
-  * [New Release: OnionShare 2](https://blog.torproject.org/new-release-onionshare-2 "New Release: OnionShare 2") — OnionShare is an open source tool for securely and anonymously sending and receiving files using Tor onion services. 
-  * [Redis Labs changes its open-source license — again](https://techcrunch.com/2019/02/21/redis-labs-changes-its-open-source-license-again/ "Redis Labs changes its open-source license — again") — “Some cloud providers have repeatedly taken advantage of successful opensource projects, without significant contributions to their communities.”
-  * [Arm unveils new Neoverse chips for data centers](https://siliconangle.com/2019/02/20/arm-unveils-new-7-nanometer-neoverse-chips-data-centers-5g-networks/ "Arm unveils new Neoverse chips for data centers") — Arm claims that the design provides as much as 2.5 times more processing power for certain server workloads than the previous Cortex-A72 architecture.
+  * [KDE is adding Matrix to its instant messaging infrastructure ](https://dot.kde.org/2019/02/20/kde-adding-matrix-its-im-framework "KDE is adding Matrix to its instant messaging infrastructure") — KDE is adopting non-proprietary and decentralized instant messaging services and is now running its own community-managed instance of Matrix. 
+  * [Matrix the basis for France’s Secure Instant Messenger app ](https://matrix.org/blog/2018/04/26/matrix-and-riot-confirmed-as-the-basis-for-frances-secure-instant-messenger-app/ "Matrix the basis for France’s Secure Instant Messenger app")
+  * [Interview with Matthew Hodgson: Matrix in the French State ](https://fosdem.org/2019/interviews/matthew-hodgson/ "Interview with Matthew Hodgson: Matrix in the French State")
+  * [New Release: OnionShare 2 ](https://blog.torproject.org/new-release-onionshare-2 "New Release: OnionShare 2") — OnionShare is an open source tool for securely and anonymously sending and receiving files using Tor onion services. 
+  * [Redis Labs changes its open-source license — again ](https://techcrunch.com/2019/02/21/redis-labs-changes-its-open-source-license-again/ "Redis Labs changes its open-source license — again") — “Some cloud providers have repeatedly taken advantage of successful opensource projects, without significant contributions to their communities.” 
+  * [Arm unveils new Neoverse chips for data centers ](https://siliconangle.com/2019/02/20/arm-unveils-new-7-nanometer-neoverse-chips-data-centers-5g-networks/ "Arm unveils new Neoverse chips for data centers") — Arm claims that the design provides as much as 2.5 times more processing power for certain server workloads than the previous Cortex-A72 architecture. 
   * [GCC 9 Compiler Support For The Arm Neoverse N1 + E1 ](https://www.phoronix.com/scan.php?page=news_item&px=Arm-Neoverse-GCC9-Compiler "GCC 9 Compiler Support For The Arm Neoverse N1 + E1 ")
-  * [Linus' doubts](https://www.realworldtech.com/forum/?threadid=183440&curpostid=183486 "Linus' doubts")
-  * [Intel Confirms Apple Macs Will Switch to Arm CPUs by 2020, Says Report](https://www.tomshardware.com/news/apple-mac-arm-cpus-2020-intel,38668.html "Intel Confirms Apple Macs Will Switch to Arm CPUs by 2020, Says Report")
-  * [Wine Developers Release Hangover Alpha](https://www.phoronix.com/scan.php?page=news_item&px=Hangover-0.4-Alpha-Released&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Phoronix+%28Phoronix%29 "Wine Developers Release Hangover Alpha") — Hangover 0.4 is the first (alpha) release from this project for running x86/x86_64 Windows programs now on 64-bit ARM Linux distributions. 
-  * [Linux Academy - Full Stack Ruby on Rails Developer (Remote)](https://jobs.lever.co/linuxacademy/b1b75b6a-a54c-4854-809f-f36ed4f08f28 "Linux Academy - Full Stack Ruby on Rails Developer \(Remote\)")
+  * [Linus' doubts ](https://www.realworldtech.com/forum/?threadid=183440&curpostid=183486 "Linus' doubts")
+  * [Intel Confirms Apple Macs Will Switch to Arm CPUs by 2020, Says Report ](https://www.tomshardware.com/news/apple-mac-arm-cpus-2020-intel,38668.html "Intel Confirms Apple Macs Will Switch to Arm CPUs by 2020, Says Report")
+  * [Wine Developers Release Hangover Alpha ](https://www.phoronix.com/scan.php?page=news_item&px=Hangover-0.4-Alpha-Released&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Phoronix+%28Phoronix%29 "Wine Developers Release Hangover Alpha") — Hangover 0.4 is the first (alpha) release from this project for running x86/x86_64 Windows programs now on 64-bit ARM Linux distributions. 
+  * [Linux Academy - Full Stack Ruby on Rails Developer (Remote) ](https://jobs.lever.co/linuxacademy/b1b75b6a-a54c-4854-809f-f36ed4f08f28 "Linux Academy - Full Stack Ruby on Rails Developer \(Remote\)")
 
 
 

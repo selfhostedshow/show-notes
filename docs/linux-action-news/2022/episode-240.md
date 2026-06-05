@@ -17,15 +17,15 @@ NVIDIA has announced its plans for an open-source GPU driver. Christian Schaller
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Why is the open source driver release from NVidia so important for Linux? | Christian F.K. Schaller](https://blogs.gnome.org/uraeus/2022/05/11/why-is-the-open-source-driver-release-from-nvidia-so-important-for-linux/ "Why is the open source driver release from NVidia so important for Linux? | Christian F.K. Schaller") — Today NVidia announced that they are releasing an open source kernel driver for their GPUs, so I want to share with you some background information and how this will impact Linux graphics and compute going forward. 
-  * [NVIDIA Releases Open-Source GPU Kernel Modules ](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/ "NVIDIA Releases Open-Source GPU Kernel Modules ") — This release is a significant step toward improving the experience of using NVIDIA GPUs in Linux, for tighter integration with the OS and for developers to debug, integrate, and contribute back.
-  * [NVIDIA Transitioning To Official, Open-Source Linux GPU Kernel Driver](https://www.phoronix.com/scan.php?page=article&item=nvidia-open-kernel&num=1 "NVIDIA Transitioning To Official, Open-Source Linux GPU Kernel Driver") — NVIDIA's open kernel modules is already considered "production ready, opt-in" for data center GPUs. For GeForce and workstation GPUs, the open kernel module code is considered "alpha quality" but will be ramped up moving forward with future releases. 
+  * [Why is the open source driver release from NVidia so important for Linux? | Christian F.K. Schaller ](https://blogs.gnome.org/uraeus/2022/05/11/why-is-the-open-source-driver-release-from-nvidia-so-important-for-linux/ "Why is the open source driver release from NVidia so important for Linux? | Christian F.K. Schaller") — Today NVidia announced that they are releasing an open source kernel driver for their GPUs, so I want to share with you some background information and how this will impact Linux graphics and compute going forward. 
+  * [NVIDIA Releases Open-Source GPU Kernel Modules ](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/ "NVIDIA Releases Open-Source GPU Kernel Modules ") — This release is a significant step toward improving the experience of using NVIDIA GPUs in Linux, for tighter integration with the OS and for developers to debug, integrate, and contribute back. 
+  * [NVIDIA Transitioning To Official, Open-Source Linux GPU Kernel Driver ](https://www.phoronix.com/scan.php?page=article&item=nvidia-open-kernel&num=1 "NVIDIA Transitioning To Official, Open-Source Linux GPU Kernel Driver") — NVIDIA's open kernel modules is already considered "production ready, opt-in" for data center GPUs. For GeForce and workstation GPUs, the open kernel module code is considered "alpha quality" but will be ramped up moving forward with future releases. 
 
 
 

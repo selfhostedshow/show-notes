@@ -22,12 +22,12 @@ We dive into Lemmy, a self-hosted Reddit alternative. Plus, a couple of easy-to-
 
 ## Episode links
 
-  * [Reddark](https://reddark.untone.uk/ "Reddark") — These subreddits are going dark or read-only on June 12th and after. Some already are. Click here to find out why.
-  * [Lemmy 🐀](https://github.com/LemmyNet/lemmy "Lemmy 🐀") — A link aggregator and forum for the fediverse Lemmy is similar to sites like Reddit, Lobste.rs, or Hacker News: you subscribe to forums you're interested in, post links and discussions, then vote, and comment on them. Behind the scenes, it is very different; anyone can easily run a server, and all these servers are federated (think email), and connected to the same universe, called the Fediverse.
-  * [Install with Docker - Lemmy Documentation](https://join-lemmy.org/docs/en/administration/install_docker.html "Install with Docker - Lemmy Documentation") — Make sure you have both docker and docker-compose
-  * [Install with Ansible - Lemmy Documentation](https://join-lemmy.org/docs/en/administration/install_ansible.html "Install with Ansible - Lemmy Documentation") — Follow the instructions on the Lemmy-Ansible repo.
-  * [Mlem](https://github.com/buresdv/Mlem "Mlem") — The Lemmy client for iOS.
-  * [Jerboa](https://github.com/dessalines/jerboa "Jerboa") — An Android client for Lemmy, a federated reddit alternative 
+  * [Reddark ](https://reddark.untone.uk/ "Reddark") — These subreddits are going dark or read-only on June 12th and after. Some already are. Click here to find out why. 
+  * [Lemmy 🐀 ](https://github.com/LemmyNet/lemmy "Lemmy 🐀") — A link aggregator and forum for the fediverse Lemmy is similar to sites like Reddit, Lobste.rs, or Hacker News: you subscribe to forums you're interested in, post links and discussions, then vote, and comment on them. Behind the scenes, it is very different; anyone can easily run a server, and all these servers are federated (think email), and connected to the same universe, called the Fediverse. 
+  * [Install with Docker - Lemmy Documentation ](https://join-lemmy.org/docs/en/administration/install_docker.html "Install with Docker - Lemmy Documentation") — Make sure you have both docker and docker-compose 
+  * [Install with Ansible - Lemmy Documentation ](https://join-lemmy.org/docs/en/administration/install_ansible.html "Install with Ansible - Lemmy Documentation") — Follow the instructions on the Lemmy-Ansible repo. 
+  * [Mlem ](https://github.com/buresdv/Mlem "Mlem") — The Lemmy client for iOS. 
+  * [Jerboa ](https://github.com/dessalines/jerboa "Jerboa") — An Android client for Lemmy, a federated reddit alternative 
 
 
 

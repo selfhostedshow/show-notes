@@ -17,26 +17,26 @@ Alex is replacing his Chromecast and Google Nest Mini with an open-source soluti
 ## Sponsored by
 
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [LogScale](https://crowdstrike.com/lce): [Take logs from any source and make them usable. Get started with LogScale Community Edition for free.](https://crowdstrike.com/lce)
+  * [LogScale](https://crowdstrike.com/lce): [Take logs from any source and make them usable. Get started with LogScale Community Edition for free. ](https://crowdstrike.com/lce)
 
 
 
 ## Episode links
 
-  * [OWC Thunderbolt Dock](https://www.amazon.com/OWC-Thunderbolt-Dock-Compatible-Equipped/dp/B097TVLB4F/ "OWC Thunderbolt Dock") — Compatible with M1 Macs, Thunderbolt 3 Equipped Macs, and Thunderbolt 4 PCs
-  * [Snapcast](https://github.com/badaix/snapcast "Snapcast") — Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. It's not a standalone player, but an extension that turns your existing audio player into a Sonos-like multiroom solution.
-  * [piCorePlayer](https://www.picoreplayer.org/ "piCorePlayer") — Free software that plays local music as well as online music streaming services on a Raspberry Pi 
-  * [Welcome to mysqueezebox.com!](https://www.mysqueezebox.com/download "Welcome to mysqueezebox.com!")
-  * [BroadLink RM4 Mini IR Universal Remote Control](https://www.amazon.com/Broadlink-RM4-Universal-Control-Compatible/dp/B07ZSF46BX?th=1 "BroadLink RM4 Mini IR Universal Remote Control") — Wi-Fi Infrared Blaster
-  * [Rosewill RSV-SATA-Cage-34](https://www.rosewill.com/rosewill-rsv-sata-cage-34-hard-disk-drive-cage/p/9SIA072GJ92556?seoLink=server-components&seoName=Server%20Components "Rosewill RSV-SATA-Cage-34")
-  * [Paulus Schoutsen on Twitter](https://mobile.twitter.com/balloob/status/1571852962766659587 "Paulus Schoutsen on Twitter") — Oh hello Matter v1 
-  * [esphome-remote](https://github.com/landonr/esphome-remote "esphome-remote") — iPod style wifi smart home remote. Uses ESPHome and Home Assistant to integrate with Sonos, Roku and run custom scenes and scripts. 
-  * [AsRock IPMI websocket connection failed Caddy V2](https://caddy.community/t/asrock-ipmi-websocket-connection-failed-caddy-v2/16961/8 "AsRock IPMI websocket connection failed Caddy V2")
-  * [Jupiter Broadcasting Meetups](https://www.meetup.com/jupiterbroadcasting/ "Jupiter Broadcasting Meetups") — Keep an eye out for a meetup near you!
-  * [Jupiter Broadcasting Meetup Rooms on Matrix](https://bit.ly/meetupmatrix "Jupiter Broadcasting Meetup Rooms on Matrix")
-  * [Z-Wave – ZOOZ Switches](https://www.getzooz.com/products/ "Z-Wave – ZOOZ Switches")
-  * [Using Bitwarden with Fastmail](https://www.fastmail.help/hc/en-us/articles/5469165600655-Using-Bitwarden-with-Fastmail "Using Bitwarden with Fastmail") — If you have a Bitwarden account, you can create Masked Email addresses quickly and easily through Bitwarden's Generator.
-  * [Send a Boost with a New Podcast App](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost with a New Podcast App") — Grab a Podcasting 2.0 compatible app, and send a boost into the show.
+  * [OWC Thunderbolt Dock ](https://www.amazon.com/OWC-Thunderbolt-Dock-Compatible-Equipped/dp/B097TVLB4F/ "OWC Thunderbolt Dock") — Compatible with M1 Macs, Thunderbolt 3 Equipped Macs, and Thunderbolt 4 PCs 
+  * [Snapcast ](https://github.com/badaix/snapcast "Snapcast") — Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. It's not a standalone player, but an extension that turns your existing audio player into a Sonos-like multiroom solution. 
+  * [piCorePlayer ](https://www.picoreplayer.org/ "piCorePlayer") — Free software that plays local music as well as online music streaming services on a Raspberry Pi 
+  * [Welcome to mysqueezebox.com! ](https://www.mysqueezebox.com/download "Welcome to mysqueezebox.com!")
+  * [BroadLink RM4 Mini IR Universal Remote Control ](https://www.amazon.com/Broadlink-RM4-Universal-Control-Compatible/dp/B07ZSF46BX?th=1 "BroadLink RM4 Mini IR Universal Remote Control") — Wi-Fi Infrared Blaster 
+  * [Rosewill RSV-SATA-Cage-34 ](https://www.rosewill.com/rosewill-rsv-sata-cage-34-hard-disk-drive-cage/p/9SIA072GJ92556?seoLink=server-components&seoName=Server%20Components "Rosewill RSV-SATA-Cage-34")
+  * [Paulus Schoutsen on Twitter ](https://mobile.twitter.com/balloob/status/1571852962766659587 "Paulus Schoutsen on Twitter") — Oh hello Matter v1 
+  * [esphome-remote ](https://github.com/landonr/esphome-remote "esphome-remote") — iPod style wifi smart home remote. Uses ESPHome and Home Assistant to integrate with Sonos, Roku and run custom scenes and scripts. 
+  * [AsRock IPMI websocket connection failed Caddy V2 ](https://caddy.community/t/asrock-ipmi-websocket-connection-failed-caddy-v2/16961/8 "AsRock IPMI websocket connection failed Caddy V2")
+  * [Jupiter Broadcasting Meetups ](https://www.meetup.com/jupiterbroadcasting/ "Jupiter Broadcasting Meetups") — Keep an eye out for a meetup near you! 
+  * [Jupiter Broadcasting Meetup Rooms on Matrix ](https://bit.ly/meetupmatrix "Jupiter Broadcasting Meetup Rooms on Matrix")
+  * [Z-Wave – ZOOZ Switches ](https://www.getzooz.com/products/ "Z-Wave – ZOOZ Switches")
+  * [Using Bitwarden with Fastmail ](https://www.fastmail.help/hc/en-us/articles/5469165600655-Using-Bitwarden-with-Fastmail "Using Bitwarden with Fastmail") — If you have a Bitwarden account, you can create Masked Email addresses quickly and easily through Bitwarden's Generator. 
+  * [Send a Boost with a New Podcast App ](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost with a New Podcast App") — Grab a Podcasting 2.0 compatible app, and send a boost into the show. 
 
 
 

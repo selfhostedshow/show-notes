@@ -16,21 +16,21 @@ Breaking free from Google's grip: Our surprising journey and the tools that made
 
 ## Sponsored by
 
-  * [Unraid](https://unraid.net/selfhosted): [A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.](https://unraid.net/selfhosted)
+  * [Unraid](https://unraid.net/selfhosted): [A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility. ](https://unraid.net/selfhosted)
   * [Tailscale](http://tailscale.com/selfhosted): [Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. ](http://tailscale.com/selfhosted)
 
 
 
 ## Episode links
 
-  * [⚡ Grab Sats with Strike Around the World](https://strike.me/download/ "⚡ Grab Sats with Strike Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries.
-  * [🇨🇦 Bitcoin Well](https://bitcoinwell.com/ "🇨🇦  Bitcoin Well") — Empowering sovereign ownership with free automatic self-custody 🔒
-  * [🎉 Boost with Fountain FM](https://fountain.fm/show/LxGQPEpBqTDLxF4d6qC5 "🎉 Boost with Fountain FM") — Fountain 1.1 with Nostr support, upgrades, and super simple Strike integration for easy Boosts. You can also Boost from the Web via their site.
-  * [Perplexica](https://github.com/ItzCrazyKns/Perplexica "Perplexica") — Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions.
-  * [Replacing Google with SearXNG as the default in Chrome](https://blog.ktz.me/replacing-google-with-searxng-as-the-default-in-chrome/ "Replacing Google with SearXNG as the default in Chrome") — No tracking. No ads. Search as it was. Now when you enter a search query in the Chrome address bar it will route through your SearXNG instance automatically.
-  * [An Example configuration.nix file for PMS - Perfect Media Server](https://perfectmediaserver.com/02-tech-stack/nixos/configuration.nix/ "An Example configuration.nix file for PMS - Perfect Media Server")
-  * [handbrake-web](https://github.com/TheNickOfTime/handbrake-web "handbrake-web") — HandBrake Web is a program for interfacing with handbrake across multiple machines via a web browser. It consists of two components: the server and one or more worker(s).
-  * [SSH 136 Boost Barn](https://paste.docs.lol/code/UnwrinklesRelics "SSH 136 Boost Barn") — Thank you, Boosters and Members! 🚀🚀🚀🚀🚀
+  * [⚡ Grab Sats with Strike Around the World ](https://strike.me/download/ "⚡ Grab Sats with Strike Around the World") — Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. 
+  * [🇨🇦 Bitcoin Well ](https://bitcoinwell.com/ "🇨🇦  Bitcoin Well") — Empowering sovereign ownership with free automatic self-custody 🔒 
+  * [🎉 Boost with Fountain FM ](https://fountain.fm/show/LxGQPEpBqTDLxF4d6qC5 "🎉 Boost with Fountain FM") — Fountain 1.1 with Nostr support, upgrades, and super simple Strike integration for easy Boosts. You can also Boost from the Web via their site. 
+  * [Perplexica ](https://github.com/ItzCrazyKns/Perplexica "Perplexica") — Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions. 
+  * [Replacing Google with SearXNG as the default in Chrome ](https://blog.ktz.me/replacing-google-with-searxng-as-the-default-in-chrome/ "Replacing Google with SearXNG as the default in Chrome") — No tracking. No ads. Search as it was. Now when you enter a search query in the Chrome address bar it will route through your SearXNG instance automatically. 
+  * [An Example configuration.nix file for PMS - Perfect Media Server ](https://perfectmediaserver.com/02-tech-stack/nixos/configuration.nix/ "An Example configuration.nix file for PMS - Perfect Media Server")
+  * [handbrake-web ](https://github.com/TheNickOfTime/handbrake-web "handbrake-web") — HandBrake Web is a program for interfacing with handbrake across multiple machines via a web browser. It consists of two components: the server and one or more worker(s). 
+  * [SSH 136 Boost Barn ](https://paste.docs.lol/code/UnwrinklesRelics "SSH 136 Boost Barn") — Thank you, Boosters and Members! 🚀🚀🚀🚀🚀 
 
 
 

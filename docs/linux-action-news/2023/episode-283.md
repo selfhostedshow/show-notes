@@ -22,14 +22,14 @@ Nextcloud's big new customer, some last-minute surprises in GNOME 44, and Flathu
 
 ## Episode links
 
-  * [Nextcloud’s Big new Customer](https://www.heise.de/news/MagentaCloud-Telekom-migriert-Millionen-auf-Nextcloud-und-Collabora-Online-7532860.html "Nextcloud’s Big new Customer") — After a silent migration of millions of users, Telekom and Nextcloud are now unveiling the first feature of the new MagentaCloud: a free office.
-  * [Last Minute GNOME Awesome](https://www.phoronix.com/news/GNOME-Shell-Mutter-44-RC "Last Minute GNOME Awesome") — GNOME Shell and Mutter 44 have reached their release candidate milestone ahead of the official release in just two weeks, all is going to plan, and to our surprise, there have been several last-minute additions.
-  * [GNOME 44 Mutter Adds fractional_scale_v1 Wayland Support](https://www.phoronix.com/news/GNOME-44-fractional_scale_v1 "GNOME 44 Mutter Adds fractional_scale_v1 Wayland Support")
-  * [GNOME Shell & Mutter Complete Their Migration Away From GTK3](https://www.phoronix.com/news/GNOME-Shell-Mutter-No-GTK3 "GNOME Shell & Mutter Complete Their Migration Away From GTK3")
-  * [wp-fractional-scale-v1: New protocol for fractional scaling](https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/143 "wp-fractional-scale-v1: New protocol for fractional scaling") — This protocols allows for communicating preferred fractional scales to surfaces, which in combination with wp_viewport can be used to render surfaces at fractional scales when applicable.
-  * [Asahi Linux Rust Drivers](https://lwn.net/ml/linux-kernel/20230307-rust-drm-v1-0-917ff5bc80a8@asahilina.net/ "Asahi Linux Rust Drivers") — This is my first take on the Rust abstractions for the DRM subsystem. 
-  * [Flathub in 2023](https://ramcq.net/2023/03/07/flathub-in-2023/ "Flathub in 2023") — It’s been quite a few months since the most recent updates about Flathub last year. We’ve been busy behind the scenes, so I’d like to share what we’ve been up to at Flathub and why—and what’s coming up from us this year
-  * [Flathub in 2023 - Flathub Discourse](https://discourse.flathub.org/t/flathub-in-2023/3808 "Flathub in 2023 - Flathub Discourse")
+  * [Nextcloud’s Big new Customer ](https://www.heise.de/news/MagentaCloud-Telekom-migriert-Millionen-auf-Nextcloud-und-Collabora-Online-7532860.html "Nextcloud’s Big new Customer") — After a silent migration of millions of users, Telekom and Nextcloud are now unveiling the first feature of the new MagentaCloud: a free office. 
+  * [Last Minute GNOME Awesome ](https://www.phoronix.com/news/GNOME-Shell-Mutter-44-RC "Last Minute GNOME Awesome") — GNOME Shell and Mutter 44 have reached their release candidate milestone ahead of the official release in just two weeks, all is going to plan, and to our surprise, there have been several last-minute additions. 
+  * [GNOME 44 Mutter Adds fractional_scale_v1 Wayland Support ](https://www.phoronix.com/news/GNOME-44-fractional_scale_v1 "GNOME 44 Mutter Adds fractional_scale_v1 Wayland Support")
+  * [GNOME Shell & Mutter Complete Their Migration Away From GTK3 ](https://www.phoronix.com/news/GNOME-Shell-Mutter-No-GTK3 "GNOME Shell & Mutter Complete Their Migration Away From GTK3")
+  * [wp-fractional-scale-v1: New protocol for fractional scaling ](https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/143 "wp-fractional-scale-v1: New protocol for fractional scaling") — This protocols allows for communicating preferred fractional scales to surfaces, which in combination with wp_viewport can be used to render surfaces at fractional scales when applicable. 
+  * [Asahi Linux Rust Drivers ](https://lwn.net/ml/linux-kernel/20230307-rust-drm-v1-0-917ff5bc80a8@asahilina.net/ "Asahi Linux Rust Drivers") — This is my first take on the Rust abstractions for the DRM subsystem. 
+  * [Flathub in 2023 ](https://ramcq.net/2023/03/07/flathub-in-2023/ "Flathub in 2023") — It’s been quite a few months since the most recent updates about Flathub last year. We’ve been busy behind the scenes, so I’d like to share what we’ve been up to at Flathub and why—and what’s coming up from us this year 
+  * [Flathub in 2023 - Flathub Discourse ](https://discourse.flathub.org/t/flathub-in-2023/3808 "Flathub in 2023 - Flathub Discourse")
 
 
 

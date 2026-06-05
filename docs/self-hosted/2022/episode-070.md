@@ -24,16 +24,16 @@ Alex replaces another Google service; we point the community spotlight at FuzzyM
 
 ## Episode links
 
-  * [Office Hours 3: New Website Energy](https://www.officehours.hair/3 "Office Hours 3: New Website Energy") — It's a summer of projects, we get into our plans to totally rebuild our website, some new Podcasting 2.0 features and, Brent takes his first bite of the Raspberry Pi.
-  * [Website Rebuild Ideas & Explorations · Discussion](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/discussions/8 "Website Rebuild Ideas & Explorations · Discussion")
-  * [Fuzzy's Random Musings](https://blog.fuzzymistborn.com/ "Fuzzy's Random Musings")
-  * [FuzzyMistborn/infra](https://github.com/FuzzyMistborn/infra "FuzzyMistborn/infra") — This repo contains the code used to deploy and managing my various LXC's on Proxmox. Ansible is the main way I deploy things.
-  * [Self-Hosted Show Storage Leaderboard](https://wiki.selfhosted.show/#ssh-storage-leaderboard "Self-Hosted Show Storage Leaderboard")
-  * [Plausible Analytics](https://plausible.io/ "Plausible Analytics") — Plausible is lightweight and open source web analytics. No cookies and fully compliant with GDPR, CCPA and PECR.
-  * [Umami](https://github.com/mikecao/umami "Umami") — Umami is a simple, fast, privacy-focused alternative to Google Analytics. 
-  * [eufy Security Indoor Cam 2K Pan & Tilt](https://us.eufylife.com/products/t8410121 "eufy Security Indoor Cam 2K Pan & Tilt") — 2K Pan and Tilt Plug-in Indoor Security Camera, Home Security Camera for Indoor Surveillance, Human and Pet AI, Voice Assistant Compatibility, Motion Tracking, Night Vision.
-  * [wz_mini_hacks: v3 camera mods](https://github.com/gtxaspec/wz_mini_hacks "wz_mini_hacks: v3 camera mods") — Run whatever firmware you want on your v3/PANv2 and have root access to the device. This is in early stages of testing, use CAUTION if you are unsure of what you are doing. No support whatsoever is offered with this release. 
-  * [ESP8266 Bed Occupancy Project](https://blog.fuzzymistborn.com/esp8266-projects/ "ESP8266 Bed Occupancy Project") — ESP8266 based bed occupancy sensor.
+  * [Office Hours 3: New Website Energy ](https://www.officehours.hair/3 "Office Hours 3: New Website Energy") — It's a summer of projects, we get into our plans to totally rebuild our website, some new Podcasting 2.0 features and, Brent takes his first bite of the Raspberry Pi. 
+  * [Website Rebuild Ideas & Explorations · Discussion ](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/discussions/8 "Website Rebuild Ideas & Explorations · Discussion")
+  * [Fuzzy's Random Musings ](https://blog.fuzzymistborn.com/ "Fuzzy's Random Musings")
+  * [FuzzyMistborn/infra ](https://github.com/FuzzyMistborn/infra "FuzzyMistborn/infra") — This repo contains the code used to deploy and managing my various LXC's on Proxmox. Ansible is the main way I deploy things. 
+  * [Self-Hosted Show Storage Leaderboard ](https://wiki.selfhosted.show/#ssh-storage-leaderboard "Self-Hosted Show Storage Leaderboard")
+  * [Plausible Analytics ](https://plausible.io/ "Plausible Analytics") — Plausible is lightweight and open source web analytics. No cookies and fully compliant with GDPR, CCPA and PECR. 
+  * [Umami ](https://github.com/mikecao/umami "Umami") — Umami is a simple, fast, privacy-focused alternative to Google Analytics. 
+  * [eufy Security Indoor Cam 2K Pan & Tilt ](https://us.eufylife.com/products/t8410121 "eufy Security Indoor Cam 2K Pan & Tilt") — 2K Pan and Tilt Plug-in Indoor Security Camera, Home Security Camera for Indoor Surveillance, Human and Pet AI, Voice Assistant Compatibility, Motion Tracking, Night Vision. 
+  * [wz_mini_hacks: v3 camera mods ](https://github.com/gtxaspec/wz_mini_hacks "wz_mini_hacks: v3 camera mods") — Run whatever firmware you want on your v3/PANv2 and have root access to the device. This is in early stages of testing, use CAUTION if you are unsure of what you are doing. No support whatsoever is offered with this release. 
+  * [ESP8266 Bed Occupancy Project ](https://blog.fuzzymistborn.com/esp8266-projects/ "ESP8266 Bed Occupancy Project") — ESP8266 based bed occupancy sensor. 
 
 
 

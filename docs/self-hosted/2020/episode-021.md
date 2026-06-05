@@ -22,13 +22,13 @@ None
 
 ## Episode links
 
-  * [Serverbuilds.net](https://www.serverbuilds.net/ "Serverbuilds.net")
-  * [CPU comparison](https://www.serverbuilds.net/cpu-comparison "CPU comparison") — Intel Xeon CPU Comparison Spreadsheet
-  * [Useful tools — Serverbuilds.net](https://www.serverbuilds.net/tools "Useful tools — Serverbuilds.net")
-  * [JDM_WAAAT - YouTube](https://www.youtube.com/channel/UCsH-d9TwPLBQjktP-0WV0Ag "JDM_WAAAT - YouTube")
-  * [serverbuilds.net Discord](https://discord.com/invite/UB24XuY "serverbuilds.net Discord")
-  * [serverbuilds.net Forums](https://forums.serverbuilds.net/ "serverbuilds.net Forums")
-  * [[Guide] Create a mobile media server setup with Plex's new app - Resources / General Information](https://forums.serverbuilds.net/t/guide-create-a-mobile-media-server-setup-with-plexs-new-app/1571 "\[Guide\] Create a mobile media server setup with Plex's new app - Resources / General Information")
+  * [Serverbuilds.net ](https://www.serverbuilds.net/ "Serverbuilds.net")
+  * [CPU comparison ](https://www.serverbuilds.net/cpu-comparison "CPU comparison") — Intel Xeon CPU Comparison Spreadsheet 
+  * [Useful tools — Serverbuilds.net ](https://www.serverbuilds.net/tools "Useful tools — Serverbuilds.net")
+  * [JDM_WAAAT - YouTube ](https://www.youtube.com/channel/UCsH-d9TwPLBQjktP-0WV0Ag "JDM_WAAAT - YouTube")
+  * [serverbuilds.net Discord ](https://discord.com/invite/UB24XuY "serverbuilds.net Discord")
+  * [serverbuilds.net Forums ](https://forums.serverbuilds.net/ "serverbuilds.net Forums")
+  * [[Guide] Create a mobile media server setup with Plex's new app - Resources / General Information ](https://forums.serverbuilds.net/t/guide-create-a-mobile-media-server-setup-with-plexs-new-app/1571 "\[Guide\] Create a mobile media server setup with Plex's new app - Resources / General Information")
 
 
 

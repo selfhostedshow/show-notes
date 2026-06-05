@@ -21,10 +21,10 @@ None
 
 ## Episode links
 
-  * [LINUX Unplugged 1: Too Much Choice ](https://linuxunplugged.com/1 "LINUX Unplugged 1: Too Much Choice ") — Does the Linux community lean on the age old excuse of choice, to brush of the real limitations of desktop Linux environments? We debate that, and then discuss the growing reasons to roll your own email server.
-  * [LINUX Unplugged 27: Debian’s systemd Decision](https://linuxunplugged.com/27 "LINUX Unplugged 27: Debian’s systemd Decision") — One of the bumpier chapters in Debian’s history looks to be drawing to a close, at least for now. But what was all the drama about? And where do things stand now? We’ll dig into the latest developments in the Debian init system debate.
-  * [LINUX Unplugged 67: Debian Community Divided](https://linuxunplugged.com/67 "LINUX Unplugged 67: Debian Community Divided") — We recap the recent mini-exodus in the Debian project & discuss how the tone of discussion around systemd has had some terrible consequences. We follow that with some concrete ideas of what we can do to change that tone.
-  * [LINUX Unplugged 329: Flat Network Truthers](https://linuxunplugged.com/329 "LINUX Unplugged 329: Flat Network Truthers") — Build one flat network across cloud providers, personal networks, with even thousands of nodes. We feature two amazing open source solutions, and the creators behind them.
+  * [LINUX Unplugged 1: Too Much Choice ](https://linuxunplugged.com/1 "LINUX Unplugged 1: Too Much Choice ") — Does the Linux community lean on the age old excuse of choice, to brush of the real limitations of desktop Linux environments? We debate that, and then discuss the growing reasons to roll your own email server. 
+  * [LINUX Unplugged 27: Debian’s systemd Decision ](https://linuxunplugged.com/27 "LINUX Unplugged 27: Debian’s systemd Decision") — One of the bumpier chapters in Debian’s history looks to be drawing to a close, at least for now. But what was all the drama about? And where do things stand now? We’ll dig into the latest developments in the Debian init system debate. 
+  * [LINUX Unplugged 67: Debian Community Divided ](https://linuxunplugged.com/67 "LINUX Unplugged 67: Debian Community Divided") — We recap the recent mini-exodus in the Debian project & discuss how the tone of discussion around systemd has had some terrible consequences. We follow that with some concrete ideas of what we can do to change that tone. 
+  * [LINUX Unplugged 329: Flat Network Truthers ](https://linuxunplugged.com/329 "LINUX Unplugged 329: Flat Network Truthers") — Build one flat network across cloud providers, personal networks, with even thousands of nodes. We feature two amazing open source solutions, and the creators behind them. 
 
 
 

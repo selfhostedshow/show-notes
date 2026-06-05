@@ -22,14 +22,14 @@ None
 
 ## Episode links
 
-  * [Executive Bios | Plex](https://www.plex.tv/press/executive-bios/ "Executive Bios | Plex")
-  * [Elan's Twitter @leafmuncher](https://twitter.com/leafmuncher "Elan's Twitter @leafmuncher")
-  * [elan (Elan Feingold) · GitHub](https://github.com/elan "elan \(Elan Feingold\) · GitHub")
-  * [Elan Feingold - CTO, Co-Founder @ Plex | Crunchbase](https://www.crunchbase.com/person/elan-feingold#section-overview "Elan Feingold - CTO, Co-Founder @ Plex | Crunchbase")
-  * [Plex McStreamy T-Shirt - Apparel - Plex Store](https://stores.kotisdesign.com/plex/apparel/plex-mcstreamy-t-shirt/17119 "Plex McStreamy T-Shirt - Apparel - Plex Store")
-  * [Announcing Ghost 3.0](https://ghost.org/blog/3-0/ "Announcing Ghost 3.0")
-  * [ktz.](https://blog.ktz.me/ "ktz.")
-  * [Example Ghost Docker-Compose Snippet](https://github.com/selfhostedshow/ghost-example "Example Ghost Docker-Compose Snippet")
+  * [Executive Bios | Plex ](https://www.plex.tv/press/executive-bios/ "Executive Bios | Plex")
+  * [Elan's Twitter @leafmuncher ](https://twitter.com/leafmuncher "Elan's Twitter @leafmuncher")
+  * [elan (Elan Feingold) · GitHub ](https://github.com/elan "elan \(Elan Feingold\) · GitHub")
+  * [Elan Feingold - CTO, Co-Founder @ Plex | Crunchbase ](https://www.crunchbase.com/person/elan-feingold#section-overview "Elan Feingold - CTO, Co-Founder @ Plex | Crunchbase")
+  * [Plex McStreamy T-Shirt - Apparel - Plex Store ](https://stores.kotisdesign.com/plex/apparel/plex-mcstreamy-t-shirt/17119 "Plex McStreamy T-Shirt - Apparel - Plex Store")
+  * [Announcing Ghost 3.0 ](https://ghost.org/blog/3-0/ "Announcing Ghost 3.0")
+  * [ktz. ](https://blog.ktz.me/ "ktz.")
+  * [Example Ghost Docker-Compose Snippet ](https://github.com/selfhostedshow/ghost-example "Example Ghost Docker-Compose Snippet")
 
 
 

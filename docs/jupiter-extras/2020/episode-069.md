@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [Pagure.io](https://pagure.io/ "Pagure.io") — With pagure you can host your project with its documentation, let your users report issues or request enhancements using the ticketing system and build your community of contributors by allowing them to fork your projects and contribute to it via the now-popular pull-request mechanism.
-  * [Pagure project on Pagure.io](https://pagure.io/pagure "Pagure project on Pagure.io")
-  * [Pagure project documentation](https://docs.pagure.org/pagure "Pagure project documentation") — The name Pagure is taken from the French word 'pagure'. Pagure in French is used as the common name for the crustaceans from the Paguroidea superfamily, which is basically the family of the Hermit crabs. 
-  * [Fedora Magazine article introducing Pagure (2016)](https://fedoramagazine.org/pagure-diy-git-project-hosting/ "Fedora Magazine article introducing Pagure \(2016\)")
-  * [Talk on Pagure at openSUSE Conference 2019](https://www.youtube.com/watch?v=wastUxOT6IQ "Talk on Pagure at openSUSE Conference 2019")
-  * [[Release] pagure: 5.9 - Pagure-announce - Fedora Mailing-Lists](https://lists.pagure.io/archives/list/pagure-announce@lists.pagure.io/thread/CUIUPWEDHUAXN6P6JP5ETHVNEO6R55P5/ "\[Release\] pagure: 5.9 - Pagure-announce - Fedora Mailing-Lists")
-  * [A new site for fully free collaboration - Free Software Foundation](https://www.fsf.org/blogs/sysadmin/coming-soon-a-new-site-for-fully-free-collaboration "A new site for fully free collaboration - Free Software Foundation") — As we said in an end-of-year post highlighting our work supporting free software development and infrastructure, the Free Software Foundation is planning to launch a public code hosting and collaboration platform to launch in 2020. 
+  * [Pagure.io ](https://pagure.io/ "Pagure.io") — With pagure you can host your project with its documentation, let your users report issues or request enhancements using the ticketing system and build your community of contributors by allowing them to fork your projects and contribute to it via the now-popular pull-request mechanism. 
+  * [Pagure project on Pagure.io ](https://pagure.io/pagure "Pagure project on Pagure.io")
+  * [Pagure project documentation ](https://docs.pagure.org/pagure "Pagure project documentation") — The name Pagure is taken from the French word 'pagure'. Pagure in French is used as the common name for the crustaceans from the Paguroidea superfamily, which is basically the family of the Hermit crabs. 
+  * [Fedora Magazine article introducing Pagure (2016) ](https://fedoramagazine.org/pagure-diy-git-project-hosting/ "Fedora Magazine article introducing Pagure \(2016\)")
+  * [Talk on Pagure at openSUSE Conference 2019 ](https://www.youtube.com/watch?v=wastUxOT6IQ "Talk on Pagure at openSUSE Conference 2019")
+  * [[Release] pagure: 5.9 - Pagure-announce - Fedora Mailing-Lists ](https://lists.pagure.io/archives/list/pagure-announce@lists.pagure.io/thread/CUIUPWEDHUAXN6P6JP5ETHVNEO6R55P5/ "\[Release\] pagure: 5.9 - Pagure-announce - Fedora Mailing-Lists")
+  * [A new site for fully free collaboration - Free Software Foundation ](https://www.fsf.org/blogs/sysadmin/coming-soon-a-new-site-for-fully-free-collaboration "A new site for fully free collaboration - Free Software Foundation") — As we said in an end-of-year post highlighting our work supporting free software development and infrastructure, the Free Software Foundation is planning to launch a public code hosting and collaboration platform to launch in 2020. 
 
 
 

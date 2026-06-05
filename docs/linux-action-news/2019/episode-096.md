@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [Ubuntu Touch OTA-8 Released](https://ubports.com/blog/ubports-blog-1/post/ubuntu-touch-ota-8-release-207 "Ubuntu Touch OTA-8 Released") — OTA-8 is primarily a stability improvement release as we continue to work on using upstream technologies in Ubuntu Touch, increasing our project output.
-  * [PureOS convergence](https://puri.sm/posts/converging-on-convergence-pureos-is-convergent-welcome-to-the-future/ "PureOS convergence") — Purism’s PureOS showcasing adaptive convergent design
-  * [Announcing Maru 0.6 Okinawa](https://maruos.com/blog/2019/announcing-maru-0.6-okinawa.html "Announcing Maru 0.6 Okinawa") — In Maru 0.6 Okinawa, the game completely changes, laying the foundation to run Maru on nearly any Android device.
-  * [Android app devs to get new monetisation method](https://android-developers.googleblog.com/2019/03/supplement-your-earnings-with-rewarded.html "Android app devs to get new monetisation method") — Google Play is excited to announce rewarded products, a new product type now available in open beta in the Play Console.
-  * [Google Glass’ second-gen enterprise model leaks](https://www.theverge.com/circuitbreaker/2019/3/5/18251800/google-glass-second-gen-enterprise-model-leaks-usb-c "Google Glass’ second-gen enterprise model leaks") — Google’s not-quite-there vision of the future is getting a second enterprise model
-  * [Microsoft open-sources Windows Calculator](https://blogs.windows.com/buildingapps/2019/03/06/announcing-the-open-sourcing-of-windows-calculator/ "Microsoft open-sources Windows Calculator") — Today, we’re excited to announce that we are open sourcing Windows Calculator on GitHub under the MIT License.
-  * [calc.exe is now open source](https://arstechnica.com/gadgets/2019/03/calc-exe-is-now-open-source-theres-surprising-depth-in-its-ancient-code/ "calc.exe is now open source")
+  * [Ubuntu Touch OTA-8 Released ](https://ubports.com/blog/ubports-blog-1/post/ubuntu-touch-ota-8-release-207 "Ubuntu Touch OTA-8 Released") — OTA-8 is primarily a stability improvement release as we continue to work on using upstream technologies in Ubuntu Touch, increasing our project output. 
+  * [PureOS convergence ](https://puri.sm/posts/converging-on-convergence-pureos-is-convergent-welcome-to-the-future/ "PureOS convergence") — Purism’s PureOS showcasing adaptive convergent design 
+  * [Announcing Maru 0.6 Okinawa ](https://maruos.com/blog/2019/announcing-maru-0.6-okinawa.html "Announcing Maru 0.6 Okinawa") — In Maru 0.6 Okinawa, the game completely changes, laying the foundation to run Maru on nearly any Android device. 
+  * [Android app devs to get new monetisation method ](https://android-developers.googleblog.com/2019/03/supplement-your-earnings-with-rewarded.html "Android app devs to get new monetisation method") — Google Play is excited to announce rewarded products, a new product type now available in open beta in the Play Console. 
+  * [Google Glass’ second-gen enterprise model leaks ](https://www.theverge.com/circuitbreaker/2019/3/5/18251800/google-glass-second-gen-enterprise-model-leaks-usb-c "Google Glass’ second-gen enterprise model leaks") — Google’s not-quite-there vision of the future is getting a second enterprise model 
+  * [Microsoft open-sources Windows Calculator ](https://blogs.windows.com/buildingapps/2019/03/06/announcing-the-open-sourcing-of-windows-calculator/ "Microsoft open-sources Windows Calculator") — Today, we’re excited to announce that we are open sourcing Windows Calculator on GitHub under the MIT License. 
+  * [calc.exe is now open source ](https://arstechnica.com/gadgets/2019/03/calc-exe-is-now-open-source-theres-surprising-depth-in-its-ancient-code/ "calc.exe is now open source")
 
 
 

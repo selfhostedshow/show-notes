@@ -16,29 +16,29 @@ The Linux secret behind the new TrueNAS release, Intel acquires a major Kernel c
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [TrueNAS Scale 22.02 Released and Resetting the NAS Paradigm](https://www.servethehome.com/truenas-scale-released-and-resetting-the-nas-paradigm/ "TrueNAS Scale 22.02 Released and Resetting the NAS Paradigm") — First off, let us start with what is TrueNAS Scale, and where are we in the process. TrueNAS Scale is based on Linux instead of FreeBSD like TrueNAS. We get all of the storage features we would expect in a modern solution like snapshotting, replication, iSCSI, SMB, NFS, and S3-compatible object storage.
-  * [TrueCharts.org](http://truecharts.org/ "TrueCharts.org")
-  * [SCALE 22.02.0](https://www.truenas.com/docs/releasenotes/scale/22.02.0/ "SCALE 22.02.0")
-  * [Intel Acquires Team behind PREMPT_RT patches](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Intel-Acquires-Linutronix/post/1362692 "Intel Acquires Team behind PREMPT_RT patches") — Linutronix is comprised of a team of highly qualified and motivated employees with a wealth of experience and involvement in the ongoing development of Linux. Led by CEO Heinz Egger and CTO Thomas Gleixner, Linutronix is the architect of PREEMPT_RT (Real Time) and the leading technology provider for industrial Linux. Gleixner has been the principal maintainer of x86 architecture in the Linux kernel since 2008.
-  * [https://www.phoronix.com/scan.php?page=news_item&px=PREEMPT_RT-Lack-Of-Funds](https://www.phoronix.com/scan.php?page=news_item&px=PREEMPT_RT-Lack-Of-Funds "https://www.phoronix.com/scan.php?page=news_item&px=PREEMPT_RT-Lack-Of-Funds")
-  * [Podman 4.0 | Hacker News](https://news.ycombinator.com/item?id=30433518 "Podman 4.0 | Hacker News")
-  * [Release v4.0.0 · containers/podman](https://github.com/containers/podman/releases/tag/v4.0.0 "Release v4.0.0 · containers/podman")
-  * [Neil McGovern Stepping down in 6 Months](https://blog.halon.org.uk/2022/02/handing-over/ "Neil McGovern Stepping down in 6 Months") — Now, nearly 5 years later, I’ve decided the timing is right for me to step back and for GNOME to start looking for its next leader. 
-  * [Linux Action News 182](https://linuxactionnews.com/182 "Linux Action News 182")
-  * [GNOME 42 Beta Released](https://www.phoronix.com/scan.php?page=news_item&px=GNOME-42-Beta "GNOME 42 Beta Released")
-  * [Steam for Chrome OS gets minimum hardware specs](https://chromeunboxed.com/steam-for-chrome-os-gets-minimum-hardware-specs/ "Steam for Chrome OS gets minimum hardware specs") — If you follow Chrome Unboxed or Chrome OS development in general, the name ‘Borealis‘ may provoke some feelings of excitement and anticipation. 
-  * [Here’s which Chromebooks should support gaming w/ Steam](https://9to5google.com/2022/02/19/steam-chrome-os-supported-chromebooks/ "Here’s which Chromebooks should support gaming w/ Steam")
-  * [HP and Lenovo Chromebooks expected to support Steam](https://arstechnica.com/gadgets/2022/02/hp-and-lenovo-chromebooks-expected-to-support-steam/ "HP and Lenovo Chromebooks expected to support Steam")
-  * [SimulaVR](https://simulavr.com/blog/preorders-are-now-available/ "SimulaVR")
-  * <https://github.com/SimulaVR/Simula>
-  * [Show HN: Simula One – Portable Linux VR Computer](https://news.ycombinator.com/item?id=30440828 "Show HN: Simula One – Portable Linux VR Computer")
-  * [Hacking on Simula (in Simula): Implementing proper window resizing - YouTube](https://www.youtube.com/watch?v=FWLuwG91HnI "Hacking on Simula \(in Simula\): Implementing proper window resizing - YouTube")
+  * [TrueNAS Scale 22.02 Released and Resetting the NAS Paradigm ](https://www.servethehome.com/truenas-scale-released-and-resetting-the-nas-paradigm/ "TrueNAS Scale 22.02 Released and Resetting the NAS Paradigm") — First off, let us start with what is TrueNAS Scale, and where are we in the process. TrueNAS Scale is based on Linux instead of FreeBSD like TrueNAS. We get all of the storage features we would expect in a modern solution like snapshotting, replication, iSCSI, SMB, NFS, and S3-compatible object storage. 
+  * [TrueCharts.org ](http://truecharts.org/ "TrueCharts.org")
+  * [SCALE 22.02.0 ](https://www.truenas.com/docs/releasenotes/scale/22.02.0/ "SCALE 22.02.0")
+  * [Intel Acquires Team behind PREMPT_RT patches ](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Intel-Acquires-Linutronix/post/1362692 "Intel Acquires Team behind PREMPT_RT patches") — Linutronix is comprised of a team of highly qualified and motivated employees with a wealth of experience and involvement in the ongoing development of Linux. Led by CEO Heinz Egger and CTO Thomas Gleixner, Linutronix is the architect of PREEMPT_RT (Real Time) and the leading technology provider for industrial Linux. Gleixner has been the principal maintainer of x86 architecture in the Linux kernel since 2008. 
+  * [https://www.phoronix.com/scan.php?page=news_item&px=PREEMPT_RT-Lack-Of-Funds ](https://www.phoronix.com/scan.php?page=news_item&px=PREEMPT_RT-Lack-Of-Funds "https://www.phoronix.com/scan.php?page=news_item&px=PREEMPT_RT-Lack-Of-Funds")
+  * [Podman 4.0 | Hacker News ](https://news.ycombinator.com/item?id=30433518 "Podman 4.0 | Hacker News")
+  * [Release v4.0.0 · containers/podman ](https://github.com/containers/podman/releases/tag/v4.0.0 "Release v4.0.0 · containers/podman")
+  * [Neil McGovern Stepping down in 6 Months ](https://blog.halon.org.uk/2022/02/handing-over/ "Neil McGovern Stepping down in 6 Months") — Now, nearly 5 years later, I’ve decided the timing is right for me to step back and for GNOME to start looking for its next leader. 
+  * [Linux Action News 182 ](https://linuxactionnews.com/182 "Linux Action News 182")
+  * [GNOME 42 Beta Released ](https://www.phoronix.com/scan.php?page=news_item&px=GNOME-42-Beta "GNOME 42 Beta Released")
+  * [Steam for Chrome OS gets minimum hardware specs ](https://chromeunboxed.com/steam-for-chrome-os-gets-minimum-hardware-specs/ "Steam for Chrome OS gets minimum hardware specs") — If you follow Chrome Unboxed or Chrome OS development in general, the name ‘Borealis‘ may provoke some feelings of excitement and anticipation. 
+  * [Here’s which Chromebooks should support gaming w/ Steam ](https://9to5google.com/2022/02/19/steam-chrome-os-supported-chromebooks/ "Here’s which Chromebooks should support gaming w/ Steam")
+  * [HP and Lenovo Chromebooks expected to support Steam ](https://arstechnica.com/gadgets/2022/02/hp-and-lenovo-chromebooks-expected-to-support-steam/ "HP and Lenovo Chromebooks expected to support Steam")
+  * [SimulaVR ](https://simulavr.com/blog/preorders-are-now-available/ "SimulaVR")
+  * [https://github.com/SimulaVR/Simula ](https://github.com/SimulaVR/Simula "https://github.com/SimulaVR/Simula")
+  * [Show HN: Simula One – Portable Linux VR Computer ](https://news.ycombinator.com/item?id=30440828 "Show HN: Simula One – Portable Linux VR Computer")
+  * [Hacking on Simula (in Simula): Implementing proper window resizing - YouTube ](https://www.youtube.com/watch?v=FWLuwG91HnI "Hacking on Simula \(in Simula\): Implementing proper window resizing - YouTube")
 
 
 

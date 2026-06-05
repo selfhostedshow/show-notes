@@ -20,11 +20,11 @@ None
 
 ## Episode links
 
-  * [Email: The Enthusiast Trap](https://slexy.org/view/s20YeO5kh5 "Email: The Enthusiast Trap") — I recently heard of a name for the phenomenon that's happening with Manjaro (and many other projects): it's called the enthusiast trap. 
-  * [Email: Nextcloud features to explore](https://slexy.org/view/s2kwudq1Zn "Email: Nextcloud features to explore") — Hey Chris I had some tips for Nextcloud features that I didn't hear mentioned that you would definitely find useful.
-  * [The Talk Show Live From WWDC 2019, With Craig Federighi and Greg Joswiak](https://daringfireball.net/2019/06/the_talk_show_live_from_wwdc_2019 "The Talk Show Live From WWDC 2019, With Craig Federighi and Greg Joswiak")
-  * [Why Enthusiast Brands will Betray You - YouTube](https://www.youtube.com/watch?v=FJgTKx-rg18 "Why Enthusiast Brands will Betray You - YouTube")
-  * [Why is Oculus the only one still trying to make VR cheaper? (Oculus Quest and Oculus Rift S) - YouTube](https://www.youtube.com/watch?v=YpVLmME2n1M "Why is Oculus the only one still trying to make VR cheaper? \(Oculus Quest and Oculus Rift S\) - YouTube")
+  * [Email: The Enthusiast Trap ](https://slexy.org/view/s20YeO5kh5 "Email: The Enthusiast Trap") — I recently heard of a name for the phenomenon that's happening with Manjaro (and many other projects): it's called the enthusiast trap. 
+  * [Email: Nextcloud features to explore ](https://slexy.org/view/s2kwudq1Zn "Email: Nextcloud features to explore") — Hey Chris I had some tips for Nextcloud features that I didn't hear mentioned that you would definitely find useful. 
+  * [The Talk Show Live From WWDC 2019, With Craig Federighi and Greg Joswiak ](https://daringfireball.net/2019/06/the_talk_show_live_from_wwdc_2019 "The Talk Show Live From WWDC 2019, With Craig Federighi and Greg Joswiak")
+  * [Why Enthusiast Brands will Betray You - YouTube ](https://www.youtube.com/watch?v=FJgTKx-rg18 "Why Enthusiast Brands will Betray You - YouTube")
+  * [Why is Oculus the only one still trying to make VR cheaper? (Oculus Quest and Oculus Rift S) - YouTube ](https://www.youtube.com/watch?v=YpVLmME2n1M "Why is Oculus the only one still trying to make VR cheaper? \(Oculus Quest and Oculus Rift S\) - YouTube")
 
 
 

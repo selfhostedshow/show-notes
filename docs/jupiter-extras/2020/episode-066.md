@@ -21,19 +21,19 @@ None
 
 ## Episode links
 
-  * [KDE e.V.](https://ev.kde.org/ "KDE e.V.")
-  * [KDE Education Project](https://edu.kde.org/ "KDE Education Project")
-  * [KDE - Notable Uses - Wikipedia](https://en.wikipedia.org/wiki/KDE#Notable_uses "KDE - Notable Uses - Wikipedia")
-  * [Blue Systems](https://www.blue-systems.com/ "Blue Systems") — International developers working on Free/Libre Software
-  * [Netrunner GNU/Linux](https://www.netrunner.com/ "Netrunner GNU/Linux") — KDE Plasma on Debian Stable
-  * [Linux App Summit](https://linuxappsummit.org/ "Linux App Summit")
-  * [Barcelona Free Software](https://bcnfs.org/ "Barcelona Free Software")
-  * [Akademy](https://akademy.kde.org/ "Akademy") — KDE's annual world summit
-  * [GUADEC](https://events.gnome.org/event/1/ "GUADEC") — The GNOME Conference
-  * [Brunch with Brent: Nuritzi Sanchez](https://extras.show/61 "Brunch with Brent: Nuritzi Sanchez")
-  * [Brunch with Brent: Heather Ellsworth](https://extras.show/57 "Brunch with Brent: Heather Ellsworth")
-  * [Aleix Pol - @AleixPol on Twitter](https://twitter.com/AleixPol "Aleix Pol - @AleixPol on Twitter") — aleixpol@kde.org
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [KDE e.V. ](https://ev.kde.org/ "KDE e.V.")
+  * [KDE Education Project ](https://edu.kde.org/ "KDE Education Project")
+  * [KDE - Notable Uses - Wikipedia ](https://en.wikipedia.org/wiki/KDE#Notable_uses "KDE - Notable Uses - Wikipedia")
+  * [Blue Systems ](https://www.blue-systems.com/ "Blue Systems") — International developers working on Free/Libre Software 
+  * [Netrunner GNU/Linux ](https://www.netrunner.com/ "Netrunner GNU/Linux") — KDE Plasma on Debian Stable 
+  * [Linux App Summit ](https://linuxappsummit.org/ "Linux App Summit")
+  * [Barcelona Free Software ](https://bcnfs.org/ "Barcelona Free Software")
+  * [Akademy ](https://akademy.kde.org/ "Akademy") — KDE's annual world summit 
+  * [GUADEC ](https://events.gnome.org/event/1/ "GUADEC") — The GNOME Conference 
+  * [Brunch with Brent: Nuritzi Sanchez ](https://extras.show/61 "Brunch with Brent: Nuritzi Sanchez")
+  * [Brunch with Brent: Heather Ellsworth ](https://extras.show/57 "Brunch with Brent: Heather Ellsworth")
+  * [Aleix Pol - @AleixPol on Twitter ](https://twitter.com/AleixPol "Aleix Pol - @AleixPol on Twitter") — [aleixpol@kde.org](mailto:aleixpol@kde.org)
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

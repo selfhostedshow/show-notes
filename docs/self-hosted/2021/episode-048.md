@@ -15,23 +15,23 @@ Tuya shocks us by announcing native Home Assistant support, we have an update on
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
+  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com ](https://acloudguru.com/)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
+  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show. ](https://cloudfree.shop/) Promo Code: SELFHOSTED
 
 
 
 ## Episode links
 
-  * [Wyze Doorbell](https://wyze.com/wyze-doorbell.html "Wyze Doorbell")
-  * [Home Assistant on Twitter announces Tuya partnership](https://twitter.com/home_assistant/status/1409944323546763265 "Home Assistant on Twitter announces Tuya partnership") — "We had a call with @tuyasmart this morning. They are working on an official Home Assistant integration maintained by them. The beta is already available as a custom component at https://t.co/71bjKySm4X It connects to their official cloud API. But local access will follow.
-  * [mergerfs-tools](https://github.com/trapexit/mergerfs-tools "mergerfs-tools")
-  * [PiKVM](https://pikvm.org/ "PiKVM")
-  * [PiKVM - 4 servers 1 Pi - blog.ktz.me](https://blog.ktz.me/pikvm-controlling-up-to-4-servers-simultaneously/ "PiKVM - 4 servers 1 Pi - blog.ktz.me") — This is every homelabbers dream isn't it? Controlling multiple systems that don't have IPMI natively, remotely. Thanks to PiKVM, we now can.
-  * [Mailrise](https://github.com/YoRyan/mailrise "Mailrise")
-  * [Apprise](https://github.com/caronc/apprise "Apprise")
-  * [Feedback - Docker skeptic with some questions](https://paste.docs.lol/reader/TroddenEphemerides "Feedback - Docker skeptic with some questions")
-  * [Feedback - Let's talk VLANs](https://paste.docs.lol/reader/WincingsScheming "Feedback - Let's talk VLANs")
+  * [Wyze Doorbell ](https://wyze.com/wyze-doorbell.html "Wyze Doorbell")
+  * [Home Assistant on Twitter announces Tuya partnership ](https://twitter.com/home_assistant/status/1409944323546763265 "Home Assistant on Twitter announces Tuya partnership") — "We had a call with @tuyasmart this morning. They are working on an official Home Assistant integration maintained by them. The beta is already available as a custom component at <https://t.co/71bjKySm4X> It connects to their official cloud API. But local access will follow. 
+  * [mergerfs-tools ](https://github.com/trapexit/mergerfs-tools "mergerfs-tools")
+  * [PiKVM ](https://pikvm.org/ "PiKVM")
+  * [PiKVM - 4 servers 1 Pi - blog.ktz.me ](https://blog.ktz.me/pikvm-controlling-up-to-4-servers-simultaneously/ "PiKVM - 4 servers 1 Pi - blog.ktz.me") — This is every homelabbers dream isn't it? Controlling multiple systems that don't have IPMI natively, remotely. Thanks to PiKVM, we now can. 
+  * [Mailrise ](https://github.com/YoRyan/mailrise "Mailrise")
+  * [Apprise ](https://github.com/caronc/apprise "Apprise")
+  * [Feedback - Docker skeptic with some questions ](https://paste.docs.lol/reader/TroddenEphemerides "Feedback - Docker skeptic with some questions")
+  * [Feedback - Let's talk VLANs ](https://paste.docs.lol/reader/WincingsScheming "Feedback - Let's talk VLANs")
 
 
 

@@ -21,31 +21,31 @@ None
 
 ## Episode links
 
-  * [Faces of Open Source](http://www.facesofopensource.com/ "Faces of Open Source")
-  * [Peter Adams Photography](http://www.peteradamsphoto.com/ "Peter Adams Photography")
-  * [GIMP - GNU Image Manipulation Program](https://www.gimp.org/ "GIMP - GNU Image Manipulation Program")
-  * [Krita](https://krita.org "Krita")
-  * [darktable](https://www.darktable.org/ "darktable")
-  * [darktable/RawSpeed camera support](https://rawspeed.org/CameraSupport.html "darktable/RawSpeed camera support")
-  * [RawSpeed - submit camera RAW file samples](https://raw.pixls.us/ "RawSpeed - submit camera RAW file samples")
-  * [Self-Hosted](https://selfhosted.show/ "Self-Hosted")
-  * [Magic Lantern](https://magiclantern.fm "Magic Lantern") — open source Canon camera firmware add-on
-  * [This Person Does Not Exist](https://thispersondoesnotexist.com/ "This Person Does Not Exist")
-  * [StyleGAN2 - A Style-Based Generator Architecture for Generative Adversarial Networks (NVIDIA) - YouTube](https://www.youtube.com/watch?v=kSLJriaOumA "StyleGAN2 - A Style-Based Generator Architecture for Generative Adversarial Networks \(NVIDIA\) - YouTube")
-  * [StyleGAN2, None of These Faces Are Real - Two Minute Papers - YouTube](https://www.youtube.com/watch?v=-cOYwZ2XcAc "StyleGAN2, None of These Faces Are Real - Two Minute Papers - YouTube")
-  * [p5.js](https://p5js.org/ "p5.js") — Processing simplicity times JavaScript flexibility
-  * [Processing.js](http://processingjs.org/ "Processing.js") — a port of the Processing Visualization Language
-  * [Red Hat Summit](https://www.redhat.com/en/summit "Red Hat Summit") — April 27-29, 2020 San Francisco, California
-  * [All Things Open](https://allthingsopen.org/ "All Things Open") — October 2020, Raleigh, NC
-  * [Public.Resource.Org](https://public.resource.org/ "Public.Resource.Org") — Making Government Information More Accessible
-  * [Electronic Frontier Foundation (EFF)](https://www.eff.org "Electronic Frontier Foundation \(EFF\)") — Protecting Freedom Where Law and Technology Collide
-  * [Software Freedom Conservancy](https://sfconservancy.org/ "Software Freedom Conservancy")
-  * [Internet Archive](https://www.archive.org/ "Internet Archive")
-  * [Wayback Machine](http://www.wayback.com/ "Wayback Machine")
-  * [Peter Adams - Printed Circuits](http://www.peteradamsphoto.com/printed-circuits/ "Peter Adams - Printed Circuits")
-  * [Faces of Open Source - @facesopensource on Twitter](https://twitter.com/facesopensource "Faces of Open Source - @facesopensource on Twitter")
-  * [Peter Adams - @PeterAdamsPhoto on Twitter](https://twitter.com/PeterAdamsPhoto "Peter Adams - @PeterAdamsPhoto on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Faces of Open Source ](http://www.facesofopensource.com/ "Faces of Open Source")
+  * [Peter Adams Photography ](http://www.peteradamsphoto.com/ "Peter Adams Photography")
+  * [GIMP - GNU Image Manipulation Program ](https://www.gimp.org/ "GIMP - GNU Image Manipulation Program")
+  * [Krita ](https://krita.org "Krita")
+  * [darktable ](https://www.darktable.org/ "darktable")
+  * [darktable/RawSpeed camera support ](https://rawspeed.org/CameraSupport.html "darktable/RawSpeed camera support")
+  * [RawSpeed - submit camera RAW file samples ](https://raw.pixls.us/ "RawSpeed - submit camera RAW file samples")
+  * [Self-Hosted ](https://selfhosted.show/ "Self-Hosted")
+  * [Magic Lantern ](https://magiclantern.fm "Magic Lantern") — open source Canon camera firmware add-on 
+  * [This Person Does Not Exist ](https://thispersondoesnotexist.com/ "This Person Does Not Exist")
+  * [StyleGAN2 - A Style-Based Generator Architecture for Generative Adversarial Networks (NVIDIA) - YouTube ](https://www.youtube.com/watch?v=kSLJriaOumA "StyleGAN2 - A Style-Based Generator Architecture for Generative Adversarial Networks \(NVIDIA\) - YouTube")
+  * [StyleGAN2, None of These Faces Are Real - Two Minute Papers - YouTube ](https://www.youtube.com/watch?v=-cOYwZ2XcAc "StyleGAN2, None of These Faces Are Real - Two Minute Papers - YouTube")
+  * [p5.js ](https://p5js.org/ "p5.js") — Processing simplicity times JavaScript flexibility 
+  * [Processing.js ](http://processingjs.org/ "Processing.js") — a port of the Processing Visualization Language 
+  * [Red Hat Summit ](https://www.redhat.com/en/summit "Red Hat Summit") — April 27-29, 2020 San Francisco, California 
+  * [All Things Open ](https://allthingsopen.org/ "All Things Open") — October 2020, Raleigh, NC 
+  * [Public.Resource.Org ](https://public.resource.org/ "Public.Resource.Org") — Making Government Information More Accessible 
+  * [Electronic Frontier Foundation (EFF) ](https://www.eff.org "Electronic Frontier Foundation \(EFF\)") — Protecting Freedom Where Law and Technology Collide 
+  * [Software Freedom Conservancy ](https://sfconservancy.org/ "Software Freedom Conservancy")
+  * [Internet Archive ](https://www.archive.org/ "Internet Archive")
+  * [Wayback Machine ](http://www.wayback.com/ "Wayback Machine")
+  * [Peter Adams - Printed Circuits ](http://www.peteradamsphoto.com/printed-circuits/ "Peter Adams - Printed Circuits")
+  * [Faces of Open Source - @facesopensource on Twitter ](https://twitter.com/facesopensource "Faces of Open Source - @facesopensource on Twitter")
+  * [Peter Adams - @PeterAdamsPhoto on Twitter ](https://twitter.com/PeterAdamsPhoto "Peter Adams - @PeterAdamsPhoto on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

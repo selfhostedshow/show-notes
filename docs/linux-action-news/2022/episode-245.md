@@ -15,25 +15,25 @@ We get the details behind Thunderbird acquiring K-9 Mail, share the best new fea
 
 ## Sponsored by
 
-  * [Jupiter Network Membership](http://jupiter.party): [Support the entire network, and get access to every member's special feed for every show on the network.](http://jupiter.party) Promo Code: thesignal
+  * [Jupiter Network Membership](http://jupiter.party): [Support the entire network, and get access to every member's special feed for every show on the network. ](http://jupiter.party) Promo Code: thesignal
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
 
 
 
 ## Episode links
 
-  * [K9 mail to become Thunderbird on Android](https://lwn.net/Articles/897712/ "K9 mail to become Thunderbird on Android") — Ultimately, K-9 Mail will transform into Thunderbird on Android.
-  * [K-9 Mail – Open Source Email App for Android](https://github.com/thundernest/k-9 "K-9 Mail – Open Source Email App for Android")
-  * [K-9 Mail joins the Thunderbird family](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird "K-9 Mail joins the Thunderbird family")
-  * [Frequently Asked Questions: Thunderbird Mobile and K-9 Mail](https://blog.thunderbird.net/2022/06/faq-thunderbird-mobile-and-k-9-mail/ "Frequently Asked Questions: Thunderbird Mobile and K-9 Mail")
-  * [Ubuntu Working To Provide Good Support For The VisionFive Low-Cost RISC-V Board](https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-VisionFive-WIP "Ubuntu Working To Provide Good Support For The VisionFive Low-Cost RISC-V Board") — The Starfive VisionFive is a currently $179 USD RISC-V board that is intended to run full-blown RISC-V Linux distributions. 
-  * [Fedora 37 Looks To Boost Its Cloud Posture As An Official Edition](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-Cloud-Base-37-Plan "Fedora 37 Looks To Boost Its Cloud Posture As An Official Edition") — Approved by the Fedora Engineering and Steering Committee this week is returning Fedora Cloud base to be listed as an official Fedora edition.
-  * [Plasma 5.25 - Released](https://kde.org/announcements/plasma/5/5.25.0/ "Plasma 5.25 - Released") — Plasma 5.25 brings new features and concepts to the desktop environment.
-  * [5 Neat New Features in KDE Plasma 5.25, Released Today](https://www.omgubuntu.co.uk/2022/06/kde-plasma-5-25-new-features "5 Neat New Features in KDE Plasma 5.25, Released Today")
-  * [Ventoy 1.0.76](https://github.com/ventoy/Ventoy/releases/tag/v1.0.76 "Ventoy 1.0.76") — Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
-  * [Super UEFIinSecureBoot Disk: Boot any OS or .efi file without disabling UEFI Secure Boot](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk "Super UEFIinSecureBoot Disk: Boot any OS or .efi file without disabling UEFI Secure Boot")
-  * [Adobe Plans To Make Photoshop on the Web Free To Everyone](https://www.theverge.com/2022/6/14/23162580/photoshop-web-free-freemium-version-adobe "Adobe Plans To Make Photoshop on the Web Free To Everyone") — The company is now testing the free version in Canada, where users are able to access Photoshop on the web through a free Adobe account. Adobe describes the service as “freemium” and eventually plans to gate off some features that will be exclusive to paying subscribers. Enough tools will be freely available to perform what Adobe considers to be Photoshop’s core functions.
-  * [Photopea | Online Photo Editor](https://www.photopea.com/ "Photopea | Online Photo Editor")
+  * [K9 mail to become Thunderbird on Android ](https://lwn.net/Articles/897712/ "K9 mail to become Thunderbird on Android") — Ultimately, K-9 Mail will transform into Thunderbird on Android. 
+  * [K-9 Mail – Open Source Email App for Android ](https://github.com/thundernest/k-9 "K-9 Mail – Open Source Email App for Android")
+  * [K-9 Mail joins the Thunderbird family ](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird "K-9 Mail joins the Thunderbird family")
+  * [Frequently Asked Questions: Thunderbird Mobile and K-9 Mail ](https://blog.thunderbird.net/2022/06/faq-thunderbird-mobile-and-k-9-mail/ "Frequently Asked Questions: Thunderbird Mobile and K-9 Mail")
+  * [Ubuntu Working To Provide Good Support For The VisionFive Low-Cost RISC-V Board ](https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-VisionFive-WIP "Ubuntu Working To Provide Good Support For The VisionFive Low-Cost RISC-V Board") — The Starfive VisionFive is a currently $179 USD RISC-V board that is intended to run full-blown RISC-V Linux distributions. 
+  * [Fedora 37 Looks To Boost Its Cloud Posture As An Official Edition ](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-Cloud-Base-37-Plan "Fedora 37 Looks To Boost Its Cloud Posture As An Official Edition") — Approved by the Fedora Engineering and Steering Committee this week is returning Fedora Cloud base to be listed as an official Fedora edition. 
+  * [Plasma 5.25 - Released ](https://kde.org/announcements/plasma/5/5.25.0/ "Plasma 5.25 - Released") — Plasma 5.25 brings new features and concepts to the desktop environment. 
+  * [5 Neat New Features in KDE Plasma 5.25, Released Today ](https://www.omgubuntu.co.uk/2022/06/kde-plasma-5-25-new-features "5 Neat New Features in KDE Plasma 5.25, Released Today")
+  * [Ventoy 1.0.76 ](https://github.com/ventoy/Ventoy/releases/tag/v1.0.76 "Ventoy 1.0.76") — Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files. 
+  * [Super UEFIinSecureBoot Disk: Boot any OS or .efi file without disabling UEFI Secure Boot ](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk "Super UEFIinSecureBoot Disk: Boot any OS or .efi file without disabling UEFI Secure Boot")
+  * [Adobe Plans To Make Photoshop on the Web Free To Everyone ](https://www.theverge.com/2022/6/14/23162580/photoshop-web-free-freemium-version-adobe "Adobe Plans To Make Photoshop on the Web Free To Everyone") — The company is now testing the free version in Canada, where users are able to access Photoshop on the web through a free Adobe account. Adobe describes the service as “freemium” and eventually plans to gate off some features that will be exclusive to paying subscribers. Enough tools will be freely available to perform what Adobe considers to be Photoshop’s core functions. 
+  * [Photopea | Online Photo Editor ](https://www.photopea.com/ "Photopea | Online Photo Editor")
 
 
 

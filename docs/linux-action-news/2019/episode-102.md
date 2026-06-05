@@ -21,14 +21,14 @@ None
 
 ## Episode links
 
-  * [Ubuntu 19.04 'Disco Dingo' Released](https://www.omgubuntu.co.uk/2018/11/ubuntu-19-04-release-features "Ubuntu 19.04 'Disco Dingo' Released") — Improved performance is what defines the ‘Disco Dingo’
-  * [Open infrastructure, developers and IoT are 19.04's focus](https://blog.ubuntu.com/2019/04/18/open-infrastructure-developer-desktop-and-iot-are-the-focus-for-ubuntu-19-04 "Open infrastructure, developers and IoT are 19.04's focus") — Ubuntu 19.04 integrates recent innovations from key open infrastructure projects – like OpenStack, Kubernetes, and Ceph – with advanced life-cycle management for multi-cloud and on-prem operations – from bare metal, VMware and OpenStack to every major public cloud.
-  * [Ubuntu 19.04 Flavours Available to Download](https://www.omgubuntu.co.uk/2019/04/ubuntu-19-04-flavours-whats-new "Ubuntu 19.04 Flavours Available to Download")
-  * [Introducing Mozilla WebThings](https://hacks.mozilla.org/2019/04/introducing-mozilla-webthings/ "Introducing Mozilla WebThings") — Project Things is graduating from its early experimental phase and from now on will be known as Mozilla WebThings.
-  * [WebThings Documentation](https://iot.mozilla.org/docs/ "WebThings Documentation")
-  * [Pyodide](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ "Pyodide") — Pyodide is an experimental project from Mozilla to create a full Python data science stack that runs entirely in the browser.
-  * [OpenSSH 8.0 released](https://lists.mindrot.org/pipermail/openssh-unix-announce/2019-April/000136.html "OpenSSH 8.0 released") — This release contains mitigation for a weakness in the scp(1) tool and protocol (CVE-2019-6111).
-  * [Presenting search app and browser options to Android users in Europe](https://www.blog.google/around-the-globe/google-europe/presenting-search-app-and-browser-options-android-users-europe/ "Presenting search app and browser options to Android users in Europe") — Following the changes we made to comply with the European Commission's ruling last year, we’ll start presenting new screens to Android users in Europe with an option to download search apps and browsers. 
+  * [Ubuntu 19.04 'Disco Dingo' Released ](https://www.omgubuntu.co.uk/2018/11/ubuntu-19-04-release-features "Ubuntu 19.04 'Disco Dingo' Released") — Improved performance is what defines the ‘Disco Dingo’ 
+  * [Open infrastructure, developers and IoT are 19.04's focus ](https://blog.ubuntu.com/2019/04/18/open-infrastructure-developer-desktop-and-iot-are-the-focus-for-ubuntu-19-04 "Open infrastructure, developers and IoT are 19.04's focus") — Ubuntu 19.04 integrates recent innovations from key open infrastructure projects – like OpenStack, Kubernetes, and Ceph – with advanced life-cycle management for multi-cloud and on-prem operations – from bare metal, VMware and OpenStack to every major public cloud. 
+  * [Ubuntu 19.04 Flavours Available to Download ](https://www.omgubuntu.co.uk/2019/04/ubuntu-19-04-flavours-whats-new "Ubuntu 19.04 Flavours Available to Download")
+  * [Introducing Mozilla WebThings ](https://hacks.mozilla.org/2019/04/introducing-mozilla-webthings/ "Introducing Mozilla WebThings") — Project Things is graduating from its early experimental phase and from now on will be known as Mozilla WebThings. 
+  * [WebThings Documentation ](https://iot.mozilla.org/docs/ "WebThings Documentation")
+  * [Pyodide ](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ "Pyodide") — Pyodide is an experimental project from Mozilla to create a full Python data science stack that runs entirely in the browser. 
+  * [OpenSSH 8.0 released ](https://lists.mindrot.org/pipermail/openssh-unix-announce/2019-April/000136.html "OpenSSH 8.0 released") — This release contains mitigation for a weakness in the scp(1) tool and protocol (CVE-2019-6111). 
+  * [Presenting search app and browser options to Android users in Europe ](https://www.blog.google/around-the-globe/google-europe/presenting-search-app-and-browser-options-android-users-europe/ "Presenting search app and browser options to Android users in Europe") — Following the changes we made to comply with the European Commission's ruling last year, we’ll start presenting new screens to Android users in Europe with an option to download search apps and browsers. 
 
 
 

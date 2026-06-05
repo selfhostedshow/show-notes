@@ -21,18 +21,18 @@ None
 
 ## Episode links
 
-  * [GitLab](https://gitlab.com/ "GitLab")
-  * [The Open Organization Definition - opensource.com](https://opensource.com/open-organization/resources/open-org-definition "The Open Organization Definition - opensource.com")
-  * [Brunch with Brent: Heather Ellsworth](https://extras.show/57 "Brunch with Brent: Heather Ellsworth")
-  * [GNOME](https://www.gnome.org/ "GNOME")
-  * [Endless OS - Endless Computers](https://endlessos.com/ "Endless OS - Endless Computers")
-  * [OSTree](https://ostree.readthedocs.io "OSTree")
-  * [Linux App Summit](https://linuxappsummit.org/ "Linux App Summit")
-  * [KDE](https://kde.org/ "KDE")
-  * [Flappy Bird - Wikipedia](https://en.wikipedia.org/wiki/Flappy_Bird "Flappy Bird - Wikipedia")
-  * [FlappyBird.io](http://flappybird.io/ "FlappyBird.io") — Play Flappy Bird!
-  * [Hack Computer - Coding for kids](https://www.hack-computer.com/ "Hack Computer - Coding for kids") — "Hack lets kids explore basic coding concepts and computational thinking as they journey down learning pathways. Everything is hackable - hack your apps, games and operating system."
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [GitLab ](https://gitlab.com/ "GitLab")
+  * [The Open Organization Definition - opensource.com ](https://opensource.com/open-organization/resources/open-org-definition "The Open Organization Definition - opensource.com")
+  * [Brunch with Brent: Heather Ellsworth ](https://extras.show/57 "Brunch with Brent: Heather Ellsworth")
+  * [GNOME ](https://www.gnome.org/ "GNOME")
+  * [Endless OS - Endless Computers ](https://endlessos.com/ "Endless OS - Endless Computers")
+  * [OSTree ](https://ostree.readthedocs.io "OSTree")
+  * [Linux App Summit ](https://linuxappsummit.org/ "Linux App Summit")
+  * [KDE ](https://kde.org/ "KDE")
+  * [Flappy Bird - Wikipedia ](https://en.wikipedia.org/wiki/Flappy_Bird "Flappy Bird - Wikipedia")
+  * [FlappyBird.io ](http://flappybird.io/ "FlappyBird.io") — Play Flappy Bird! 
+  * [Hack Computer - Coding for kids ](https://www.hack-computer.com/ "Hack Computer - Coding for kids") — "Hack lets kids explore basic coding concepts and computational thinking as they journey down learning pathways. Everything is hackable - hack your apps, games and operating system." 
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

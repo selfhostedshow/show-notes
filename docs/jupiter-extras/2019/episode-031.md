@@ -21,17 +21,17 @@ None
 
 ## Episode links
 
-  * [Linux Spotlight: Linux Spotlight EP19 - Jill Bryant Ryniker](https://linuxspotlight.fireside.fm/19 "Linux Spotlight: Linux Spotlight EP19 - Jill Bryant Ryniker")
-  * [LinuxGameCast](https://linuxgamecast.com "LinuxGameCast")
-  * [Jupiter Extras: Brunch with Brent: A Chat with Ell Marquez](https://extras.show/15 "Jupiter Extras: Brunch with Brent: A Chat with Ell Marquez")
-  * [Academy Software Foundation - focused on the sustainablity of the open source ecosystem for the animation and visual effects industry.](https://www.aswf.io/ "Academy Software Foundation - focused on the sustainablity of the open source ecosystem for the animation and visual effects industry.")
-  * [Jupiter Broadcasting & Archives](https://www.jupiterbroadcasting.com/ "Jupiter Broadcasting & Archives")
-  * [Jupiter Broadcasting Mumble Room](https://mumble.jupiterbroadcasting.org/ "Jupiter Broadcasting Mumble Room")
-  * [GNOME files defense against patent troll](https://secure.givelively.org/donate/gnome-foundation-inc/gnome-patent-troll-defense-fund "GNOME files defense against patent troll")
-  * [SCALE 18x - Southern California Linux Expo March. 5-8, 2020](https://www.socallinuxexpo.org/scale/18x "SCALE 18x - Southern California Linux Expo March. 5-8, 2020")
-  * [Jill Bryant Ryniker - @jill_linuxgirl on Twitter](https://twitter.com/jill_linuxgirl "Jill Bryant Ryniker - @jill_linuxgirl on Twitter")
-  * [@Jill_linuxgirl@mast.linuxgamecast.com](https://mast.linuxgamecast.com/@Jill_linuxgirl "@Jill_linuxgirl@mast.linuxgamecast.com")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Linux Spotlight: Linux Spotlight EP19 - Jill Bryant Ryniker ](https://linuxspotlight.fireside.fm/19 "Linux Spotlight: Linux Spotlight EP19 - Jill Bryant Ryniker")
+  * [LinuxGameCast ](https://linuxgamecast.com "LinuxGameCast")
+  * [Jupiter Extras: Brunch with Brent: A Chat with Ell Marquez ](https://extras.show/15 "Jupiter Extras: Brunch with Brent: A Chat with Ell Marquez")
+  * [Academy Software Foundation - focused on the sustainablity of the open source ecosystem for the animation and visual effects industry. ](https://www.aswf.io/ "Academy Software Foundation - focused on the sustainablity of the open source ecosystem for the animation and visual effects industry.")
+  * [Jupiter Broadcasting & Archives ](https://www.jupiterbroadcasting.com/ "Jupiter Broadcasting & Archives")
+  * [Jupiter Broadcasting Mumble Room ](https://mumble.jupiterbroadcasting.org/ "Jupiter Broadcasting Mumble Room")
+  * [GNOME files defense against patent troll ](https://secure.givelively.org/donate/gnome-foundation-inc/gnome-patent-troll-defense-fund "GNOME files defense against patent troll")
+  * [SCALE 18x - Southern California Linux Expo March. 5-8, 2020 ](https://www.socallinuxexpo.org/scale/18x "SCALE 18x - Southern California Linux Expo March. 5-8, 2020")
+  * [Jill Bryant Ryniker - @jill_linuxgirl on Twitter ](https://twitter.com/jill_linuxgirl "Jill Bryant Ryniker - @jill_linuxgirl on Twitter")
+  * [@Jill_linuxgirl@mast.linuxgamecast.com ](https://mast.linuxgamecast.com/@Jill_linuxgirl "@Jill_linuxgirl@mast.linuxgamecast.com")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

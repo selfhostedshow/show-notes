@@ -22,14 +22,14 @@ A lot happened in the free desktop world this week, we cover the impressive rele
 
 ## Episode links
 
-  * [elementary OS 7 Available Now](https://blog.elementary.io/os-7-available-now/ "elementary OS 7 Available Now") — Today we’re proud to announce that OS 7, codenamed Horus, is available to download now and shipping soon on several high-quality computers.
-  * [Xfce Going Wayland](https://9to5linux.com/xfce-4-20-desktop-environment-will-finally-bring-wayland-support "Xfce Going Wayland") — That’s right, work on Xfce 4.20 kicked off earlier this month with the release of libxfce4windowing, a new dependency for the Xfce desktop environment to provide support for the next-generation Wayland display protocol.
-  * [Xfce / libxfce4windowing](https://gitlab.xfce.org/xfce/libxfce4windowing "Xfce / libxfce4windowing")
-  * [COSMIC DE has Speed](https://blog.system76.com/post/more-on-cosmic-de-to-kick-off-2023 "COSMIC DE has Speed") — Alex here with the latest batch of updates from System76 engineers on the development of COSMIC DE, as well as some Settings mockups where you can explore some of the new changes.
-  * [System76 Adding XWayland Support & Other Improvements](https://www.phoronix.com/news/System76-COSMIC-DE-January "System76 Adding XWayland Support & Other Improvements")
-  * [Ubuntu Pro for All](https://9to5linux.com/canonical-announces-general-availability-of-ubuntu-pro-free-for-up-to-5-pcs "Ubuntu Pro for All") — First released in a beta version in October 2022.
-  * [helloSystem 0.8](https://github.com/helloSystem/ISO/releases "helloSystem 0.8") — helloSystem is now based on FreeBSD 13.1-RELEASE. A desktop system for creators that focuses on simplicity, elegance, and usability.
-  * [helloSystem 0.8: A friendly, all-graphical FreeBSD](https://www.theregister.com/2023/01/31/hellosystem_08/ "helloSystem 0.8: A friendly, all-graphical FreeBSD") — Since most applications I am using on a daily basis are cross-platform and many of them are written in Qt, it seemed logical to choose Qt as the native toolkit for helloSystem.
+  * [elementary OS 7 Available Now ](https://blog.elementary.io/os-7-available-now/ "elementary OS 7 Available Now") — Today we’re proud to announce that OS 7, codenamed Horus, is available to download now and shipping soon on several high-quality computers. 
+  * [Xfce Going Wayland ](https://9to5linux.com/xfce-4-20-desktop-environment-will-finally-bring-wayland-support "Xfce Going Wayland") — That’s right, work on Xfce 4.20 kicked off earlier this month with the release of libxfce4windowing, a new dependency for the Xfce desktop environment to provide support for the next-generation Wayland display protocol. 
+  * [Xfce / libxfce4windowing ](https://gitlab.xfce.org/xfce/libxfce4windowing "Xfce / libxfce4windowing")
+  * [COSMIC DE has Speed ](https://blog.system76.com/post/more-on-cosmic-de-to-kick-off-2023 "COSMIC DE has Speed") — Alex here with the latest batch of updates from System76 engineers on the development of COSMIC DE, as well as some Settings mockups where you can explore some of the new changes. 
+  * [System76 Adding XWayland Support & Other Improvements ](https://www.phoronix.com/news/System76-COSMIC-DE-January "System76 Adding XWayland Support & Other Improvements")
+  * [Ubuntu Pro for All ](https://9to5linux.com/canonical-announces-general-availability-of-ubuntu-pro-free-for-up-to-5-pcs "Ubuntu Pro for All") — First released in a beta version in October 2022. 
+  * [helloSystem 0.8 ](https://github.com/helloSystem/ISO/releases "helloSystem 0.8") — helloSystem is now based on FreeBSD 13.1-RELEASE. A desktop system for creators that focuses on simplicity, elegance, and usability. 
+  * [helloSystem 0.8: A friendly, all-graphical FreeBSD ](https://www.theregister.com/2023/01/31/hellosystem_08/ "helloSystem 0.8: A friendly, all-graphical FreeBSD") — Since most applications I am using on a daily basis are cross-platform and many of them are written in Qt, it seemed logical to choose Qt as the native toolkit for helloSystem. 
 
 
 

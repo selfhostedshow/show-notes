@@ -21,11 +21,11 @@ None
 
 ## Episode links
 
-  * [Build The BEST Security Camera NVR](https://www.youtube.com/watch?v=fwoonl5JKgo "Build The BEST Security Camera NVR") — Free Locally Processed AI Computer Vision with Blue Iris. 
-  * [Free AI Person Detection for Blue Iris](https://ipcamtalk.com/threads/tool-tutorial-free-ai-person-detection-for-blue-iris.37330/ "Free AI Person Detection for Blue Iris") — This program analyzes motion in Blue Iris cameras in real-time using Artificial Intelligence. 
-  * [Deep Stack AI](https://github.com/danecreekphotography/node-deepstackai-trigger/wiki "Deep Stack AI") — This system uses Docker containers to run DeepStack AI and process images from a watch folder, then fires a set of registered triggers to make web request calls, send MQTT events, and send Telegram messages when specified objects are detected in the images.
-  * [Aeotec Multisensor 6](https://www.amazon.com/Aeotec-Multisensor-temperature-humidity-vibration/dp/B0151Z8ZQY "Aeotec Multisensor 6") — Z-Wave Plus 6-in1 motion, temperature, humidity, light, UV, vibration sensor
-  * [Gitea](https://gitea.io/en-us/ "Gitea") — Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.
+  * [Build The BEST Security Camera NVR ](https://www.youtube.com/watch?v=fwoonl5JKgo "Build The BEST Security Camera NVR") — Free Locally Processed AI Computer Vision with Blue Iris. 
+  * [Free AI Person Detection for Blue Iris ](https://ipcamtalk.com/threads/tool-tutorial-free-ai-person-detection-for-blue-iris.37330/ "Free AI Person Detection for Blue Iris") — This program analyzes motion in Blue Iris cameras in real-time using Artificial Intelligence. 
+  * [Deep Stack AI ](https://github.com/danecreekphotography/node-deepstackai-trigger/wiki "Deep Stack AI") — This system uses Docker containers to run DeepStack AI and process images from a watch folder, then fires a set of registered triggers to make web request calls, send MQTT events, and send Telegram messages when specified objects are detected in the images. 
+  * [Aeotec Multisensor 6 ](https://www.amazon.com/Aeotec-Multisensor-temperature-humidity-vibration/dp/B0151Z8ZQY "Aeotec Multisensor 6") — Z-Wave Plus 6-in1 motion, temperature, humidity, light, UV, vibration sensor 
+  * [Gitea ](https://gitea.io/en-us/ "Gitea") — Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license. 
 
 
 

@@ -22,15 +22,15 @@ We tried Fedora 37 on the Pi 4, the Google surprise this week, and our thoughts 
 
 ## Episode links
 
-  * [Announcing Fedora Linux 37](https://fedoramagazine.org/announcing-fedora-37/ "Announcing Fedora Linux 37") — Fedora Editions are flagship offerings targeted at a particular “market”. With Fedora Linux 37, we’re adding two new Editions.
-  * [Fedora 37 Now Available With GNOME 43 Desktop, Official Raspberry Pi 4 Support](https://www.phoronix.com/news/Fedora-37-Released "Fedora 37 Now Available With GNOME 43 Desktop, Official Raspberry Pi 4 Support")
-  * [Meta OSS’ Sapling](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/ "Meta OSS’ Sapling") — A new source control system with Git-compatible client.
-  * [Get ready for Google Summer of Code 2023!](https://opensource.googleblog.com/2022/11/get-ready-for-google-summer-of-code-2023.html "Get ready for Google Summer of Code 2023!") — We are thrilled to announce the 2023 Google Summer of Code (GSoC) program and share the timeline with you to get involved! 2023 will be our 19th consecutive year of hosting GSoC.
-  * [Google Summer of Code](https://summerofcode.withgoogle.com/ "Google Summer of Code")
-  * [Rust in the Kernel Update](https://lore.kernel.org/lkml/20221110164152.26136-1-ojeda@kernel.org/ "Rust in the Kernel Update") — This patch series is the first batch of changes to upstream the rest of the Rust support.
-  * [Rust Developers Preparing To Upstream More Code Into The Linux Kernel](https://www.phoronix.com/news/More-Rust-Upstream-Prep-Linux "Rust Developers Preparing To Upstream More Code Into The Linux Kernel")
-  * [WSL 1.0 Released](https://github.com/microsoft/WSL/releases/tag/1.0.0 "WSL 1.0 Released") — Microsoft announces it is removing the Preview label and making WSL in the Microsoft Store "generally available".
-  * [Release Notes for WSL kernel](https://learn.microsoft.com/en-us/windows/wsl/kernel-release-notes "Release Notes for WSL kernel")
+  * [Announcing Fedora Linux 37 ](https://fedoramagazine.org/announcing-fedora-37/ "Announcing Fedora Linux 37") — Fedora Editions are flagship offerings targeted at a particular “market”. With Fedora Linux 37, we’re adding two new Editions. 
+  * [Fedora 37 Now Available With GNOME 43 Desktop, Official Raspberry Pi 4 Support ](https://www.phoronix.com/news/Fedora-37-Released "Fedora 37 Now Available With GNOME 43 Desktop, Official Raspberry Pi 4 Support")
+  * [Meta OSS’ Sapling ](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/ "Meta OSS’ Sapling") — A new source control system with Git-compatible client. 
+  * [Get ready for Google Summer of Code 2023! ](https://opensource.googleblog.com/2022/11/get-ready-for-google-summer-of-code-2023.html "Get ready for Google Summer of Code 2023!") — We are thrilled to announce the 2023 Google Summer of Code (GSoC) program and share the timeline with you to get involved! 2023 will be our 19th consecutive year of hosting GSoC. 
+  * [Google Summer of Code ](https://summerofcode.withgoogle.com/ "Google Summer of Code")
+  * [Rust in the Kernel Update ](https://lore.kernel.org/lkml/20221110164152.26136-1-ojeda@kernel.org/ "Rust in the Kernel Update") — This patch series is the first batch of changes to upstream the rest of the Rust support. 
+  * [Rust Developers Preparing To Upstream More Code Into The Linux Kernel ](https://www.phoronix.com/news/More-Rust-Upstream-Prep-Linux "Rust Developers Preparing To Upstream More Code Into The Linux Kernel")
+  * [WSL 1.0 Released ](https://github.com/microsoft/WSL/releases/tag/1.0.0 "WSL 1.0 Released") — Microsoft announces it is removing the Preview label and making WSL in the Microsoft Store "generally available". 
+  * [Release Notes for WSL kernel ](https://learn.microsoft.com/en-us/windows/wsl/kernel-release-notes "Release Notes for WSL kernel")
 
 
 

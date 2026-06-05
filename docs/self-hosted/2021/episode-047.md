@@ -15,27 +15,27 @@ We take a look at a self-hosted TeamViewer alternative, give you our take on som
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloud.guru/overview/hands-on-with-podman-containers/?utm_source=jupiter&utm_medium=cpc): [You will learn what containers are and why use them; how to manage containers, pods, and images using Podman.](https://acloud.guru/overview/hands-on-with-podman-containers/?utm_source=jupiter&utm_medium=cpc)
+  * [A Cloud Guru](https://acloud.guru/overview/hands-on-with-podman-containers/?utm_source=jupiter&utm_medium=cpc): [You will learn what containers are and why use them; how to manage containers, pods, and images using Podman. ](https://acloud.guru/overview/hands-on-with-podman-containers/?utm_source=jupiter&utm_medium=cpc)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
+  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show. ](https://cloudfree.shop/) Promo Code: SELFHOSTED
 
 
 
 ## Episode links
 
-  * [RustDesk - Yet another remote desktop software](https://github.com/rustdesk/rustdesk "RustDesk - Yet another remote desktop software") — A great alternative to TeamViewer and AnyDesk! You have full control of your data, with no concerns about security. You can use our rendezvous/relay server, set up your own, or write your own rendezvous/relay server.
-  * [RustDesk-server](https://github.com/rustdesk/rustdesk-server/blob/master/id-relay-set.md "RustDesk-server")
-  * [rustdesk-server-demo: A working demo of RustDesk server implementation](https://github.com/rustdesk/rustdesk-server-demo "rustdesk-server-demo: A working demo of RustDesk server implementation")
-  * [Home Assistant drama](https://github.com/NixOS/nixpkgs/pull/126326 "Home Assistant drama")
-  * [“Please don't add any of my stuff to this project” | Hacker News](https://news.ycombinator.com/item?id=27505277 "“Please don't add any of my stuff to this project” | Hacker News")
-  * [Home Assistant Forum Thread](https://community.home-assistant.io/t/consider-to-avoid-adding-library-dependencies-from-frenck/315185 "Home Assistant Forum Thread")
-  * [Shuck 'em if you got 'em](https://shucks.top/ "Shuck 'em if you got 'em") — WD external drive price tracker.
-  * [Chia Network](https://www.chia.net/ "Chia Network") — Chia Network develops a blockchain and smart transaction platform created by the inventor of BitTorrent, Bram Cohen. It implements the first new Nakamoto consensus algorithm since Bitcoin in 2008. Proofs of Space and Time replace energy intensive “proofs of work.”
-  * [ESPHome - Version 1.19.0](https://esphome.io/changelog/v1.19.0.html "ESPHome - Version 1.19.0") — Wow. Ok, so this release may not look big, but there are a number of new features that are not new components.
-  * [ESP Web Tools](https://esphome.github.io/esp-web-tools/ "ESP Web Tools") — ESP Web Tools is a set of open source tools to allow working with ESP devices in the browser
-  * [Tasmota v9.5.0 Release](https://github.com/arendst/Tasmota/releases/tag/v9.5.0 "Tasmota v9.5.0 Release")
-  * [Monica - Personal CRM done right](https://www.monicahq.com/ "Monica - Personal CRM done right") — Monica helps you organize the social interactions with your loved ones.
-  * [tinyhome: Static homepage generator](https://github.com/bderenzo/tinyhome "tinyhome: Static homepage generator") — tinyhome generates a static HTML homepage via shell script.
+  * [RustDesk - Yet another remote desktop software ](https://github.com/rustdesk/rustdesk "RustDesk - Yet another remote desktop software") — A great alternative to TeamViewer and AnyDesk! You have full control of your data, with no concerns about security. You can use our rendezvous/relay server, set up your own, or write your own rendezvous/relay server. 
+  * [RustDesk-server ](https://github.com/rustdesk/rustdesk-server/blob/master/id-relay-set.md "RustDesk-server")
+  * [rustdesk-server-demo: A working demo of RustDesk server implementation ](https://github.com/rustdesk/rustdesk-server-demo "rustdesk-server-demo: A working demo of RustDesk server implementation")
+  * [Home Assistant drama ](https://github.com/NixOS/nixpkgs/pull/126326 "Home Assistant drama")
+  * [“Please don't add any of my stuff to this project” | Hacker News ](https://news.ycombinator.com/item?id=27505277 "“Please don't add any of my stuff to this project” | Hacker News")
+  * [Home Assistant Forum Thread ](https://community.home-assistant.io/t/consider-to-avoid-adding-library-dependencies-from-frenck/315185 "Home Assistant Forum Thread")
+  * [Shuck 'em if you got 'em ](https://shucks.top/ "Shuck 'em if you got 'em") — WD external drive price tracker. 
+  * [Chia Network ](https://www.chia.net/ "Chia Network") — Chia Network develops a blockchain and smart transaction platform created by the inventor of BitTorrent, Bram Cohen. It implements the first new Nakamoto consensus algorithm since Bitcoin in 2008. Proofs of Space and Time replace energy intensive “proofs of work.” 
+  * [ESPHome - Version 1.19.0 ](https://esphome.io/changelog/v1.19.0.html "ESPHome - Version 1.19.0") — Wow. Ok, so this release may not look big, but there are a number of new features that are not new components. 
+  * [ESP Web Tools ](https://esphome.github.io/esp-web-tools/ "ESP Web Tools") — ESP Web Tools is a set of open source tools to allow working with ESP devices in the browser 
+  * [Tasmota v9.5.0 Release ](https://github.com/arendst/Tasmota/releases/tag/v9.5.0 "Tasmota v9.5.0 Release")
+  * [Monica - Personal CRM done right ](https://www.monicahq.com/ "Monica - Personal CRM done right") — Monica helps you organize the social interactions with your loved ones. 
+  * [tinyhome: Static homepage generator ](https://github.com/bderenzo/tinyhome "tinyhome: Static homepage generator") — tinyhome generates a static HTML homepage via shell script. 
 
 
 

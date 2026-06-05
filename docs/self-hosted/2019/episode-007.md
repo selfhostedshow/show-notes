@@ -21,21 +21,21 @@ None
 
 ## Episode links
 
-  * [Hard Drive Sales Telegram Group](https://t.me/hddsales "Hard Drive Sales Telegram Group")
-  * [Nabu Casa](https://www.nabucasa.com/ "Nabu Casa") — No longer worry if you left the garage door open. Quickly access your Home Assistant instance from your phone, your favorite coffeeshop or at work. All data is fully encrypted between your device and your Home Assistant instance. No snooping
-  * [Home Assistant Cloud](https://www.home-assistant.io/cloud/ "Home Assistant Cloud")
-  * [Chris' Z-Wave USB Dongle](https://www.amazon.com/gp/product/B01GJ826F8/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1 "Chris' Z-Wave USB Dongle") — Z-Wave Plus certified for wide compatibility
-  * [Chris' White Noise Makers](https://www.amazon.com/gp/product/B07CG2W9J8/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1 "Chris' White Noise Makers") — The Original White Noise Machine - Marpac Dohm 
-  * [Chris' Fav sensor: Aeotec Multisensor 6](https://www.amazon.com/gp/product/B0151Z8ZQY/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 "Chris' Fav sensor: Aeotec Multisensor 6") — Z-Wave Plus 6-in1 motion, temperature, humidity, light, UV, vibration sensor
-  * [Chris' Outdoor Z-Wave Power Plugs](https://www.amazon.com/gp/product/B06W9NWFM3/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1 "Chris' Outdoor Z-Wave Power Plugs") — GE Enbrighten Z-Wave Plus Smart Plug, 1 On/Off Outlet, Weather-Resistant, Built-in Repeater/Range Extender
-  * [500-Watt Ceramic Small Space Personal Mini Heater](https://www.amazon.com/gp/product/B074MXC3PN/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1 "500-Watt Ceramic Small Space Personal Mini Heater") — Compact personal space heater design that is small enough for tables or desktops
-  * [Chris' Portable Oil-Filled Radiator](https://www.amazon.com/DeLonghi-TRN0812T-Portable-Oil-Filled-Programmable/dp/B000G1CXZI/ref=sr_1_57?keywords=oil+heater&qid=1574274684&sr=8-57 "Chris' Portable Oil-Filled Radiator") — 1200 watts of heating power, silent operation, Best for small to medium rooms that need constant heat in the colder seasons. 
-  * [TP-Link Smart Plug two Pack](https://www.amazon.com/gp/product/B06WD6Q8K9/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1 "TP-Link Smart Plug two Pack") — Smart WiFi Plug Mini by TP-Link
-  * [Home Assistant Integrations Directory](https://www.home-assistant.io/integrations "Home Assistant Integrations Directory")
-  * [Alex's Fav Smart Plug](https://www.amazon.com/Outlet-Compatible-Monitoring-Function-Required/dp/B07CVFD2KC/ref=sr_1_4?keywords=teckin+sp20&qid=1574271882&sr=8-4 "Alex's Fav Smart Plug") — Teckin Mini Smart Socket with Schedule and Timer Function
-  * [Smart RGB LED strips with Home Assistant](https://blog.ktz.me/smart-led-strips-with-no-subscription-required/ "Smart RGB LED strips with Home Assistant") — This article will detail how to build a fully open source, 3D printable smart LED strip for $16.38.
-  * [Mosquitto - An open source MQTT broker](https://mosquitto.org/ "Mosquitto - An open source MQTT broker") — The MQTT protocol provides a lightweight method of carrying out messaging using a publish/subscribe model. This makes it suitable for Internet of Things messaging such as with low power sensors or mobile devices such as phones, embedded computers or microcontrollers.
-  * [Complete guide on setting up Grafana/InfluxDB with Home Assistant](https://community.home-assistant.io/t/complete-guide-on-setting-up-grafana-influxdb-with-home-assistant-using-official-docker-images/42860 "Complete guide on setting up Grafana/InfluxDB with Home Assistant")
+  * [Hard Drive Sales Telegram Group ](https://t.me/hddsales "Hard Drive Sales Telegram Group")
+  * [Nabu Casa ](https://www.nabucasa.com/ "Nabu Casa") — No longer worry if you left the garage door open. Quickly access your Home Assistant instance from your phone, your favorite coffeeshop or at work. All data is fully encrypted between your device and your Home Assistant instance. No snooping 
+  * [Home Assistant Cloud ](https://www.home-assistant.io/cloud/ "Home Assistant Cloud")
+  * [Chris' Z-Wave USB Dongle ](https://www.amazon.com/gp/product/B01GJ826F8/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1 "Chris' Z-Wave USB Dongle") — Z-Wave Plus certified for wide compatibility 
+  * [Chris' White Noise Makers ](https://www.amazon.com/gp/product/B07CG2W9J8/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1 "Chris' White Noise Makers") — The Original White Noise Machine - Marpac Dohm 
+  * [Chris' Fav sensor: Aeotec Multisensor 6 ](https://www.amazon.com/gp/product/B0151Z8ZQY/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 "Chris' Fav sensor: Aeotec Multisensor 6") — Z-Wave Plus 6-in1 motion, temperature, humidity, light, UV, vibration sensor 
+  * [Chris' Outdoor Z-Wave Power Plugs ](https://www.amazon.com/gp/product/B06W9NWFM3/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1 "Chris' Outdoor Z-Wave Power Plugs") — GE Enbrighten Z-Wave Plus Smart Plug, 1 On/Off Outlet, Weather-Resistant, Built-in Repeater/Range Extender 
+  * [500-Watt Ceramic Small Space Personal Mini Heater ](https://www.amazon.com/gp/product/B074MXC3PN/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1 "500-Watt Ceramic Small Space Personal Mini Heater") — Compact personal space heater design that is small enough for tables or desktops 
+  * [Chris' Portable Oil-Filled Radiator ](https://www.amazon.com/DeLonghi-TRN0812T-Portable-Oil-Filled-Programmable/dp/B000G1CXZI/ref=sr_1_57?keywords=oil+heater&qid=1574274684&sr=8-57 "Chris' Portable Oil-Filled Radiator") — 1200 watts of heating power, silent operation, Best for small to medium rooms that need constant heat in the colder seasons. 
+  * [TP-Link Smart Plug two Pack ](https://www.amazon.com/gp/product/B06WD6Q8K9/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1 "TP-Link Smart Plug two Pack") — Smart WiFi Plug Mini by TP-Link 
+  * [Home Assistant Integrations Directory ](https://www.home-assistant.io/integrations "Home Assistant Integrations Directory")
+  * [Alex's Fav Smart Plug ](https://www.amazon.com/Outlet-Compatible-Monitoring-Function-Required/dp/B07CVFD2KC/ref=sr_1_4?keywords=teckin+sp20&qid=1574271882&sr=8-4 "Alex's Fav Smart Plug") — Teckin Mini Smart Socket with Schedule and Timer Function 
+  * [Smart RGB LED strips with Home Assistant ](https://blog.ktz.me/smart-led-strips-with-no-subscription-required/ "Smart RGB LED strips with Home Assistant") — This article will detail how to build a fully open source, 3D printable smart LED strip for $16.38. 
+  * [Mosquitto - An open source MQTT broker ](https://mosquitto.org/ "Mosquitto - An open source MQTT broker") — The MQTT protocol provides a lightweight method of carrying out messaging using a publish/subscribe model. This makes it suitable for Internet of Things messaging such as with low power sensors or mobile devices such as phones, embedded computers or microcontrollers. 
+  * [Complete guide on setting up Grafana/InfluxDB with Home Assistant ](https://community.home-assistant.io/t/complete-guide-on-setting-up-grafana-influxdb-with-home-assistant-using-official-docker-images/42860 "Complete guide on setting up Grafana/InfluxDB with Home Assistant")
 
 
 

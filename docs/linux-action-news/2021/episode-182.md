@@ -17,30 +17,30 @@ GNOME 40 is out and we chat with the project’s Executive Director about the te
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [GNOME 40 Release Notes](https://help.gnome.org/misc/release-notes/40.0/ "GNOME 40 Release Notes") — GNOME 40 is the latest version of GNOME, and is the result of 6 months’ hard work by the GNOME community. It contains major new features, as well as many smaller improvements and bug fixes. In total, the release incorporates 24571 changes, made by approximately 822 contributors. 
-  * [Feeling brave? GNOME 40 is here and you can have a poke around in the Fedora 34 beta](https://www.theregister.com/2021/03/25/gnome_40/ "Feeling brave? GNOME 40 is here and you can have a poke around in the Fedora 34 beta")
-  * [GNOME 40](https://forty.gnome.org/ "GNOME 40")
-  * [GNOME 3.38.5 Released with Support for Handling Monitor Changes During Screencasts](https://9to5linux.com/gnome-3-38-5-released-with-support-for-handling-monitor-changes-during-screencasts "GNOME 3.38.5 Released with Support for Handling Monitor Changes During Screencasts") — Coming a month after the GNOME 3.38.4 point release the GNOME 3.38.5 update is here with more bug fixes and various improvements to make the GNOME 3.38 desktop environment series more stable, secure, and reliable.
-  * [Forthcoming OpenSSL release](https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html "Forthcoming OpenSSL release") — This release will be made available on Thursday 25th March 2021 between 1300-1700 UTC. 
-  * [CVE-2021-3450: CA certificate check bypass with X509_V_FLAG_X509_STRICT](https://www.openssl.org/news/secadv/20210325.txt "CVE-2021-3450: CA certificate check bypass with X509_V_FLAG_X509_STRICT") — Starting from OpenSSL version 1.1.1h a check to disallow certificates in the chain that have explicitly encoded elliptic curve parameters was added as an additional strict check. 
-  * [Cloud CPU Benchmarking Report | Linode](https://www.linode.com/content/cloud-cpu-benchmarking-report/ "Cloud CPU Benchmarking Report | Linode")
-  * [Run Windows on Linode](https://github.com/only-cliches/docs/blob/windows-on-linode/docs/tools-reference/windows-on-linode/installing-windows-on-linode-vps.md "Run Windows on Linode")
-  * [RMS is Back](https://www.theverge.com/2021/3/22/22344910/richard-stallman-returns-free-software-foundation-board-comments "RMS is Back") — Free software advocate Richard Stallman is rejoining the board of the Free Software Foundation. 
-  * [An open letter to remove Richard M. Stallman from all leadership positions](https://rms-open-letter.github.io/ "An open letter to remove Richard M. Stallman from all leadership positions")
-  * [An open letter in support of Richard M. Stallman](https://rms-support-letter.github.io/ "An open letter in support of Richard M. Stallman")
-  * [Free software advocates seek removal of Richard Stallman and entire FSF board | Ars Technica](https://arstechnica.com/tech-policy/2021/03/free-software-advocates-seek-removal-of-richard-stallman-and-entire-fsf-board/ "Free software advocates seek removal of Richard Stallman and entire FSF board | Ars Technica")
-  * [Statement on the Re-election of Richard Stallman to the FSF Board | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2021/03/statement-re-election-richard-stallman-fsf-board "Statement on the Re-election of Richard Stallman to the FSF Board | Electronic Frontier Foundation")
-  * [Free Software Community Condemns Richard Stallman’s Reinstatement to FSF Board of Directors](https://wptavern.com/free-software-community-condemns-richard-stallmans-reinstatement-to-fsf-board-of-directors "Free Software Community Condemns Richard Stallman’s Reinstatement to FSF Board of Directors")
-  * [Richard Stallman returns to the Free Software Foundation](https://sdtimes.com/softwaredev/richard-stallman-returns-to-the-free-software-foundation/ "Richard Stallman returns to the Free Software Foundation")
-  * [SUSE joins open source bodies calling for Stallman to go](https://itwire.com/open-source/suse-joins-open-source-bodies-calling-for-stallman-to-go.html "SUSE joins open source bodies calling for Stallman to go")
-  * [From PS5 to Ford F-150: How a global chip shortage is 'impacting everything'](https://www.cnet.com/news/from-ps5-to-ford-f-150-how-a-global-chip-shortage-is-impacting-everything "From PS5 to Ford F-150: How a global chip shortage is 'impacting everything'") — The biggest news in the automotive industry right now isn't new electric vehicles or Tesla CEO Elon Musk's latest comments. It's a major semiconductor shortage that's hurting automakers across the globe. 
-  * [[Video] How The Global Computer Chip Shortage Happened](https://www.youtube.com/watch?v=sfAyXjRFUJk "\[Video\] How The Global Computer Chip Shortage Happened")
+  * [GNOME 40 Release Notes ](https://help.gnome.org/misc/release-notes/40.0/ "GNOME 40 Release Notes") — GNOME 40 is the latest version of GNOME, and is the result of 6 months’ hard work by the GNOME community. It contains major new features, as well as many smaller improvements and bug fixes. In total, the release incorporates 24571 changes, made by approximately 822 contributors. 
+  * [Feeling brave? GNOME 40 is here and you can have a poke around in the Fedora 34 beta ](https://www.theregister.com/2021/03/25/gnome_40/ "Feeling brave? GNOME 40 is here and you can have a poke around in the Fedora 34 beta")
+  * [GNOME 40 ](https://forty.gnome.org/ "GNOME 40")
+  * [GNOME 3.38.5 Released with Support for Handling Monitor Changes During Screencasts ](https://9to5linux.com/gnome-3-38-5-released-with-support-for-handling-monitor-changes-during-screencasts "GNOME 3.38.5 Released with Support for Handling Monitor Changes During Screencasts") — Coming a month after the GNOME 3.38.4 point release the GNOME 3.38.5 update is here with more bug fixes and various improvements to make the GNOME 3.38 desktop environment series more stable, secure, and reliable. 
+  * [Forthcoming OpenSSL release ](https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html "Forthcoming OpenSSL release") — This release will be made available on Thursday 25th March 2021 between 1300-1700 UTC. 
+  * [CVE-2021-3450: CA certificate check bypass with X509_V_FLAG_X509_STRICT ](https://www.openssl.org/news/secadv/20210325.txt "CVE-2021-3450: CA certificate check bypass with X509_V_FLAG_X509_STRICT") — Starting from OpenSSL version 1.1.1h a check to disallow certificates in the chain that have explicitly encoded elliptic curve parameters was added as an additional strict check. 
+  * [Cloud CPU Benchmarking Report | Linode ](https://www.linode.com/content/cloud-cpu-benchmarking-report/ "Cloud CPU Benchmarking Report | Linode")
+  * [Run Windows on Linode ](https://github.com/only-cliches/docs/blob/windows-on-linode/docs/tools-reference/windows-on-linode/installing-windows-on-linode-vps.md "Run Windows on Linode")
+  * [RMS is Back ](https://www.theverge.com/2021/3/22/22344910/richard-stallman-returns-free-software-foundation-board-comments "RMS is Back") — Free software advocate Richard Stallman is rejoining the board of the Free Software Foundation. 
+  * [An open letter to remove Richard M. Stallman from all leadership positions ](https://rms-open-letter.github.io/ "An open letter to remove Richard M. Stallman from all leadership positions")
+  * [An open letter in support of Richard M. Stallman ](https://rms-support-letter.github.io/ "An open letter in support of Richard M. Stallman")
+  * [Free software advocates seek removal of Richard Stallman and entire FSF board | Ars Technica ](https://arstechnica.com/tech-policy/2021/03/free-software-advocates-seek-removal-of-richard-stallman-and-entire-fsf-board/ "Free software advocates seek removal of Richard Stallman and entire FSF board | Ars Technica")
+  * [Statement on the Re-election of Richard Stallman to the FSF Board | Electronic Frontier Foundation ](https://www.eff.org/deeplinks/2021/03/statement-re-election-richard-stallman-fsf-board "Statement on the Re-election of Richard Stallman to the FSF Board | Electronic Frontier Foundation")
+  * [Free Software Community Condemns Richard Stallman’s Reinstatement to FSF Board of Directors ](https://wptavern.com/free-software-community-condemns-richard-stallmans-reinstatement-to-fsf-board-of-directors "Free Software Community Condemns Richard Stallman’s Reinstatement to FSF Board of Directors")
+  * [Richard Stallman returns to the Free Software Foundation ](https://sdtimes.com/softwaredev/richard-stallman-returns-to-the-free-software-foundation/ "Richard Stallman returns to the Free Software Foundation")
+  * [SUSE joins open source bodies calling for Stallman to go ](https://itwire.com/open-source/suse-joins-open-source-bodies-calling-for-stallman-to-go.html "SUSE joins open source bodies calling for Stallman to go")
+  * [From PS5 to Ford F-150: How a global chip shortage is 'impacting everything' ](https://www.cnet.com/news/from-ps5-to-ford-f-150-how-a-global-chip-shortage-is-impacting-everything "From PS5 to Ford F-150: How a global chip shortage is 'impacting everything'") — The biggest news in the automotive industry right now isn't new electric vehicles or Tesla CEO Elon Musk's latest comments. It's a major semiconductor shortage that's hurting automakers across the globe. 
+  * [[Video] How The Global Computer Chip Shortage Happened ](https://www.youtube.com/watch?v=sfAyXjRFUJk "\[Video\] How The Global Computer Chip Shortage Happened")
 
 
 

@@ -20,7 +20,7 @@ None
 
 ## Episode links
 
-  * [Texas Linux Festival 2024](https://2024.texaslinuxfest.org/ "Texas Linux Festival 2024") — Texas Linux Fest is the first state-wide annual community-run conference for Linux and open source software users and enthusiasts from around the Lone Star State.
+  * [Texas Linux Festival 2024 ](https://2024.texaslinuxfest.org/ "Texas Linux Festival 2024") — Texas Linux Fest is the first state-wide annual community-run conference for Linux and open source software users and enthusiasts from around the Lone Star State. 
 
 
 

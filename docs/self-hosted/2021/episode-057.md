@@ -15,24 +15,24 @@ Troubleshooting goes very wrong for Alex, and he puts his backups to the ultimat
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://learn.acloud.guru/course/21d201a8-1ec5-4076-bd74-8836d87cb9f1/overview/?utm_source=jupiter&utm_medium=cpc): [This course covers the various software, tools, and utilities used to configure web services on a Linux host.](https://learn.acloud.guru/course/21d201a8-1ec5-4076-bd74-8836d87cb9f1/overview/?utm_source=jupiter&utm_medium=cpc)
-  * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze.](https://www.backblaze.com/ssh)
+  * [A Cloud Guru](https://learn.acloud.guru/course/21d201a8-1ec5-4076-bd74-8836d87cb9f1/overview/?utm_source=jupiter&utm_medium=cpc): [This course covers the various software, tools, and utilities used to configure web services on a Linux host. ](https://learn.acloud.guru/course/21d201a8-1ec5-4076-bd74-8836d87cb9f1/overview/?utm_source=jupiter&utm_medium=cpc)
+  * [Backblaze Unlimited Backup](https://www.backblaze.com/ssh): [Get peace of mind knowing your files are backed up securely in the cloud with Backblaze. ](https://www.backblaze.com/ssh)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 
 ## Episode links
 
-  * [SONOFF CC2531 USB Zigbee Dongle](https://itead.cc/product/cc2531-usb-dongle/ "SONOFF CC2531 USB Zigbee Dongle") — The CC2531 USB dongle is a fully operational USB device which provides a PC interface to IEEE802.15.4 / ZigBee application
-  * [Shuck 'em if you got 'em](https://shucks.top/ "Shuck 'em if you got 'em") — WD external drive price tracker
-  * [Alex Kretzschmar on Twitter](https://twitter.com/IronicBadger/status/1455541800228343819 "Alex Kretzschmar on Twitter") — Let the drive burn in commence!
-  * [Obsidian](https://obsidian.md/ "Obsidian") — Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
-  * [MkDocs](https://www.mkdocs.org/ "MkDocs") — MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file. Start by reading the introductory tutorial, then check the User Guide for more information.
-  * [Drone CI](https://www.drone.io/ "Drone CI") — Drone is a self-service Continuous Integration platform for busy development teams.
-  * [2021.11: Icon picker, device links and entity categories](https://www.home-assistant.io/blog/2021/11/03/release-202111/ "2021.11: Icon picker, device links and entity categories")
-  * [Home Assistant 2021.11 Release Party](https://www.youtube.com/watch?v=Ofy4fnnXg-U "Home Assistant 2021.11 Release Party")
-  * [Home Assistant on Twitter](https://twitter.com/home_assistant/status/1455381542784552961 "Home Assistant on Twitter") — We encountered a daylight savings bug last weekend when Europe transitioned last weekend. A restart will resolve the issue. If you are yet to transition to a new summer/winter time, update to 2021.10.7.
-  * [tuya-home-assistant](https://github.com/tuya/tuya-home-assistant/pulls?q=is%3Apr+is%3Aclosed "tuya-home-assistant")
+  * [SONOFF CC2531 USB Zigbee Dongle ](https://itead.cc/product/cc2531-usb-dongle/ "SONOFF CC2531 USB Zigbee Dongle") — The CC2531 USB dongle is a fully operational USB device which provides a PC interface to IEEE802.15.4 / ZigBee application 
+  * [Shuck 'em if you got 'em ](https://shucks.top/ "Shuck 'em if you got 'em") — WD external drive price tracker 
+  * [Alex Kretzschmar on Twitter ](https://twitter.com/IronicBadger/status/1455541800228343819 "Alex Kretzschmar on Twitter") — Let the drive burn in commence! 
+  * [Obsidian ](https://obsidian.md/ "Obsidian") — Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files. 
+  * [MkDocs ](https://www.mkdocs.org/ "MkDocs") — MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file. Start by reading the introductory tutorial, then check the User Guide for more information. 
+  * [Drone CI ](https://www.drone.io/ "Drone CI") — Drone is a self-service Continuous Integration platform for busy development teams. 
+  * [2021.11: Icon picker, device links and entity categories ](https://www.home-assistant.io/blog/2021/11/03/release-202111/ "2021.11: Icon picker, device links and entity categories")
+  * [Home Assistant 2021.11 Release Party ](https://www.youtube.com/watch?v=Ofy4fnnXg-U "Home Assistant 2021.11 Release Party")
+  * [Home Assistant on Twitter ](https://twitter.com/home_assistant/status/1455381542784552961 "Home Assistant on Twitter") — We encountered a daylight savings bug last weekend when Europe transitioned last weekend. A restart will resolve the issue. If you are yet to transition to a new summer/winter time, update to 2021.10.7. 
+  * [tuya-home-assistant ](https://github.com/tuya/tuya-home-assistant/pulls?q=is%3Apr+is%3Aclosed "tuya-home-assistant")
 
 
 

@@ -22,17 +22,17 @@ Some Git flaws you need to know about, we reflect on 10 years of Steam on Linux,
 
 ## Episode links
 
-  * [The Coder Robe](https://www.jupitergarage.com/product/the-coder-robe "The Coder Robe") — Celebrate Coder 500! The Robe, the Tumbler, and the Sticker are available for a limited time.
-  * [Git Vulnerabilities](https://github.blog/2023-02-14-git-security-vulnerabilities-announced-3/ "Git Vulnerabilities") — Today, the Git project released new versions to address a pair of security vulnerabilities, (CVE-2023-22490 and CVE-2023-23946) that affect versions 2.39.1 and older. 
-  * [10 Years of Steam](https://store.steampowered.com/oldnews/9943 "10 Years of Steam") — Feb 14, 2013–Valve, creators of best-selling game franchises (such as Counter-Strike and Team Fortress) and leading technologies (such as Steam and Source), today announced the release of its Steam for Linux client. In celebration of the release, over 50 Linux titles are now 50-75% off until Thursday, February 21st at 10 AM PST. 
-  * [Sabayon 9 Review | LAS | s22e08 - YouTube](https://www.youtube.com/watch?v=lveUtnvP0PA "Sabayon 9 Review | LAS | s22e08 - YouTube")
-  * [Opening the Valve | LAS | s22e09 - YouTube](https://www.youtube.com/watch?v=8yVby5NT4bo "Opening the Valve | LAS | s22e09 - YouTube")
-  * [Ubuntu Gets Real](https://ubuntu.com/blog/real-time-ubuntu-is-now-generally-available "Ubuntu Gets Real") — Canonical today announced the general availability of real-time Ubuntu 22.04 LTS.
-  * [Canonical Promotes Ubuntu’s Real-Time “RT” Kernel To General Availability](https://www.phoronix.com/news/Ubuntu-Real-Time-Kernel-GA "Canonical Promotes Ubuntu’s Real-Time “RT” Kernel To General Availability")
-  * [Here Comes GTK5](https://www.phoronix.com/news/GTK5-Likely-After-GTK-4.12 "Here Comes GTK5") — Discussions around the GTK5 tool-kit also happened with some developers eager to begin work on that next major release in order to begin facilitating API breaks and removing deprecated code.
-  * [Plasma 5.27](https://kde.org/announcements/plasma/5/5.27.0/ "Plasma 5.27") — Plasma 5.27 is out and brings massive improvements to the desktop and all its tools. Another work of love from the KDE devs and contributors.
-  * [KDE Plasma 5.27 Released](https://www.phoronix.com/news/KDE-Plasma-5.27-Released "KDE Plasma 5.27 Released") — Better Wayland Support, KWin Tiling, Multi-Monitor Overhaul
-  * [Final Version of KDE Plasma 5 Released – This is What’s New](https://www.omgubuntu.co.uk/2023/02/kde-plasma-5-27-new-features "Final Version of KDE Plasma 5 Released – This is What’s New") — Notably, this is expected to be the final release in the KDE Plasma 5.x series, with the following stable release set to be KDE Plasma 6.0, due for release towards the end of the year.
+  * [The Coder Robe ](https://www.jupitergarage.com/product/the-coder-robe "The Coder Robe") — Celebrate Coder 500! The Robe, the Tumbler, and the Sticker are available for a limited time. 
+  * [Git Vulnerabilities ](https://github.blog/2023-02-14-git-security-vulnerabilities-announced-3/ "Git Vulnerabilities") — Today, the Git project released new versions to address a pair of security vulnerabilities, (CVE-2023-22490 and CVE-2023-23946) that affect versions 2.39.1 and older. 
+  * [10 Years of Steam ](https://store.steampowered.com/oldnews/9943 "10 Years of Steam") — Feb 14, 2013–Valve, creators of best-selling game franchises (such as Counter-Strike and Team Fortress) and leading technologies (such as Steam and Source), today announced the release of its Steam for Linux client. In celebration of the release, over 50 Linux titles are now 50-75% off until Thursday, February 21st at 10 AM PST. 
+  * [Sabayon 9 Review | LAS | s22e08 - YouTube ](https://www.youtube.com/watch?v=lveUtnvP0PA "Sabayon 9 Review | LAS | s22e08 - YouTube")
+  * [Opening the Valve | LAS | s22e09 - YouTube ](https://www.youtube.com/watch?v=8yVby5NT4bo "Opening the Valve | LAS | s22e09 - YouTube")
+  * [Ubuntu Gets Real ](https://ubuntu.com/blog/real-time-ubuntu-is-now-generally-available "Ubuntu Gets Real") — Canonical today announced the general availability of real-time Ubuntu 22.04 LTS. 
+  * [Canonical Promotes Ubuntu’s Real-Time “RT” Kernel To General Availability ](https://www.phoronix.com/news/Ubuntu-Real-Time-Kernel-GA "Canonical Promotes Ubuntu’s Real-Time “RT” Kernel To General Availability")
+  * [Here Comes GTK5 ](https://www.phoronix.com/news/GTK5-Likely-After-GTK-4.12 "Here Comes GTK5") — Discussions around the GTK5 tool-kit also happened with some developers eager to begin work on that next major release in order to begin facilitating API breaks and removing deprecated code. 
+  * [Plasma 5.27 ](https://kde.org/announcements/plasma/5/5.27.0/ "Plasma 5.27") — Plasma 5.27 is out and brings massive improvements to the desktop and all its tools. Another work of love from the KDE devs and contributors. 
+  * [KDE Plasma 5.27 Released ](https://www.phoronix.com/news/KDE-Plasma-5.27-Released "KDE Plasma 5.27 Released") — Better Wayland Support, KWin Tiling, Multi-Monitor Overhaul 
+  * [Final Version of KDE Plasma 5 Released – This is What’s New ](https://www.omgubuntu.co.uk/2023/02/kde-plasma-5-27-new-features "Final Version of KDE Plasma 5 Released – This is What’s New") — Notably, this is expected to be the final release in the KDE Plasma 5.x series, with the following stable release set to be KDE Plasma 6.0, due for release towards the end of the year. 
 
 
 

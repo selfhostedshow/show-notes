@@ -21,27 +21,27 @@ None
 
 ## Episode links
 
-  * [Canonical](https://canonical.com/ "Canonical")
-  * [Ubuntu](https://ubuntu.com/ "Ubuntu")
-  * [LibreOffice - Snapcraft](https://snapcraft.io/libreoffice "LibreOffice - Snapcraft")
-  * [Snap Documentation - Snapcraft](https://snapcraft.io/docs "Snap Documentation - Snapcraft")
-  * [CERN - European Organization for Nuclear Research](https://home.cern/ "CERN - European Organization for Nuclear Research")
-  * [CERN - Wikipedia](https://en.wikipedia.org/wiki/CERN "CERN - Wikipedia")
-  * [Higgs boson - Wikipedia](https://en.wikipedia.org/wiki/Higgs_boson "Higgs boson - Wikipedia")
-  * [The GNOME Foundation](https://www.gnome.org/foundation/ "The GNOME Foundation")
-  * [cherrytree](https://www.giuspen.com/cherrytree/ "cherrytree") — A hierarchical note taking application
-  * [Librem 5 - Purism](https://puri.sm/products/librem-5/ "Librem 5 - Purism")
-  * [Librem 5 Documentation - Purism](https://docs.puri.sm/Librem_5.html "Librem 5 Documentation - Purism")
-  * [Open Source Summit](https://opensource.com/tags/open-source-summit "Open Source Summit")
-  * [Free Software Foundation](https://www.fsf.org/ "Free Software Foundation")
-  * [Free as in Freedom 2.0 (PDF)](https://static.fsf.org/nosvn/faif-2.0.pdf "Free as in Freedom 2.0 \(PDF\)") — Richard Stallman and the Free Software Revolution
-  * [Free as in Freedom 2.0, by Richard Stallman - FSF Shop](https://shop.fsf.org/books/free-freedom-20-richard-stallman "Free as in Freedom 2.0, by Richard Stallman - FSF Shop")
-  * [The Cathedral and the Bazaar - Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar "The Cathedral and the Bazaar - Wikipedia")
-  * [The Cathedral and the Bazaar by Eric S. Raymond](http://www.catb.org/~esr/writings/cathedral-bazaar/ "The Cathedral and the Bazaar by Eric S. Raymond")
-  * [Onitama - BoardGameGeek](https://boardgamegeek.com/boardgame/160477/onitama "Onitama - BoardGameGeek")
-  * [A Feast for Odin - BoardGameGeek](https://www.boardgamegeek.com/boardgame/177736/feast-odin "A Feast for Odin - BoardGameGeek")
-  * [Magic: the Gathering - BoardGameGeek](https://boardgamegeek.com/boardgame/463/magic-gathering "Magic: the Gathering - BoardGameGeek")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Canonical ](https://canonical.com/ "Canonical")
+  * [Ubuntu ](https://ubuntu.com/ "Ubuntu")
+  * [LibreOffice - Snapcraft ](https://snapcraft.io/libreoffice "LibreOffice - Snapcraft")
+  * [Snap Documentation - Snapcraft ](https://snapcraft.io/docs "Snap Documentation - Snapcraft")
+  * [CERN - European Organization for Nuclear Research ](https://home.cern/ "CERN - European Organization for Nuclear Research")
+  * [CERN - Wikipedia ](https://en.wikipedia.org/wiki/CERN "CERN - Wikipedia")
+  * [Higgs boson - Wikipedia ](https://en.wikipedia.org/wiki/Higgs_boson "Higgs boson - Wikipedia")
+  * [The GNOME Foundation ](https://www.gnome.org/foundation/ "The GNOME Foundation")
+  * [cherrytree ](https://www.giuspen.com/cherrytree/ "cherrytree") — A hierarchical note taking application 
+  * [Librem 5 - Purism ](https://puri.sm/products/librem-5/ "Librem 5 - Purism")
+  * [Librem 5 Documentation - Purism ](https://docs.puri.sm/Librem_5.html "Librem 5 Documentation - Purism")
+  * [Open Source Summit ](https://opensource.com/tags/open-source-summit "Open Source Summit")
+  * [Free Software Foundation ](https://www.fsf.org/ "Free Software Foundation")
+  * [Free as in Freedom 2.0 (PDF) ](https://static.fsf.org/nosvn/faif-2.0.pdf "Free as in Freedom 2.0 \(PDF\)") — Richard Stallman and the Free Software Revolution 
+  * [Free as in Freedom 2.0, by Richard Stallman - FSF Shop ](https://shop.fsf.org/books/free-freedom-20-richard-stallman "Free as in Freedom 2.0, by Richard Stallman - FSF Shop")
+  * [The Cathedral and the Bazaar - Wikipedia ](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar "The Cathedral and the Bazaar - Wikipedia")
+  * [The Cathedral and the Bazaar by Eric S. Raymond ](http://www.catb.org/~esr/writings/cathedral-bazaar/ "The Cathedral and the Bazaar by Eric S. Raymond")
+  * [Onitama - BoardGameGeek ](https://boardgamegeek.com/boardgame/160477/onitama "Onitama - BoardGameGeek")
+  * [A Feast for Odin - BoardGameGeek ](https://www.boardgamegeek.com/boardgame/177736/feast-odin "A Feast for Odin - BoardGameGeek")
+  * [Magic: the Gathering - BoardGameGeek ](https://boardgamegeek.com/boardgame/463/magic-gathering "Magic: the Gathering - BoardGameGeek")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

@@ -22,20 +22,20 @@ None
 
 ## Episode links
 
-  * [SciByte Archive](https://www.jupiterbroadcasting.com/show/scibyte/ "SciByte Archive")
-  * [Voyager 2 is gathering science data again after recovering from a glitch in interstellar space](https://www.space.com/voyager-2-gathering-data-after-glitch.html "Voyager 2 is gathering science data again after recovering from a glitch in interstellar space")
-  * [All Alone in Interstellar Space, Voyager 2 Is About to Lose Contact With Home](https://www.sciencealert.com/voyager-2-already-isolated-in-interstellar-space-is-about-to-become-even-more-alone "All Alone in Interstellar Space, Voyager 2 Is About to Lose Contact With Home")
-  * [Revisiting Decades-Old Voyager 2 Data, Scientists Find One More Secret](https://www.jpl.nasa.gov/news/news.php?feature=7623 "Revisiting Decades-Old Voyager 2 Data, Scientists Find One More Secret")
-  * [Decoding images from the Golden Record](https://www.theverge.com/2018/10/30/18037984/golden-record-nasa-image-decode-voyager-1-2 "Decoding images from the Golden Record")
-  * [How the Voyager Golden Record Was Made](https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris "How the Voyager Golden Record Was Made")
-  * [Voyager - What's on the Golden Record](https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/ "Voyager - What's on the Golden Record")
-  * [Voyager 1 Takes the First Image of the Earth-Moon System in a Single Frame](https://www.nasa.gov/image-feature/voyager-1-takes-the-first-image-of-the-earth-moon-system-in-a-single-frame "Voyager 1 Takes the First Image of the Earth-Moon System in a Single Frame")
-  * [Voyager Spacecraft Celebrate 30th Anniversary](https://www.space.com/4250-voyager-spacecraft-celebrate-30th-anniversary.html "Voyager Spacecraft Celebrate 30th Anniversary")
-  * [Pale Blue Dot at 30: Voyager 1's iconic photo of Earth from space reveals our place in the universe](https://www.space.com/pale-blue-dot-voyager-1-photo-30th-anniversary.html "Pale Blue Dot at 30: Voyager 1's iconic photo of Earth from space reveals our place in the universe")
-  * [’Pale Blue Dot’ Revisited](https://www.nasa.gov/feature/jpl/pale-blue-dot-revisited "’Pale Blue Dot’ Revisited")
-  * [Voyager Mission Status](https://voyager.jpl.nasa.gov/mission/status/ "Voyager Mission Status")
-  * [How NASA nearly lost the Voyager spacecraft](https://www.businessinsider.com/nasa-voyager-probes-rocket-leak-computer-problems-2017-12 "How NASA nearly lost the Voyager spacecraft")
-  * [A Troubled Start to a Triumphant Mission: 37 Years Since the Launch of the Voyagers](https://www.americaspace.com/2014/08/20/a-troubled-start-to-a-triumphant-mission-37-years-since-the-launch-of-the-voyagers/ "A Troubled Start to a Triumphant Mission: 37 Years Since the Launch of the Voyagers")
+  * [SciByte Archive ](https://www.jupiterbroadcasting.com/show/scibyte/ "SciByte Archive")
+  * [Voyager 2 is gathering science data again after recovering from a glitch in interstellar space ](https://www.space.com/voyager-2-gathering-data-after-glitch.html "Voyager 2 is gathering science data again after recovering from a glitch in interstellar space")
+  * [All Alone in Interstellar Space, Voyager 2 Is About to Lose Contact With Home ](https://www.sciencealert.com/voyager-2-already-isolated-in-interstellar-space-is-about-to-become-even-more-alone "All Alone in Interstellar Space, Voyager 2 Is About to Lose Contact With Home")
+  * [Revisiting Decades-Old Voyager 2 Data, Scientists Find One More Secret ](https://www.jpl.nasa.gov/news/news.php?feature=7623 "Revisiting Decades-Old Voyager 2 Data, Scientists Find One More Secret")
+  * [Decoding images from the Golden Record ](https://www.theverge.com/2018/10/30/18037984/golden-record-nasa-image-decode-voyager-1-2 "Decoding images from the Golden Record")
+  * [How the Voyager Golden Record Was Made ](https://www.newyorker.com/tech/annals-of-technology/voyager-golden-record-40th-anniversary-timothy-ferris "How the Voyager Golden Record Was Made")
+  * [Voyager - What's on the Golden Record ](https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/ "Voyager - What's on the Golden Record")
+  * [Voyager 1 Takes the First Image of the Earth-Moon System in a Single Frame ](https://www.nasa.gov/image-feature/voyager-1-takes-the-first-image-of-the-earth-moon-system-in-a-single-frame "Voyager 1 Takes the First Image of the Earth-Moon System in a Single Frame")
+  * [Voyager Spacecraft Celebrate 30th Anniversary ](https://www.space.com/4250-voyager-spacecraft-celebrate-30th-anniversary.html "Voyager Spacecraft Celebrate 30th Anniversary")
+  * [Pale Blue Dot at 30: Voyager 1's iconic photo of Earth from space reveals our place in the universe ](https://www.space.com/pale-blue-dot-voyager-1-photo-30th-anniversary.html "Pale Blue Dot at 30: Voyager 1's iconic photo of Earth from space reveals our place in the universe")
+  * [’Pale Blue Dot’ Revisited ](https://www.nasa.gov/feature/jpl/pale-blue-dot-revisited "’Pale Blue Dot’ Revisited")
+  * [Voyager Mission Status ](https://voyager.jpl.nasa.gov/mission/status/ "Voyager Mission Status")
+  * [How NASA nearly lost the Voyager spacecraft ](https://www.businessinsider.com/nasa-voyager-probes-rocket-leak-computer-problems-2017-12 "How NASA nearly lost the Voyager spacecraft")
+  * [A Troubled Start to a Triumphant Mission: 37 Years Since the Launch of the Voyagers ](https://www.americaspace.com/2014/08/20/a-troubled-start-to-a-triumphant-mission-37-years-since-the-launch-of-the-voyagers/ "A Troubled Start to a Triumphant Mission: 37 Years Since the Launch of the Voyagers")
 
 
 

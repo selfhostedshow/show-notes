@@ -21,20 +21,20 @@ None
 
 ## Episode links
 
-  * [Jim Salter - Ars Technica](https://arstechnica.com/author/jimsalter/ "Jim Salter - Ars Technica")
-  * [TechSNAP](https://techsnap.systems/ "TechSNAP") — Systems, Network, and Administration Podcast
-  * [The Cathedral and the Bazaar - Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar "The Cathedral and the Bazaar - Wikipedia") — "given enough eyeballs, all bugs are shallow"
-  * [The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary by Eric S. Raymond](http://www.catb.org/~esr/writings/cathedral-bazaar/ "The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary by Eric S. Raymond")
-  * [Martin Luther King, Jr. on Justice and the Four Steps to Successful Nonviolent Resistance - Brain Pickings](https://www.brainpickings.org/2015/03/18/martin-luther-king-letter-from-birmingham-city-jail/ "Martin Luther King, Jr. on Justice and the Four Steps to Successful Nonviolent Resistance - Brain Pickings")
-  * [Social gadfly - Wikipedia](https://en.wikipedia.org/wiki/Social_gadfly "Social gadfly - Wikipedia") — "to sting people and whip them into a fury, all in the service of truth."
-  * [Stoicism - Wikipedia](https://en.wikipedia.org/wiki/Stoicism "Stoicism - Wikipedia")
-  * ['No Man is an Island' by John Donne](https://web.cs.dal.ca/~johnston/poetry/island.html "'No Man is an Island' by John Donne")
-  * [Nebula - GitHub](https://github.com/slackhq/nebula "Nebula - GitHub") — A scalable overlay networking tool with a focus on performance, simplicity and security
-  * [Ars Technica - Nebula VPN routes between hosts privately, flexibly, and efficiently, by Jim Salter](https://arstechnica.com/gadgets/2019/12/nebula-vpn-routes-between-hosts-privately-flexibly-and-efficiently/ "Ars Technica - Nebula VPN routes between hosts privately, flexibly, and efficiently, by Jim Salter")
-  * [Bill & Ted's Excellent Adventure - YouTube](https://www.youtube.com/watch?v=WVXGC896Jdw "Bill & Ted's Excellent Adventure - YouTube") — "Be Excellent To Eachother"
-  * [Jim's JRS-S.net - JRS Systems: the blog](https://jrs-s.net/ "Jim's JRS-S.net - JRS Systems: the blog") — technomancy made simple
-  * [Jim Salter - @jrssnet on Twitter](https://twitter.com/jrssnet "Jim Salter - @jrssnet on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Jim Salter - Ars Technica ](https://arstechnica.com/author/jimsalter/ "Jim Salter - Ars Technica")
+  * [TechSNAP ](https://techsnap.systems/ "TechSNAP") — Systems, Network, and Administration Podcast 
+  * [The Cathedral and the Bazaar - Wikipedia ](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar "The Cathedral and the Bazaar - Wikipedia") — "given enough eyeballs, all bugs are shallow" 
+  * [The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary by Eric S. Raymond ](http://www.catb.org/~esr/writings/cathedral-bazaar/ "The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary by Eric S. Raymond")
+  * [Martin Luther King, Jr. on Justice and the Four Steps to Successful Nonviolent Resistance - Brain Pickings ](https://www.brainpickings.org/2015/03/18/martin-luther-king-letter-from-birmingham-city-jail/ "Martin Luther King, Jr. on Justice and the Four Steps to Successful Nonviolent Resistance - Brain Pickings")
+  * [Social gadfly - Wikipedia ](https://en.wikipedia.org/wiki/Social_gadfly "Social gadfly - Wikipedia") — "to sting people and whip them into a fury, all in the service of truth." 
+  * [Stoicism - Wikipedia ](https://en.wikipedia.org/wiki/Stoicism "Stoicism - Wikipedia")
+  * ['No Man is an Island' by John Donne ](https://web.cs.dal.ca/~johnston/poetry/island.html "'No Man is an Island' by John Donne")
+  * [Nebula - GitHub ](https://github.com/slackhq/nebula "Nebula - GitHub") — A scalable overlay networking tool with a focus on performance, simplicity and security 
+  * [Ars Technica - Nebula VPN routes between hosts privately, flexibly, and efficiently, by Jim Salter ](https://arstechnica.com/gadgets/2019/12/nebula-vpn-routes-between-hosts-privately-flexibly-and-efficiently/ "Ars Technica - Nebula VPN routes between hosts privately, flexibly, and efficiently, by Jim Salter")
+  * [Bill & Ted's Excellent Adventure - YouTube ](https://www.youtube.com/watch?v=WVXGC896Jdw "Bill & Ted's Excellent Adventure - YouTube") — "Be Excellent To Eachother" 
+  * [Jim's JRS-S.net - JRS Systems: the blog ](https://jrs-s.net/ "Jim's JRS-S.net - JRS Systems: the blog") — technomancy made simple 
+  * [Jim Salter - @jrssnet on Twitter ](https://twitter.com/jrssnet "Jim Salter - @jrssnet on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

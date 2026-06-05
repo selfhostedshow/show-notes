@@ -20,19 +20,19 @@ None
 
 ## Episode links
 
-  * [Everett Art Rocks Public Group](https://www.facebook.com/groups/1695715270752396/ "Everett Art Rocks Public Group")
-  * [#adfrocks on Instagram](https://www.instagram.com/explore/tags/adfrocks/ "#adfrocks on Instagram")
-  * [Al-Anon Family Groups - Help and hope for families and friends of alcoholics](https://al-anon.org "Al-Anon Family Groups - Help and hope for families and friends of alcoholics")
-  * [Jupiter Broadcasting Summer Sprint 2019](https://linuxunplugged.com/articles/summer-sprint-2019 "Jupiter Broadcasting Summer Sprint 2019")
-  * [LinuxFest Northwest](https://www.linuxfestnorthwest.org "LinuxFest Northwest")
-  * [Brunch with Brent: A Chat with Chz Bacon](https://extras.show/6 "Brunch with Brent: A Chat with Chz Bacon")
-  * [FauxShow - Archive](https://www.jupiterbroadcasting.com/show/fauxshow/ "FauxShow - Archive")
-  * [Tech Talk Today - Archive](https://www.jupiterbroadcasting.com/show/today/ "Tech Talk Today - Archive")
-  * [The Friday Stream - Archive](https://www.jupiterbroadcasting.com/show/friday/ "The Friday Stream - Archive")
-  * [Brunch with Brent: A Chat with Wes Payne](https://extras.show/12 "Brunch with Brent: A Chat with Wes Payne")
-  * [Jupiter Broadcasting Extras](https://extras.show "Jupiter Broadcasting Extras")
-  * [eero Home Wifi Systems](https://eero.com/ "eero Home Wifi Systems")
-  * [Jupiter Broadcasting Telegram Group](https://www.jupiterbroadcasting.com/telegram "Jupiter Broadcasting Telegram Group")
+  * [Everett Art Rocks Public Group ](https://www.facebook.com/groups/1695715270752396/ "Everett Art Rocks Public Group")
+  * [adfrocks on Instagram ](https://www.instagram.com/explore/tags/adfrocks/ "#adfrocks on Instagram")
+  * [Al-Anon Family Groups - Help and hope for families and friends of alcoholics ](https://al-anon.org "Al-Anon Family Groups - Help and hope for families and friends of alcoholics")
+  * [Jupiter Broadcasting Summer Sprint 2019 ](https://linuxunplugged.com/articles/summer-sprint-2019 "Jupiter Broadcasting Summer Sprint 2019")
+  * [LinuxFest Northwest ](https://www.linuxfestnorthwest.org "LinuxFest Northwest")
+  * [Brunch with Brent: A Chat with Chz Bacon ](https://extras.show/6 "Brunch with Brent: A Chat with Chz Bacon")
+  * [FauxShow - Archive ](https://www.jupiterbroadcasting.com/show/fauxshow/ "FauxShow - Archive")
+  * [Tech Talk Today - Archive ](https://www.jupiterbroadcasting.com/show/today/ "Tech Talk Today - Archive")
+  * [The Friday Stream - Archive ](https://www.jupiterbroadcasting.com/show/friday/ "The Friday Stream - Archive")
+  * [Brunch with Brent: A Chat with Wes Payne ](https://extras.show/12 "Brunch with Brent: A Chat with Wes Payne")
+  * [Jupiter Broadcasting Extras ](https://extras.show "Jupiter Broadcasting Extras")
+  * [eero Home Wifi Systems ](https://eero.com/ "eero Home Wifi Systems")
+  * [Jupiter Broadcasting Telegram Group ](https://www.jupiterbroadcasting.com/telegram "Jupiter Broadcasting Telegram Group")
 
 
 

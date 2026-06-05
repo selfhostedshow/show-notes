@@ -15,22 +15,22 @@ Sometimes your best upgrades are unplanned;  Chris just got his Home Assistant Y
 
 ## Sponsored by
 
-  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show.](https://cloudfree.shop/) Promo Code: SELFHOSTED
+  * [CloudFree.shop](https://cloudfree.shop/): [CloudFree Smart Plug – Runs Tasmota for $9. Use code SELFHOSTED and support the show. ](https://cloudfree.shop/) Promo Code: SELFHOSTED
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 
 ## Episode links
 
-  * [Home Assistant Yellow ](https://www.crowdsupply.com/nabu-casa/home-assistant-yellow "Home Assistant Yellow ") — At the heart of Home Assistant Yellow is the Raspberry Pi Compute Module 4.
-  * [Scheduler card/custom component](https://community.home-assistant.io/t/scheduler-card-custom-component/217458 "Scheduler card/custom component") — The scheduler integration is an alternative for HA automations which use the time or sun as trigger. 
-  * [Generic Thermostat - Home Assistant](https://www.home-assistant.io/integrations/generic_thermostat/ "Generic Thermostat - Home Assistant") — When in heater mode, if the measured temperature is cooler than the target temperature, the heater will be turned on and turned off when the required temperature is reached. When in air conditioning mode, if the measured temperature is hotter than the target temperature, the air conditioning will be turned on and turned off when required temperature is reached. 
-  * [Shelly 2.5: Flash ESPHome Over The Air!](https://savjee.be/blog/shelly-2.5-flash-esphome-over-the-air/ "Shelly 2.5: Flash ESPHome Over The Air!") — Here's how I flashed ESPHome onto them over-the-air. No wires!
-  * [Sengled Zigbee Smart LED Strip Lights Starter Kit](https://www.amazon.com/dp/B08F1PDNFV "Sengled Zigbee Smart LED Strip Lights Starter Kit") — All in one led strip lights kit that comes with a HUB, an AC adapter, a remote control receiver, 1 reel of 16.4ft light strip; no need for any other expensive devices. 
-  * [NixOS Search - Jellyfin](https://search.nixos.org/packages?channel=22.05&from=0&size=50&sort=relevance&type=packages&query=Jellyfin "NixOS Search - Jellyfin")
-  * [MycroftAI/skill-homeassistant: Mycroft Skill/Integration for Homeassistant](https://github.com/MycroftAI/skill-homeassistant "MycroftAI/skill-homeassistant: Mycroft Skill/Integration for Homeassistant") — Control your lights, garage door, thermostats and more using your voice!
-  * [ZimaBoard](https://www.zimaboard.com/ "ZimaBoard") — World’s First Hackable Single Board Server Starting at $119.9
-  * [Send a Boost into the Show](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost into the Show") — Upgrade to a Podcasting 2.0 compatible app, send a boost into the show and enjoy new features in your podcast app! 🔥
+  * [Home Assistant Yellow ](https://www.crowdsupply.com/nabu-casa/home-assistant-yellow "Home Assistant Yellow ") — At the heart of Home Assistant Yellow is the Raspberry Pi Compute Module 4. 
+  * [Scheduler card/custom component ](https://community.home-assistant.io/t/scheduler-card-custom-component/217458 "Scheduler card/custom component") — The scheduler integration is an alternative for HA automations which use the time or sun as trigger. 
+  * [Generic Thermostat - Home Assistant ](https://www.home-assistant.io/integrations/generic_thermostat/ "Generic Thermostat - Home Assistant") — When in heater mode, if the measured temperature is cooler than the target temperature, the heater will be turned on and turned off when the required temperature is reached. When in air conditioning mode, if the measured temperature is hotter than the target temperature, the air conditioning will be turned on and turned off when required temperature is reached. 
+  * [Shelly 2.5: Flash ESPHome Over The Air! ](https://savjee.be/blog/shelly-2.5-flash-esphome-over-the-air/ "Shelly 2.5: Flash ESPHome Over The Air!") — Here's how I flashed ESPHome onto them over-the-air. No wires! 
+  * [Sengled Zigbee Smart LED Strip Lights Starter Kit ](https://www.amazon.com/dp/B08F1PDNFV "Sengled Zigbee Smart LED Strip Lights Starter Kit") — All in one led strip lights kit that comes with a HUB, an AC adapter, a remote control receiver, 1 reel of 16.4ft light strip; no need for any other expensive devices. 
+  * [NixOS Search - Jellyfin ](https://search.nixos.org/packages?channel=22.05&from=0&size=50&sort=relevance&type=packages&query=Jellyfin "NixOS Search - Jellyfin")
+  * [MycroftAI/skill-homeassistant: Mycroft Skill/Integration for Homeassistant ](https://github.com/MycroftAI/skill-homeassistant "MycroftAI/skill-homeassistant: Mycroft Skill/Integration for Homeassistant") — Control your lights, garage door, thermostats and more using your voice! 
+  * [ZimaBoard ](https://www.zimaboard.com/ "ZimaBoard") — World’s First Hackable Single Board Server Starting at $119.9 
+  * [Send a Boost into the Show ](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost into the Show") — Upgrade to a Podcasting 2.0 compatible app, send a boost into the show and enjoy new features in your podcast app! 🔥 
 
 
 

@@ -22,13 +22,13 @@ None
 
 ## Episode links
 
-  * [Intermit.Tech - YouTube](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA/videos "Intermit.Tech - YouTube")
-  * [Intermittent Technology - My personal blog](https://blog.quindorian.org/ "Intermittent Technology - My personal blog")
-  * [Home Assistant: Cheap multi-room Temperature Sensors](https://www.youtube.com/watch?v=RtJpx8BZvMw& "Home Assistant: Cheap multi-room Temperature Sensors")
-  * [Home Networking: 100TB 10Gbit Server - Last server bits](https://www.youtube.com/watch?v=jOS65O4DYjQ&feature=youtu.be "Home Networking: 100TB 10Gbit Server - Last server bits")
-  * [QuinLED.info - WiFi controllable DIY LED dimmer](https://quinled.info/ "QuinLED.info - WiFi controllable DIY LED dimmer")
-  * [Tuya-convert: A collection of scripts to flash Tuya IoT devices to alternative firmwares](https://github.com/ct-Open-Source/tuya-convert "Tuya-convert: A collection of scripts to flash Tuya IoT devices to alternative firmwares")
-  * [Tasmota Device Templates Repository](https://templates.blakadder.com/index.html "Tasmota Device Templates Repository") — Tasmota Device Templates Repository
+  * [Intermit.Tech - YouTube ](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA/videos "Intermit.Tech - YouTube")
+  * [Intermittent Technology - My personal blog ](https://blog.quindorian.org/ "Intermittent Technology - My personal blog")
+  * [Home Assistant: Cheap multi-room Temperature Sensors ](https://www.youtube.com/watch?v=RtJpx8BZvMw& "Home Assistant: Cheap multi-room Temperature Sensors")
+  * [Home Networking: 100TB 10Gbit Server - Last server bits ](https://www.youtube.com/watch?v=jOS65O4DYjQ&feature=youtu.be "Home Networking: 100TB 10Gbit Server - Last server bits")
+  * [QuinLED.info - WiFi controllable DIY LED dimmer ](https://quinled.info/ "QuinLED.info - WiFi controllable DIY LED dimmer")
+  * [Tuya-convert: A collection of scripts to flash Tuya IoT devices to alternative firmwares ](https://github.com/ct-Open-Source/tuya-convert "Tuya-convert: A collection of scripts to flash Tuya IoT devices to alternative firmwares")
+  * [Tasmota Device Templates Repository ](https://templates.blakadder.com/index.html "Tasmota Device Templates Repository") — Tasmota Device Templates Repository 
 
 
 

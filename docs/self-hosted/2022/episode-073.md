@@ -22,16 +22,16 @@ A special episode today as TechnoTim joins Alex to discuss everything Kubernetes
 
 ## Episode links
 
-  * [Self-Hosted Discord](https://selfhosted.show/discord "Self-Hosted Discord")
+  * [Self-Hosted Discord ](https://selfhosted.show/discord "Self-Hosted Discord")
   * [London Meetup ](https://www.meetup.com/jupiterbroadcasting/events/286056077/ "London Meetup ")
-  * [TechnoTim on YouTube](https://www.youtube.com/c/TechnoTimLive "TechnoTim on YouTube")
-  * [Join the 100 days of HomeLab Challenge](https://100daysofhomelab.com/ "Join the 100 days of HomeLab Challenge") — #100DaysOfHomeLab is a challenge to improve your IT skills.
-  * [The HomeLab Challenge Video](https://www.youtube.com/watch?v=bwDVW_ifkBU "The HomeLab Challenge Video") — This challenge is meant to accelerate your knowledge in servers, networking, infrastructure, automation, storage, containerization, orchestration, virtualization, Windows, Linux, and more!
-  * [12factor.net](https://12factor.net/ "12factor.net") — Introduction In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps that: Use declarative formats for setup automation, to minimize time and cost for new developers joining the project; Have a clean contract with the underlying operating system, offering maximum portability between execution environments; Are suitable for deployment on modern cloud platforms, obviating the need for servers and systems administration; Minimize divergence between development and production, enabling continuous deployment for maximum agility; And can scale up without significant changes to tooling, architecture, or development practices. The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).
-  * [Flux](https://fluxcd.io/ "Flux") — Flux is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible.
-  * [k8s-at-home](https://github.com/k8s-at-home/awesome-home-kubernetes "k8s-at-home") — Awesome projects involving running Kubernetes at home.
-  * [PineNote](https://www.pine64.org/pinenote/ "PineNote")
-  * [Jupiter Broadcasting Peertube](http://jupiter.tube/ "Jupiter Broadcasting Peertube")
+  * [TechnoTim on YouTube ](https://www.youtube.com/c/TechnoTimLive "TechnoTim on YouTube")
+  * [Join the 100 days of HomeLab Challenge ](https://100daysofhomelab.com/ "Join the 100 days of HomeLab Challenge") — 100DaysOfHomeLab is a challenge to improve your IT skills. 
+  * [The HomeLab Challenge Video ](https://www.youtube.com/watch?v=bwDVW_ifkBU "The HomeLab Challenge Video") — This challenge is meant to accelerate your knowledge in servers, networking, infrastructure, automation, storage, containerization, orchestration, virtualization, Windows, Linux, and more! 
+  * [12factor.net ](https://12factor.net/ "12factor.net") — Introduction In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps that: Use declarative formats for setup automation, to minimize time and cost for new developers joining the project; Have a clean contract with the underlying operating system, offering maximum portability between execution environments; Are suitable for deployment on modern cloud platforms, obviating the need for servers and systems administration; Minimize divergence between development and production, enabling continuous deployment for maximum agility; And can scale up without significant changes to tooling, architecture, or development practices. The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc). 
+  * [Flux ](https://fluxcd.io/ "Flux") — Flux is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible. 
+  * [k8s-at-home ](https://github.com/k8s-at-home/awesome-home-kubernetes "k8s-at-home") — Awesome projects involving running Kubernetes at home. 
+  * [PineNote ](https://www.pine64.org/pinenote/ "PineNote")
+  * [Jupiter Broadcasting Peertube ](http://jupiter.tube/ "Jupiter Broadcasting Peertube")
 
 
 

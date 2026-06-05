@@ -15,21 +15,21 @@ We have a philosophical debate on cloud vs local and Alex experiences full-blown
 
 ## Sponsored by
 
-  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com](https://acloudguru.com/)
+  * [A Cloud Guru](https://acloudguru.com/): [Looking to make a high-paying career move into the cloud? Get going: acloudguru.com ](https://acloudguru.com/)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
-  * [Datadog](http://datadog.com/selfhosted): [Try Datadog today by starting a free 14-day trial and receive a Datadog t-shirt after creating just one dashboard.](http://datadog.com/selfhosted)
+  * [Datadog](http://datadog.com/selfhosted): [Try Datadog today by starting a free 14-day trial and receive a Datadog t-shirt after creating just one dashboard. ](http://datadog.com/selfhosted)
 
 
 
 ## Episode links
 
-  * [Review: Pepwave MAX Transit by Peplink (Mobile Router) - Mobile Internet Resource Center](https://www.rvmobileinternet.com/gear/pepwave-max-transit/ "Review: Pepwave MAX Transit by Peplink \(Mobile Router\) - Mobile Internet Resource Center") — Peplink is also a key provider of bonding technology that allows a router to combine multiple network connections together for increased performance, or extreme redundancy and reliability.
-  * [Poynting 7-in-1 4xLTE, 2xWIFI & 1xGPS Roof Antenna](https://www.mobilemusthave.com/Poynting-7-in-1-4x-Cellular-WIFI-GPS-RV-and-Marine-Roof-Antenna-for-Dual-Modem-Applications_p_165.html "Poynting 7-in-1 4xLTE, 2xWIFI & 1xGPS Roof Antenna") — 7-in-1 Roof Mountable Cellular Wifi GPS antenna Perfect for Dual Cell Modem Applications
-  * [Dual 4G LTE Router for Public Transportation MAX Transit Duo](https://www.peplink.com/products/max-transit-duo/ "Dual 4G LTE Router for Public Transportation MAX Transit Duo") — With a compact form factor, simultaneous dual-band 11ac Wi-Fi, and two embedded LTE modems, the MAX Transit DUO is ready to deliver fast, reliable connectivity in transportation and public safety deployments
-  * [SpeedFusion Cloud - Peplink](https://www.peplink.com/software/speedfusion-cloud/ "SpeedFusion Cloud - Peplink") — From video streaming to online collaboration, everything depends on consistent Internet.
-  * [LTE UE Category & Class Definitions](https://www.cablefree.net/wirelesstechnology/4glte/lte-ue-category-class-definitions/ "LTE UE Category & Class Definitions") — LTE utilises the LTE UE Category or User Equipment categories or classes to define the performance specifications of LTE devices
-  * [Ethernet Adapter for Chromecast with Google TV](https://store.google.com/us/product/chromecast_ethernet_adapter_gen_2 "Ethernet Adapter for Chromecast with Google TV") — Power adapter with Ethernet port
-  * [NymphCast: Audio and video casting system](https://github.com/MayaPosch/NymphCast "NymphCast: Audio and video casting system") — NymphCast is a software solution which turns your choice of Linux-capable hardware into an audio and video source for a television or powered speakers. It enables the streaming of audio and video over the network from a wide range of client devices, as well as the streaming of internet media to a NymphCast server, controlled by a client device.
+  * [Review: Pepwave MAX Transit by Peplink (Mobile Router) - Mobile Internet Resource Center ](https://www.rvmobileinternet.com/gear/pepwave-max-transit/ "Review: Pepwave MAX Transit by Peplink \(Mobile Router\) - Mobile Internet Resource Center") — Peplink is also a key provider of bonding technology that allows a router to combine multiple network connections together for increased performance, or extreme redundancy and reliability. 
+  * [Poynting 7-in-1 4xLTE, 2xWIFI & 1xGPS Roof Antenna ](https://www.mobilemusthave.com/Poynting-7-in-1-4x-Cellular-WIFI-GPS-RV-and-Marine-Roof-Antenna-for-Dual-Modem-Applications_p_165.html "Poynting 7-in-1 4xLTE, 2xWIFI & 1xGPS Roof Antenna") — 7-in-1 Roof Mountable Cellular Wifi GPS antenna Perfect for Dual Cell Modem Applications 
+  * [Dual 4G LTE Router for Public Transportation MAX Transit Duo ](https://www.peplink.com/products/max-transit-duo/ "Dual 4G LTE Router for Public Transportation MAX Transit Duo") — With a compact form factor, simultaneous dual-band 11ac Wi-Fi, and two embedded LTE modems, the MAX Transit DUO is ready to deliver fast, reliable connectivity in transportation and public safety deployments 
+  * [SpeedFusion Cloud - Peplink ](https://www.peplink.com/software/speedfusion-cloud/ "SpeedFusion Cloud - Peplink") — From video streaming to online collaboration, everything depends on consistent Internet. 
+  * [LTE UE Category & Class Definitions ](https://www.cablefree.net/wirelesstechnology/4glte/lte-ue-category-class-definitions/ "LTE UE Category & Class Definitions") — LTE utilises the LTE UE Category or User Equipment categories or classes to define the performance specifications of LTE devices 
+  * [Ethernet Adapter for Chromecast with Google TV ](https://store.google.com/us/product/chromecast_ethernet_adapter_gen_2 "Ethernet Adapter for Chromecast with Google TV") — Power adapter with Ethernet port 
+  * [NymphCast: Audio and video casting system ](https://github.com/MayaPosch/NymphCast "NymphCast: Audio and video casting system") — NymphCast is a software solution which turns your choice of Linux-capable hardware into an audio and video source for a television or powered speakers. It enables the streaming of audio and video over the network from a wide range of client devices, as well as the streaming of internet media to a NymphCast server, controlled by a client device. 
 
 
 

@@ -21,18 +21,18 @@ None
 
 ## Episode links
 
-  * [Linux Academy](https://linuxacademy.com/ "Linux Academy")
-  * [How To Train Your Customers: Changing the Course of Support - BSides San Antonio TX](https://www.youtube.com/watch?v=tL9LOZWWFBk "How To Train Your Customers: Changing the Course of Support - BSides San Antonio TX")
-  * [BSidesSATX - BSides San Antonio, TX](https://www.bsidessatx.com/ "BSidesSATX - BSides San Antonio, TX")
-  * [Brigade de cuisine, Kitchen Brigade - Wikipedia](https://en.wikipedia.org/wiki/Brigade_de_cuisine "Brigade de cuisine, Kitchen Brigade - Wikipedia")
-  * [Heat by Bill Buford - Goodreads](https://www.goodreads.com/book/show/139220.Heat "Heat by Bill Buford - Goodreads") — An Amateur's Adventures as Kitchen Slave, Line Cook, Pasta-Maker, and Apprentice to a Dante-Quoting Butcher in Tuscany
-  * [Kitchen Confidential by Anthony Bourdain - Goodreads](https://www.goodreads.com/book/show/33313.Kitchen_Confidential "Kitchen Confidential by Anthony Bourdain - Goodreads") — Adventures in the Culinary Underbelly
-  * [Medium Raw by Anthony Bourdain - Goodreads](https://www.goodreads.com/book/show/40409969-medium-raw "Medium Raw by Anthony Bourdain - Goodreads") — A Bloody Valentine to the World of Food and the People Who Cook
-  * [Linux Bible by Christopher Negus, Christine Bresnahan - Goodreads](https://www.goodreads.com/book/show/13838572-linux-bible "Linux Bible by Christopher Negus, Christine Bresnahan - Goodreads")
-  * [BSidesBCS - BSides Bryan/College Station](https://www.bsidesbcs.com/ "BSidesBCS - BSides Bryan/College Station")
-  * [SCaLE - Southern California Linux Expo](https://www.socallinuxexpo.org/ "SCaLE - Southern California Linux Expo")
-  * [Brandon Bruce - @Netcromancer on Twitter](https://twitter.com/netcromancer "Brandon Bruce - @Netcromancer on Twitter")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Linux Academy ](https://linuxacademy.com/ "Linux Academy")
+  * [How To Train Your Customers: Changing the Course of Support - BSides San Antonio TX ](https://www.youtube.com/watch?v=tL9LOZWWFBk "How To Train Your Customers: Changing the Course of Support - BSides San Antonio TX")
+  * [BSidesSATX - BSides San Antonio, TX ](https://www.bsidessatx.com/ "BSidesSATX - BSides San Antonio, TX")
+  * [Brigade de cuisine, Kitchen Brigade - Wikipedia ](https://en.wikipedia.org/wiki/Brigade_de_cuisine "Brigade de cuisine, Kitchen Brigade - Wikipedia")
+  * [Heat by Bill Buford - Goodreads ](https://www.goodreads.com/book/show/139220.Heat "Heat by Bill Buford - Goodreads") — An Amateur's Adventures as Kitchen Slave, Line Cook, Pasta-Maker, and Apprentice to a Dante-Quoting Butcher in Tuscany 
+  * [Kitchen Confidential by Anthony Bourdain - Goodreads ](https://www.goodreads.com/book/show/33313.Kitchen_Confidential "Kitchen Confidential by Anthony Bourdain - Goodreads") — Adventures in the Culinary Underbelly 
+  * [Medium Raw by Anthony Bourdain - Goodreads ](https://www.goodreads.com/book/show/40409969-medium-raw "Medium Raw by Anthony Bourdain - Goodreads") — A Bloody Valentine to the World of Food and the People Who Cook 
+  * [Linux Bible by Christopher Negus, Christine Bresnahan - Goodreads ](https://www.goodreads.com/book/show/13838572-linux-bible "Linux Bible by Christopher Negus, Christine Bresnahan - Goodreads")
+  * [BSidesBCS - BSides Bryan/College Station ](https://www.bsidesbcs.com/ "BSidesBCS - BSides Bryan/College Station")
+  * [SCaLE - Southern California Linux Expo ](https://www.socallinuxexpo.org/ "SCaLE - Southern California Linux Expo")
+  * [Brandon Bruce - @Netcromancer on Twitter ](https://twitter.com/netcromancer "Brandon Bruce - @Netcromancer on Twitter")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

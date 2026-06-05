@@ -21,13 +21,13 @@ None
 
 ## Episode links
 
-  * [openSUSE Leap 15 released](https://news.opensuse.org/2018/05/25/based-on-enterprise-code-tested-millions-of-times-opensuse-leap-15-released/ "openSUSE Leap 15 released") — With a brand new look developed by the community, openSUSE Leap 15 brings plenty of community packages built on top of a core from SUSE Linux Enterprise (SLE) 15 sources
-  * [LXQt 0.13 released](https://blog.lxqt.org/2018/05/release-lxqt-0-13-0/ "LXQt 0.13 released") — The LXQt team is proud to announce the release of LXQt 0.13.0, the Lightweight Qt Desktop Environment.
-  * [Portable Services arrives in systemd](https://www.phoronix.com/scan.php?page=news_item&px=Systemd-Portable-Services "Portable Services arrives in systemd") — "Portable Services" are supposed to be an incremental improvement over traditional system services, making two specific facets of container management available to system services more readily. 
-  * [Next Essential phone cancelled](https://www.bloomberg.com/news/articles/2018-05-24/andy-rubin-s-phone-maker-essential-is-said-to-consider-sale "Next Essential phone cancelled") — Company cancels development of second version of smartphone 
-  * [XDA lament the news](https://www.xda-developers.com/essential-model-citizen-editorial/ "XDA lament the news")
-  * [Some cheap Android phones shipped with malware](https://techcrunch.com/2018/05/24/some-low-cost-android-phones-shipped-with-malware-built-in/ "Some cheap Android phones shipped with malware") — The app consists of a dropper and a payload. 
-  * [Linux apps coming to older Chromebooks](https://www.xda-developers.com/linux-app-support-older-chrome-os-devices/ "Linux apps coming to older Chromebooks") — Thanks to an issue found on Chromium’s public bugtracker, we have confirmation that containers won’t be limited to the handful of Chrome OS devices released with kernel 4.4.
+  * [openSUSE Leap 15 released ](https://news.opensuse.org/2018/05/25/based-on-enterprise-code-tested-millions-of-times-opensuse-leap-15-released/ "openSUSE Leap 15 released") — With a brand new look developed by the community, openSUSE Leap 15 brings plenty of community packages built on top of a core from SUSE Linux Enterprise (SLE) 15 sources 
+  * [LXQt 0.13 released ](https://blog.lxqt.org/2018/05/release-lxqt-0-13-0/ "LXQt 0.13 released") — The LXQt team is proud to announce the release of LXQt 0.13.0, the Lightweight Qt Desktop Environment. 
+  * [Portable Services arrives in systemd ](https://www.phoronix.com/scan.php?page=news_item&px=Systemd-Portable-Services "Portable Services arrives in systemd") — "Portable Services" are supposed to be an incremental improvement over traditional system services, making two specific facets of container management available to system services more readily. 
+  * [Next Essential phone cancelled ](https://www.bloomberg.com/news/articles/2018-05-24/andy-rubin-s-phone-maker-essential-is-said-to-consider-sale "Next Essential phone cancelled") — Company cancels development of second version of smartphone 
+  * [XDA lament the news ](https://www.xda-developers.com/essential-model-citizen-editorial/ "XDA lament the news")
+  * [Some cheap Android phones shipped with malware ](https://techcrunch.com/2018/05/24/some-low-cost-android-phones-shipped-with-malware-built-in/ "Some cheap Android phones shipped with malware") — The app consists of a dropper and a payload. 
+  * [Linux apps coming to older Chromebooks ](https://www.xda-developers.com/linux-app-support-older-chrome-os-devices/ "Linux apps coming to older Chromebooks") — Thanks to an issue found on Chromium’s public bugtracker, we have confirmation that containers won’t be limited to the handful of Chrome OS devices released with kernel 4.4. 
 
 
 

@@ -15,21 +15,21 @@ Arch finds itself in the barrel, Ubuntu goes on a diet, and Python's leader for 
 
 ## Sponsored by
 
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Arch Linux AUR Repository Found to Contain Malware](https://sensorstechforum.com/arch-linux-aur-repository-found-contain-malware/ "Arch Linux AUR Repository Found to Contain Malware")
-  * [Minimal Ubuntu released](https://blog.ubuntu.com/2018/07/09/minimal-ubuntu-released "Minimal Ubuntu released")
-  * [Guido van Rossum resigns as Python leader](https://lwn.net/Articles/759654/ "Guido van Rossum resigns as Python leader")
-  * [PEP 572 and decision-making in Python](https://lwn.net/Articles/757713/ "PEP 572 and decision-making in Python")
-  * [Firefox for Android enters maintenance phase as team prepares new browser](https://www.xda-developers.com/firefox-android-maintenance-new-browser/ "Firefox for Android enters maintenance phase as team prepares new browser")
-  * [Arm throws shade on RISC-V](https://www.phoronix.com/scan.php?page=news_item&px=ARM-RISC-V-Facts "Arm throws shade on RISC-V")
-  * [But then backtracks](https://www.theregister.co.uk/2018/07/10/arm_riscv_website/ "But then backtracks")
-  * [HTC's blockchain smartphone](https://www.theverge.com/2018/7/10/17548104/htc-exodus-blockchain-powered-smartphone "HTC's blockchain smartphone")
-  * [Debian Joins KDE's Advisory Board](https://dot.kde.org/2018/07/12/debian-joins-kdes-advisory-board "Debian Joins KDE's Advisory Board")
+  * [Arch Linux AUR Repository Found to Contain Malware ](https://sensorstechforum.com/arch-linux-aur-repository-found-contain-malware/ "Arch Linux AUR Repository Found to Contain Malware")
+  * [Minimal Ubuntu released ](https://blog.ubuntu.com/2018/07/09/minimal-ubuntu-released "Minimal Ubuntu released")
+  * [Guido van Rossum resigns as Python leader ](https://lwn.net/Articles/759654/ "Guido van Rossum resigns as Python leader")
+  * [PEP 572 and decision-making in Python ](https://lwn.net/Articles/757713/ "PEP 572 and decision-making in Python")
+  * [Firefox for Android enters maintenance phase as team prepares new browser ](https://www.xda-developers.com/firefox-android-maintenance-new-browser/ "Firefox for Android enters maintenance phase as team prepares new browser")
+  * [Arm throws shade on RISC-V ](https://www.phoronix.com/scan.php?page=news_item&px=ARM-RISC-V-Facts "Arm throws shade on RISC-V")
+  * [But then backtracks ](https://www.theregister.co.uk/2018/07/10/arm_riscv_website/ "But then backtracks")
+  * [HTC's blockchain smartphone ](https://www.theverge.com/2018/7/10/17548104/htc-exodus-blockchain-powered-smartphone "HTC's blockchain smartphone")
+  * [Debian Joins KDE's Advisory Board ](https://dot.kde.org/2018/07/12/debian-joins-kdes-advisory-board "Debian Joins KDE's Advisory Board")
 
 
 

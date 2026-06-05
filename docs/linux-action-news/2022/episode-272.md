@@ -22,17 +22,17 @@ Why we won't see a new Raspberry Pi until 2025, the first steps to Plasma 6 are 
 
 ## Episode links
 
-  * [Raspberry Pi 5 Not Launching Until After 2023](https://www.tomshardware.com/news/raspberry-pi-5-after-2023 "Raspberry Pi 5 Not Launching Until After 2023") — Don't expect a Pi 5 next year [2023]" Upton then expands and explains that 2023 is a "recovery year". 
-  * [Eben Upton Interview: Raspberry Pi Availability & More! - YouTube](https://www.youtube.com/watch?v=P9vna9jao9I "Eben Upton Interview: Raspberry Pi Availability & More! - YouTube")
-  * [Raspberry Pi Adds 100,000 Units to Supply Chain, Back to Pre-pandemic Levels in 2023 | Tom’s Hardware](https://www.tomshardware.com/news/raspberry-pi-adds-100000-units-to-supply-chain-back-to-pre-pandemic-levels-in-2023 "Raspberry Pi Adds 100,000 Units to Supply Chain, Back to Pre-pandemic Levels in 2023 | Tom’s Hardware") — In the blog post, Upton acknowledged the patience of the community and offers the 100,000 units, made up of Raspberry Pi Zero W, 3A+ and Raspberry Pi 4 2GB and 4GB for single-unit sale. We don't know the breakdown of how many of each model there will be, but Upton does indicate that it is likely that Raspberry Pi Zero W will come back into stock first. 
-  * [KDE Frameworks 5.101 Released](https://www.phoronix.com/news/KDE-Frameworks-6-Branch-Point "KDE Frameworks 5.101 Released") — Per the plans laid out earlier this year at the Akademy developer conference, KDE Frameworks 5 feature development stops following the v5.101 release. KDE Frameworks 5 will now just see maintenance updates moving forward. 
-  * [Xfce 4.18 Released](https://alexxcons.github.io/blogpost_8.html "Xfce 4.18 Released") — After almost two years of work, we are happy to announce the release of Xfce 4.18 !
-  * [Xfce 4.18 by muscaln · Pull Request #206282 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/pull/206282 "Xfce 4.18 by muscaln · Pull Request #206282 · NixOS/nixpkgs")
-  * [PipeWire Bluetooth Improvements](https://www.phoronix.com/news/PipeWire-0.3.62 "PipeWire Bluetooth Improvements") — Most exciting with today's PipeWire 0.3.62 release is now supporting Bluetooth offloading. 
-  * [Releases · PipeWire / wireplumber · GitLab](https://gitlab.freedesktop.org/pipewire/wireplumber/-/releases "Releases · PipeWire / wireplumber · GitLab")
-  * [Feature Preview: Gitea Actions](https://blog.gitea.io/2022/12/feature-preview-gitea-actions/ "Feature Preview: Gitea Actions") — Gitea Actions goes beyond just DevOps and lets you run workflows when other events happen in your repository. 
-  * [act_runner](https://gitea.com/gitea/act_runner "act_runner") — A runner for Gitea based on act.
-  * [act](https://github.com/nektos/act "act") — Run your GitHub Actions locally 🚀
+  * [Raspberry Pi 5 Not Launching Until After 2023 ](https://www.tomshardware.com/news/raspberry-pi-5-after-2023 "Raspberry Pi 5 Not Launching Until After 2023") — Don't expect a Pi 5 next year [2023]" Upton then expands and explains that 2023 is a "recovery year". 
+  * [Eben Upton Interview: Raspberry Pi Availability & More! - YouTube ](https://www.youtube.com/watch?v=P9vna9jao9I "Eben Upton Interview: Raspberry Pi Availability & More! - YouTube")
+  * [Raspberry Pi Adds 100,000 Units to Supply Chain, Back to Pre-pandemic Levels in 2023 | Tom’s Hardware ](https://www.tomshardware.com/news/raspberry-pi-adds-100000-units-to-supply-chain-back-to-pre-pandemic-levels-in-2023 "Raspberry Pi Adds 100,000 Units to Supply Chain, Back to Pre-pandemic Levels in 2023 | Tom’s Hardware") — In the blog post, Upton acknowledged the patience of the community and offers the 100,000 units, made up of Raspberry Pi Zero W, 3A+ and Raspberry Pi 4 2GB and 4GB for single-unit sale. We don't know the breakdown of how many of each model there will be, but Upton does indicate that it is likely that Raspberry Pi Zero W will come back into stock first. 
+  * [KDE Frameworks 5.101 Released ](https://www.phoronix.com/news/KDE-Frameworks-6-Branch-Point "KDE Frameworks 5.101 Released") — Per the plans laid out earlier this year at the Akademy developer conference, KDE Frameworks 5 feature development stops following the v5.101 release. KDE Frameworks 5 will now just see maintenance updates moving forward. 
+  * [Xfce 4.18 Released ](https://alexxcons.github.io/blogpost_8.html "Xfce 4.18 Released") — After almost two years of work, we are happy to announce the release of Xfce 4.18 ! 
+  * [Xfce 4.18 by muscaln · Pull Request #206282 · NixOS/nixpkgs ](https://github.com/NixOS/nixpkgs/pull/206282 "Xfce 4.18 by muscaln · Pull Request #206282 · NixOS/nixpkgs")
+  * [PipeWire Bluetooth Improvements ](https://www.phoronix.com/news/PipeWire-0.3.62 "PipeWire Bluetooth Improvements") — Most exciting with today's PipeWire 0.3.62 release is now supporting Bluetooth offloading. 
+  * [Releases · PipeWire / wireplumber · GitLab ](https://gitlab.freedesktop.org/pipewire/wireplumber/-/releases "Releases · PipeWire / wireplumber · GitLab")
+  * [Feature Preview: Gitea Actions ](https://blog.gitea.io/2022/12/feature-preview-gitea-actions/ "Feature Preview: Gitea Actions") — Gitea Actions goes beyond just DevOps and lets you run workflows when other events happen in your repository. 
+  * [act_runner ](https://gitea.com/gitea/act_runner "act_runner") — A runner for Gitea based on act. 
+  * [act ](https://github.com/nektos/act "act") — Run your GitHub Actions locally 🚀 
 
 
 

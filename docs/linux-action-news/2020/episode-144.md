@@ -21,17 +21,17 @@ None
 
 ## Episode links
 
-  * [End-of-life announcement for CoreOS Container Linux](https://coreos.com/os/eol/ "End-of-life announcement for CoreOS Container Linux") — We know this timeline is aggressive. We've tried to provide the longest possible migration period consistent with our ability to maintain the OS
-  * [Glass Enterprise Edition 2 now available for developers](https://developers.googleblog.com/2020/02/glass-enterprise-edition-2-now.html "Glass Enterprise Edition 2 now available for developers")
-  * [Mycroft's Position on Patent Trolls](https://mycroft.ai/blog/troll-hunter-mycrofts-position-on-patent-trolls/ "Mycroft's Position on Patent Trolls") — We are going to litigate every single patent suit to the fullest extent possible including appealing any adverse decisions all the way to the Supreme Court.
-  * [GNU-FSF cooperation update](https://www.gnu.org/gnu/2020-announcement-1.html "GNU-FSF cooperation update") — Our mutual aim is to work together as peers, while minimizing change in the practical aspects of this cooperation, so we can advance in our common free software mission.
-  * [GNU-FSF cooperation update — Free Software Foundation — working together for free software](https://www.fsf.org/news/gnu-fsf-cooperation-update "GNU-FSF cooperation update — Free Software Foundation — working together for free software")
-  * [The draft GNU Social Contract](https://sourceware.org/ml/libc-alpha/2020-01/msg00607.html "The draft GNU Social Contract") — I have been working with several other GNU Maintainers and volunteers to draft a GNU Social Contract which explains the key commitments we want from the GNU Project.
-  * [GNU Social Contract DRAFT](https://wiki.gnu.tools/gnu:social-contract "GNU Social Contract DRAFT")
-  * [Jean Louis - Re: A GNU “social contract”?](https://lists.gnu.org/archive/html/gnu-misc-discuss/2020-01/msg00075.html "Jean Louis - Re: A GNU “social contract”?")
-  * [Proposals for the new GNU/FSF relationship](https://gnu.wildebeest.org/blog/mjw/2019/12/27/proposals-for-the-new-gnu-fsf-relationship/ "Proposals for the new GNU/FSF relationship")
-  * [Memorial Fund for Mark Greaves, PeppermintOS CEO](https://www.gofundme.com/f/memorial-fund-for-mark-greaves-peppermintos-ceo "Memorial Fund for Mark Greaves, PeppermintOS CEO") — This is a tribute to Mark Greaves (PCNetSpec), Husband, Father, Peppermint CEO and distributor.
-  * [AppCenter for Everyone](https://www.indiegogo.com/projects/appcenter-for-everyone/x/1916634#/ "AppCenter for Everyone") — This campaign will fund a one-week in-person development sprint to develop and deliver on these key areas.
+  * [End-of-life announcement for CoreOS Container Linux ](https://coreos.com/os/eol/ "End-of-life announcement for CoreOS Container Linux") — We know this timeline is aggressive. We've tried to provide the longest possible migration period consistent with our ability to maintain the OS 
+  * [Glass Enterprise Edition 2 now available for developers ](https://developers.googleblog.com/2020/02/glass-enterprise-edition-2-now.html "Glass Enterprise Edition 2 now available for developers")
+  * [Mycroft's Position on Patent Trolls ](https://mycroft.ai/blog/troll-hunter-mycrofts-position-on-patent-trolls/ "Mycroft's Position on Patent Trolls") — We are going to litigate every single patent suit to the fullest extent possible including appealing any adverse decisions all the way to the Supreme Court. 
+  * [GNU-FSF cooperation update ](https://www.gnu.org/gnu/2020-announcement-1.html "GNU-FSF cooperation update") — Our mutual aim is to work together as peers, while minimizing change in the practical aspects of this cooperation, so we can advance in our common free software mission. 
+  * [GNU-FSF cooperation update — Free Software Foundation — working together for free software ](https://www.fsf.org/news/gnu-fsf-cooperation-update "GNU-FSF cooperation update — Free Software Foundation — working together for free software")
+  * [The draft GNU Social Contract ](https://sourceware.org/ml/libc-alpha/2020-01/msg00607.html "The draft GNU Social Contract") — I have been working with several other GNU Maintainers and volunteers to draft a GNU Social Contract which explains the key commitments we want from the GNU Project. 
+  * [GNU Social Contract DRAFT ](https://wiki.gnu.tools/gnu:social-contract "GNU Social Contract DRAFT")
+  * [Jean Louis - Re: A GNU “social contract”? ](https://lists.gnu.org/archive/html/gnu-misc-discuss/2020-01/msg00075.html "Jean Louis - Re: A GNU “social contract”?")
+  * [Proposals for the new GNU/FSF relationship ](https://gnu.wildebeest.org/blog/mjw/2019/12/27/proposals-for-the-new-gnu-fsf-relationship/ "Proposals for the new GNU/FSF relationship")
+  * [Memorial Fund for Mark Greaves, PeppermintOS CEO ](https://www.gofundme.com/f/memorial-fund-for-mark-greaves-peppermintos-ceo "Memorial Fund for Mark Greaves, PeppermintOS CEO") — This is a tribute to Mark Greaves (PCNetSpec), Husband, Father, Peppermint CEO and distributor. 
+  * [AppCenter for Everyone ](https://www.indiegogo.com/projects/appcenter-for-everyone/x/1916634#/ "AppCenter for Everyone") — This campaign will fund a one-week in-person development sprint to develop and deliver on these key areas. 
 
 
 

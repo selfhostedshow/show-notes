@@ -21,25 +21,25 @@ None
 
 ## Episode links
 
-  * [Jason Spisak - IMDb](https://www.imdb.com/name/nm1032853/ "Jason Spisak - IMDb")
-  * [Lycoris (formerly Redmond Linux) - Wikipedia](https://en.wikipedia.org/wiki/Lycoris_\(company\) "Lycoris \(formerly Redmond Linux\) - Wikipedia")
-  * [Lindows/Linspire - Wikipedia](https://en.wikipedia.org/wiki/Linspire#History "Lindows/Linspire - Wikipedia")
-  * [Symphony OS & Mezzo Desktop - Wikipedia](https://en.wikipedia.org/wiki/Symphony_OS "Symphony OS & Mezzo Desktop - Wikipedia")
-  * [Symphony OS - ArchiveOS](https://archiveos.org/symphony/ "Symphony OS - ArchiveOS")
-  * [Home Assistant - Open source home automation](https://www.home-assistant.io/ "Home Assistant - Open source home automation")
-  * [WireGuard: fast, modern, secure VPN tunnel](https://www.wireguard.com/ "WireGuard: fast, modern, secure VPN tunnel")
-  * [Linux Unplugged 331: apt install arch-linux](https://linuxunplugged.com/331 "Linux Unplugged 331: apt install arch-linux") — Brent's first WireGuard project
-  * [Linux Unplugged - Episodes tagged "WireGuard"](https://linuxunplugged.com/tags/wireguard "Linux Unplugged - Episodes tagged "WireGuard"")
-  * [Self-Hosted 7: Why We Love Home Assistant](https://selfhosted.show/7 "Self-Hosted 7: Why We Love Home Assistant")
-  * [Elementary OS](https://elementary.io/ "Elementary OS")
-  * [PINE64](https://www.pine64.org/ "PINE64")
-  * [System76 - Linux Laptops, Desktops, and Servers](https://system76.com/ "System76 - Linux Laptops, Desktops, and Servers")
-  * [MrChromebox](https://mrchromebox.tech/ "MrChromebox") — Custom coreboot firmware and firmware utilities for your Chromebook/Chromebox
-  * [GalliumOS](https://galliumos.org/ "GalliumOS")
-  * [World's 26 richest people own as much as poorest 50%, says Oxfam - The Guardian](https://www.theguardian.com/business/2019/jan/21/world-26-richest-people-own-as-much-as-poorest-50-per-cent-oxfam-report "World's 26 richest people own as much as poorest 50%, says Oxfam - The Guardian")
-  * [The Unbelievers - IMDb](https://www.imdb.com/title/tt2636522/ "The Unbelievers - IMDb") — Renowned scientists Richard Dawkins and Lawrence Krauss cross the globe as they speak publicly about the importance of science and reason in the modern world.
-  * [Jason Spisak](http://www.jasonspisak.com/ "Jason Spisak")
-  * [Brent Gervais - @brentgervais on Twitter](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
+  * [Jason Spisak - IMDb ](https://www.imdb.com/name/nm1032853/ "Jason Spisak - IMDb")
+  * [Lycoris (formerly Redmond Linux) - Wikipedia ](https://en.wikipedia.org/wiki/Lycoris_\(company\) "Lycoris \(formerly Redmond Linux\) - Wikipedia")
+  * [Lindows/Linspire - Wikipedia ](https://en.wikipedia.org/wiki/Linspire#History "Lindows/Linspire - Wikipedia")
+  * [Symphony OS & Mezzo Desktop - Wikipedia ](https://en.wikipedia.org/wiki/Symphony_OS "Symphony OS & Mezzo Desktop - Wikipedia")
+  * [Symphony OS - ArchiveOS ](https://archiveos.org/symphony/ "Symphony OS - ArchiveOS")
+  * [Home Assistant - Open source home automation ](https://www.home-assistant.io/ "Home Assistant - Open source home automation")
+  * [WireGuard: fast, modern, secure VPN tunnel ](https://www.wireguard.com/ "WireGuard: fast, modern, secure VPN tunnel")
+  * [Linux Unplugged 331: apt install arch-linux ](https://linuxunplugged.com/331 "Linux Unplugged 331: apt install arch-linux") — Brent's first WireGuard project 
+  * [Linux Unplugged - Episodes tagged "WireGuard" ](https://linuxunplugged.com/tags/wireguard "Linux Unplugged - Episodes tagged "WireGuard"")
+  * [Self-Hosted 7: Why We Love Home Assistant ](https://selfhosted.show/7 "Self-Hosted 7: Why We Love Home Assistant")
+  * [Elementary OS ](https://elementary.io/ "Elementary OS")
+  * [PINE64 ](https://www.pine64.org/ "PINE64")
+  * [System76 - Linux Laptops, Desktops, and Servers ](https://system76.com/ "System76 - Linux Laptops, Desktops, and Servers")
+  * [MrChromebox ](https://mrchromebox.tech/ "MrChromebox") — Custom coreboot firmware and firmware utilities for your Chromebook/Chromebox 
+  * [GalliumOS ](https://galliumos.org/ "GalliumOS")
+  * [World's 26 richest people own as much as poorest 50%, says Oxfam - The Guardian ](https://www.theguardian.com/business/2019/jan/21/world-26-richest-people-own-as-much-as-poorest-50-per-cent-oxfam-report "World's 26 richest people own as much as poorest 50%, says Oxfam - The Guardian")
+  * [The Unbelievers - IMDb ](https://www.imdb.com/title/tt2636522/ "The Unbelievers - IMDb") — Renowned scientists Richard Dawkins and Lawrence Krauss cross the globe as they speak publicly about the importance of science and reason in the modern world. 
+  * [Jason Spisak ](http://www.jasonspisak.com/ "Jason Spisak")
+  * [Brent Gervais - @brentgervais on Twitter ](https://twitter.com/brentgervais "Brent Gervais - @brentgervais on Twitter")
 
 
 

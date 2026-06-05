@@ -16,20 +16,20 @@ Wendell from Level One Techs joins us to catch up on low-power hardware, his hom
 
 ## Sponsored by
 
-  * [LogScale](https://crowdstrike.com/lce): [Take logs from any source and make them usable. Get started with LogScale Community Edition for free.](https://crowdstrike.com/lce)
+  * [LogScale](https://crowdstrike.com/lce): [Take logs from any source and make them usable. Get started with LogScale Community Edition for free. ](https://crowdstrike.com/lce)
   * [Linode](https://linode.com/ssh): [Receive a $100 60-day credit towards your new account. ](https://linode.com/ssh) Promo Code: linode.com/ssh
 
 
 
 ## Episode links
 
-  * [Level One Techs](https://level1techs.com/ "Level One Techs") — Go find more Wendell!
-  * [A Look at the INTEL ARC A770 ](https://level1techs.com/video/look-intel-arc-a770 "A Look at the INTEL ARC A770 ") — A new challenger appears in the GPU arena! But do they have what it takes to compete? Wendell investigates!
-  * [reTerminal CM4104032 ](https://www.seeedstudio.com/ReTerminal-with-CM4-p-4904.html "reTerminal CM4104032 ") — The reTerminal is a Human-Machine Interface facility, designed in modularization, offered multiple interfaces and components. It is your hand-size, powerful, Raspberry Pi-based all-in-one board, assisting you to develop individual IoT & AI projects and being ready to materialize industrial-level monitor and control functions.
-  * [Presenting: Obsidian OCR 🎉](https://www.reddit.com/r/ObsidianMD/comments/vvqfqj/presenting_obsidian_ocr/ "Presenting: Obsidian OCR 🎉") — Obsidian OCR allows you to search for text in the images and PDFs in your vault.
-  * [AppFlowy.IO](https://appflowy.io/ "AppFlowy.IO") — You are in charge of your data and customizations.
-  * [Joplin](https://joplinapp.org/ "Joplin") — Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device. 
-  * [Send a Boost into the Show](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost into the Show") — Upgrade to a Podcasting 2.0 compatible app, and Boost into the show.
+  * [Level One Techs ](https://level1techs.com/ "Level One Techs") — Go find more Wendell! 
+  * [A Look at the INTEL ARC A770 ](https://level1techs.com/video/look-intel-arc-a770 "A Look at the INTEL ARC A770 ") — A new challenger appears in the GPU arena! But do they have what it takes to compete? Wendell investigates! 
+  * [reTerminal CM4104032 ](https://www.seeedstudio.com/ReTerminal-with-CM4-p-4904.html "reTerminal CM4104032 ") — The reTerminal is a Human-Machine Interface facility, designed in modularization, offered multiple interfaces and components. It is your hand-size, powerful, Raspberry Pi-based all-in-one board, assisting you to develop individual IoT & AI projects and being ready to materialize industrial-level monitor and control functions. 
+  * [Presenting: Obsidian OCR 🎉 ](https://www.reddit.com/r/ObsidianMD/comments/vvqfqj/presenting_obsidian_ocr/ "Presenting: Obsidian OCR 🎉") — Obsidian OCR allows you to search for text in the images and PDFs in your vault. 
+  * [AppFlowy.IO ](https://appflowy.io/ "AppFlowy.IO") — You are in charge of your data and customizations. 
+  * [Joplin ](https://joplinapp.org/ "Joplin") — Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device. 
+  * [Send a Boost into the Show ](https://podcastindex.org/apps?appTypes=app&elements=Value "Send a Boost into the Show") — Upgrade to a Podcasting 2.0 compatible app, and Boost into the show. 
 
 
 

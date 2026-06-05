@@ -22,25 +22,25 @@ What we're liking about GNOME 44, how Microsoft's Linux distro is trying to attr
 
 ## Episode links
 
-  * [GNOME 44 Released](https://release.gnome.org/44/ "GNOME 44 Released") — GNOME 44 is code-named “Kuala Lumpur”, in recognition of the work done by the organizers of GNOME.Asia 2022.
-  * [GNOME 44 Released With Many Desktop Enhancements](https://www.phoronix.com/news/GNOME-44-Released "GNOME 44 Released With Many Desktop Enhancements")
-  * [GNOME 44 Getting New Background Apps UI](https://www.omglinux.com/gnome-shell-background-apps-ui/ "GNOME 44 Getting New Background Apps UI")
+  * [GNOME 44 Released ](https://release.gnome.org/44/ "GNOME 44 Released") — GNOME 44 is code-named “Kuala Lumpur”, in recognition of the work done by the organizers of GNOME.Asia 2022. 
+  * [GNOME 44 Released With Many Desktop Enhancements ](https://www.phoronix.com/news/GNOME-44-Released "GNOME 44 Released With Many Desktop Enhancements")
+  * [GNOME 44 Getting New Background Apps UI ](https://www.omglinux.com/gnome-shell-background-apps-ui/ "GNOME 44 Getting New Background Apps UI")
   * [Ubuntu Touch OTA-1 Focal Release ](https://ubports.com/blog/ubports-news-1/post/ubuntu-touch-ota-1-focal-release-3888 "Ubuntu Touch OTA-1 Focal Release ") — This is the first OTA for Ubuntu 20.04 (Focal) with major features, this is an Opt-In and not mandatory update. 
-  * [First Ubuntu Touch OTA Release Based on Ubuntu 20.04 LTS Is Out Now](https://9to5linux.com/first-ubuntu-touch-ota-release-based-on-ubuntu-20-04-lts-is-out-now "First Ubuntu Touch OTA Release Based on Ubuntu 20.04 LTS Is Out Now")
-  * [Ubuntu Cinnamon Flavor Status Announcement](https://ubuntucinnamon.org/ubuntu-cinnamon-flavor-status-announcement/ "Ubuntu Cinnamon Flavor Status Announcement") — Ubuntu Cinnamon started as a small idea in my head, in 2019. I was ELEVEN. 
-  * [ItzSwirlz (Joshua Peisach)](https://github.com/ItzSwirlz "ItzSwirlz \(Joshua Peisach\)")
-  * [Ubuntu Cinnamon Remix Becomes Official Ubuntu Flavor](https://9to5linux.com/ubuntu-cinnamon-remix-becomes-official-ubuntu-flavor "Ubuntu Cinnamon Remix Becomes Official Ubuntu Flavor")
-  * [Microsoft’s CBL-Mariner Linux Distribution Continues Cultivating More Packages](https://www.phoronix.com/news/MS-CBL-Mariner-2.0.20230321 "Microsoft’s CBL-Mariner Linux Distribution Continues Cultivating More Packages") — With today's CBL-Mariner 2.0.20230321 they have continued cultivating more packages for the distribution. 
-  * [CBL-Mariner GitHub](https://github.com/microsoft/CBL-Mariner "CBL-Mariner GitHub")
-  * [We’re no longer sunsetting the Free Team plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/ "We’re no longer sunsetting the Free Team plan") — After listening to feedback and consulting our community, it’s clear that we made the wrong decision in sunsetting our Free Team plan.
-  * [Google discloses CentOS Linux kernel vulnerabilities following failure to issue timely fixes](https://www.neowin.net/news/google-discloses-centos-linux-kernel-vulnerabilities-following-failure-to-issue-timely-fixes/ "Google discloses CentOS Linux kernel vulnerabilities following failure to issue timely fixes") — Google Project Zero's security researcher Jann Horn learned that kernel fixes made to stable trees are not backported to many enterprise versions of Linux. 
-  * [Google Security Researchers Accuse CentOS of Failing to Backport Kernel Fixes](https://tech.slashdot.org/story/23/03/25/2133226/google-security-researchers-accuse-centos-of-failing-to-backport-kernel-fixes "Google Security Researchers Accuse CentOS of Failing to Backport Kernel Fixes")
-  * [Project Zero Mailing List Thread on CentOS Kernel Patches](https://bugs.chromium.org/p/project-zero/issues/detail?id=2439&can=2&q=&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary&cells=ids "Project Zero Mailing List Thread on CentOS Kernel Patches")
-  * [CVE-2023-0590](https://bugzilla.redhat.com/show_bug.cgi?id=2165741 "CVE-2023-0590")
-  * [kernel-5.14.0-277.el9](https://kojihub.stream.centos.org/koji/buildinfo?buildID=30576 "kernel-5.14.0-277.el9")
-  * [CVE-2023-1249](https://bugzilla.redhat.com/show_bug.cgi?id=2169719 "CVE-2023-1249")
-  * [CVE-2023-1252](https://bugzilla.redhat.com/show_bug.cgi?id=2176140 "CVE-2023-1252")
-  * [Berlin Meet Up #2 - Nextcloud Hackfest & Dev Community Introduction, Fri, Mar 31, 2023](https://www.meetup.com/jupiterbroadcasting/events/292533810/ "Berlin Meet Up #2 - Nextcloud Hackfest & Dev Community Introduction, Fri, Mar 31, 2023") — NOTE: the time detailed on Meetup.com is strictly set to PST, so don't be confused by the interface!
+  * [First Ubuntu Touch OTA Release Based on Ubuntu 20.04 LTS Is Out Now ](https://9to5linux.com/first-ubuntu-touch-ota-release-based-on-ubuntu-20-04-lts-is-out-now "First Ubuntu Touch OTA Release Based on Ubuntu 20.04 LTS Is Out Now")
+  * [Ubuntu Cinnamon Flavor Status Announcement ](https://ubuntucinnamon.org/ubuntu-cinnamon-flavor-status-announcement/ "Ubuntu Cinnamon Flavor Status Announcement") — Ubuntu Cinnamon started as a small idea in my head, in 2019. I was ELEVEN. 
+  * [ItzSwirlz (Joshua Peisach) ](https://github.com/ItzSwirlz "ItzSwirlz \(Joshua Peisach\)")
+  * [Ubuntu Cinnamon Remix Becomes Official Ubuntu Flavor ](https://9to5linux.com/ubuntu-cinnamon-remix-becomes-official-ubuntu-flavor "Ubuntu Cinnamon Remix Becomes Official Ubuntu Flavor")
+  * [Microsoft’s CBL-Mariner Linux Distribution Continues Cultivating More Packages ](https://www.phoronix.com/news/MS-CBL-Mariner-2.0.20230321 "Microsoft’s CBL-Mariner Linux Distribution Continues Cultivating More Packages") — With today's CBL-Mariner 2.0.20230321 they have continued cultivating more packages for the distribution. 
+  * [CBL-Mariner GitHub ](https://github.com/microsoft/CBL-Mariner "CBL-Mariner GitHub")
+  * [We’re no longer sunsetting the Free Team plan ](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/ "We’re no longer sunsetting the Free Team plan") — After listening to feedback and consulting our community, it’s clear that we made the wrong decision in sunsetting our Free Team plan. 
+  * [Google discloses CentOS Linux kernel vulnerabilities following failure to issue timely fixes ](https://www.neowin.net/news/google-discloses-centos-linux-kernel-vulnerabilities-following-failure-to-issue-timely-fixes/ "Google discloses CentOS Linux kernel vulnerabilities following failure to issue timely fixes") — Google Project Zero's security researcher Jann Horn learned that kernel fixes made to stable trees are not backported to many enterprise versions of Linux. 
+  * [Google Security Researchers Accuse CentOS of Failing to Backport Kernel Fixes ](https://tech.slashdot.org/story/23/03/25/2133226/google-security-researchers-accuse-centos-of-failing-to-backport-kernel-fixes "Google Security Researchers Accuse CentOS of Failing to Backport Kernel Fixes")
+  * [Project Zero Mailing List Thread on CentOS Kernel Patches ](https://bugs.chromium.org/p/project-zero/issues/detail?id=2439&can=2&q=&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary&cells=ids "Project Zero Mailing List Thread on CentOS Kernel Patches")
+  * [CVE-2023-0590 ](https://bugzilla.redhat.com/show_bug.cgi?id=2165741 "CVE-2023-0590")
+  * [kernel-5.14.0-277.el9 ](https://kojihub.stream.centos.org/koji/buildinfo?buildID=30576 "kernel-5.14.0-277.el9")
+  * [CVE-2023-1249 ](https://bugzilla.redhat.com/show_bug.cgi?id=2169719 "CVE-2023-1249")
+  * [CVE-2023-1252 ](https://bugzilla.redhat.com/show_bug.cgi?id=2176140 "CVE-2023-1252")
+  * [Berlin Meet Up #2 - Nextcloud Hackfest & Dev Community Introduction, Fri, Mar 31, 2023 ](https://www.meetup.com/jupiterbroadcasting/events/292533810/ "Berlin Meet Up #2 - Nextcloud Hackfest & Dev Community Introduction, Fri, Mar 31, 2023") — NOTE: the time detailed on Meetup.com is strictly set to PST, so don't be confused by the interface! 
 
 
 

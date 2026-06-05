@@ -16,23 +16,23 @@
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Linux 5.18 Released With Intel SDSi, New CPU & GPU Features](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.18-Released "Linux 5.18 Released With Intel SDSi, New CPU & GPU Features") — Linux 5.18 brings the controversial Intel Software Defined Silicon (SDSi) functionality.
-  * [Thoughts on software-defined silicon](https://lwn.net/Articles/884876/ "Thoughts on software-defined silicon") — Its purpose is to disable access to specific processor capabilities in the absence of a certificate from Intel saying otherwise.
-  * [Statistics from the 5.18 development cycle](https://lwn.net/Articles/895800/ "Statistics from the 5.18 development cycle")
-  * [Btrfs Gets Some Buttery Good Improvements With Linux 5.19](https://www.phoronix.com/scan.php?page=news_item&px=Btrfs-Linux-5.19-Changes "Btrfs Gets Some Buttery Good Improvements With Linux 5.19") — David Sterba of SUSE has submitted the ~4k lines of code worth of feature changes for the Btrfs file-system driver in the Linux 5.19 kernel.
-  * [Our build and release infrastructure, and upcoming updates](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html "Our build and release infrastructure, and upcoming updates") — This work will be incrementally deployed as each bit is finished. So be patient, and you will notice releases happening faster and faster!
-  * [Google Summer of Code (GSOC 2022) Highlights of FOSS Projects](https://debugpointnews.com/gsoc-2022/ "Google Summer of Code \(GSOC 2022\) Highlights of FOSS Projects") — Google announced the GSoC 2022 projects, and the list includes some exciting improvements to the mainstream foss projects such as GNOME, Xfce, LibreOffice, etc. 
-  * [Ubuntu 22.10 Makes PipeWire Default for Audio](https://9to5linux.com/looks-like-ubuntu-22-10-will-finally-switch-to-pipewire-by-default-and-drop-pulseaudio "Ubuntu 22.10 Makes PipeWire Default for Audio") — “That’s right, as of today the Kinetic ISO (pending, not yet current since the changes were just made) has been updated to run only PipeWire and not PulseAudio […] you can look forward to this for Kinetic”
-  * [Broadcom-VMware Deal Said to Be Ready as Soon as This Week](https://www.bloomberg.com/news/articles/2022-05-22/broadcom-said-to-be-in-talks-to-acquire-vmware "Broadcom-VMware Deal Said to Be Ready as Soon as This Week") — Broadcom Inc. could announce an agreement to acquire cloud-computing company VMware Inc. as soon as this week
-  * [Broadcom’s Potential VMware Acquisition: 5 Things About Dell, Stock Prices And Hock Tan To Know](https://www.crn.com/slide-shows/cloud/broadcom-s-potential-vmware-acquisition-5-things-to-know-about-dell-stock-prices-and-hock-tan "Broadcom’s Potential VMware Acquisition: 5 Things About Dell, Stock Prices And Hock Tan To Know")
-  * [Broadcom in Talks to Pay About $60 Billion for VMware](https://www.wsj.com/articles/broadcom-discussing-paying-around-140-a-share-for-vmware-people-say-11653334946 "Broadcom in Talks to Pay About $60 Billion for VMware")
-  * [Intel CEO Pat Gelsinger Has Mixed Feelings on a Broadcom-VMware Deal](https://www.bloomberg.com/news/articles/2022-05-23/intel-s-gelsinger-has-mixed-feelings-on-broadcom-vmware-deal "Intel CEO Pat Gelsinger Has Mixed Feelings on a Broadcom-VMware Deal")
+  * [Linux 5.18 Released With Intel SDSi, New CPU & GPU Features ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.18-Released "Linux 5.18 Released With Intel SDSi, New CPU & GPU Features") — Linux 5.18 brings the controversial Intel Software Defined Silicon (SDSi) functionality. 
+  * [Thoughts on software-defined silicon ](https://lwn.net/Articles/884876/ "Thoughts on software-defined silicon") — Its purpose is to disable access to specific processor capabilities in the absence of a certificate from Intel saying otherwise. 
+  * [Statistics from the 5.18 development cycle ](https://lwn.net/Articles/895800/ "Statistics from the 5.18 development cycle")
+  * [Btrfs Gets Some Buttery Good Improvements With Linux 5.19 ](https://www.phoronix.com/scan.php?page=news_item&px=Btrfs-Linux-5.19-Changes "Btrfs Gets Some Buttery Good Improvements With Linux 5.19") — David Sterba of SUSE has submitted the ~4k lines of code worth of feature changes for the Btrfs file-system driver in the Linux 5.19 kernel. 
+  * [Our build and release infrastructure, and upcoming updates ](https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html "Our build and release infrastructure, and upcoming updates") — This work will be incrementally deployed as each bit is finished. So be patient, and you will notice releases happening faster and faster! 
+  * [Google Summer of Code (GSOC 2022) Highlights of FOSS Projects ](https://debugpointnews.com/gsoc-2022/ "Google Summer of Code \(GSOC 2022\) Highlights of FOSS Projects") — Google announced the GSoC 2022 projects, and the list includes some exciting improvements to the mainstream foss projects such as GNOME, Xfce, LibreOffice, etc. 
+  * [Ubuntu 22.10 Makes PipeWire Default for Audio ](https://9to5linux.com/looks-like-ubuntu-22-10-will-finally-switch-to-pipewire-by-default-and-drop-pulseaudio "Ubuntu 22.10 Makes PipeWire Default for Audio") — “That’s right, as of today the Kinetic ISO (pending, not yet current since the changes were just made) has been updated to run only PipeWire and not PulseAudio […] you can look forward to this for Kinetic” 
+  * [Broadcom-VMware Deal Said to Be Ready as Soon as This Week ](https://www.bloomberg.com/news/articles/2022-05-22/broadcom-said-to-be-in-talks-to-acquire-vmware "Broadcom-VMware Deal Said to Be Ready as Soon as This Week") — Broadcom Inc. could announce an agreement to acquire cloud-computing company VMware Inc. as soon as this week 
+  * [Broadcom’s Potential VMware Acquisition: 5 Things About Dell, Stock Prices And Hock Tan To Know ](https://www.crn.com/slide-shows/cloud/broadcom-s-potential-vmware-acquisition-5-things-to-know-about-dell-stock-prices-and-hock-tan "Broadcom’s Potential VMware Acquisition: 5 Things About Dell, Stock Prices And Hock Tan To Know")
+  * [Broadcom in Talks to Pay About $60 Billion for VMware ](https://www.wsj.com/articles/broadcom-discussing-paying-around-140-a-share-for-vmware-people-say-11653334946 "Broadcom in Talks to Pay About $60 Billion for VMware")
+  * [Intel CEO Pat Gelsinger Has Mixed Feelings on a Broadcom-VMware Deal ](https://www.bloomberg.com/news/articles/2022-05-23/intel-s-gelsinger-has-mixed-feelings-on-broadcom-vmware-deal "Intel CEO Pat Gelsinger Has Mixed Feelings on a Broadcom-VMware Deal")
 
 
 

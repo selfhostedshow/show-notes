@@ -23,10 +23,10 @@ None
 
 ## Episode links
 
-  * [Faces of Open Source](http://www.facesofopensource.com/ "Faces of Open Source")
-  * [Peter Adams Photography](http://www.peteradamsphoto.com/ "Peter Adams Photography")
-  * [OSCON - Open Source Software Conference, Portland OR](https://conferences.oreilly.com/oscon/oscon-or "OSCON - Open Source Software Conference, Portland OR")
-  * [International Center of Photography, New York](https://www.icp.org/ "International Center of Photography, New York")
+  * [Faces of Open Source ](http://www.facesofopensource.com/ "Faces of Open Source")
+  * [Peter Adams Photography ](http://www.peteradamsphoto.com/ "Peter Adams Photography")
+  * [OSCON - Open Source Software Conference, Portland OR ](https://conferences.oreilly.com/oscon/oscon-or "OSCON - Open Source Software Conference, Portland OR")
+  * [International Center of Photography, New York ](https://www.icp.org/ "International Center of Photography, New York")
 
 
 

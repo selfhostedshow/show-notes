@@ -22,15 +22,15 @@ Red Hat hints at its future direction, why realtime might finally come to Linux 
 
 ## Episode links
 
-  * [Red Hat’s next steps, according to its new CEO](https://www.zdnet.com/article/red-hats-next-steps-according-to-its-new-ceo-and-chairman/ "Red Hat’s next steps, according to its new CEO") — "We expect to see an 800% increase in edge applications built by 2024. We want those applications to be part of the open hybrid cloud. We think we have a unique position to connect end devices back to the assets that you have in your data centers and cloud that you use to run your company today."
-  * [PREEMPT_RT Might Be Ready To Finally Land In Linux 5.20](https://www.phoronix.com/news/520-Maybe-Real-Time-PREEMPT_RT "PREEMPT_RT Might Be Ready To Finally Land In Linux 5.20") — The Linux real-time patch series has been getting smaller with time and quite close to crossing the finish line with just around 50 patches to be merged.
-  * [Google Engineers Go Big on Carbon - A Hopeful Successor To C++](https://www.phoronix.com/news/Carbon-Successor-To-CPP "Google Engineers Go Big on Carbon - A Hopeful Successor To C++") — The Carbon programming language hopes to be the gradual successor to C++ and makes for an easy transition path moving forward.
-  * [ByteDance Working To Make Kernel Booting Faster](https://www.phoronix.com/news/Bytedance-Faster-Kexec-Reboot "ByteDance Working To Make Kernel Booting Faster") — This patch series touching around 100 lines of Linux kernel code is what they are now hoping to upstreamed.
-  * [Happy Birthday This Week in GNOME](https://thisweek.gnome.org/posts/2022/07/twig-52/ "Happy Birthday This Week in GNOME") — I am pleased to announce that TWIG is having its first anniversary!
-  * [This Week in GNOME](http://thisweek.gnome.org/ "This Week in GNOME")
-  * [This Week in KDE](https://pointieststick.com/category/this-week-in-kde/ "This Week in KDE")
-  * [#53 GUADEC 2022 · This Week in GNOME](https://thisweek.gnome.org/posts/2022/07/twig-53/ "#53 GUADEC 2022 · This Week in GNOME")
-  * [Btrfs Native Encryption Being Worked On](https://www.phoronix.com/news/Btrfs-FSCRYPT-Encryption-RFC-v2 "Btrfs Native Encryption Being Worked On") — My goal in sending out this RFC is to get feedback on whether these are going in a reasonable direction; while there are a couple of additional parts, they're fundamentally minor compared to this. 
+  * [Red Hat’s next steps, according to its new CEO ](https://www.zdnet.com/article/red-hats-next-steps-according-to-its-new-ceo-and-chairman/ "Red Hat’s next steps, according to its new CEO") — "We expect to see an 800% increase in edge applications built by 2024. We want those applications to be part of the open hybrid cloud. We think we have a unique position to connect end devices back to the assets that you have in your data centers and cloud that you use to run your company today." 
+  * [PREEMPT_RT Might Be Ready To Finally Land In Linux 5.20 ](https://www.phoronix.com/news/520-Maybe-Real-Time-PREEMPT_RT "PREEMPT_RT Might Be Ready To Finally Land In Linux 5.20") — The Linux real-time patch series has been getting smaller with time and quite close to crossing the finish line with just around 50 patches to be merged. 
+  * [Google Engineers Go Big on Carbon - A Hopeful Successor To C++ ](https://www.phoronix.com/news/Carbon-Successor-To-CPP "Google Engineers Go Big on Carbon - A Hopeful Successor To C++") — The Carbon programming language hopes to be the gradual successor to C++ and makes for an easy transition path moving forward. 
+  * [ByteDance Working To Make Kernel Booting Faster ](https://www.phoronix.com/news/Bytedance-Faster-Kexec-Reboot "ByteDance Working To Make Kernel Booting Faster") — This patch series touching around 100 lines of Linux kernel code is what they are now hoping to upstreamed. 
+  * [Happy Birthday This Week in GNOME ](https://thisweek.gnome.org/posts/2022/07/twig-52/ "Happy Birthday This Week in GNOME") — I am pleased to announce that TWIG is having its first anniversary! 
+  * [This Week in GNOME ](http://thisweek.gnome.org/ "This Week in GNOME")
+  * [This Week in KDE ](https://pointieststick.com/category/this-week-in-kde/ "This Week in KDE")
+  * [53 GUADEC 2022 · This Week in GNOME ](https://thisweek.gnome.org/posts/2022/07/twig-53/ "#53 GUADEC 2022 · This Week in GNOME")
+  * [Btrfs Native Encryption Being Worked On ](https://www.phoronix.com/news/Btrfs-FSCRYPT-Encryption-RFC-v2 "Btrfs Native Encryption Being Worked On") — My goal in sending out this RFC is to get feedback on whether these are going in a reasonable direction; while there are a couple of additional parts, they're fundamentally minor compared to this. 
 
 
 

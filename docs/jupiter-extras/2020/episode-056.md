@@ -19,7 +19,7 @@ None
 
 ## Episode links
 
-  * [Building a Home Recording Booth](https://fridaystream.com/articles/building-a-home-recording-booth "Building a Home Recording Booth") — We want to create a recording booth with a minimum expense and making as few permanent modifications to the home as possible.
+  * [Building a Home Recording Booth ](https://fridaystream.com/articles/building-a-home-recording-booth "Building a Home Recording Booth") — We want to create a recording booth with a minimum expense and making as few permanent modifications to the home as possible. 
 
 
 

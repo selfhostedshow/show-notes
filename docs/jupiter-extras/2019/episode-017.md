@@ -21,7 +21,7 @@ None
 
 ## Episode links
 
-  * [Thread to Watch: Re: Bits from the DPL](https://lists.debian.org/debian-devel/2019/09/msg00307.html "Thread to Watch: Re: Bits from the DPL")
+  * [Thread to Watch: Re: Bits from the DPL ](https://lists.debian.org/debian-devel/2019/09/msg00307.html "Thread to Watch: Re: Bits from the DPL")
 
 
 

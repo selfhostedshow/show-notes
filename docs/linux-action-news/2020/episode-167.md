@@ -16,24 +16,24 @@ We explain the major changes to CentOS this week and break down the top four cri
 ## Sponsored by
 
   * [Linode](http://linode.com/lan): [Sign up using the link on this page and receive a $100 60-day credit towards your new account. ](http://linode.com/lan)
-  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one!](https://linux.ting.com)
+  * [Ting](https://linux.ting.com): [Save $25 off your first device, or $25 in service credit if you bring one! ](https://linux.ting.com)
 
 
 
 ## Episode links
 
-  * [Before You Get Mad About The CentOS Stream Change, Think About…](http://crunchtools.com/before-you-get-mad-about-the-centos-stream-change-think-about/ "Before You Get Mad About The CentOS Stream Change, Think About…") — But, before you get angry, please read this. I’ve been surfing Twitter, Reddit, and HackerNews threads just like many others. I’ve gathered some major buckets of complaints which seem to come up, and I’d like to address each of them.
-  * [CentOS project lead disappears](https://bit-tech.net/news/centos-project-lead-disappears/1/ "CentOS project lead disappears")
-  * [Usage Statistics and Market Share of Linux for Websites, December 2020](https://w3techs.com/technologies/details/os-linux "Usage Statistics and Market Share of Linux for Websites, December 2020")
-  * [Red Hat and the CentOS Project Join Forces to Speed Open Source Innovation](https://www.redhat.com/en/about/press-releases/red-hat-and-centos-join-forces "Red Hat and the CentOS Project Join Forces to Speed Open Source Innovation")
-  * [Transforming the development experience within CentOS](https://www.redhat.com/en/blog/transforming-development-experience-within-centos "Transforming the development experience within CentOS")
-  * [CentOS Project shifts focus to CentOS Stream](https://blog.centos.org/2020/12/future-is-centos-stream/ "CentOS Project shifts focus to CentOS Stream")
-  * [FAQ: CentOS Stream Updates](https://www.redhat.com/en/blog/faq-centos-stream-updates "FAQ: CentOS Stream Updates")
-  * [Google is opening Fuchsia OS development to the public](https://9to5google.com/2020/12/08/google-fuchsia-os-public-development/ "Google is opening Fuchsia OS development to the public") — To both support developers and make the Fuchsia development process less skunkworks and more public, Google is opening Fuchsia’s bug tracker to the public. 
-  * [Expanding Fuchsia’s open source model | Google Open Source Blog](https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html "Expanding Fuchsia’s open source model | Google Open Source Blog")
-  * [Linux 5.10 LTS Released As One Of The Biggest Kernel Releases In A While](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.10-Released "Linux 5.10 LTS Released As One Of The Biggest Kernel Releases In A While")
-  * [Linux 5.10 Released](https://lkml.org/lkml/2020/12/13/290 "Linux 5.10 Released") — Besides being the last kernel release of 2020, this is a significant milestone in that it's also a Long Term Support (LTS) kernel to be maintained for at least the next five years and also is a huge kernel update in general with many new features.
-  * [The 10 Most Interesting Features Of Linux 5.10](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.10-Feature-Recap "The 10 Most Interesting Features Of Linux 5.10")
+  * [Before You Get Mad About The CentOS Stream Change, Think About… ](http://crunchtools.com/before-you-get-mad-about-the-centos-stream-change-think-about/ "Before You Get Mad About The CentOS Stream Change, Think About…") — But, before you get angry, please read this. I’ve been surfing Twitter, Reddit, and HackerNews threads just like many others. I’ve gathered some major buckets of complaints which seem to come up, and I’d like to address each of them. 
+  * [CentOS project lead disappears ](https://bit-tech.net/news/centos-project-lead-disappears/1/ "CentOS project lead disappears")
+  * [Usage Statistics and Market Share of Linux for Websites, December 2020 ](https://w3techs.com/technologies/details/os-linux "Usage Statistics and Market Share of Linux for Websites, December 2020")
+  * [Red Hat and the CentOS Project Join Forces to Speed Open Source Innovation ](https://www.redhat.com/en/about/press-releases/red-hat-and-centos-join-forces "Red Hat and the CentOS Project Join Forces to Speed Open Source Innovation")
+  * [Transforming the development experience within CentOS ](https://www.redhat.com/en/blog/transforming-development-experience-within-centos "Transforming the development experience within CentOS")
+  * [CentOS Project shifts focus to CentOS Stream ](https://blog.centos.org/2020/12/future-is-centos-stream/ "CentOS Project shifts focus to CentOS Stream")
+  * [FAQ: CentOS Stream Updates ](https://www.redhat.com/en/blog/faq-centos-stream-updates "FAQ: CentOS Stream Updates")
+  * [Google is opening Fuchsia OS development to the public ](https://9to5google.com/2020/12/08/google-fuchsia-os-public-development/ "Google is opening Fuchsia OS development to the public") — To both support developers and make the Fuchsia development process less skunkworks and more public, Google is opening Fuchsia’s bug tracker to the public. 
+  * [Expanding Fuchsia’s open source model | Google Open Source Blog ](https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html "Expanding Fuchsia’s open source model | Google Open Source Blog")
+  * [Linux 5.10 LTS Released As One Of The Biggest Kernel Releases In A While ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.10-Released "Linux 5.10 LTS Released As One Of The Biggest Kernel Releases In A While")
+  * [Linux 5.10 Released ](https://lkml.org/lkml/2020/12/13/290 "Linux 5.10 Released") — Besides being the last kernel release of 2020, this is a significant milestone in that it's also a Long Term Support (LTS) kernel to be maintained for at least the next five years and also is a huge kernel update in general with many new features. 
+  * [The 10 Most Interesting Features Of Linux 5.10 ](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.10-Feature-Recap "The 10 Most Interesting Features Of Linux 5.10")
 
 
 

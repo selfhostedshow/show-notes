@@ -22,10 +22,10 @@ None
 
 ## Episode links
 
-  * [Nostr Starter Pack](https://linuxunplugged.com/nostr "Nostr Starter Pack")
-  * [Primal](https://primal.net/home "Primal")
-  * [Alby](https://getalby.com/ "Alby")
-  * [Fountain](https://fountain.fm/ "Fountain")
+  * [Nostr Starter Pack ](https://linuxunplugged.com/nostr "Nostr Starter Pack")
+  * [Primal ](https://primal.net/home "Primal")
+  * [Alby ](https://getalby.com/ "Alby")
+  * [Fountain ](https://fountain.fm/ "Fountain")
 
 
 
