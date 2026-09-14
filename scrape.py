@@ -8,6 +8,8 @@ import traceback
 import xml.etree.ElementTree
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 from jinja2 import Template
 import yaml
@@ -30,6 +32,23 @@ def mkdir_safe(directory):
         os.mkdir(directory)
     except FileExistsError:
         pass
+
+
+def fetch(url, **kwargs):
+    """Retry transient upstream failures without sharing sessions across threads."""
+    retries = Retry(
+        total=3,
+        backoff_factor=1,
+        status_forcelist=(500, 502, 503, 504),
+        allowed_methods=frozenset(["GET"]),
+        raise_on_status=False,
+    )
+    with requests.Session() as session:
+        session.mount("https://", HTTPAdapter(max_retries=retries))
+        session.mount("http://", HTTPAdapter(max_retries=retries))
+        response = session.get(url, timeout=(10, 30), **kwargs)
+        response.raise_for_status()
+        return response
 
 
 def get_list(soup, pre_title):
@@ -114,8 +133,7 @@ def create_episode(api_episode, show_config, output_dir):
 
         links = html2text.html2text(str(get_list(api_soup, "Links:") or get_list(api_soup, "Episode Links:")))
 
-        page_request = requests.get(api_episode["url"], headers={"Accept": "text/html"})
-        page_request.raise_for_status()
+        page_request = fetch(api_episode["url"], headers={"Accept": "text/html"})
 
         page_soup = BeautifulSoup(page_request.content, "html.parser")
 
@@ -195,7 +213,7 @@ def api_data_from_rss_item(item):
 
 
 def scrape_episodes_from_rss(url):
-    raw_xml = requests.get(url).content
+    raw_xml = fetch(url).content
     feed = xml.etree.ElementTree.fromstring(raw_xml)
     channel = feed.find("channel")
     assert channel is not None, "channel not found!"
@@ -233,13 +251,14 @@ def main():
 
             try:
                 api_data = (
-                    requests.get(show_config["fireside_url"] + "/json").json()["items"]
+                    fetch(show_config["fireside_url"] + "/json").json()["items"]
                     if show_config.get("use_fireside_json")
                     else scrape_episodes_from_rss(show_config["fireside_url"] + "/rss")
                 )
                 for api_episode in api_data:
                     futures.append(executor.submit(create_episode, api_episode, show_config, output_dir))
             except Exception as e:
+                exit_code = 1
                 print("ERROR: An error occurred somewhere.")
                 traceback.print_exception(e)
 
