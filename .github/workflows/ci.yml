@@ -14,7 +14,9 @@ jobs:
     - name: Install dependencies
       run: pip install -r dev-requirements.txt
     - name: Lint scraper
-      run: flake8 scrape.py
+      run: flake8 scrape.py test_scrape.py
+    - name: Test scraper
+      run: python3 -m unittest -v
     - name: Scrape data
       run: python3 scrape.py
     - name: Build site
