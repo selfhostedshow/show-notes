@@ -10,8 +10,9 @@
 Millions of people may already be using Linux by proxy, so we went digging through their strange little cloud desktops to see if we can turn them into servers.
 
 ## Your hosts
-* [Ell Marquez](https://linuxunplugged.com/hosts/ell)
-* [Zlatan Todorić](https://linuxunplugged.com/guests/zlatantodoric)
+* [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
+* [Wes Payne](https://linuxunplugged.com/hosts/wes)
+* [Brent Gervais](https://linuxunplugged.com/hosts/brent)
 
 ## Sponsored by
 
