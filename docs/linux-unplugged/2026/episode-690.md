@@ -17,6 +17,8 @@ A major PHP flaw puts servers everywhere at risk; so we hack ours. Meanwhile, op
 ## Sponsored by
 
   * [Managed Nebula](https://defined.net/unplugged): [Meet Managed Nebula from Defined Networking. A decentralized VPN built on the open-source Nebula platform that we love.](https://defined.net/unplugged)
+  * [Incogni](https://incogni.com/unplugged): [Use code UNPLUGGED for 60% off an annual plan.](https://incogni.com/unplugged)
+  * [Namecheap](https://namecheap.promo): [Use code UNPLUGGED for an extra 15% off VPS hosting.](https://namecheap.promo)
 
 
 
