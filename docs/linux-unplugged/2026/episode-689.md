@@ -19,6 +19,7 @@ A new documentary reveals KDE's 30-year underdog story. Plasma pioneer Aaron Sei
 
   * [Jupiter Party Annual Membership](https://jupitersignal.memberful.com/checkout?plan=117630r): [Put your support on automatic with our annual plan, and get one month of membership for free!](https://jupitersignal.memberful.com/checkout?plan=117630r)
   * [Managed Nebula](https://defined.net/unplugged): [Meet Managed Nebula from Defined Networking. A decentralized VPN built on the open-source Nebula platform that we love.](https://defined.net/unplugged)
+  * [Incogni](https://incogni.com/unplugged): [They can't harm you if they can't find you! Take back control of your personal data today. Go to incogni.com/unplugged and use code unplugged for 60% off an annual plan. It's completely risk-free with a 30-day money-back guarantee.](https://incogni.com/unplugged)
 
 
 
