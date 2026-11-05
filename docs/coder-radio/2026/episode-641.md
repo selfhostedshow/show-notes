@@ -1,6 +1,6 @@
 # CR 641: Qdrant's Brian O'Grady
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+R8sKH5JG?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+R8sKH5JG?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-02-15
 * Duration: 39 mins 22 secs

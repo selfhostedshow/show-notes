@@ -1,6 +1,6 @@
 # LUP 675: Sloppy Agent Roasting
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+xQcjOZbO?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+xQcjOZbO?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-07-12
 * Duration: 98 mins 6 secs

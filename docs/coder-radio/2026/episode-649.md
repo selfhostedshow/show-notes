@@ -1,6 +1,6 @@
 # CR 649: MikeBot Takeover!
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+JaED5swU?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+JaED5swU?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-06-01
 * Duration: 2 mins 27 secs

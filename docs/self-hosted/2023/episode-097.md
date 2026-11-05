@@ -1,6 +1,6 @@
 # SSH 097: Tempted by the Fruit of Another
 
-<iframe src="https://player.fireside.fm/v3/dUlrHQih+jn46JNuX?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+jn46JNuX?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-05-19
 * Duration: 60 mins 54 secs

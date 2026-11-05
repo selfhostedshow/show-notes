@@ -1,6 +1,6 @@
 # LUP 660: Boots and Breakups
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+8ZNSr6zH?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+8ZNSr6zH?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-03-29
 * Duration: 57 mins 36 secs

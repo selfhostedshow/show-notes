@@ -1,6 +1,6 @@
 # LUP 676: Fork Around and Find Out
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+TlqUnuu7?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+TlqUnuu7?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-07-19
 * Duration: 81 mins 53 secs

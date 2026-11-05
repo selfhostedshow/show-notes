@@ -1,6 +1,6 @@
 # LUP 674: LAN Before Time
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+W7qE4vCn?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+W7qE4vCn?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-07-05
 * Duration: 79 mins 55 secs

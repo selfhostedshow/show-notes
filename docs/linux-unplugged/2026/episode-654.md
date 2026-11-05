@@ -1,6 +1,6 @@
 # LUP 654: Creating Discord in the Matrix
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+r7YkcAPf?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+r7YkcAPf?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-02-15
 * Duration: 84 mins 47 secs

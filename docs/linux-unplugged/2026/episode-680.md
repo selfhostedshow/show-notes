@@ -1,6 +1,6 @@
 # LUP 680: Go Hack Yourself
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+Zr84nNI8?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+Zr84nNI8?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-08-16
 * Duration: 79 mins 44 secs

@@ -1,6 +1,6 @@
 # CR 461: Easy for Schmidt to Say
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+d1Qb8OsU?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+d1Qb8OsU?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-04-13
 * Duration: 37 mins 35 secs

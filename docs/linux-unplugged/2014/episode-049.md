@@ -1,6 +1,6 @@
 # LUP 049: Rapid Fire Journalism
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+4L1GASTU?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+4L1GASTU?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-07-15
 * Duration: 75 mins 18 secs

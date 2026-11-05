@@ -1,6 +1,6 @@
 # LAN 221: Linux Action News 221
 
-<iframe src="https://player.fireside.fm/v3/DAcK9LdX+mnORP_ya?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+mnORP_ya?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-12-27
 * Duration: 34 mins 22 secs

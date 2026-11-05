@@ -1,6 +1,6 @@
 # LUP 667: The Enterprise Endgame
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+upiPE6s-?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+upiPE6s-?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-05-17
 * Duration: 59 mins 54 secs

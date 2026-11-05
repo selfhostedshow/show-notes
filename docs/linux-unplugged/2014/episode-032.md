@@ -1,6 +1,6 @@
 # LUP 032: Do Me a SolydXK
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+xJmFHnpD?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+xJmFHnpD?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-03-18
 * Duration: 50 mins 31 secs

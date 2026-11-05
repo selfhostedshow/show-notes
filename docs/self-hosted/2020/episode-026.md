@@ -1,6 +1,6 @@
 # SSH 026: The Trouble with Docker
 
-<iframe src="https://player.fireside.fm/v3/dUlrHQih+dF8GaBOg?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+dF8GaBOg?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-08-27
 * Duration: 28 mins 56 secs

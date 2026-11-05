@@ -1,6 +1,6 @@
 # LUP 656: Why KDE Linux Surprised Us
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+BWLO-DAU?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+BWLO-DAU?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-03-01
 * Duration: 71 mins 3 secs

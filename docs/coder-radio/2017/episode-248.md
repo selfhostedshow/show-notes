@@ -1,6 +1,6 @@
 # CR 248: Some WebAssembly Required
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+gTBhWHjF?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+gTBhWHjF?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-03-13
 * Duration: 57 mins 20 secs

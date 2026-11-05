@@ -1,6 +1,6 @@
 # LUP 691: Fedora's Hidden Upgrades
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+TZmR5ZOj?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+TZmR5ZOj?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-11-02
 * Duration: 81 mins 18 secs

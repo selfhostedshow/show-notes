@@ -1,6 +1,6 @@
 # LAN 220: Linux Action News 220
 
-<iframe src="https://player.fireside.fm/v3/DAcK9LdX+Nnco-SXI?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+Nnco-SXI?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-12-19
 * Duration: 19 mins 56 secs

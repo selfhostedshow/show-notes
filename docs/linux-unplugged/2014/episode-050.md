@@ -1,6 +1,6 @@
 # LUP 050: Linux Look-Back
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+9MY9E-oJ?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+9MY9E-oJ?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-07-22
 * Duration: 58 mins 20 secs

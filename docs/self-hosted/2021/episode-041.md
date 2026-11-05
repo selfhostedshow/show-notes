@@ -1,6 +1,6 @@
 # SSH 041: The One with Jeff Geerling
 
-<iframe src="https://player.fireside.fm/v3/dUlrHQih+6hRLGslh?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+6hRLGslh?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-03-26
 * Duration: 33 mins 33 secs

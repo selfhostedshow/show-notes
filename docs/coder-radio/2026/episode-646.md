@@ -1,6 +1,6 @@
 # CR 646: Shawn Hymel
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+JiIHYj4A?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+JiIHYj4A?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-04-22
 * Duration: 24 mins 44 secs

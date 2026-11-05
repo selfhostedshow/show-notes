@@ -1,6 +1,6 @@
 # CR 650: Meat Mike Is Back
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+YAgP-2Ud?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+YAgP-2Ud?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-06-07
 * Duration: 19 mins 14 secs

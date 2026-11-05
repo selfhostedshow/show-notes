@@ -1,6 +1,6 @@
 # LUP 415: Something Sinister Below Deck
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+EOADc3qT?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+EOADc3qT?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-07-20
 * Duration: 72 mins 45 secs

@@ -1,6 +1,6 @@
 # CR 653: Microsoft's Franck Pachot
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+Fnbal4yg?theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+Fnbal4yg?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-07-08
 * Duration: 30 mins 23 secs
