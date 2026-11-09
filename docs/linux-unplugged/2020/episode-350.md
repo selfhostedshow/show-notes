@@ -1,6 +1,6 @@
 # LUP 350: Focal Focus
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+H9oahUCM?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+H9oahUCM?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-04-21
 * Duration: 72 mins 57 secs

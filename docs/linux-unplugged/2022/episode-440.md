@@ -1,6 +1,6 @@
 # LUP 440: Saving Podcasting from Centralization
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+sVRRDilq?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+sVRRDilq?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-01-09
 * Duration: 77 mins 7 secs

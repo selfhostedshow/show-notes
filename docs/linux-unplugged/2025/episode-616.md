@@ -1,6 +1,6 @@
 # LUP 616: From Boston to bootc
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+YGmMPGdv?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+YGmMPGdv?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-05-25
 * Duration: 90 mins 37 secs

@@ -1,6 +1,6 @@
 # CR 644: Bryan Hyland on Open-Source
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+Y2O5xZda?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+Y2O5xZda?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-04-01
 * Duration: 27 mins 40 secs

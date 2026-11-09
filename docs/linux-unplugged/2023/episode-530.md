@@ -1,6 +1,6 @@
 # LUP 530: Leave the Pi in the Oven
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+cXQviPpE?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+cXQviPpE?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-10-01
 * Duration: 68 mins 26 secs

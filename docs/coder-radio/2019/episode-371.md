@@ -1,6 +1,6 @@
 # CR 371: Absurd Abstractions
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+NMHG8ity?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+NMHG8ity?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-08-19
 * Duration: 39 mins 22 secs

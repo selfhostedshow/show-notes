@@ -1,6 +1,6 @@
 # CR 113: Corner of Shame
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+xWuHGjfq?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+xWuHGjfq?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-08-08
 * Duration: 52 mins 17 secs

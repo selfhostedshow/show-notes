@@ -1,6 +1,6 @@
 # LUP 519: The Clone Grift Wars
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+HYBa_3UH?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+HYBa_3UH?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-07-16
 * Duration: 85 mins 54 secs

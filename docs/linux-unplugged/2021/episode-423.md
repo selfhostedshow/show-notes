@@ -1,6 +1,6 @@
 # LUP 423: What Makes a Linux User?
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+vpwhInNt?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+vpwhInNt?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-09-14
 * Duration: 40 mins 10 secs

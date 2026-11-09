@@ -1,6 +1,6 @@
 # SSH 126: Smart But Not Cloudy
 
-<iframe src="https://player.fireside.fm/v3/dUlrHQih+C573u9Cm?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+C573u9Cm?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-06-28
 * Duration: 79 mins 49 secs

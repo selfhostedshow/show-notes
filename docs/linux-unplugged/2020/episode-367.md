@@ -1,6 +1,6 @@
 # LUP 367: Podcatcher Play-off
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+g1MdE9vK?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+g1MdE9vK?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-08-19
 * Duration: 65 mins 53 secs

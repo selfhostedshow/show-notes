@@ -1,6 +1,6 @@
 # SSH 003: Home Network Under $200
 
-<iframe src="https://player.fireside.fm/v3/dUlrHQih+cAEzQI3L?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+cAEzQI3L?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-10-10
 * Duration: 36 mins 6 secs

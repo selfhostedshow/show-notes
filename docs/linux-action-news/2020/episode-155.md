@@ -1,6 +1,6 @@
 # LAN 155: Linux Action News 155
 
-<iframe src="https://player.fireside.fm/v3/DAcK9LdX+yGgwf2OB?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+yGgwf2OB?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-09-20
 * Duration: 33 mins 48 secs

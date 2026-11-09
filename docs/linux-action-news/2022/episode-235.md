@@ -1,6 +1,6 @@
 # LAN 235: Linux Action News 235
 
-<iframe src="https://player.fireside.fm/v3/DAcK9LdX+tC2EelBL?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+tC2EelBL?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-04-07
 * Duration: 19 mins 13 secs

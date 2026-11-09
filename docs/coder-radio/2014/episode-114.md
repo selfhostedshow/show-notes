@@ -1,6 +1,6 @@
 # CR 114: Contrarian Contracting
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+wSOvWq3j?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+wSOvWq3j?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2014-08-11
 * Duration: 50 mins 8 secs

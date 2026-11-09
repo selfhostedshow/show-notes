@@ -1,6 +1,6 @@
 # LAN 205: Linux Action News 205
 
-<iframe src="https://player.fireside.fm/v3/DAcK9LdX+BXqUvOkR?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+BXqUvOkR?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-09-05
 * Duration: 16 mins 30 secs

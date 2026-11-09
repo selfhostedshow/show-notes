@@ -1,6 +1,6 @@
 # LUP 395: The Waybig Machine
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+XORr9Enx?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+XORr9Enx?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-03-02
 * Duration: 48 mins 32 secs

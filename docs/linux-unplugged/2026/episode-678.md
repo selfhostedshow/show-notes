@@ -1,6 +1,6 @@
 # LUP 678: Entropy Ain't Easy
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+bJP2FwnF?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+bJP2FwnF?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-08-02
 * Duration: 75 mins 40 secs

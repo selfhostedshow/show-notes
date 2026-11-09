@@ -1,6 +1,6 @@
 # LUP 574: COSMIC Encounter
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+Fk6cpHeL?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+Fk6cpHeL?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2024-08-04
 * Duration: 65 mins 25 secs

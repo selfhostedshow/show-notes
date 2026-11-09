@@ -1,6 +1,6 @@
 # CR 657: The Art of Code w/ Sandrine Banas
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+Bv34cIQl?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+Bv34cIQl?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-09-12
 * Duration: 16 mins 55 secs

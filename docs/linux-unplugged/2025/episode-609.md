@@ -1,6 +1,6 @@
 # LUP 609: We Used to Be Friends
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+IqhFVUwW?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+IqhFVUwW?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-04-06
 * Duration: 64 mins 10 secs

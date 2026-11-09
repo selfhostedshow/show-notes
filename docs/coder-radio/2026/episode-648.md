@@ -1,6 +1,6 @@
 # CR 648: System76's Britain Heaphy
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+yat436PP?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+yat436PP?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-05-23
 * Duration: 17 mins 1 secs

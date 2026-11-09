@@ -1,6 +1,6 @@
 # CR 378: Rust, Safe for Marketing
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+pBs-zw1X?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+pBs-zw1X?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-09-09
 * Duration: 56 mins 47 secs

@@ -1,6 +1,6 @@
 # JE 066: Brunch with Brent: Aleix Pol
 
-<iframe src="https://player.fireside.fm/v3/WTrMvATU+izBvjTty?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+izBvjTty?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-03-27
 * Duration: 44 mins 11 secs

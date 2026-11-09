@@ -1,6 +1,6 @@
 # LUP 490: 2022 Tuxies
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+F2c6VdZP?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+F2c6VdZP?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-12-25
 * Duration: 50 mins 17 secs

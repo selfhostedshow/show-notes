@@ -1,6 +1,6 @@
 # LAN 257: Linux Action News 257
 
-<iframe src="https://player.fireside.fm/v3/DAcK9LdX+pRTbfWCh?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+pRTbfWCh?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-09-08
 * Duration: 19 mins 58 secs

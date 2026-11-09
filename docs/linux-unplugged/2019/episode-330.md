@@ -1,6 +1,6 @@
 # LUP 330: 'Tis the SSHession
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+f55sV1WX?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+f55sV1WX?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-12-03
 * Duration: 63 mins 0 secs

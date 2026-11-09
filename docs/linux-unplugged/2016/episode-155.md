@@ -1,6 +1,6 @@
 # LUP 155: Snappy Collaboration
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+zolqhkCl?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+zolqhkCl?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2016-07-26
 * Duration: 79 mins 42 secs

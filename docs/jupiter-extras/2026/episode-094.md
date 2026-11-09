@@ -1,6 +1,6 @@
 # JE 094: Clanker Therapy 2: What We Have Been Building
 
-<iframe src="https://player.fireside.fm/v3/WTrMvATU+OWVCd5PJ?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/WTrMvATU+OWVCd5PJ?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2026-10-02
 * Duration: 63 mins 19 secs

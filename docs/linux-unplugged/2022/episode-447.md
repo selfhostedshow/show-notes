@@ -1,6 +1,6 @@
 # LUP 447: An Umbrel for Everything
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+19BNC2vl?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+19BNC2vl?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-02-27
 * Duration: 54 mins 34 secs

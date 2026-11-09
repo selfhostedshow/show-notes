@@ -1,6 +1,6 @@
 # LUP 085: Give the Kids Linux
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+LT1GW5X1?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+LT1GW5X1?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-03-24
 * Duration: 73 mins 36 secs

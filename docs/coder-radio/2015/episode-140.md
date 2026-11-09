@@ -1,6 +1,6 @@
 # CR 140: NOde
 
-<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+zj6eQCpL?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/MLf2ZzhC+zj6eQCpL?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2015-02-09
 * Duration: 55 mins 31 secs

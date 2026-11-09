@@ -1,6 +1,6 @@
 # LAN 281: Linux Action News 281
 
-<iframe src="https://player.fireside.fm/v3/DAcK9LdX+7LaXrFvY?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+7LaXrFvY?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-02-22
 * Duration: 14 mins 23 secs

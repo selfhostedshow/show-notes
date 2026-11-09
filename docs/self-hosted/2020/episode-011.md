@@ -1,6 +1,6 @@
 # SSH 011: Host Your Blog the Right Way
 
-<iframe src="https://player.fireside.fm/v3/dUlrHQih+BuWEaCkb?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/dUlrHQih+BuWEaCkb?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2020-01-30
 * Duration: 35 mins 5 secs

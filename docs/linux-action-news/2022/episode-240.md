@@ -1,6 +1,6 @@
 # LAN 240: Linux Action News 240
 
-<iframe src="https://player.fireside.fm/v3/DAcK9LdX+6H_uf-0d?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+6H_uf-0d?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2022-05-11
 * Duration: 21 mins 21 secs

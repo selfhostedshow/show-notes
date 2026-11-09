@@ -1,6 +1,6 @@
 # LUP 009: The Ubuntu Situation
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+aMyNR31I?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+aMyNR31I?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2013-10-08
 * Duration: 81 mins 13 secs

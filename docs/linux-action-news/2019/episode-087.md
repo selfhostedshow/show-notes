@@ -1,6 +1,6 @@
 # LAN 087: Linux Action News 87
 
-<iframe src="https://player.fireside.fm/v3/DAcK9LdX+vpz_c9m-?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+vpz_c9m-?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2019-01-06
 * Duration: 29 mins 21 secs

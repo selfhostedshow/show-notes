@@ -1,6 +1,6 @@
 # LUP 390: Eating the License Cake
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+8c2Y-VZt?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+8c2Y-VZt?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-01-26
 * Duration: 44 mins 0 secs

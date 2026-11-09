@@ -1,6 +1,6 @@
 # LAN 189: Linux Action News 189
 
-<iframe src="https://player.fireside.fm/v3/DAcK9LdX+Bh5cgbqS?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+Bh5cgbqS?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2021-05-15
 * Duration: 24 mins 45 secs

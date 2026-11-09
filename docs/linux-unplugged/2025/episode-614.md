@@ -1,6 +1,6 @@
 # LUP 614: Self-Hosted Location Tracking
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+VX8EdiCg?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+VX8EdiCg?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2025-05-11
 * Duration: 76 mins 0 secs

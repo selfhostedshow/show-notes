@@ -1,6 +1,6 @@
 # LAN 002: Linux Action News 2
 
-<iframe src="https://player.fireside.fm/v3/DAcK9LdX+vDM9vBTm?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/DAcK9LdX+vDM9vBTm?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2017-05-21
 * Duration: 36 mins 58 secs

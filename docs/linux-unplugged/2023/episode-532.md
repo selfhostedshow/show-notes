@@ -1,6 +1,6 @@
 # LUP 532: We Like Snaps Now
 
-<iframe src="https://player.fireside.fm/v3/RUkczH-V+nGNUqF8X?accent=DC2626&theme=dark" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+nGNUqF8X?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 * Air Date: 2023-10-15
 * Duration: 75 mins 55 secs
