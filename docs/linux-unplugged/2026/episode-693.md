@@ -1,0 +1,74 @@
+# LUP 693: Two Cities, One Linux
+
+<iframe src="https://player.fireside.fm/v3/RUkczH-V+0g5MyiEk?accent=DC2626&theme=dark" title="Podcast Audio Player" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+
+* Air Date: 2026-11-16
+* Duration: 101 mins 26 secs
+
+## About this episode
+
+From the hallway track at Texas Linux Fest to the builders at Ubuntu Summit in London, we bring you the people and projects shaping our Linux community.
+
+## Your hosts
+* [Chris Fisher](https://linuxunplugged.com/hosts/chrislas)
+* [Wes Payne](https://linuxunplugged.com/hosts/wes)
+* [Brent Gervais](https://linuxunplugged.com/hosts/brent)
+
+## Sponsored by
+
+  * [Managed Nebula](https://defined.net/unplugged): [Meet Managed Nebula from Defined Networking. A decentralized VPN built on the open-source Nebula platform that we love.](https://defined.net/unplugged)
+  * [Incogni](https://incogni.com/unplugged): [They can't harm you if they can't find you! Take back control of your personal data today. Go to incogni.com/unplugged and use code UNPLUGGED for 60% off an annual plan. It's completely risk-free with a 30-day money-back guarantee.](https://incogni.com/unplugged)
+  * [Namecheap](https://namecheap.promo/): [Use code UNPLUGGED for an extra 15% off VPS hosting.](https://namecheap.promo/)
+  * [Hostinger](https://hostinger.com/UNPLUGGED): [Snag Hostinger services at their lowest prices before the sale ends! Create your website today for just $1.99. Go to Hostinger.com/UNPLUGGED and use code UNPLUGGED for an additional 10% off Black Friday and Cyber Monday pricing.](https://hostinger.com/UNPLUGGED)
+
+
+
+## Episode links
+
+  * [Share your Holiday Homelab](https://linuxunplugged.com/holiday "Share your Holiday Homelab") — One hardworking box or a rack full of experiments? We want to see it. Tell us what you built, show it off, and share what makes it yours.
+  * [Web Boost](https://boost.jupiterbroadcasting.com?show=lup "Web Boost") — Send us a boost via sats or USD
+  * [Jupiter Uplink](https://uplink.jupiterbroadcasting.com "Jupiter Uplink")
+  * [💥 Gets Sats Quick and Easy with Strike](https://strike.me "💥 Gets Sats Quick and Easy with Strike")
+  * [📻 LINUX Unplugged on Fountain.FM](https://www.fountain.fm/show/dWiuBeqpDSM86AwXRXov "📻 LINUX Unplugged on Fountain.FM")
+  * [ConnecTen Internet: promo Jupiter35](https://connecteninternet.com/discount/Jupiter35 "ConnecTen Internet: promo Jupiter35")
+  * [Texas Linux Fest 2026 - Austin, TX](https://2026.texaslinuxfest.org "Texas Linux Fest 2026 - Austin, TX")
+  * [Texas Linux Fest 2026 Schedule](https://2026.texaslinuxfest.org/schedule "Texas Linux Fest 2026 Schedule") — Includes links to watch each talk.
+  * [Major Hayden: Thou Shalt Not Make a Machine in the Likeness of a Senior Engineer :: Texas Linux Fest 2026](https://pretalx.com/txlf2026/talk/FM99UQ "Major Hayden: Thou Shalt Not Make a Machine in the Likeness of a Senior Engineer :: Texas Linux Fest 2026")
+  * [TechDev: The Right to rm -rf: Building a Global, Self-Hosted Backup and Restore Platform :: Texas Linux Fest 2026](https://pretalx.com/txlf2026/talk/AGAAFR "TechDev: The Right to rm -rf: Building a Global, Self-Hosted Backup and Restore Platform :: Texas Linux Fest 2026")
+  * [Ubuntu Summit 26.10 Timetable](https://discourse.ubuntu.com/t/ubuntu-summit-26-10-timetable/90216 "Ubuntu Summit 26.10 Timetable")
+  * [Opening remarks by Jon Seager and Pierre Guillemin - Ubuntu Summit](https://discourse.ubuntu.com/t/opening-remarks/87803 "Opening remarks by Jon Seager and Pierre Guillemin - Ubuntu Summit") — Let’s kick off a fantastic event celebrating the innovators, developers, and engineers driving open tech forward. In this opening session, we will explore the technical core of open source and unpack the most exciting engineering updates happening across the Ubuntu ecosystem.
+  * [New Edge archive offers opt-in AI-driven security remediation and backports - Canonical](https://canonical.com/blog/new-edge-archive-offers-opt-in-ai-driven-security-remediation-and-backports "New Edge archive offers opt-in AI-driven security remediation and backports - Canonical")
+  * [Ubuntu Pro users can get early access to AI-written security fixes - OMG! Ubuntu](https://www.omgubuntu.co.uk/2026/11/ubuntu-pro-ai-security-archive "Ubuntu Pro users can get early access to AI-written security fixes - OMG! Ubuntu")
+  * [Ubuntu Summit 26.10 - Day One - YouTube](https://www.youtube.com/watch?v=UAepri4WKiA "Ubuntu Summit 26.10 - Day One - YouTube")
+  * [Ubuntu Summit 26.10 - Day Two - YouTube](https://www.youtube.com/watch?v=u9j-Ih_5Cw8 "Ubuntu Summit 26.10 - Day Two - YouTube")
+  * [Ubuntu Summit 26.10 talks - YouTube playlist](https://youtube.com/playlist?list=PLNfDvHF2JGOU "Ubuntu Summit 26.10 talks - YouTube playlist")
+  * [Ntfy: the joys of handling 4 million push notifications per day - Ubuntu Summit](https://discourse.ubuntu.com/t/ntfy-the-joys-of-handling-4-million-push-notifications-per-day/88293 "Ntfy: the joys of handling 4 million push notifications per day - Ubuntu Summit") — ntfy has grown from a small side project into infrastructure used by homelabbers and businesses around the world. What I’ve learned from running a free service that requires no signup: dealing with abuse, designing effective rate limits, scaling the service as usage grows, and keeping it reliable, all while keeping the project fully open source.
+  * [CrossPoint Reader — Free, Open Source E-Reader Software](https://crosspointreader.com "CrossPoint Reader — Free, Open Source E-Reader Software")
+  * [CrossPoint Reader: Open-source ESP32 micro e-reader firmware · GitHub](https://github.com/crosspoint-reader/crosspoint-reader "CrossPoint Reader: Open-source ESP32 micro e-reader firmware · GitHub")
+  * [Devices - CrossPoint Reader](https://crosspointreader.com/devices "Devices - CrossPoint Reader") — Support CrossPoint by buying your device w affiliate links. Guaranteed supported devices.
+  * [CrossPoint: EPUBs, ESP32s, and Everyone's A Developer Now - Ubuntu Summit](https://discourse.ubuntu.com/t/epubs-esp32s-and-everyones-a-developer-now/87865 "CrossPoint: EPUBs, ESP32s, and Everyone's A Developer Now - Ubuntu Summit") — Everyone’s a developer now. Open source maintainers have to figure out what to do about it. CrossPoint is open source firmware for tiny ESP32 e-readers that grew from nine downloads to more than 300,000 installs and 1,600 forks in just a few months.
+  * [Royalty.dev: How to win friends and influence people.... to pay your contributors.](https://youtu.be/u9j-Ih_5Cw8?t=28608 "Royalty.dev: How to win friends and influence people.... to pay your contributors.") — Justin Mitchell's ⚡ Talk exploring how CrossPoint pays it's contributors with Royalty.dev
+  * [Royalty.dev](https://royalty.dev "Royalty.dev") — Fund open source. Pay every contributor. Royalty.dev scores contributors by impact, stewardship, and community signal, then pays them automatically.
+  * [Wes' ⚡ Talk: What If the Kernel Spoke Forth?](https://youtu.be/u9j-Ih_5Cw8?t=28292 "Wes' ⚡ Talk: What If the Kernel Spoke Forth?")
+  * [FUTO - Computers Belong to You](https://futo.tech "FUTO - Computers Belong to You")
+  * [Greg the Lawyer's "Curby" Trash Day AI Server](https://www.helding.net/posts/my-trash-day-ai-server "Greg the Lawyer's "Curby" Trash Day AI Server")
+  * [NinePad](https://github.com/abemate/NinePad "NinePad") — T9 search and call recording for Android via GrapheneOS
+  * [Sveltia CMS](https://sveltiacms.app "Sveltia CMS") — Git-based headless CMS
+  * [OpenRouter](https://openrouter.ai "OpenRouter")
+  * [Clanker Therapy 3: What Have You Been Building?](https://extras.show/95 "Clanker Therapy 3: What Have You Been Building?")
+  * [Clanker Therapy 3: What Have You Been Building? - YouTube](https://www.youtube.com/watch?v=Cyz-DeDXJbc "Clanker Therapy 3: What Have You Been Building? - YouTube")
+  * [Clanker Therapy 3: What Have You Been Building? - Members Stream Bootleg](https://jupitersignal.memberful.com/posts/114789 "Clanker Therapy 3: What Have You Been Building? - Members Stream Bootleg")
+  * [numtide/llm-agents.nix - GitHub](https://github.com/numtide/llm-agents.nix "numtide/llm-agents.nix - GitHub") — Nix packages for AI coding agents and development tools. Automatically updated daily.
+  * [Ham Exam Trainer - Tartanleaf](https://www.tartanleaf.com/ham-exam-trainer "Ham Exam Trainer - Tartanleaf")
+  * [Terminal2Shell](https://terminal2shell.com "Terminal2Shell") — A critical flaw present in every operating system since 1971 allows anyone who opens a terminal to obtain a fully interactive shell. Instantly.
+  * [ElfHosted - Private Stremio Add-ons & Managed Media Server Hosting](https://store.elfhosted.com "ElfHosted - Private Stremio Add-ons & Managed Media Server Hosting")
+  * [Paseo – Run Claude Code, Codex, Copilot, OpenCode from anywhere](https://paseo.sh "Paseo – Run Claude Code, Codex, Copilot, OpenCode from anywhere")
+  * [Pick: ytdlnis](https://github.com/deniscerri/ytdlnis "Pick: ytdlnis") — Full-featured audio/video downloader for Android using yt-dlp
+  * [Pick: tmail](https://github.com/tuna4ll/tmail "Pick: tmail") — A terminal email client with a spatial workspace for conversations.
+  * [Pick: tailmux](https://github.com/GrowlyX/tailmux "Pick: tailmux") — Stay on multiple Tailscale tailnets at once!
+
+
+
+## Tags
+
+[ai](https://linuxunplugged.com/tags/ai), [ai contributions](https://linuxunplugged.com/tags/ai%20contributions), [ai-driven security remediation](https://linuxunplugged.com/tags/ai-driven%20security%20remediation), [arc gpu](https://linuxunplugged.com/tags/arc%20gpu), [austin tx](https://linuxunplugged.com/tags/austin%20tx), [canonical](https://linuxunplugged.com/tags/canonical), [claude code](https://linuxunplugged.com/tags/claude%20code), [codex](https://linuxunplugged.com/tags/codex), [community event](https://linuxunplugged.com/tags/community%20event), [consumer ai](https://linuxunplugged.com/tags/consumer%20ai), [contributors](https://linuxunplugged.com/tags/contributors), [crosspoint](https://linuxunplugged.com/tags/crosspoint), [crosspoint reader](https://linuxunplugged.com/tags/crosspoint%20reader), [dashboard](https://linuxunplugged.com/tags/dashboard), [docker](https://linuxunplugged.com/tags/docker), [e-reader](https://linuxunplugged.com/tags/e-reader), [edge archive](https://linuxunplugged.com/tags/edge%20archive), [elfhosted](https://linuxunplugged.com/tags/elfhosted), [esp32](https://linuxunplugged.com/tags/esp32), [fm transmitter](https://linuxunplugged.com/tags/fm%20transmitter), [futo](https://linuxunplugged.com/tags/futo), [git-based cms](https://linuxunplugged.com/tags/git-based%20cms), [hallway track](https://linuxunplugged.com/tags/hallway%20track), [ham radio](https://linuxunplugged.com/tags/ham%20radio), [hermes](https://linuxunplugged.com/tags/hermes), [hermes desktop](https://linuxunplugged.com/tags/hermes%20desktop), [holiday homelab](https://linuxunplugged.com/tags/holiday%20homelab), [home assistant](https://linuxunplugged.com/tags/home%20assistant), [homelab](https://linuxunplugged.com/tags/homelab), [immich](https://linuxunplugged.com/tags/immich), [jon seager](https://linuxunplugged.com/tags/jon%20seager), [jupiter broadcasting](https://linuxunplugged.com/tags/jupiter%20broadcasting), [justin mitchell](https://linuxunplugged.com/tags/justin%20mitchell), [linux podcast](https://linuxunplugged.com/tags/linux%20podcast), [linux unplugged](https://linuxunplugged.com/tags/linux%20unplugged), [llm-agents.nix](https://linuxunplugged.com/tags/llm-agents.nix), [local ai](https://linuxunplugged.com/tags/local%20ai), [london](https://linuxunplugged.com/tags/london), [maildir](https://linuxunplugged.com/tags/maildir), [major hayden](https://linuxunplugged.com/tags/major%20hayden), [meetup](https://linuxunplugged.com/tags/meetup), [mpd](https://linuxunplugged.com/tags/mpd), [ninepad](https://linuxunplugged.com/tags/ninepad), [nix](https://linuxunplugged.com/tags/nix), [nixos](https://linuxunplugged.com/tags/nixos), [npu](https://linuxunplugged.com/tags/npu), [ntfy](https://linuxunplugged.com/tags/ntfy), [nvidia shield](https://linuxunplugged.com/tags/nvidia%20shield), [oci containers](https://linuxunplugged.com/tags/oci%20containers), [open source](https://linuxunplugged.com/tags/open%20source), [open source contributions](https://linuxunplugged.com/tags/open%20source%20contributions), [opencode](https://linuxunplugged.com/tags/opencode), [openrouter](https://linuxunplugged.com/tags/openrouter), [paseo](https://linuxunplugged.com/tags/paseo), [philipp heckel](https://linuxunplugged.com/tags/philipp%20heckel), [pierre guillemin](https://linuxunplugged.com/tags/pierre%20guillemin), [projectivity](https://linuxunplugged.com/tags/projectivity), [push notifications](https://linuxunplugged.com/tags/push%20notifications), [royalty.dev](https://linuxunplugged.com/tags/royalty.dev), [rustfs](https://linuxunplugged.com/tags/rustfs), [s3 storage](https://linuxunplugged.com/tags/s3%20storage), [seaweedfs](https://linuxunplugged.com/tags/seaweedfs), [security](https://linuxunplugged.com/tags/security), [self-hosted](https://linuxunplugged.com/tags/self-hosted), [self-hosting](https://linuxunplugged.com/tags/self-hosting), [steam frame](https://linuxunplugged.com/tags/steam%20frame), [stoicism](https://linuxunplugged.com/tags/stoicism), [supply chain security](https://linuxunplugged.com/tags/supply%20chain%20security), [surge](https://linuxunplugged.com/tags/surge), [sveltia cms](https://linuxunplugged.com/tags/sveltia%20cms), [t9 dialer](https://linuxunplugged.com/tags/t9%20dialer), [tailmux](https://linuxunplugged.com/tags/tailmux), [tailnet](https://linuxunplugged.com/tags/tailnet), [tailscale](https://linuxunplugged.com/tags/tailscale), [terminal email client](https://linuxunplugged.com/tags/terminal%20email%20client), [terminal2shell](https://linuxunplugged.com/tags/terminal2shell), [texas linux fest](https://linuxunplugged.com/tags/texas%20linux%20fest), [tmail](https://linuxunplugged.com/tags/tmail), [txlf](https://linuxunplugged.com/tags/txlf), [ubuntu](https://linuxunplugged.com/tags/ubuntu), [ubuntu core desktop](https://linuxunplugged.com/tags/ubuntu%20core%20desktop), [ubuntu pro](https://linuxunplugged.com/tags/ubuntu%20pro), [ubuntu summit](https://linuxunplugged.com/tags/ubuntu%20summit), [ubuntu summit 26.10](https://linuxunplugged.com/tags/ubuntu%20summit%2026.10), [valve](https://linuxunplugged.com/tags/valve), [vulnerability triage](https://linuxunplugged.com/tags/vulnerability%20triage), [whole house audio](https://linuxunplugged.com/tags/whole%20house%20audio), [xps 14](https://linuxunplugged.com/tags/xps%2014), [yt-dlp](https://linuxunplugged.com/tags/yt-dlp), [ytdlnis](https://linuxunplugged.com/tags/ytdlnis)
